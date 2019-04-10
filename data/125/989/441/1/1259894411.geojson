@@ -1,0 +1,70 @@
+{
+  "id": 1259894411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.03333,36.93333,10.03333,36.93333",
+    "geom:latitude":36.93333,
+    "geom:longitude":10.03333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dar Bel Gacem",
+    "gn:country_code":"TN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471689,
+    "gn:latitude":36.93333,
+    "gn:longitude":10.03333,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Dar Bel Gacem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r B\u016b al Q\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108807159,
+        1108757239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471689
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"456104b4f49194cff7199f79d4bacb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757239,
+            "locality_id":1259894411,
+            "region_id":1108807159
+        }
+    ],
+    "wof:id":1259894411,
+    "wof:lastmodified":1537706508,
+    "wof:name":"Dar Bel Gacem",
+    "wof:parent_id":1108757239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.03333,
+    36.93333,
+    10.03333,
+    36.93333
+],
+  "geometry": {"coordinates":[10.03333,36.93333],"type":"Point"}
+}

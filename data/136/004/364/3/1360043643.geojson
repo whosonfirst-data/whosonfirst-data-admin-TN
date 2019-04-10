@@ -1,0 +1,74 @@
+{
+  "id": 1360043643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.30528,36.03333,10.30528,36.03333",
+    "geom:latitude":36.03333,
+    "geom:longitude":10.30528,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Borj el Bey",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472042,
+    "gn:latitude":36.03333,
+    "gn:longitude":10.30528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Borj el Bey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bir El Bey",
+        "Burj al B\u0101y",
+        "Bordj el Bey",
+        "Borj el Bey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472042
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"8a4f2aa8e5c21502f3028a6d095f22a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757687,
+            "locality_id":1360043643,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":1360043643,
+    "wof:lastmodified":1537706512,
+    "wof:name":"Borj el Bey",
+    "wof:parent_id":1108757687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.30528,
+    36.03333,
+    10.30528,
+    36.03333
+],
+  "geometry": {"coordinates":[10.30528,36.03333],"type":"Point"}
+}

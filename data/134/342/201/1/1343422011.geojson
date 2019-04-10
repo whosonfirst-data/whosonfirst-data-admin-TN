@@ -1,0 +1,70 @@
+{
+  "id": 1343422011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.92382,33.61563,9.92382,33.61563",
+    "geom:latitude":33.61563,
+    "geom:longitude":9.92382,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bou Cebah",
+    "gn:country_code":"TN",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471969,
+    "gn:latitude":33.61563,
+    "gn:longitude":9.92382,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bou Cebah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u016b \u015eab\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471969
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"a6d98e7c36f0f8c026b3007e12e4c991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757323,
+            "locality_id":1343422011,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1343422011,
+    "wof:lastmodified":1537706510,
+    "wof:name":"Bou Cebah",
+    "wof:parent_id":1108757323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.92382,
+    33.61563,
+    9.92382,
+    33.61563
+],
+  "geometry": {"coordinates":[9.92382,33.61563],"type":"Point"}
+}

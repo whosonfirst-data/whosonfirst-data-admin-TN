@@ -1,0 +1,69 @@
+{
+  "id": 1209332699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.56736,36.09399,9.56736,36.09399",
+    "geom:latitude":36.09399,
+    "geom:longitude":9.56736,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Robaa Ouled Yahia",
+    "gn:country_code":"TN",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2467820,
+    "gn:latitude":36.09399,
+    "gn:longitude":9.56736,
+    "gn:modification_date":"2018-02-28",
+    "gn:name":"Rob\u00e2a Ouled Yahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souk el Arba",
+        "Rob\u00e2a Oulad Yahia",
+        "Rebaa Oulad Yahia",
+        "Rob\u00e2a Ouled Yahia",
+        "Rab\u2018 Sily\u0101nah",
+        "Bargoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467820
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"9eac84b11d7664ce682ce41a8683295f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209332699
+        }
+    ],
+    "wof:id":1209332699,
+    "wof:lastmodified":1537706483,
+    "wof:name":"Robaa Ouled Yahia",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.56736,
+    36.09399000000001,
+    9.56736,
+    36.09399000000001
+],
+  "geometry": {"coordinates":[9.56736,36.09399000000001],"type":"Point"}
+}

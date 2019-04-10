@@ -1,0 +1,72 @@
+{
+  "id": 1343362191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76667,35.58333,8.76667,35.58333",
+    "geom:latitude":35.58333,
+    "geom:longitude":8.76667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bordj el Hadj Mohammed",
+    "gn:country_code":"TN",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472034,
+    "gn:latitude":35.58333,
+    "gn:longitude":8.76667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Bordj el Hadj Mohammed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borj el Hadj Mohammed",
+        "Bordj el Hadj Mohammed",
+        "Burj al \u1e28\u0101jj Mu\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679133,
+        1108757399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472034
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f7da9d284fd3a5276b70ea277653869a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757399,
+            "locality_id":1343362191,
+            "region_id":85679133
+        }
+    ],
+    "wof:id":1343362191,
+    "wof:lastmodified":1537706511,
+    "wof:name":"Bordj el Hadj Mohammed",
+    "wof:parent_id":1108757399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76667,
+    35.58333,
+    8.76667,
+    35.58333
+],
+  "geometry": {"coordinates":[8.76667,35.58333],"type":"Point"}
+}

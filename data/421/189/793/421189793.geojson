@@ -1,0 +1,74 @@
+{
+  "id": 421189793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.763656,36.558668,8.763656,36.558668",
+    "geom:latitude":36.558668,
+    "geom:longitude":8.763656,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Jundobah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Jundubah",
+    "qs:photos":198,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":198,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1116973,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442370,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1442370,
+        "qs:id":1116973
+    },
+    "wof:country":"TN",
+    "wof:created":1459009636,
+    "wof:geomhash":"6db25d5343a17c24c142d729d12b776a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757369,
+            "locality_id":421189793,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":421189793,
+    "wof:lastmodified":1494646319,
+    "wof:name":"Jundobah",
+    "wof:parent_id":1108757369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.763656,
+    36.558668,
+    8.763656,
+    36.558668
+],
+  "geometry": {"coordinates":[8.763656,36.558668],"type":"Point"}
+}

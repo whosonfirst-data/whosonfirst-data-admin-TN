@@ -1,0 +1,67 @@
+{
+  "id": 1276707781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.08237,33.52137,10.08237,33.52137",
+    "geom:latitude":33.52137,
+    "geom:longitude":10.08237,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Mzata",
+    "gn:country_code":"TN",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2468599,
+    "gn:latitude":33.52137,
+    "gn:longitude":10.08237,
+    "gn:modification_date":"1993-12-03",
+    "gn:name":"Mzata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468599
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"03c0ed0abab4c54bb7db21e60288b502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757323,
+            "locality_id":1276707781,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1276707781,
+    "wof:lastmodified":1536774723,
+    "wof:name":"Mzata",
+    "wof:parent_id":1108757323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.08237,
+    33.52137,
+    10.08237,
+    33.52137
+],
+  "geometry": {"coordinates":[10.08237,33.52137],"type":"Point"}
+}

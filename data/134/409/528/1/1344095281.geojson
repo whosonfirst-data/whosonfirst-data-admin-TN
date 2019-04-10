@@ -1,0 +1,75 @@
+{
+  "id": 1344095281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19556,36.95861,10.19556,36.95861",
+    "geom:latitude":36.95861,
+    "geom:longitude":10.19556,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Borj el Khessous",
+    "gn:country_code":"TN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590231,
+    "gn:latitude":36.95861,
+    "gn:longitude":10.19556,
+    "gn:modification_date":"1998-02-09",
+    "gn:name":"Borj el Khessous",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108807159,
+        1108757247,
+        85679099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590231
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"bac20b4d82744fa8e1abb03412dbb19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757247,
+            "locality_id":1344095281,
+            "region_id":1108807159
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757247,
+            "locality_id":1344095281,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1344095281,
+    "wof:lastmodified":1536824421,
+    "wof:name":"Borj el Khessous",
+    "wof:parent_id":1108757247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19556,
+    36.95861,
+    10.19556,
+    36.95861
+],
+  "geometry": {"coordinates":[10.19556,36.95861],"type":"Point"}
+}

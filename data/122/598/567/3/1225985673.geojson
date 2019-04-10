@@ -1,0 +1,68 @@
+{
+  "id": 1225985673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.15984,30.97875,10.15984,30.97875",
+    "geom:latitude":30.97875,
+    "geom:longitude":10.15984,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Tieret",
+    "gn:country_code":"TN",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565910,
+    "gn:latitude":30.97875,
+    "gn:longitude":10.15984,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tieret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679191,
+        1108757725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565910,
+        "wk:page":"Tieret"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e07c8de30b15b7a7ab666185444a22fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757725,
+            "locality_id":1225985673,
+            "region_id":85679191
+        }
+    ],
+    "wof:id":1225985673,
+    "wof:lastmodified":1537574452,
+    "wof:name":"Tieret",
+    "wof:parent_id":1108757725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.15984,
+    30.97875,
+    10.15984,
+    30.97875
+],
+  "geometry": {"coordinates":[10.15984,30.97875],"type":"Point"}
+}

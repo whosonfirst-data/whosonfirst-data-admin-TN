@@ -1,0 +1,66 @@
+{
+  "id": 1209374507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83167,34.94833,10.83167,34.94833",
+    "geom:latitude":34.94833,
+    "geom:longitude":10.83167,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Douar Oulad el Haj Salah",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590146,
+    "gn:latitude":34.94833,
+    "gn:longitude":10.83167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Oulad el Haj Salah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Oulad el Hadj Salah",
+        "Douar Oulad el Haj Salah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590146
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"eb69949ddd34358167deb8e064ce807b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209374507
+        }
+    ],
+    "wof:id":1209374507,
+    "wof:lastmodified":1537706537,
+    "wof:name":"Douar Oulad el Haj Salah",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83167,
+    34.94833,
+    10.83167,
+    34.94833
+],
+  "geometry": {"coordinates":[10.83167,34.94833],"type":"Point"}
+}

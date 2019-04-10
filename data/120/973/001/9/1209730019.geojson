@@ -1,0 +1,72 @@
+{
+  "id": 1209730019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.95333,36.90583,10.95333,36.90583",
+    "geom:latitude":36.90583,
+    "geom:longitude":10.95333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dar Melloul",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471657,
+    "gn:latitude":36.90583,
+    "gn:longitude":10.95333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dar Melloul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r Mall\u016bl",
+        "Dar Melloul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471657
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"868fd92aff5aef441bd40baf45334d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757579,
+            "locality_id":1209730019,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1209730019,
+    "wof:lastmodified":1537706507,
+    "wof:name":"Dar Melloul",
+    "wof:parent_id":1108757579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.95333,
+    36.90583,
+    10.95333,
+    36.90583
+],
+  "geometry": {"coordinates":[10.95333,36.90583],"type":"Point"}
+}

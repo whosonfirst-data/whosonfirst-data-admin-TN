@@ -1,0 +1,67 @@
+{
+  "id": 1276659191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.04176,35.03832,10.04176,35.03832",
+    "geom:latitude":35.03832,
+    "geom:longitude":10.04176,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mohammed Brahim el Aouaid",
+    "gn:country_code":"TN",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586942,
+    "gn:latitude":35.03832,
+    "gn:longitude":10.04176,
+    "gn:modification_date":"1997-04-18",
+    "gn:name":"Mohammed Brahim el Aoua\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586942
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"d85b1bc3ed83b7f644c7e57d331115b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757381,
+            "locality_id":1276659191,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1276659191,
+    "wof:lastmodified":1536838085,
+    "wof:name":"Mohammed Brahim el Aouaid",
+    "wof:parent_id":1108757381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.04176,
+    35.03832,
+    10.04176,
+    35.03832
+],
+  "geometry": {"coordinates":[10.04176,35.03832],"type":"Point"}
+}

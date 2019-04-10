@@ -1,0 +1,73 @@
+{
+  "id": 1243238749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.40567,36.61739,10.40567,36.61739",
+    "geom:latitude":36.61739,
+    "geom:longitude":10.40567,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Khannguet el Hajaj",
+    "gn:country_code":"TN",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2469853,
+    "gn:latitude":36.61739,
+    "gn:longitude":10.40567,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khannguet el Hajaj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khannguet el Hadjadj",
+        "Khanqat al \u1e28\u0101jj\u0101j",
+        "Khanguet el Hadjadj",
+        "Khannguet el Hajaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469853
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"462d5ae5e2aa50077d90095cb7392563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757573,
+            "locality_id":1243238749,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1243238749,
+    "wof:lastmodified":1537706492,
+    "wof:name":"Khannguet el Hajaj",
+    "wof:parent_id":1108757573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.40567,
+    36.61739,
+    10.40567,
+    36.61739
+],
+  "geometry": {"coordinates":[10.40567,36.61739],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125881691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8,35.78333,10.8,35.78333",
+    "geom:latitude":35.78333,
+    "geom:longitude":10.8,
+    "gn:gn_country":"TN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":64222,
+    "gn:population":64222,
+    "iso:country":"TN",
+    "lbl:latitude":35.78333,
+    "lbl:longitude":10.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Chekanes"
+    ],
+    "qs_pg:aaroncc":"TN",
+    "qs_pg:gn_country":"TN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2467246,
+    "qs_pg:gn_pop":64222,
+    "qs_pg:name":"\u015eaq\u0101nis",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":1035860,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467246,
+        "qs_pg:id":1035860
+    },
+    "wof:country":"TN",
+    "wof:created":1497294846,
+    "wof:geomhash":"44e3c7c3049bab9c1b7e4fe29cf59e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "locality_id":1125881691,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125881691,
+    "wof:lastmodified":1509398209,
+    "wof:name":"\u015eaq\u0101nis",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":64222,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8,
+    35.78333,
+    10.8,
+    35.78333
+],
+  "geometry": {"coordinates":[10.8,35.78333],"type":"Point"}
+}

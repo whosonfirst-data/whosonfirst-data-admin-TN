@@ -1,0 +1,67 @@
+{
+  "id": 1309989403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.02637,35.79757,9.02637,35.79757",
+    "geom:latitude":35.79757,
+    "geom:longitude":9.02637,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Amamria",
+    "gn:country_code":"TN",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589471,
+    "gn:latitude":35.79757,
+    "gn:longitude":9.02637,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"El Amamria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589471
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"c14d8554d045229a3a4ba0a45a7199b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757445,
+            "locality_id":1309989403,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1309989403,
+    "wof:lastmodified":1536666547,
+    "wof:name":"El Amamria",
+    "wof:parent_id":1108757445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.02637,
+    35.79757,
+    9.02637,
+    35.79757
+],
+  "geometry": {"coordinates":[9.02637,35.79757],"type":"Point"}
+}

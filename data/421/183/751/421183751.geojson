@@ -1,0 +1,78 @@
+{
+  "id": 421183751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.17569,36.73849,9.17569,36.73849",
+    "geom:latitude":36.73849,
+    "geom:longitude":9.17569,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Le Bardo"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2472676,
+    "qs:gn_pop":0,
+    "qs:name":"Bardaw",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Bajah",
+    "qs:photos":28,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":28,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":983980,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441978,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679103,
+        1108757253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472676,
+        "gp:id":1441978,
+        "qs:id":983980
+    },
+    "wof:country":"TN",
+    "wof:created":1459009381,
+    "wof:geomhash":"881187a65359204588283f001f9cb262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757253,
+            "locality_id":421183751,
+            "region_id":85679103
+        }
+    ],
+    "wof:id":421183751,
+    "wof:lastmodified":1501263268,
+    "wof:name":"Bardaw",
+    "wof:parent_id":1108757253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.17569,
+    36.73849,
+    9.17569,
+    36.73849
+],
+  "geometry": {"coordinates":[9.17569,36.73849],"type":"Point"}
+}

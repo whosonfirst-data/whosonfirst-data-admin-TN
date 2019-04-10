@@ -1,0 +1,75 @@
+{
+  "id": 1293037829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79847,33.78943,8.79847,33.78943",
+    "geom:latitude":33.78943,
+    "geom:longitude":8.79847,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Zaouiet el Harth",
+    "gn:country_code":"TN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463952,
+    "gn:latitude":33.78943,
+    "gn:longitude":8.79847,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zaou\u00efet el Harth",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souk el Had",
+        "Zauiet el Harth",
+        "Zaouia",
+        "Zaouiet-el-Hart",
+        "Z\u0101wiyat al \u1e28arth",
+        "Zaou\u00efet el Harth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463952
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"bbee736cbfbcdfc5c14ed251719eb1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757441,
+            "locality_id":1293037829,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":1293037829,
+    "wof:lastmodified":1537706474,
+    "wof:name":"Zaouiet el Harth",
+    "wof:parent_id":1108757441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79847,
+    33.78943,
+    8.79847,
+    33.78943
+],
+  "geometry": {"coordinates":[8.79847,33.78943],"type":"Point"}
+}

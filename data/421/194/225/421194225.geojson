@@ -1,0 +1,110 @@
+{
+  "id": 421194225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8,35.7,10.8,35.7",
+    "geom:latitude":35.7,
+    "geom:longitude":10.8,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0628\u0644\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Bembla"
+    ],
+    "name:dut_x_preferred":[
+        "Bembla"
+    ],
+    "name:eng_x_preferred":[
+        "Bembla"
+    ],
+    "name:fre_x_preferred":[
+        "Bembla"
+    ],
+    "name:ger_x_preferred":[
+        "Bembla"
+    ],
+    "name:ita_x_preferred":[
+        "Bembla"
+    ],
+    "name:rum_x_preferred":[
+        "Bembla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d\u0431\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bembla"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2472744,
+    "qs:gn_pop":12367,
+    "qs:name":"Banbalah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Munastir",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1035874,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441960,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679165,
+        1108757533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472744,
+        "gp:id":1441960,
+        "qs:id":1035874,
+        "wd:id":"Q816364"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009798,
+    "wof:geomhash":"607f5eef90dc7416b78d40a86051d54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757533,
+            "locality_id":421194225,
+            "region_id":85679165
+        }
+    ],
+    "wof:id":421194225,
+    "wof:lastmodified":1514506611,
+    "wof:name":"Banbalah",
+    "wof:parent_id":1108757533,
+    "wof:placetype":"locality",
+    "wof:population":12367,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8,
+    35.7,
+    10.8,
+    35.7
+],
+  "geometry": {"coordinates":[10.8,35.7],"type":"Point"}
+}

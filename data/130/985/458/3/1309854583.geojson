@@ -1,0 +1,67 @@
+{
+  "id": 1309854583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.46806,35.3175,9.46806,35.3175",
+    "geom:latitude":35.3175,
+    "geom:longitude":9.46806,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Douar el Mehamid",
+    "gn:country_code":"TN",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2587389,
+    "gn:latitude":35.3175,
+    "gn:longitude":9.46806,
+    "gn:modification_date":"1999-06-13",
+    "gn:name":"Douar el Mehamid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2587389
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"8d7f5815e02991a5cf72639777614914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757633,
+            "locality_id":1309854583,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":1309854583,
+    "wof:lastmodified":1536859591,
+    "wof:name":"Douar el Mehamid",
+    "wof:parent_id":1108757633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.46806,
+    35.3175,
+    9.46806,
+    35.3175
+],
+  "geometry": {"coordinates":[9.46806,35.3175],"type":"Point"}
+}

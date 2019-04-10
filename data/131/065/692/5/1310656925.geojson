@@ -1,0 +1,67 @@
+{
+  "id": 1310656925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.35333,36.16722,10.35333,36.16722",
+    "geom:latitude":36.16722,
+    "geom:longitude":10.35333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Bidane",
+    "gn:country_code":"TN",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586496,
+    "gn:latitude":36.16722,
+    "gn:longitude":10.35333,
+    "gn:modification_date":"1997-04-16",
+    "gn:name":"Bidane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586496
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"0a3b22a5c803edee6316744b4a11b70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757687,
+            "locality_id":1310656925,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":1310656925,
+    "wof:lastmodified":1536698843,
+    "wof:name":"Bidane",
+    "wof:parent_id":1108757687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.35333,
+    36.16722,
+    10.35333,
+    36.16722
+],
+  "geometry": {"coordinates":[10.35333,36.16722],"type":"Point"}
+}

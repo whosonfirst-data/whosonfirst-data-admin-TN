@@ -1,0 +1,67 @@
+{
+  "id": 1226161295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01528,37.05694,11.01528,37.05694",
+    "geom:latitude":37.05694,
+    "geom:longitude":11.01528,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sidi Aissa",
+    "gn:country_code":"TN",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572347,
+    "gn:latitude":37.05694,
+    "gn:longitude":11.01528,
+    "gn:modification_date":"1996-09-17",
+    "gn:name":"Sidi A\u00efssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572347
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"eb5ae5b94806c9486f2e3c28463ed295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757577,
+            "locality_id":1226161295,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1226161295,
+    "wof:lastmodified":1537053027,
+    "wof:name":"Sidi Aissa",
+    "wof:parent_id":1108757577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01528,
+    37.05694,
+    11.01528,
+    37.05694
+],
+  "geometry": {"coordinates":[11.01528,37.05694],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343466065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52028,35.64111,9.52028,35.64111",
+    "geom:latitude":35.64111,
+    "geom:longitude":9.52028,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kobtine Ouled Amor",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2469736,
+    "gn:latitude":35.64111,
+    "gn:longitude":9.52028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kobtine Ouled Amor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobtine Oled Amor",
+        "Kobtine Awl\u0101d \u2018Umar",
+        "Kobtine Ouled Amor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469736
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"d5e3c5135bdf35ec9c2c2887911c563e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757375,
+            "locality_id":1343466065,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1343466065,
+    "wof:lastmodified":1537706492,
+    "wof:name":"Kobtine Ouled Amor",
+    "wof:parent_id":1108757375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52028,
+    35.64111,
+    9.52028,
+    35.64111
+],
+  "geometry": {"coordinates":[9.52028,35.64111],"type":"Point"}
+}

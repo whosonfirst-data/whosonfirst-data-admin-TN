@@ -1,0 +1,73 @@
+{
+  "id": 1259691505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.95806,35.97333,9.95806,35.97333",
+    "geom:latitude":35.97333,
+    "geom:longitude":9.95806,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Jema",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2464927,
+    "gn:latitude":35.97333,
+    "gn:longitude":9.95806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Jema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq al Jum\u2018ah",
+        "Souk el Djem\u00e2a",
+        "El Jema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464927
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"4f10f185d56aceb36658a43b0c0bbb67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757397,
+            "locality_id":1259691505,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1259691505,
+    "wof:lastmodified":1537706477,
+    "wof:name":"El Jema",
+    "wof:parent_id":1108757397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.95806,
+    35.97333,
+    9.95806,
+    35.97333
+],
+  "geometry": {"coordinates":[9.95806,35.97333],"type":"Point"}
+}

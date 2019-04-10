@@ -1,0 +1,67 @@
+{
+  "id": 1260354723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.91917,36.87222,10.91917,36.87222",
+    "geom:latitude":36.87222,
+    "geom:longitude":10.91917,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dar Beni Amar",
+    "gn:country_code":"TN",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2582205,
+    "gn:latitude":36.87222,
+    "gn:longitude":10.91917,
+    "gn:modification_date":"1996-10-24",
+    "gn:name":"Dar Beni Amar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2582205
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"323df0208adae06bc931ab403531b8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757587,
+            "locality_id":1260354723,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1260354723,
+    "wof:lastmodified":1536614231,
+    "wof:name":"Dar Beni Amar",
+    "wof:parent_id":1108757587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.91917,
+    36.87222,
+    10.91917,
+    36.87222
+],
+  "geometry": {"coordinates":[10.91917,36.87222],"type":"Point"}
+}

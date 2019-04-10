@@ -1,0 +1,78 @@
+{
+  "id": 1125882161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.7557,36.44766,10.7557,36.44766",
+    "geom:latitude":36.44766,
+    "geom:longitude":10.7557,
+    "gn:gn_country":"TN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":60192,
+    "gn:population":60192,
+    "iso:country":"TN",
+    "lbl:latitude":36.44766,
+    "lbl:longitude":10.7557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TN",
+    "qs_pg:gn_country":"TN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2581754,
+    "qs_pg:gn_pop":60192,
+    "qs_pg:name":"Douane",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":1036675,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2581754,
+        "qs_pg:id":1036675
+    },
+    "wof:country":"TN",
+    "wof:created":1497294868,
+    "wof:geomhash":"3a2fa17ce51968a9e3413a48be817545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757567,
+            "locality_id":1125882161,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1125882161,
+    "wof:lastmodified":1509398247,
+    "wof:name":"Douane",
+    "wof:parent_id":1108757567,
+    "wof:placetype":"locality",
+    "wof:population":60192,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7557,
+    36.44766,
+    10.7557,
+    36.44766
+],
+  "geometry": {"coordinates":[10.7557,36.44766],"type":"Point"}
+}

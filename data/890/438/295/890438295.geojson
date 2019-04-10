@@ -1,0 +1,100 @@
+{
+  "id": 890438295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.50904,36.03027,10.50904,36.03027",
+    "geom:latitude":36.03027,
+    "geom:longitude":10.50904,
+    "gn:country":"TN",
+    "gn:fcode":"PPL",
+    "gn:pop":6942,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0647\u0631\u0642\u0644\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Hergla"
+    ],
+    "name:dut_x_preferred":[
+        "Hergla"
+    ],
+    "name:eng_x_preferred":[
+        "Hergla"
+    ],
+    "name:fre_x_preferred":[
+        "Hergla"
+    ],
+    "name:ger_x_preferred":[
+        "Hergla"
+    ],
+    "name:kor_x_preferred":[
+        "\ud5e4\ub974\uae00\ub77c"
+    ],
+    "name:por_x_preferred":[
+        "Hergla"
+    ],
+    "name:rum_x_preferred":[
+        "Hergla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0440\u043a\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Hergla"
+    ],
+    "qs:name":"Harqalah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470483,
+        "gp:id":1442336,
+        "qs:id":1035869,
+        "wd:id":"Q1203456"
+    },
+    "wof:country":"TN",
+    "wof:created":1469052188,
+    "wof:geomhash":"c56d6fc3886954e926a58eb91b4624c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757693,
+            "locality_id":890438295,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":890438295,
+    "wof:lastmodified":1514506634,
+    "wof:name":"Harqalah",
+    "wof:parent_id":1108757693,
+    "wof:placetype":"locality",
+    "wof:population":6942,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.50904,
+    36.03027,
+    10.50904,
+    36.03027
+],
+  "geometry": {"coordinates":[10.50904,36.03027],"type":"Point"}
+}

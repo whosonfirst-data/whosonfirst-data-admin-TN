@@ -1,0 +1,82 @@
+{
+  "id": 421169379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.05306,35.65129,9.05306,35.65129",
+    "geom:latitude":35.65129,
+    "geom:longitude":9.05306,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ar Raw\u1e29\u012byah"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473264,
+    "qs:gn_pop":4231,
+    "qs:name":"Ar Rawhiyah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Qasrayn",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1298584,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441885,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473264,
+        "gp:id":1441885,
+        "qs:id":1298584
+    },
+    "wof:country":"TN",
+    "wof:created":1459008807,
+    "wof:geomhash":"8e275723053dbf560827aa5cc47237f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757677,
+            "locality_id":421169379,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":421169379,
+    "wof:lastmodified":1505340595,
+    "wof:name":"Ar Rawhiyah",
+    "wof:parent_id":1108757677,
+    "wof:placetype":"locality",
+    "wof:population":4231,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.05306,
+    35.65129,
+    9.05306,
+    35.65129
+],
+  "geometry": {"coordinates":[9.05306,35.65129],"type":"Point"}
+}

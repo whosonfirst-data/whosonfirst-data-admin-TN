@@ -1,0 +1,67 @@
+{
+  "id": 1260244273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.96833,36.99417,10.96833,36.99417",
+    "geom:latitude":36.99417,
+    "geom:longitude":10.96833,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Douar Laheg Ben Merouah",
+    "gn:country_code":"TN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2582067,
+    "gn:latitude":36.99417,
+    "gn:longitude":10.96833,
+    "gn:modification_date":"1996-10-24",
+    "gn:name":"Douar Laheg Ben Merouah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2582067
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"1f266eb94c0b61d5e597a06767f0859c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757577,
+            "locality_id":1260244273,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1260244273,
+    "wof:lastmodified":1536765507,
+    "wof:name":"Douar Laheg Ben Merouah",
+    "wof:parent_id":1108757577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.96833,
+    36.99417,
+    10.96833,
+    36.99417
+],
+  "geometry": {"coordinates":[10.96833,36.99417],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 421187495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.64,35.835,10.64,35.835",
+    "geom:latitude":35.835,
+    "geom:longitude":10.64,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Bou Djafer"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2465936,
+    "qs:gn_pop":0,
+    "qs:name":"Sidi Bu Jafar",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Susah",
+    "qs:photos":1142,
+    "qs:photos_1k":231,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1142,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083588,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442664,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2465936,
+        "gp:id":1442664,
+        "qs:id":1083588
+    },
+    "wof:country":"TN",
+    "wof:created":1459009515,
+    "wof:geomhash":"1c0cf758a9b73266d893c240e8aa8b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":421187495
+        }
+    ],
+    "wof:id":421187495,
+    "wof:lastmodified":1501263262,
+    "wof:name":"Sidi Bu Jafar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.64,
+    35.835,
+    10.64,
+    35.835
+],
+  "geometry": {"coordinates":[10.64,35.835],"type":"Point"}
+}

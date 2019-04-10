@@ -1,0 +1,67 @@
+{
+  "id": 1243594237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.96194,36.67111,9.96194,36.67111",
+    "geom:latitude":36.67111,
+    "geom:longitude":9.96194,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Borj Graba",
+    "gn:country_code":"TN",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2584849,
+    "gn:latitude":36.67111,
+    "gn:longitude":9.96194,
+    "gn:modification_date":"1997-04-18",
+    "gn:name":"Borj Graba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2584849
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"d01249cfd501c6810ef9d5f6ab4cc214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757503,
+            "locality_id":1243594237,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1243594237,
+    "wof:lastmodified":1537086202,
+    "wof:name":"Borj Graba",
+    "wof:parent_id":1108757503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.96194,
+    36.67111,
+    9.96194,
+    36.67111
+],
+  "geometry": {"coordinates":[9.96194,36.67111],"type":"Point"}
+}

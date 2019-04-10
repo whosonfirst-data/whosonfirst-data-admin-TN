@@ -1,0 +1,72 @@
+{
+  "id": 1277135175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.29981,35.76685,10.29981,35.76685",
+    "geom:latitude":35.76685,
+    "geom:longitude":10.29981,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Sahali",
+    "gn:country_code":"TN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473191,
+    "gn:latitude":35.76685,
+    "gn:longitude":10.29981,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sahali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As S\u0101\u1e29il\u012b",
+        "Sahali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473191,
+        "wk:page":"Sahali"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f23febf4a3418c42416c3925ed48229b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757705,
+            "locality_id":1277135175,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":1277135175,
+    "wof:lastmodified":1537706519,
+    "wof:name":"Sahali",
+    "wof:parent_id":1108757705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.29981,
+    35.76685,
+    10.29981,
+    35.76685
+],
+  "geometry": {"coordinates":[10.29981,35.76685],"type":"Point"}
+}

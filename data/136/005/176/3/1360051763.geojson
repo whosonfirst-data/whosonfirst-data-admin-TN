@@ -1,0 +1,73 @@
+{
+  "id": 1360051763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10219,37.14062,10.10219,37.14062",
+    "geom:latitude":37.14062,
+    "geom:longitude":10.10219,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Aousdja",
+    "gn:country_code":"TN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472918,
+    "gn:latitude":37.14062,
+    "gn:longitude":10.10219,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Aousdja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aoudsja",
+        "Audja",
+        "Aousdja",
+        "\u2018Awsajah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472918
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"4cf9e6a3f1015f1230f4100a090a9500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757287,
+            "locality_id":1360051763,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1360051763,
+    "wof:lastmodified":1537706517,
+    "wof:name":"Aousdja",
+    "wof:parent_id":1108757287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10219,
+    37.14062,
+    10.10219,
+    37.14062
+],
+  "geometry": {"coordinates":[10.10219,37.14062],"type":"Point"}
+}

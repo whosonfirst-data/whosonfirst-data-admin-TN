@@ -1,0 +1,129 @@
+{
+  "id": 421181177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.68735,36.77873,8.68735,36.77873",
+    "geom:latitude":36.77873,
+    "geom:longitude":8.68735,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u062f\u0631\u0627\u0647\u0645"
+    ],
+    "name:cat_x_preferred":[
+        "A\u00efn Draham"
+    ],
+    "name:cym_x_preferred":[
+        "A\u00efn Draham"
+    ],
+    "name:deu_x_preferred":[
+        "A\u00efn Draham"
+    ],
+    "name:dut_x_preferred":[
+        "A\u00efn Draham"
+    ],
+    "name:eng_x_preferred":[
+        "A\u00efn Draham"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00efn Draham"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00efn Draham"
+    ],
+    "name:ger_x_preferred":[
+        "A\u00efn Draham"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00efn Draham"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30f3\u30c9\u30e9\u30cf\u30e0"
+    ],
+    "name:kab_x_preferred":[
+        "\u0190in Drahem"
+    ],
+    "name:nld_x_preferred":[
+        "A\u00efn Draham"
+    ],
+    "name:por_x_preferred":[
+        "A\u00efn Draham"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043d-\u0414\u0440\u0430\u0445\u0430\u043c"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efne Draham"
+    ],
+    "name:wel_x_preferred":[
+        "A\u00efn Draham"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2472913,
+    "qs:gn_pop":0,
+    "qs:name":"Ayn ad Darahim",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Jundubah",
+    "qs:photos":128,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":128,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":479033,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441930,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472913,
+        "gp:id":1441930,
+        "qs:id":479033,
+        "wd:id":"Q527727",
+        "wk:page":"A\u00efn Draham"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009287,
+    "wof:geomhash":"9f43ddeba2691c269b7dd630cfe00606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757355,
+            "locality_id":421181177,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":421181177,
+    "wof:lastmodified":1514506610,
+    "wof:name":"Ayn ad Darahim",
+    "wof:parent_id":1108757355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.68735,
+    36.77873,
+    8.68735,
+    36.77873
+],
+  "geometry": {"coordinates":[8.68735,36.77873],"type":"Point"}
+}

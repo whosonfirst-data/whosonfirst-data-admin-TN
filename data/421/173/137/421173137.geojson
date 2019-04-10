@@ -1,0 +1,121 @@
+{
+  "id": 421173137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.93519,34.31909,7.93519,34.31909",
+    "geom:latitude":34.31909,
+    "geom:longitude":7.93519,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0628\u064a\u0643\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Oasi de Chebika"
+    ],
+    "name:deu_x_preferred":[
+        "Chebika"
+    ],
+    "name:dut_x_preferred":[
+        "Chebika"
+    ],
+    "name:eng_x_preferred":[
+        "Chebika"
+    ],
+    "name:fra_x_preferred":[
+        "Chebika"
+    ],
+    "name:fre_x_preferred":[
+        "Chebika"
+    ],
+    "name:ger_x_preferred":[
+        "Chebika"
+    ],
+    "name:pol_x_preferred":[
+        "Szabika"
+    ],
+    "name:por_x_preferred":[
+        "Chebika"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0431\u0438\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Chebica"
+    ],
+    "name:unk_x_variant":[
+        "Chebikha"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2467077,
+    "qs:gn_pop":1820,
+    "qs:name":"Shabikah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Tawzar",
+    "qs:photos":625,
+    "qs:photos_1k":127,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":625,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":491930,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442616,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679095,
+        1108757741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467077,
+        "gp:id":1442616,
+        "qs:id":491930,
+        "wd:id":"Q2961924",
+        "wk:page":"Chebika, Tozeur"
+    },
+    "wof:country":"TN",
+    "wof:created":1459008972,
+    "wof:geomhash":"d17a7c8db2e85b3db65b571f4779e852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757741,
+            "locality_id":421173137,
+            "region_id":85679095
+        }
+    ],
+    "wof:id":421173137,
+    "wof:lastmodified":1527716258,
+    "wof:name":"Shabikah",
+    "wof:parent_id":1108757741,
+    "wof:placetype":"locality",
+    "wof:population":1820,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.93519,
+    34.31909,
+    7.93519,
+    34.31909
+],
+  "geometry": {"coordinates":[7.93519,34.31909],"type":"Point"}
+}

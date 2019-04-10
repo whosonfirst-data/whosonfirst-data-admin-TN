@@ -1,0 +1,67 @@
+{
+  "id": 1243437081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.09167,35.245,11.09167,35.245",
+    "geom:latitude":35.245,
+    "geom:longitude":11.09167,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Borj Abd Allah Ferhatt",
+    "gn:country_code":"TN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2588624,
+    "gn:latitude":35.245,
+    "gn:longitude":11.09167,
+    "gn:modification_date":"1997-09-24",
+    "gn:name":"Borj Abd Allah Ferhatt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679161,
+        1108757469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2588624
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"6f2b69b0f62bf58cba239fa9fae0afef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757469,
+            "locality_id":1243437081,
+            "region_id":85679161
+        }
+    ],
+    "wof:id":1243437081,
+    "wof:lastmodified":1536818139,
+    "wof:name":"Borj Abd Allah Ferhatt",
+    "wof:parent_id":1108757469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.09167,
+    35.245,
+    11.09167,
+    35.245
+],
+  "geometry": {"coordinates":[11.09167,35.245],"type":"Point"}
+}

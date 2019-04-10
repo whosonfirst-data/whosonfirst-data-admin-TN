@@ -1,0 +1,73 @@
+{
+  "id": 1276225085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.70979,36.44642,8.70979,36.44642",
+    "geom:latitude":36.44642,
+    "geom:longitude":8.70979,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mechtat el Anad",
+    "gn:country_code":"TN",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2469121,
+    "gn:latitude":36.44642,
+    "gn:longitude":8.70979,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mechtat el Anad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mechta el Anab",
+        "Mechtat el Amab",
+        "Mechtat el Anad",
+        "Masht\u00e1 al Anad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469121
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e80a5acd437b18bcc4863a328a8f8cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757365,
+            "locality_id":1276225085,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1276225085,
+    "wof:lastmodified":1537706490,
+    "wof:name":"Mechtat el Anad",
+    "wof:parent_id":1108757365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.70979,
+    36.44642,
+    8.70979,
+    36.44642
+],
+  "geometry": {"coordinates":[8.70979,36.44642],"type":"Point"}
+}

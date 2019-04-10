@@ -1,0 +1,74 @@
+{
+  "id": 1242611429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.30423,33.75651,9.30423,33.75651",
+    "geom:latitude":33.75651,
+    "geom:longitude":9.30423,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Ain Saidane",
+    "gn:country_code":"TN",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472883,
+    "gn:latitude":33.75651,
+    "gn:longitude":9.30423,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ain Saidane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ain Saidana",
+        "Borj Sa\u00efdane",
+        "Ain Saidane",
+        "Bordj Sa\u00efdane",
+        "\u2018Ayn Sa\u2018\u012bd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472883
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"24ea386b1e88d9178f947f9b7f5bb2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757435,
+            "locality_id":1242611429,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":1242611429,
+    "wof:lastmodified":1537706517,
+    "wof:name":"Ain Saidane",
+    "wof:parent_id":1108757435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.30423,
+    33.75651,
+    9.30423,
+    33.75651
+],
+  "geometry": {"coordinates":[9.30423,33.75651],"type":"Point"}
+}

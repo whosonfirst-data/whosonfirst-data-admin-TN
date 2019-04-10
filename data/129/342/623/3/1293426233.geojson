@@ -1,0 +1,73 @@
+{
+  "id": 1293426233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90267,33.59435,8.90267,33.59435",
+    "geom:latitude":33.59435,
+    "geom:longitude":8.90267,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Ghelissia",
+    "gn:country_code":"TN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470928,
+    "gn:latitude":33.59435,
+    "gn:longitude":8.90267,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ghelissia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rhelissia",
+        "El Guedara",
+        "Ghulays\u012byah",
+        "Ghelissia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470928
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"22519e0be3fb90fad08e8fa270049473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757437,
+            "locality_id":1293426233,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":1293426233,
+    "wof:lastmodified":1537706495,
+    "wof:name":"Ghelissia",
+    "wof:parent_id":1108757437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90267,
+    33.59435,
+    8.90267,
+    33.59435
+],
+  "geometry": {"coordinates":[8.90267,33.59435],"type":"Point"}
+}

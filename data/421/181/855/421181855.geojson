@@ -1,0 +1,106 @@
+{
+  "id": 421181855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75167,36.46798,10.75167,36.46798",
+    "geom:latitude":36.46798,
+    "geom:longitude":10.75167,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0634\u0639\u0628\u0627\u0646 \u0627\u0644\u0641\u0647\u0631\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Dar Ch\u00e2abane"
+    ],
+    "name:dut_x_preferred":[
+        "Dar Chaabane"
+    ],
+    "name:eng_x_preferred":[
+        "Dar Chaabane"
+    ],
+    "name:fra_x_preferred":[
+        "Dar Cha\u00e2bane"
+    ],
+    "name:fre_x_preferred":[
+        "Dar Cha\u00e2bane"
+    ],
+    "name:ita_x_preferred":[
+        "Dar Cha\u00e2bane"
+    ],
+    "name:unk_x_variant":[
+        "Dar-Chaabane-el-Fehri"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2471637,
+    "qs:gn_pop":33953,
+    "qs:name":"Dar Shaban",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Nabul",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":507356,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442119,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":237,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471637,
+        "gp:id":1442119,
+        "qs:id":507356,
+        "wd:id":"Q2478232",
+        "wk:page":"Dar Chaabane"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009309,
+    "wof:geomhash":"93ae83bede85aff830e38d015710969e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757567,
+            "locality_id":421181855,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":421181855,
+    "wof:lastmodified":1527716332,
+    "wof:name":"Dar Shaban",
+    "wof:parent_id":1108757567,
+    "wof:placetype":"locality",
+    "wof:population":33953,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75167,
+    36.46798,
+    10.75167,
+    36.46798
+],
+  "geometry": {"coordinates":[10.75167,36.46798],"type":"Point"}
+}

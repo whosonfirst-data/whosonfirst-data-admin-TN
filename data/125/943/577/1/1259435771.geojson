@@ -1,0 +1,72 @@
+{
+  "id": 1259435771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1685,36.70048,10.1685,36.70048",
+    "geom:latitude":36.70048,
+    "geom:longitude":10.1685,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Fouchana",
+    "gn:country_code":"TN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471055,
+    "gn:latitude":36.70048,
+    "gn:longitude":10.1685,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fouchana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u016bsh\u0101nah",
+        "Fouchana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679107,
+        1108757271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471055,
+        "wk:page":"Fouchana"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"dc1c80fc3a1488b63b7a2c0187f55263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757271,
+            "locality_id":1259435771,
+            "region_id":85679107
+        }
+    ],
+    "wof:id":1259435771,
+    "wof:lastmodified":1537706496,
+    "wof:name":"Fouchana",
+    "wof:parent_id":1108757271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1685,
+    36.70048,
+    10.1685,
+    36.70048
+],
+  "geometry": {"coordinates":[10.1685,36.70048],"type":"Point"}
+}

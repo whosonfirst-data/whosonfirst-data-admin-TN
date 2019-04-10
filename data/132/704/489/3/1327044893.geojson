@@ -1,0 +1,72 @@
+{
+  "id": 1327044893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.55397,36.56924,10.55397,36.56924",
+    "geom:latitude":36.56924,
+    "geom:longitude":10.55397,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Belli",
+    "gn:country_code":"TN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472753,
+    "gn:latitude":36.56924,
+    "gn:longitude":10.55397,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Belli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beli",
+        "Belli",
+        "Ball\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472753
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"5537c726041fb9c94c4537ec0515ffa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757559,
+            "locality_id":1327044893,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1327044893,
+    "wof:lastmodified":1537706516,
+    "wof:name":"Belli",
+    "wof:parent_id":1108757559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.55397,
+    36.56924,
+    10.55397,
+    36.56924
+],
+  "geometry": {"coordinates":[10.55397,36.56924],"type":"Point"}
+}

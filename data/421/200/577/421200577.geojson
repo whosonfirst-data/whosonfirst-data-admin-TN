@@ -1,0 +1,105 @@
+{
+  "id": 421200577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23639,36.76917,10.23639,36.76917",
+    "geom:latitude":36.76917,
+    "geom:longitude":10.23639,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0631\u064a\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "M\u00e9grine"
+    ],
+    "name:cym_x_preferred":[
+        "M\u00e9grine"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00e9grine"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e9grine"
+    ],
+    "name:fre_x_preferred":[
+        "M\u00e9grine"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043a\u0440\u0456\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Maqr\u012bn"
+    ],
+    "name:wel_x_preferred":[
+        "M\u00e9grine"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2469230,
+    "qs:gn_pop":0,
+    "qs:name":"Maqrin",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Tunis",
+    "qs:photos":208,
+    "qs:photos_1k":42,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":208,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887895,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442438,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679107,
+        1108757271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469230,
+        "gp:id":1442438,
+        "qs:id":887895,
+        "wd:id":"Q3142546",
+        "wk:page":"M\u00e9grine"
+    },
+    "wof:country":"TN",
+    "wof:created":1459010030,
+    "wof:geomhash":"22ab98a9127405ca191f218add77878c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757271,
+            "locality_id":421200577,
+            "region_id":85679107
+        }
+    ],
+    "wof:id":421200577,
+    "wof:lastmodified":1514506668,
+    "wof:name":"Maqrin",
+    "wof:parent_id":1108757271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23639,
+    36.76917,
+    10.23639,
+    36.76917
+],
+  "geometry": {"coordinates":[10.23639,36.76917],"type":"Point"}
+}

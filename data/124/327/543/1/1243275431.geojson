@@ -1,0 +1,73 @@
+{
+  "id": 1243275431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.99167,35.16139,9.99167,35.16139",
+    "geom:latitude":35.16139,
+    "geom:longitude":9.99167,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Fellah",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471734,
+    "gn:latitude":35.16139,
+    "gn:longitude":9.99167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar Fellah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Fallah",
+        "D\u0101r al Fall\u0101\u1e29",
+        "Douar Fellah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471734
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"fffddce749938e7b4aec63f0297f894c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757381,
+            "locality_id":1243275431,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1243275431,
+    "wof:lastmodified":1537706509,
+    "wof:name":"Douar Fellah",
+    "wof:parent_id":1108757381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99167,
+    35.16139,
+    9.99167,
+    35.16139
+],
+  "geometry": {"coordinates":[9.99167,35.16139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276389501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.08246,33.58545,11.08246,33.58545",
+    "geom:latitude":33.58545,
+    "geom:longitude":11.08246,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Sangho",
+    "gn:country_code":"TN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8555968,
+    "gn:latitude":33.58545,
+    "gn:longitude":11.08246,
+    "gn:modification_date":"2013-06-13",
+    "gn:name":"Sangho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8555968
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"3cbba68123da8242f7da3607ed050caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757527,
+            "locality_id":1276389501,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":1276389501,
+    "wof:lastmodified":1536703655,
+    "wof:name":"Sangho",
+    "wof:parent_id":1108757527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.08246,
+    33.58545,
+    11.08246,
+    33.58545
+],
+  "geometry": {"coordinates":[11.08246,33.58545],"type":"Point"}
+}

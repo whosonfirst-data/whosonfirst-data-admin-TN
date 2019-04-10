@@ -1,0 +1,70 @@
+{
+  "id": 1293239699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.43782,33.37123,10.43782,33.37123",
+    "geom:latitude":33.37123,
+    "geom:longitude":10.43782,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Metameur",
+    "gn:country_code":"TN",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473535,
+    "gn:latitude":33.37123,
+    "gn:longitude":10.43782,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Metameur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u0163\u0101m\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473535
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e63f20c994fde624e807d6b834d42aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757523,
+            "locality_id":1293239699,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":1293239699,
+    "wof:lastmodified":1537706523,
+    "wof:name":"Metameur",
+    "wof:parent_id":1108757523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.43782,
+    33.37123,
+    10.43782,
+    33.37123
+],
+  "geometry": {"coordinates":[10.43782,33.37123],"type":"Point"}
+}

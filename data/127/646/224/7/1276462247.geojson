@@ -1,0 +1,70 @@
+{
+  "id": 1276462247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.65,36.58333,8.65,36.58333",
+    "geom:latitude":36.58333,
+    "geom:longitude":8.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rass er Rmel",
+    "gn:country_code":"TN",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2467728,
+    "gn:latitude":36.58333,
+    "gn:longitude":8.65,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Rass er Rmel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u2019s ar Raml"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467728
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"9926160838a2e7707778d171b52e4e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757361,
+            "locality_id":1276462247,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1276462247,
+    "wof:lastmodified":1537706483,
+    "wof:name":"Rass er Rmel",
+    "wof:parent_id":1108757361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.65,
+    36.58333,
+    8.65,
+    36.58333
+],
+  "geometry": {"coordinates":[8.65,36.58333],"type":"Point"}
+}

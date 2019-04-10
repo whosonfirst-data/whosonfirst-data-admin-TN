@@ -1,0 +1,72 @@
+{
+  "id": 1243430377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.79083,37.04306,9.79083,37.04306",
+    "geom:latitude":37.04306,
+    "geom:longitude":9.79083,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar Bir Abd el Ghim",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590024,
+    "gn:latitude":37.04306,
+    "gn:longitude":9.79083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Bir Abd el Ghim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Bir Abd el Rhim",
+        "Douar Bir Abd el Ghim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590024
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"07528420c8a4c76128bb714d4cdd7d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757293,
+            "locality_id":1243430377,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1243430377,
+    "wof:lastmodified":1537706537,
+    "wof:name":"Douar Bir Abd el Ghim",
+    "wof:parent_id":1108757293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.79083,
+    37.04306,
+    9.79083,
+    37.04306
+],
+  "geometry": {"coordinates":[9.79083,37.04306],"type":"Point"}
+}

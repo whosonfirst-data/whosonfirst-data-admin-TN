@@ -1,0 +1,100 @@
+{
+  "id": 421200289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.47654,35.85673,8.47654,35.85673",
+    "geom:latitude":35.85673,
+    "geom:longitude":8.47654,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0632\u0644 \u0633\u0627\u0644\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Menzel Salem"
+    ],
+    "name:fra_x_preferred":[
+        "Menzel Salem"
+    ],
+    "name:fre_x_preferred":[
+        "Menzel Salem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043d\u0437\u0435\u043b\u044c-\u0421\u0430\u043b\u0435\u043c"
+    ],
+    "name:unk_x_variant":[
+        "S\u012bd\u012b \u2018Umar Bin S\u0101lim"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2469252,
+    "qs:gn_pop":2856,
+    "qs:name":"Manzil Salim",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Kaf",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1298629,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442435,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469252,
+        "gp:id":1442435,
+        "qs:id":1298629,
+        "wd:id":"Q659504",
+        "wk:page":"Menzel Salem"
+    },
+    "wof:country":"TN",
+    "wof:created":1459010017,
+    "wof:geomhash":"cfa951db58a8e7b0b9be3a4aa545decd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757465,
+            "locality_id":421200289,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":421200289,
+    "wof:lastmodified":1527716422,
+    "wof:name":"Manzil Salim",
+    "wof:parent_id":1108757465,
+    "wof:placetype":"locality",
+    "wof:population":2856,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.47654,
+    35.85673,
+    8.47654,
+    35.85673
+],
+  "geometry": {"coordinates":[8.47654,35.85673],"type":"Point"}
+}

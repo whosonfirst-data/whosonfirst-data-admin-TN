@@ -1,0 +1,67 @@
+{
+  "id": 1242792551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1976,36.32819,9.1976,36.32819",
+    "geom:latitude":36.32819,
+    "geom:longitude":9.1976,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dekrnia",
+    "gn:country_code":"TN",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471447,
+    "gn:latitude":36.32819,
+    "gn:longitude":9.1976,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Dekrnia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471447
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"c99f84d49da410b7404ad3c23dd4a2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757671,
+            "locality_id":1242792551,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1242792551,
+    "wof:lastmodified":1536753959,
+    "wof:name":"Dekrnia",
+    "wof:parent_id":1108757671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1976,
+    36.32819,
+    9.1976,
+    36.32819
+],
+  "geometry": {"coordinates":[9.1976,36.32819],"type":"Point"}
+}

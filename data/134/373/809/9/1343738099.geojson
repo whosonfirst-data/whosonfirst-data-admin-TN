@@ -1,0 +1,67 @@
+{
+  "id": 1343738099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52016,37.12919,9.52016,37.12919",
+    "geom:latitude":37.12919,
+    "geom:longitude":9.52016,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dar el Cheikh Kilani",
+    "gn:country_code":"TN",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586106,
+    "gn:latitude":37.12919,
+    "gn:longitude":9.52016,
+    "gn:modification_date":"1997-04-22",
+    "gn:name":"Dar el Cheikh Kilani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586106
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"bb87343404cf5d472086c9172bddba49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757285,
+            "locality_id":1343738099,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1343738099,
+    "wof:lastmodified":1536842152,
+    "wof:name":"Dar el Cheikh Kilani",
+    "wof:parent_id":1108757285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52016,
+    37.12919,
+    9.52016,
+    37.12919
+],
+  "geometry": {"coordinates":[9.52016,37.12919],"type":"Point"}
+}

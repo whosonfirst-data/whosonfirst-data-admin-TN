@@ -1,0 +1,73 @@
+{
+  "id": 1343233055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.82778,35.94388,8.82778,35.94388",
+    "geom:latitude":35.94388,
+    "geom:longitude":8.82778,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dahmani",
+    "gn:country_code":"TN",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471788,
+    "gn:latitude":35.94388,
+    "gn:longitude":8.82778,
+    "gn:modification_date":"2018-03-27",
+    "gn:name":"Dahmani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abbah Qu\u015f\u016br",
+        "Ebba Ksour",
+        "Dahmani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471788,
+        "wk:page":"Dahmani"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"19ff5014e733e7d9213a639983d1c82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757443,
+            "locality_id":1343233055,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1343233055,
+    "wof:lastmodified":1537706509,
+    "wof:name":"Dahmani",
+    "wof:parent_id":1108757443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.82778,
+    35.94388,
+    8.82778,
+    35.94388
+],
+  "geometry": {"coordinates":[8.82778,35.94388],"type":"Point"}
+}

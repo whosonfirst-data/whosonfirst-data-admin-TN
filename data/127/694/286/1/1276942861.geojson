@@ -1,0 +1,67 @@
+{
+  "id": 1276942861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.965,36.88528,10.965,36.88528",
+    "geom:latitude":36.88528,
+    "geom:longitude":10.965,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dar Safi",
+    "gn:country_code":"TN",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2582042,
+    "gn:latitude":36.88528,
+    "gn:longitude":10.965,
+    "gn:modification_date":"1996-10-24",
+    "gn:name":"Dar Safi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2582042
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"0ed3a3e4ff0d986cdbb88b2c9337e188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757579,
+            "locality_id":1276942861,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1276942861,
+    "wof:lastmodified":1536957017,
+    "wof:name":"Dar Safi",
+    "wof:parent_id":1108757579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.965,
+    36.88528,
+    10.965,
+    36.88528
+],
+  "geometry": {"coordinates":[10.965,36.88528],"type":"Point"}
+}

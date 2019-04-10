@@ -1,0 +1,71 @@
+{
+  "id": 1343296481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91585,33.61518,8.91585,33.61518",
+    "geom:latitude":33.61518,
+    "geom:longitude":8.91585,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Bchelli",
+    "gn:country_code":"TN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472556,
+    "gn:latitude":33.61518,
+    "gn:longitude":8.91585,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bchelli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bechelli",
+        "Bchelli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472556
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"921c2dea1769b165e4ce524490d6a6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757437,
+            "locality_id":1343296481,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":1343296481,
+    "wof:lastmodified":1537706514,
+    "wof:name":"Bchelli",
+    "wof:parent_id":1108757437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91585,
+    33.61518,
+    8.91585,
+    33.61518
+],
+  "geometry": {"coordinates":[8.91585,33.61518],"type":"Point"}
+}

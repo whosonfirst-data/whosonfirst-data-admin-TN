@@ -1,0 +1,75 @@
+{
+  "id": 1193088565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18604,36.89479,10.18604,36.89479",
+    "geom:latitude":36.89479,
+    "geom:longitude":10.18604,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"La Gazelle",
+    "gn:country_code":"TN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870240,
+    "gn:latitude":36.89479,
+    "gn:longitude":10.18604,
+    "gn:modification_date":"2011-06-13",
+    "gn:name":"La Gazelle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108807159,
+        1108757247,
+        85679099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870240
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"c891fa5bc3495b15e86f1c9808a9ce05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757247,
+            "locality_id":1193088565,
+            "region_id":1108807159
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757247,
+            "locality_id":1193088565,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1193088565,
+    "wof:lastmodified":1536373171,
+    "wof:name":"La Gazelle",
+    "wof:parent_id":1108757247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18604,
+    36.89479,
+    10.18604,
+    36.89479
+],
+  "geometry": {"coordinates":[10.18604,36.89479],"type":"Point"}
+}

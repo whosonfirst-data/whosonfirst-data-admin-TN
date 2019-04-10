@@ -1,0 +1,71 @@
+{
+  "id": 1343827425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.76667,35.63333,10.76667,35.63333",
+    "geom:latitude":35.63333,
+    "geom:longitude":10.76667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Zaouiet Kountech",
+    "gn:country_code":"TN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463945,
+    "gn:latitude":35.63333,
+    "gn:longitude":10.76667,
+    "gn:modification_date":"2018-03-22",
+    "gn:name":"Zaouiet Kountech",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0101wiyat Qun\u0163ash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679165,
+        1108757537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463945,
+        "wk:page":"Zaouiet_Kontoch"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"25cd1ba9c8610f8eb0d9a2cd45365045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757537,
+            "locality_id":1343827425,
+            "region_id":85679165
+        }
+    ],
+    "wof:id":1343827425,
+    "wof:lastmodified":1537706473,
+    "wof:name":"Zaouiet Kountech",
+    "wof:parent_id":1108757537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.76667,
+    35.63333,
+    10.76667,
+    35.63333
+],
+  "geometry": {"coordinates":[10.76667,35.63333],"type":"Point"}
+}

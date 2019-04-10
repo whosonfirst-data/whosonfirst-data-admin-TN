@@ -1,0 +1,71 @@
+{
+  "id": 1259436665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.29686,32.7381,10.29686,32.7381",
+    "geom:latitude":32.7381,
+    "geom:longitude":10.29686,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Haf Jirjir",
+    "gn:country_code":"TN",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470793,
+    "gn:latitude":32.7381,
+    "gn:longitude":10.29686,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haf Jirjir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haf Djerdjer",
+        "Haf Jirjir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679191,
+        1108757733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470793
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"8d1f8186072a67f7d39e8f38f8ff7018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757733,
+            "locality_id":1259436665,
+            "region_id":85679191
+        }
+    ],
+    "wof:id":1259436665,
+    "wof:lastmodified":1537706495,
+    "wof:name":"Haf Jirjir",
+    "wof:parent_id":1108757733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.29686,
+    32.7381,
+    10.29686,
+    32.7381
+],
+  "geometry": {"coordinates":[10.29686,32.7381],"type":"Point"}
+}

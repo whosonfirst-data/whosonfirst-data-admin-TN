@@ -1,0 +1,101 @@
+{
+  "id": 421204335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01958,34.31089,10.01958,34.31089",
+    "geom:latitude":34.31089,
+    "geom:longitude":10.01958,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0627\u0646\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Souani"
+    ],
+    "name:msa_x_preferred":[
+        "Souani"
+    ],
+    "name:pol_x_preferred":[
+        "As-Sawani"
+    ],
+    "name:por_x_preferred":[
+        "Souani"
+    ],
+    "name:ron_x_preferred":[
+        "Souani"
+    ],
+    "name:unk_x_variant":[
+        "Souhani"
+    ],
+    "name:vie_x_preferred":[
+        "Souani"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2464997,
+    "qs:gn_pop":0,
+    "qs:name":"Souani",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Madanin",
+    "qs:photos":47,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":47,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1189052,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":15000087,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679151,
+        1108757627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464997,
+        "gp:id":15000087,
+        "qs:id":1189052
+    },
+    "wof:country":"TN",
+    "wof:created":1459010181,
+    "wof:geomhash":"70ddfe9d6785aa9828b16a5c48f75b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757627,
+            "locality_id":421204335,
+            "region_id":85679151
+        }
+    ],
+    "wof:id":421204335,
+    "wof:lastmodified":1527716183,
+    "wof:name":"Souani",
+    "wof:parent_id":1108757627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01958,
+    34.31089,
+    10.01958,
+    34.31089
+],
+  "geometry": {"coordinates":[10.01958,34.31089],"type":"Point"}
+}

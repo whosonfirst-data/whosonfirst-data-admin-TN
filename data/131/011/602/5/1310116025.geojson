@@ -1,0 +1,72 @@
+{
+  "id": 1310116025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50572,36.1041,9.50572,36.1041",
+    "geom:latitude":36.1041,
+    "geom:longitude":9.50572,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hennchir Ali Ben Rejeb",
+    "gn:country_code":"TN",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470520,
+    "gn:latitude":36.1041,
+    "gn:longitude":9.50572,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Hennchir Ali Ben Rejeb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bordj Ali Ben Rdjeb",
+        "Hennchir Ali Ben Rejeb",
+        "Hansh\u012br \u2018Al\u012b Bin Rajab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470520
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"9827c693aa667a4505eb26e8efdff2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757659,
+            "locality_id":1310116025,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1310116025,
+    "wof:lastmodified":1537706494,
+    "wof:name":"Hennchir Ali Ben Rejeb",
+    "wof:parent_id":1108757659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50572,
+    36.1041,
+    9.50572,
+    36.1041
+],
+  "geometry": {"coordinates":[9.50572,36.1041],"type":"Point"}
+}

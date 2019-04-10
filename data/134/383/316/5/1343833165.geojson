@@ -1,0 +1,67 @@
+{
+  "id": 1343833165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.44278,36.64639,10.44278,36.64639",
+    "geom:latitude":36.64639,
+    "geom:longitude":10.44278,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Camp Serviere",
+    "gn:country_code":"TN",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586359,
+    "gn:latitude":36.64639,
+    "gn:longitude":10.44278,
+    "gn:modification_date":"1997-04-22",
+    "gn:name":"Camp Servi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586359
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"5cb6c57a2a32ae50f8a46a78a2a67e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757573,
+            "locality_id":1343833165,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1343833165,
+    "wof:lastmodified":1536706318,
+    "wof:name":"Camp Serviere",
+    "wof:parent_id":1108757573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44278,
+    36.64639,
+    10.44278,
+    36.64639
+],
+  "geometry": {"coordinates":[10.44278,36.64639],"type":"Point"}
+}

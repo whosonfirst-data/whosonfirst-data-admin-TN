@@ -1,0 +1,73 @@
+{
+  "id": 1259758981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7606,37.15964,9.7606,37.15964",
+    "geom:latitude":37.15964,
+    "geom:longitude":9.7606,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Tinja",
+    "gn:country_code":"TN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2464522,
+    "gn:latitude":37.15964,
+    "gn:longitude":9.7606,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tinja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tindja",
+        "T\u012bnjah",
+        "Tinja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464522,
+        "wk:page":"Tinja%2C_Tunisia"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"b755dfa732d6a81632c5c8a7b2b9ae98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757275,
+            "locality_id":1259758981,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1259758981,
+    "wof:lastmodified":1537706476,
+    "wof:name":"Tinja",
+    "wof:parent_id":1108757275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7606,
+    37.15964,
+    9.7606,
+    37.15964
+],
+  "geometry": {"coordinates":[9.7606,37.15964],"type":"Point"}
+}

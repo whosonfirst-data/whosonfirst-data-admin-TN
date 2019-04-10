@@ -1,0 +1,71 @@
+{
+  "id": 1310574901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0966,35.94918,9.0966,35.94918",
+    "geom:latitude":35.94918,
+    "geom:longitude":9.0966,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Elles",
+    "gn:country_code":"TN",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471278,
+    "gn:latitude":35.94918,
+    "gn:longitude":9.0966,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ell\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ellez",
+        "Ell\u00e8s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471278
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"cce3e4c5d5c68ad8d7acf9165896dcda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757447,
+            "locality_id":1310574901,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1310574901,
+    "wof:lastmodified":1537706496,
+    "wof:name":"Elles",
+    "wof:parent_id":1108757447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0966,
+    35.94918,
+    9.0966,
+    35.94918
+],
+  "geometry": {"coordinates":[9.0966,35.94918],"type":"Point"}
+}

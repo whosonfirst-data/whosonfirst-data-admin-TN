@@ -1,0 +1,61 @@
+{
+  "id": 1209466031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.73778,33.30333,10.73778,33.30333",
+    "geom:latitude":33.30333,
+    "geom:longitude":10.73778,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Bou Hamed",
+    "gn:country_code":"TN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2574600,
+    "gn:latitude":33.30333,
+    "gn:longitude":10.73778,
+    "gn:modification_date":"1996-09-23",
+    "gn:name":"Bou Hamed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2574600
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"3f96415c5b9251a6e306ab44c02b127e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209466031
+        }
+    ],
+    "wof:id":1209466031,
+    "wof:lastmodified":1536286232,
+    "wof:name":"Bou Hamed",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.73778,
+    33.303329999999995,
+    10.73778,
+    33.303329999999995
+],
+  "geometry": {"coordinates":[10.73778,33.30333],"type":"Point"}
+}

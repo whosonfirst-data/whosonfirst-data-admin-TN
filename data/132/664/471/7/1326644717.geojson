@@ -1,0 +1,71 @@
+{
+  "id": 1326644717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.54081,36.71167,9.54081,36.71167",
+    "geom:latitude":36.71167,
+    "geom:longitude":9.54081,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chaouache",
+    "gn:country_code":"TN",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2466965,
+    "gn:latitude":36.71167,
+    "gn:longitude":9.54081,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Chaouache",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaouach",
+        "Shaw\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679103,
+        1108757261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2466965
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"367c5ebc3fa163dd13b4bcc725df7351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757261,
+            "locality_id":1326644717,
+            "region_id":85679103
+        }
+    ],
+    "wof:id":1326644717,
+    "wof:lastmodified":1537706482,
+    "wof:name":"Chaouache",
+    "wof:parent_id":1108757261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.54081,
+    36.71167,
+    9.54081,
+    36.71167
+],
+  "geometry": {"coordinates":[9.54081,36.71167],"type":"Point"}
+}

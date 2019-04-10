@@ -1,0 +1,68 @@
+{
+  "id": 890429083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0,36.75,10.0,36.75",
+    "geom:latitude":36.75,
+    "geom:longitude":10.0,
+    "gn:country":"TN",
+    "gn:fcode":"ADMD",
+    "gn:pop":345484,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "D\u00e9l\u00e9gation de La Manouba"
+    ],
+    "qs:name":"Mu\u2018tamad\u012byat Man\u016bbah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469273,
+        "qs:id":91484
+    },
+    "wof:country":"TN",
+    "wof:created":1469051792,
+    "wof:geomhash":"261f98cad35a2e85d2627837ea5a5e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757503,
+            "localadmin_id":890429083,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":890429083,
+    "wof:lastmodified":1505343509,
+    "wof:name":"Mu\u2018tamad\u012byat Man\u016bbah",
+    "wof:parent_id":1108757503,
+    "wof:placetype":"localadmin",
+    "wof:population":345484,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0,
+    36.75,
+    10.0,
+    36.75
+],
+  "geometry": {"coordinates":[10.0,36.75],"type":"Point"}
+}

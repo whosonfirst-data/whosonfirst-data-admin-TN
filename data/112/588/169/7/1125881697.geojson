@@ -1,0 +1,112 @@
+{
+  "id": 1125881697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.23806,37.05722,9.23806,37.05722",
+    "geom:latitude":37.05722,
+    "geom:longitude":9.23806,
+    "gn:gn_country":"TN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5009,
+    "gn:population":5009,
+    "iso:country":"TN",
+    "lbl:latitude":37.05722,
+    "lbl:longitude":9.23806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u062c\u0646\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Sejnane"
+    ],
+    "name:dut_x_preferred":[
+        "Sejenane"
+    ],
+    "name:eng_x_preferred":[
+        "Sejenane"
+    ],
+    "name:fre_x_preferred":[
+        "Sejnane"
+    ],
+    "name:ger_x_preferred":[
+        "Sejenane"
+    ],
+    "name:ita_x_preferred":[
+        "Sejnane"
+    ],
+    "name:kab_x_preferred":[
+        "Sejjnan"
+    ],
+    "name:rum_x_preferred":[
+        "Sedjenane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0436\u0435\u043d\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Sedjenane"
+    ],
+    "qs_pg:aaroncc":"TN",
+    "qs_pg:gn_country":"TN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2467368,
+    "qs_pg:gn_pop":5009,
+    "qs_pg:name":"Sejenane",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1035861,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467368,
+        "qs_pg:id":1035861,
+        "wd:id":"Q2720033"
+    },
+    "wof:country":"TN",
+    "wof:created":1497294846,
+    "wof:geomhash":"947157f32ae798797f59b4fc481631c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757303,
+            "locality_id":1125881697,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1125881697,
+    "wof:lastmodified":1514506686,
+    "wof:name":"Sejenane",
+    "wof:parent_id":1108757303,
+    "wof:placetype":"locality",
+    "wof:population":5009,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.23806,
+    37.05722,
+    9.23806,
+    37.05722
+],
+  "geometry": {"coordinates":[9.23806,37.05722],"type":"Point"}
+}

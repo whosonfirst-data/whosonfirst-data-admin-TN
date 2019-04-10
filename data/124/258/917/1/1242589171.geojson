@@ -1,0 +1,72 @@
+{
+  "id": 1242589171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.17917,35.99806,10.17917,35.99806",
+    "geom:latitude":35.99806,
+    "geom:longitude":10.17917,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sidi Mohammed Ben Mabrouk",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2465372,
+    "gn:latitude":35.99806,
+    "gn:longitude":10.17917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sidi Mohammed Ben Mabrouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u012bd\u012b Mu\u1e29ammad Bin Mabr\u016bk",
+        "Sidi Mohammed Ben Mabrouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2465372
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"9ed18c936df3a40fd738bc72db0c1518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757397,
+            "locality_id":1242589171,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1242589171,
+    "wof:lastmodified":1537706478,
+    "wof:name":"Sidi Mohammed Ben Mabrouk",
+    "wof:parent_id":1108757397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.17917,
+    35.99805999999999,
+    10.17917,
+    35.99805999999999
+],
+  "geometry": {"coordinates":[10.17917,35.99805999999999],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276701203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.47135,32.79102,10.47135,32.79102",
+    "geom:latitude":32.79102,
+    "geom:longitude":10.47135,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ksar Tamelest",
+    "gn:country_code":"TN",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2468072,
+    "gn:latitude":32.79102,
+    "gn:longitude":10.47135,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ksar Tamelest",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fr Tamelest"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679191,
+        1108757731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468072
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"194e3dcaefad354f1184e62bd11778b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757731,
+            "locality_id":1276701203,
+            "region_id":85679191
+        }
+    ],
+    "wof:id":1276701203,
+    "wof:lastmodified":1537706485,
+    "wof:name":"Ksar Tamelest",
+    "wof:parent_id":1108757731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.47135,
+    32.79102,
+    10.47135,
+    32.79102
+],
+  "geometry": {"coordinates":[10.47135,32.79102],"type":"Point"}
+}

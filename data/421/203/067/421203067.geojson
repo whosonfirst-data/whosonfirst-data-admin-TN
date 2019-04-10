@@ -1,0 +1,89 @@
+{
+  "id": 421203067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.78416,33.89687,9.78416,33.89687",
+    "geom:latitude":33.89687,
+    "geom:longitude":9.78416,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u0631"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u0631"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Qasr"
+    ],
+    "name:unk_x_variant":[
+        "El Ksar"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473467,
+    "qs:gn_pop":0,
+    "qs:name":"Al Qasr",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Qabis",
+    "qs:photos":212,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":212,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":229258,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441854,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473467,
+        "gp:id":1441854,
+        "qs:id":229258
+    },
+    "wof:country":"TN",
+    "wof:created":1459010139,
+    "wof:geomhash":"83de1eef622afe6d11e0fd127700c1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757307,
+            "locality_id":421203067,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":421203067,
+    "wof:lastmodified":1527716201,
+    "wof:name":"Al Qasr",
+    "wof:parent_id":1108757307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.78416,
+    33.89687,
+    9.78416,
+    33.89687
+],
+  "geometry": {"coordinates":[9.78416,33.89687],"type":"Point"}
+}

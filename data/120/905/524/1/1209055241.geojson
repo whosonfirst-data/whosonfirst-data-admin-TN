@@ -1,0 +1,64 @@
+{
+  "id": 1209055241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.45,35.05,9.45,35.05",
+    "geom:latitude":35.05,
+    "geom:longitude":9.45,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Sidi Salem",
+    "gn:country_code":"TN",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2465209,
+    "gn:latitude":35.05,
+    "gn:longitude":9.45,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sidi Salem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u012bd\u012b S\u0101lim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2465209
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"7916ee6eeae8b664a116c13cab6f4c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209055241
+        }
+    ],
+    "wof:id":1209055241,
+    "wof:lastmodified":1537706478,
+    "wof:name":"Sidi Salem",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.45,
+    35.05,
+    9.45,
+    35.05
+],
+  "geometry": {"coordinates":[9.45,35.05],"type":"Point"}
+}

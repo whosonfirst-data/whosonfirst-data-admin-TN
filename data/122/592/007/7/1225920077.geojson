@@ -1,0 +1,71 @@
+{
+  "id": 1225920077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69949,37.04258,9.69949,37.04258",
+    "geom:latitude":37.04258,
+    "geom:longitude":9.69949,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Oum ez Zid es Sghira",
+    "gn:country_code":"TN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586175,
+    "gn:latitude":37.04258,
+    "gn:longitude":9.69949,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oum ez Zid es Sghira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oum ez Zid es Srhira",
+        "Oum ez Zid es Sghira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586175
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"d626cf3404d6e06baae9f6f1b64616f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757293,
+            "locality_id":1225920077,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1225920077,
+    "wof:lastmodified":1537706535,
+    "wof:name":"Oum ez Zid es Sghira",
+    "wof:parent_id":1108757293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69949,
+    37.04258,
+    9.69949,
+    37.04258
+],
+  "geometry": {"coordinates":[9.69949,37.04258],"type":"Point"}
+}

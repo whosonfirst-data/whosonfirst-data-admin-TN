@@ -1,0 +1,73 @@
+{
+  "id": 1277140087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.62922,37.20128,9.62922,37.20128",
+    "geom:latitude":37.20128,
+    "geom:longitude":9.62922,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar ed Douimis",
+    "gn:country_code":"TN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471573,
+    "gn:latitude":37.20128,
+    "gn:longitude":9.62922,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar ed Douimis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daww\u0101r ad Duwaym\u012bs",
+        "Douar Douimis",
+        "Douar el Douimiss",
+        "Douar ed Douimis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471573
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"29ea3e394497c01ad8fba7c2356d5a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757275,
+            "locality_id":1277140087,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1277140087,
+    "wof:lastmodified":1537706503,
+    "wof:name":"Douar ed Douimis",
+    "wof:parent_id":1108757275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.62922,
+    37.20128,
+    9.62922,
+    37.20128
+],
+  "geometry": {"coordinates":[9.62922,37.20128],"type":"Point"}
+}

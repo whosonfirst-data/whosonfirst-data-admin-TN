@@ -1,0 +1,72 @@
+{
+  "id": 1193195899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.3225,36.8375,10.3225,36.8375",
+    "geom:latitude":36.8375,
+    "geom:longitude":10.3225,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Borj Oulad Lara",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586190,
+    "gn:latitude":36.8375,
+    "gn:longitude":10.3225,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Borj Oulad Lara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bordj Oulad Lara",
+        "Borj Oulad Lara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679123,
+        1108757755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586190
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"21758df42171e12ec1c853c9a9404db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757755,
+            "locality_id":1193195899,
+            "region_id":85679123
+        }
+    ],
+    "wof:id":1193195899,
+    "wof:lastmodified":1537706535,
+    "wof:name":"Borj Oulad Lara",
+    "wof:parent_id":1108757755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3225,
+    36.8375,
+    10.3225,
+    36.8375
+],
+  "geometry": {"coordinates":[10.3225,36.8375],"type":"Point"}
+}

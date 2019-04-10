@@ -1,0 +1,66 @@
+{
+  "id": 1209678189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.42528,36.56222,10.42528,36.56222",
+    "geom:latitude":36.56222,
+    "geom:longitude":10.42528,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Douar el Haj Toumi",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589324,
+    "gn:latitude":36.56222,
+    "gn:longitude":10.42528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar el Haj Toumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Hadj Toumi",
+        "Douar el Haj Toumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589324
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"ca9c952a30356a505e17970322d1ebf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209678189
+        }
+    ],
+    "wof:id":1209678189,
+    "wof:lastmodified":1537706537,
+    "wof:name":"Douar el Haj Toumi",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.42528,
+    36.56222,
+    10.42528,
+    36.56222
+],
+  "geometry": {"coordinates":[10.42528,36.56222],"type":"Point"}
+}

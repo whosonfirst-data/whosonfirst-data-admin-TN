@@ -1,0 +1,72 @@
+{
+  "id": 1309915793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.60723,36.03598,9.60723,36.03598",
+    "geom:latitude":36.03598,
+    "geom:longitude":9.60723,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dashrat an Nechad",
+    "gn:country_code":"TN",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471612,
+    "gn:latitude":36.03598,
+    "gn:longitude":9.60723,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dashrat an Nechad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dechret Nechia",
+        "Dechret en Nechad",
+        "Dashrat an Nechad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471612
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"934bdf9da3e6462623c62c349d2a0199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757659,
+            "locality_id":1309915793,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1309915793,
+    "wof:lastmodified":1537706505,
+    "wof:name":"Dashrat an Nechad",
+    "wof:parent_id":1108757659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.60723,
+    36.03598,
+    9.60723,
+    36.03598
+],
+  "geometry": {"coordinates":[9.60723,36.03598],"type":"Point"}
+}

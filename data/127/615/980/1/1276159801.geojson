@@ -1,0 +1,67 @@
+{
+  "id": 1276159801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.00583,36.76389,10.00583,36.76389",
+    "geom:latitude":36.76389,
+    "geom:longitude":10.00583,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Damous el Laya",
+    "gn:country_code":"TN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590368,
+    "gn:latitude":36.76389,
+    "gn:longitude":10.00583,
+    "gn:modification_date":"2009-03-17",
+    "gn:name":"Damous el Laya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590368
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"b97b5e1e18eedb19de46e736b9f2ca40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757503,
+            "locality_id":1276159801,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1276159801,
+    "wof:lastmodified":1537010600,
+    "wof:name":"Damous el Laya",
+    "wof:parent_id":1108757503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.00583,
+    36.76389,
+    10.00583,
+    36.76389
+],
+  "geometry": {"coordinates":[10.00583,36.76389],"type":"Point"}
+}

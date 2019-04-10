@@ -1,0 +1,120 @@
+{
+  "id": 421203075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.56865,36.81668,10.56865,36.81668",
+    "geom:latitude":36.81668,
+    "geom:longitude":10.56865,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0628\u0635"
+    ],
+    "name:cat_x_preferred":[
+        "Korbous"
+    ],
+    "name:dut_x_preferred":[
+        "Korbous"
+    ],
+    "name:eng_x_preferred":[
+        "Korbous"
+    ],
+    "name:fin_x_preferred":[
+        "Korbous"
+    ],
+    "name:fit_x_preferred":[
+        "Korbous"
+    ],
+    "name:fre_x_preferred":[
+        "Korbous"
+    ],
+    "name:por_x_preferred":[
+        "Korbous"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0431\u0443\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Korbous"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0431\u0443\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Korbous Dar el Oudiane"
+    ],
+    "name:wel_x_preferred":[
+        "Korbous"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2467914,
+    "qs:gn_pop":3581,
+    "qs:name":"Qurbus",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Nabul",
+    "qs:photos":72,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":72,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":229263,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442567,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467914,
+        "gp:id":1442567,
+        "qs:id":229263,
+        "wd:id":"Q3175885",
+        "wk:page":"Korbous"
+    },
+    "wof:country":"TN",
+    "wof:created":1459010139,
+    "wof:geomhash":"236b2be297ad7680ec19764d5830974d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757591,
+            "locality_id":421203075,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":421203075,
+    "wof:lastmodified":1514506684,
+    "wof:name":"Qurbus",
+    "wof:parent_id":1108757591,
+    "wof:placetype":"locality",
+    "wof:population":3581,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.56865,
+    36.81668,
+    10.56865,
+    36.81668
+],
+  "geometry": {"coordinates":[10.56865,36.81668],"type":"Point"}
+}

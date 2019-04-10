@@ -1,0 +1,67 @@
+{
+  "id": 1277143121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.83174,36.93694,9.83174,36.93694",
+    "geom:latitude":36.93694,
+    "geom:longitude":9.83174,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar Maisra",
+    "gn:country_code":"TN",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2585154,
+    "gn:latitude":36.93694,
+    "gn:longitude":9.83174,
+    "gn:modification_date":"1997-04-18",
+    "gn:name":"Douar Ma\u00efsra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2585154
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"dbda3dc16cf6eae8a6f305803e5b7e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757507,
+            "locality_id":1277143121,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1277143121,
+    "wof:lastmodified":1536680669,
+    "wof:name":"Douar Maisra",
+    "wof:parent_id":1108757507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.83174,
+    36.93694,
+    9.83174,
+    36.93694
+],
+  "geometry": {"coordinates":[9.83174,36.93694],"type":"Point"}
+}

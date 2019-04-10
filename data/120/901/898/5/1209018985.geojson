@@ -1,0 +1,64 @@
+{
+  "id": 1209018985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.00301,36.27187,9.00301,36.27187",
+    "geom:latitude":36.27187,
+    "geom:longitude":9.00301,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dar Bou Guetaia",
+    "gn:country_code":"TN",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471683,
+    "gn:latitude":36.27187,
+    "gn:longitude":9.00301,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Dar Bou Guetaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r B\u016b Qa\u0163\u0163\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471683
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"2e7112aa68fb15ab36cc5b9fc53bec2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209018985
+        }
+    ],
+    "wof:id":1209018985,
+    "wof:lastmodified":1537706508,
+    "wof:name":"Dar Bou Guetaia",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.00301,
+    36.27187,
+    9.00301,
+    36.27187
+],
+  "geometry": {"coordinates":[9.00301,36.27187],"type":"Point"}
+}

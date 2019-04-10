@@ -1,0 +1,67 @@
+{
+  "id": 1259989459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.38778,36.50222,8.38778,36.50222",
+    "geom:latitude":36.50222,
+    "geom:longitude":8.38778,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Douar Moulaheneche",
+    "gn:country_code":"TN",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2585668,
+    "gn:latitude":36.50222,
+    "gn:longitude":8.38778,
+    "gn:modification_date":"1997-04-18",
+    "gn:name":"Douar Moulah\u00e9n\u00e8che",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2585668
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"0c73bc7fa17ea8713e8c96ec8be2c9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757363,
+            "locality_id":1259989459,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1259989459,
+    "wof:lastmodified":1536624489,
+    "wof:name":"Douar Moulaheneche",
+    "wof:parent_id":1108757363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.38778,
+    36.50222,
+    8.38778,
+    36.50222
+],
+  "geometry": {"coordinates":[8.38778,36.50222],"type":"Point"}
+}

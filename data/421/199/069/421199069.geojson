@@ -1,0 +1,105 @@
+{
+  "id": 421199069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.01472,33.57778,9.01472,33.57778",
+    "geom:latitude":33.57778,
+    "geom:longitude":9.01472,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Djemna"
+    ],
+    "name:fre_x_preferred":[
+        "Jemna"
+    ],
+    "name:por_x_preferred":[
+        "Jemna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u043c\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Djemna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0435\u043c\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Djemma"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2470189,
+    "qs:gn_pop":6254,
+    "qs:name":"Jamnah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Qibili",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":189009,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442361,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470189,
+        "gp:id":1442361,
+        "qs:id":189009,
+        "wd:id":"Q3176970",
+        "wk:page":"Djemna"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009976,
+    "wof:geomhash":"a5f6b6306ea360eb844c9235617aabf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757437,
+            "locality_id":421199069,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":421199069,
+    "wof:lastmodified":1514506635,
+    "wof:name":"Jamnah",
+    "wof:parent_id":1108757437,
+    "wof:placetype":"locality",
+    "wof:population":6254,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.01472,
+    33.57778,
+    9.01472,
+    33.57778
+],
+  "geometry": {"coordinates":[9.01472,33.57778],"type":"Point"}
+}

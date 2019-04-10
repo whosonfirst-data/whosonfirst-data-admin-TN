@@ -1,0 +1,264 @@
+{
+  "id": 421199777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.70486,36.17424,8.70486,36.17424",
+    "geom:latitude":36.17424,
+    "geom:longitude":8.70486,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0627\u0641"
+    ],
+    "name:cat_x_preferred":[
+        "El Kef"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u592b"
+    ],
+    "name:dan_x_preferred":[
+        "El Kef"
+    ],
+    "name:dut_x_preferred":[
+        "El Kef"
+    ],
+    "name:eng_x_preferred":[
+        "El Kef"
+    ],
+    "name:fre_x_preferred":[
+        "Le Kef"
+    ],
+    "name:ger_x_preferred":[
+        "El Kef"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bb \u039a\u03b1\u03c6"
+    ],
+    "name:hun_x_preferred":[
+        "Kef"
+    ],
+    "name:ita_x_preferred":[
+        "Le Kef"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30d5"
+    ],
+    "name:kab_x_preferred":[
+        "Lkaf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ucf00\ud504"
+    ],
+    "name:lit_x_preferred":[
+        "Kafas"
+    ],
+    "name:oci_x_preferred":[
+        "El Kef"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u06a9\u0627\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Kaf"
+    ],
+    "name:por_x_preferred":[
+        "El Kef"
+    ],
+    "name:rum_x_preferred":[
+        "El Kef"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0435\u0444"
+    ],
+    "name:sco_x_preferred":[
+        "El Kef"
+    ],
+    "name:slv_x_preferred":[
+        "El Kef"
+    ],
+    "name:spa_x_preferred":[
+        "Al-K\u0101f"
+    ],
+    "name:tur_x_preferred":[
+        "El K\u00e2f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041a\u0435\u0444"
+    ],
+    "name:unk_x_variant":[
+        "Al K\u0101f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u06a9\u0627\u0641"
+    ],
+    "name:wel_x_preferred":[
+        "El Kef"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Tunisia",
+    "ne:ADM0_A3":"TUN",
+    "ne:ADM1NAME":"Le Kef",
+    "ne:ADMIN1_COD":14,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":2473634,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"El Kef",
+    "ne:GN_POP":47979,
+    "ne:GTOPO30":684.0,
+    "ne:ISO_A2":"TN",
+    "ne:LABELRANK":7,
+    "ne:LATITUDE":36.182635,
+    "ne:LONGITUDE":8.714755,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"El Kef",
+    "ne:MAX_AREAKM":15.0,
+    "ne:MAX_AREAMI":6.0,
+    "ne:MAX_BBXMAX":8.733333,
+    "ne:MAX_BBXMIN":8.683333,
+    "ne:MAX_BBYMAX":36.191667,
+    "ne:MAX_BBYMIN":36.141667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":20.0,
+    "ne:MAX_PERMI":12.0,
+    "ne:MAX_POP10":36628,
+    "ne:MAX_POP20":36628,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":8.704167,
+    "ne:MEAN_BBYC":36.170833,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":15.0,
+    "ne:MIN_AREAMI":6.0,
+    "ne:MIN_BBXMAX":8.733333,
+    "ne:MIN_BBXMIN":8.683333,
+    "ne:MIN_BBYMAX":36.191667,
+    "ne:MIN_BBYMIN":36.141667,
+    "ne:MIN_PERKM":20.0,
+    "ne:MIN_PERMI":12.0,
+    "ne:NAME":"El Kef",
+    "ne:NAMEALT":"Le Kef",
+    "ne:NAMEASCII":"El Kef",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":47979,
+    "ne:POP_MIN":36628,
+    "ne:POP_OTHER":36473,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Tunisia",
+    "ne:SOV_A3":"TUN",
+    "ne:TIMEZONE":"Africa/Tunis",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":2473634,
+    "qs:gn_pop":47979,
+    "qs:name":"Al Kaf",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Kaf",
+    "qs:photos":380,
+    "qs:photos_1k":77,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":380,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":492880,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441785,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":36.166667,
+    "wd:longitude":8.7,
+    "wd:wordcount":1298,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473634,
+        "gp:id":1441785,
+        "qs:id":492880,
+        "wd:id":"Q27155",
+        "wk:page":"El Kef"
+    },
+    "wof:country":"TN",
+    "wof:created":1459010000,
+    "wof:geomhash":"fd0e5558c90c53a1eaf63cb1af56d3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757455,
+            "locality_id":421199777,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":421199777,
+    "wof:lastmodified":1553816386,
+    "wof:name":"Al Kaf",
+    "wof:parent_id":1108757455,
+    "wof:placetype":"locality",
+    "wof:population":47979,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.70486,
+    36.17424,
+    8.70486,
+    36.17424
+],
+  "geometry": {"coordinates":[8.70486,36.17424],"type":"Point"}
+}

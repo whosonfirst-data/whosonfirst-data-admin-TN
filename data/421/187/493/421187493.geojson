@@ -1,0 +1,71 @@
+{
+  "id": 421187493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.83333,35.78333,10.83333,35.78333",
+    "geom:latitude":35.78333,
+    "geom:longitude":10.83333,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Sidi el Rhedamsi"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2466533,
+    "qs:gn_pop":0,
+    "qs:name":"Sidi al Ghudamisi",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Munastir",
+    "qs:photos":1042,
+    "qs:photos_1k":211,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1042,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083587,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442637,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2466533,
+        "gp:id":1442637,
+        "qs:id":1083587
+    },
+    "wof:country":"TN",
+    "wof:created":1459009515,
+    "wof:geomhash":"66e23940d13b26b55082bf85ab734774",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":421187493
+        }
+    ],
+    "wof:id":421187493,
+    "wof:lastmodified":1501263262,
+    "wof:name":"Sidi al Ghudamisi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83333,
+    35.78333,
+    10.83333,
+    35.78333
+],
+  "geometry": {"coordinates":[10.83333,35.78333],"type":"Point"}
+}

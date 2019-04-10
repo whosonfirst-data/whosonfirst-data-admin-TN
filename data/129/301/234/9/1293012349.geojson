@@ -1,0 +1,67 @@
+{
+  "id": 1293012349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65028,35.89083,9.65028,35.89083",
+    "geom:latitude":35.89083,
+    "geom:longitude":9.65028,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Chouli",
+    "gn:country_code":"TN",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2588891,
+    "gn:latitude":35.89083,
+    "gn:longitude":9.65028,
+    "gn:modification_date":"1997-09-24",
+    "gn:name":"Douar Chouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2588891
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"7f31cc7f54fd3f0c1db97631de5da4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757395,
+            "locality_id":1293012349,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1293012349,
+    "wof:lastmodified":1536974480,
+    "wof:name":"Douar Chouli",
+    "wof:parent_id":1108757395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65028,
+    35.89083,
+    9.65028,
+    35.89083
+],
+  "geometry": {"coordinates":[9.65028,35.89083],"type":"Point"}
+}

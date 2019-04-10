@@ -1,0 +1,67 @@
+{
+  "id": 1259558787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82778,36.92556,10.82778,36.92556",
+    "geom:latitude":36.92556,
+    "geom:longitude":10.82778,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dar Oulad Otsmane",
+    "gn:country_code":"TN",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2582146,
+    "gn:latitude":36.92556,
+    "gn:longitude":10.82778,
+    "gn:modification_date":"1996-10-24",
+    "gn:name":"Dar Oulad Otsmane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2582146
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"fb2b42291ce94d4e873de9b31c7f3254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757577,
+            "locality_id":1259558787,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1259558787,
+    "wof:lastmodified":1536750393,
+    "wof:name":"Dar Oulad Otsmane",
+    "wof:parent_id":1108757577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82778,
+    36.92556,
+    10.82778,
+    36.92556
+],
+  "geometry": {"coordinates":[10.82778,36.92556],"type":"Point"}
+}

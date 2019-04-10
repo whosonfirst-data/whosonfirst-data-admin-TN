@@ -1,0 +1,67 @@
+{
+  "id": 1343953527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.93333,36.59194,8.93333,36.59194",
+    "geom:latitude":36.59194,
+    "geom:longitude":8.93333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mostfa Ben Maamer",
+    "gn:country_code":"TN",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2583116,
+    "gn:latitude":36.59194,
+    "gn:longitude":8.93333,
+    "gn:modification_date":"1997-03-11",
+    "gn:name":"Mostfa Ben Maamer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2583116
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"7e78fec709c312033f11155b0c7de109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757359,
+            "locality_id":1343953527,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1343953527,
+    "wof:lastmodified":1537028820,
+    "wof:name":"Mostfa Ben Maamer",
+    "wof:parent_id":1108757359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.93333,
+    36.59194,
+    8.93333,
+    36.59194
+],
+  "geometry": {"coordinates":[8.93333,36.59194],"type":"Point"}
+}

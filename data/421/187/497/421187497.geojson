@@ -1,0 +1,87 @@
+{
+  "id": 421187497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.30861,36.86389,10.30861,36.86389",
+    "geom:latitude":36.86389,
+    "geom:longitude":10.30861,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0622\u062c\u0631\u0648\u0645\u064a\u0629"
+    ],
+    "name:ind_x_preferred":[
+        "Al-Ajurumiyah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c-\u0410\u0434\u0436\u0440\u0443\u043c\u0438\u044f"
+    ],
+    "name:unk_x_variant":[
+        "S\u012bd\u012b D\u0101\u2019\u016bd"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2465809,
+    "qs:gn_pop":0,
+    "qs:name":"Sidi Da'ud",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Tunis",
+    "qs:photos":2068,
+    "qs:photos_1k":419,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2068,
+    "qs:photos_sr":16,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083590,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442672,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679123,
+        1108757755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2465809,
+        "gp:id":1442672,
+        "qs:id":1083590
+    },
+    "wof:country":"TN",
+    "wof:created":1459009515,
+    "wof:geomhash":"e44969e1eee1c4d0e2d907b5196cac91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757755,
+            "locality_id":421187497,
+            "region_id":85679123
+        }
+    ],
+    "wof:id":421187497,
+    "wof:lastmodified":1501263262,
+    "wof:name":"Sidi Da'ud",
+    "wof:parent_id":1108757755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.30861,
+    36.86389,
+    10.30861,
+    36.86389
+],
+  "geometry": {"coordinates":[10.30861,36.86389],"type":"Point"}
+}

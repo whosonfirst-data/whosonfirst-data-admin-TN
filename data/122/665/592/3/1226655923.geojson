@@ -1,0 +1,70 @@
+{
+  "id": 1226655923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.72787,36.73446,9.72787,36.73446",
+    "geom:latitude":36.73446,
+    "geom:longitude":9.72787,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dar Halfaoui",
+    "gn:country_code":"TN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471674,
+    "gn:latitude":36.73446,
+    "gn:longitude":9.72787,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Dar Halfaoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r \u1e28alf\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471674
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"76f755cbde908ed929587942309de325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757497,
+            "locality_id":1226655923,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1226655923,
+    "wof:lastmodified":1537706507,
+    "wof:name":"Dar Halfaoui",
+    "wof:parent_id":1108757497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.72787,
+    36.73446,
+    9.72787,
+    36.73446
+],
+  "geometry": {"coordinates":[9.72787,36.73446],"type":"Point"}
+}

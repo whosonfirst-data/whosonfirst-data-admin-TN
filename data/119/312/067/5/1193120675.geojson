@@ -1,0 +1,70 @@
+{
+  "id": 1193120675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.84584,35.82729,8.84584,35.82729",
+    "geom:latitude":35.82729,
+    "geom:longitude":8.84584,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Djoua Oulad Soltane",
+    "gn:country_code":"TN",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471347,
+    "gn:latitude":35.82729,
+    "gn:longitude":8.84584,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Djoua Oulad Soltane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djoua Awl\u0101d Sul\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471347
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"9aa10ce18b358a371f6d71bfa9920413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757443,
+            "locality_id":1193120675,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1193120675,
+    "wof:lastmodified":1537706496,
+    "wof:name":"Djoua Oulad Soltane",
+    "wof:parent_id":1108757443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.84584,
+    35.82729000000001,
+    8.84584,
+    35.82729000000001
+],
+  "geometry": {"coordinates":[8.84584,35.82729000000001],"type":"Point"}
+}

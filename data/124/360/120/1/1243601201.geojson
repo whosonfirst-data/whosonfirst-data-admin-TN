@@ -1,0 +1,70 @@
+{
+  "id": 1243601201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.13333,33.41667,10.13333,33.41667",
+    "geom:latitude":33.41667,
+    "geom:longitude":10.13333,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bergoug",
+    "gn:country_code":"TN",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472668,
+    "gn:latitude":33.41667,
+    "gn:longitude":10.13333,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Bergoug",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barq\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472668
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"17da65f745ae410dfd22b4c2a667299e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757319,
+            "locality_id":1243601201,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1243601201,
+    "wof:lastmodified":1537706515,
+    "wof:name":"Bergoug",
+    "wof:parent_id":1108757319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.13333,
+    33.41667,
+    10.13333,
+    33.41667
+],
+  "geometry": {"coordinates":[10.13333,33.41667],"type":"Point"}
+}

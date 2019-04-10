@@ -1,0 +1,74 @@
+{
+  "id": 421189791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.973796,33.845438,10.973796,33.845438",
+    "geom:latitude":33.845438,
+    "geom:longitude":10.973796,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Cedriane",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Madanin",
+    "qs:photos":757,
+    "qs:photos_1k":153,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":757,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1116962,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442066,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1442066,
+        "qs:id":1116962
+    },
+    "wof:country":"TN",
+    "wof:created":1459009636,
+    "wof:geomhash":"bc2b679a4669d2069e00ecd2953b2eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757517,
+            "locality_id":421189791,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":421189791,
+    "wof:lastmodified":1494646334,
+    "wof:name":"Cedriane",
+    "wof:parent_id":1108757517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.973796,
+    33.845438,
+    10.973796,
+    33.845438
+],
+  "geometry": {"coordinates":[10.973796,33.845438],"type":"Point"}
+}

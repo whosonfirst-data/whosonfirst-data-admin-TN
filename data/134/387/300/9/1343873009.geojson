@@ -1,0 +1,70 @@
+{
+  "id": 1343873009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.36667,36.95,9.36667,36.95",
+    "geom:latitude":36.95,
+    "geom:longitude":9.36667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sidi Amor Bou Zitouna",
+    "gn:country_code":"TN",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2465102,
+    "gn:latitude":36.95,
+    "gn:longitude":9.36667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sidi Amor Bou Zitouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u012bd\u012b \u2018Umar B\u016b Zayt\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2465102
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"598251e96a9d1cead02c8452e238a794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757291,
+            "locality_id":1343873009,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1343873009,
+    "wof:lastmodified":1537706478,
+    "wof:name":"Sidi Amor Bou Zitouna",
+    "wof:parent_id":1108757291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.36667,
+    36.95,
+    9.36667,
+    36.95
+],
+  "geometry": {"coordinates":[9.36667,36.95],"type":"Point"}
+}

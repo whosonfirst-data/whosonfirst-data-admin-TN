@@ -1,0 +1,67 @@
+{
+  "id": 1343725243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01278,36.9275,10.01278,36.9275",
+    "geom:latitude":36.9275,
+    "geom:longitude":10.01278,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar Mennzel Rached",
+    "gn:country_code":"TN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590232,
+    "gn:latitude":36.9275,
+    "gn:longitude":10.01278,
+    "gn:modification_date":"1998-02-09",
+    "gn:name":"Douar Mennzel Rached",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108807159,
+        1108757239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590232
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"93c277fcdb97fb34038be0f7341c45b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757239,
+            "locality_id":1343725243,
+            "region_id":1108807159
+        }
+    ],
+    "wof:id":1343725243,
+    "wof:lastmodified":1536860405,
+    "wof:name":"Douar Mennzel Rached",
+    "wof:parent_id":1108757239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01278,
+    36.9275,
+    10.01278,
+    36.9275
+],
+  "geometry": {"coordinates":[10.01278,36.9275],"type":"Point"}
+}

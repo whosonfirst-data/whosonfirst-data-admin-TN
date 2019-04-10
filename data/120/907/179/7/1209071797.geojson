@@ -1,0 +1,61 @@
+{
+  "id": 1209071797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.9275,36.88389,10.9275,36.88389",
+    "geom:latitude":36.88389,
+    "geom:longitude":10.9275,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dar el Mahameri",
+    "gn:country_code":"TN",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2582198,
+    "gn:latitude":36.88389,
+    "gn:longitude":10.9275,
+    "gn:modification_date":"1996-10-24",
+    "gn:name":"Dar el Mahameri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2582198
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"4544058f68c82fda8333a2718ca78068",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209071797
+        }
+    ],
+    "wof:id":1209071797,
+    "wof:lastmodified":1536298623,
+    "wof:name":"Dar el Mahameri",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.9275,
+    36.88389,
+    10.9275,
+    36.88389
+],
+  "geometry": {"coordinates":[10.9275,36.88389],"type":"Point"}
+}

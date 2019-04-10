@@ -1,0 +1,71 @@
+{
+  "id": 1309788595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05,35.5,11.05,35.5",
+    "geom:latitude":35.5,
+    "geom:longitude":11.05,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Er Rouda",
+    "gn:country_code":"TN",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473265,
+    "gn:latitude":35.5,
+    "gn:longitude":11.05,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Er Rouda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erruda",
+        "Ar Raw\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679161,
+        1108757481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473265
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"857dc9762a565bd68511d770caa39de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757481,
+            "locality_id":1309788595,
+            "region_id":85679161
+        }
+    ],
+    "wof:id":1309788595,
+    "wof:lastmodified":1537706520,
+    "wof:name":"Er Rouda",
+    "wof:parent_id":1108757481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05,
+    35.5,
+    11.05,
+    35.5
+],
+  "geometry": {"coordinates":[11.05,35.5],"type":"Point"}
+}

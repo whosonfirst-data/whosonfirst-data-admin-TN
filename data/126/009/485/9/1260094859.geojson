@@ -1,0 +1,71 @@
+{
+  "id": 1260094859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.48333,36.7,9.48333,36.7",
+    "geom:latitude":36.7,
+    "geom:longitude":9.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zaouiet Sidi Abdelli",
+    "gn:country_code":"TN",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463944,
+    "gn:latitude":36.7,
+    "gn:longitude":9.48333,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Zaou\u00efet Sidi Abdelli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaou\u00efet Sidi Abdelli",
+        "Z\u0101wiyat S\u012bd\u012b \u2018Abdall\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679103,
+        1108757267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463944
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"16c3a0f084efb3ed0b0e1258a63187ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757267,
+            "locality_id":1260094859,
+            "region_id":85679103
+        }
+    ],
+    "wof:id":1260094859,
+    "wof:lastmodified":1537706473,
+    "wof:name":"Zaouiet Sidi Abdelli",
+    "wof:parent_id":1108757267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.48333,
+    36.7,
+    9.48333,
+    36.7
+],
+  "geometry": {"coordinates":[9.48333,36.7],"type":"Point"}
+}

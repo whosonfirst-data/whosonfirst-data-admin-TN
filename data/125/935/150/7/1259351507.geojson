@@ -1,0 +1,67 @@
+{
+  "id": 1259351507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.31611,36.02194,10.31611,36.02194",
+    "geom:latitude":36.02194,
+    "geom:longitude":10.31611,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Oulad el Kelba",
+    "gn:country_code":"TN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586397,
+    "gn:latitude":36.02194,
+    "gn:longitude":10.31611,
+    "gn:modification_date":"1997-04-16",
+    "gn:name":"Oulad el Kelba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586397
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"657365c7ea1b204bdf729e506494d078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757687,
+            "locality_id":1259351507,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":1259351507,
+    "wof:lastmodified":1537046468,
+    "wof:name":"Oulad el Kelba",
+    "wof:parent_id":1108757687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.31611,
+    36.02194,
+    10.31611,
+    36.02194
+],
+  "geometry": {"coordinates":[10.31611,36.02194],"type":"Point"}
+}

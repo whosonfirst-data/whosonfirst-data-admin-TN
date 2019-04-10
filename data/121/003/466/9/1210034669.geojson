@@ -1,0 +1,67 @@
+{
+  "id": 1210034669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.99639,36.105,8.99639,36.105",
+    "geom:latitude":36.105,
+    "geom:longitude":8.99639,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Douar ech Charafia",
+    "gn:country_code":"TN",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2583859,
+    "gn:latitude":36.105,
+    "gn:longitude":8.99639,
+    "gn:modification_date":"1997-03-11",
+    "gn:name":"Douar ech Charafia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2583859
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"5bae7a4fa7cda6114cfb5696bb99e0e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757447,
+            "locality_id":1210034669,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1210034669,
+    "wof:lastmodified":1536387027,
+    "wof:name":"Douar ech Charafia",
+    "wof:parent_id":1108757447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.99639,
+    36.105,
+    8.99639,
+    36.105
+],
+  "geometry": {"coordinates":[8.99639,36.105],"type":"Point"}
+}

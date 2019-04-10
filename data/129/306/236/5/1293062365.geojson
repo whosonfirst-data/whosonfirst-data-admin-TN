@@ -1,0 +1,68 @@
+{
+  "id": 1293062365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.06,33.63,10.06,33.63",
+    "geom:latitude":33.63,
+    "geom:longitude":10.06,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Nouvelle Matmata",
+    "gn:country_code":"TN",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11239116,
+    "gn:latitude":33.63,
+    "gn:longitude":10.06,
+    "gn:modification_date":"2018-03-22",
+    "gn:name":"Nouvelle Matmata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11239116,
+        "wk:page":"Nouvelle_Matmata"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"a104e5077b43e9ed98a1b3245af19fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757323,
+            "locality_id":1293062365,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1293062365,
+    "wof:lastmodified":1537574454,
+    "wof:name":"Nouvelle Matmata",
+    "wof:parent_id":1108757323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.06,
+    33.63,
+    10.06,
+    33.63
+],
+  "geometry": {"coordinates":[10.06,33.63],"type":"Point"}
+}

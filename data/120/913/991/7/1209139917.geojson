@@ -1,0 +1,65 @@
+{
+  "id": 1209139917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.84056,36.67778,9.84056,36.67778",
+    "geom:latitude":36.67778,
+    "geom:longitude":9.84056,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Ouled Fraji",
+    "gn:country_code":"TN",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2584363,
+    "gn:latitude":36.67778,
+    "gn:longitude":9.84056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ouled Fraji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouled Fradji",
+        "Ouled Fraji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2584363
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"5963c9e2c61081537900c13058b9fcb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209139917
+        }
+    ],
+    "wof:id":1209139917,
+    "wof:lastmodified":1537706533,
+    "wof:name":"Ouled Fraji",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.84056,
+    36.67778,
+    9.84056,
+    36.67778
+],
+  "geometry": {"coordinates":[9.84056,36.67778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327131799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.369,36.46183,8.369,36.46183",
+    "geom:latitude":36.46183,
+    "geom:longitude":8.369,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mechta Berzig",
+    "gn:country_code":"TN",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570712,
+    "gn:latitude":36.46183,
+    "gn:longitude":8.369,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Mechta Berzig",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570712
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e0d68935e12b28022e4b29402bf7f9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757363,
+            "locality_id":1327131799,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1327131799,
+    "wof:lastmodified":1536614648,
+    "wof:name":"Mechta Berzig",
+    "wof:parent_id":1108757363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.369,
+    36.46183,
+    8.369,
+    36.46183
+],
+  "geometry": {"coordinates":[8.369,36.46183],"type":"Point"}
+}

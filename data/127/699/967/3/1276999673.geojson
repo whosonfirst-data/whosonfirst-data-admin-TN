@@ -1,0 +1,71 @@
+{
+  "id": 1276999673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.74538,36.55696,8.74538,36.55696",
+    "geom:latitude":36.55696,
+    "geom:longitude":8.74538,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"El Hammam",
+    "gn:country_code":"TN",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2583604,
+    "gn:latitude":36.55696,
+    "gn:longitude":8.74538,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Hammam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulla Reggia",
+        "El Hammam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2583604
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"cd78d851106467777dada9e164e5d051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757369,
+            "locality_id":1276999673,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1276999673,
+    "wof:lastmodified":1537706533,
+    "wof:name":"El Hammam",
+    "wof:parent_id":1108757369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.74538,
+    36.55696,
+    8.74538,
+    36.55696
+],
+  "geometry": {"coordinates":[8.74538,36.55696],"type":"Point"}
+}

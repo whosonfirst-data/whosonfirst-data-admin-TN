@@ -1,0 +1,67 @@
+{
+  "id": 1293449449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.32167,34.69639,10.32167,34.69639",
+    "geom:latitude":34.69639,
+    "geom:longitude":10.32167,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Hanout Seridik",
+    "gn:country_code":"TN",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590647,
+    "gn:latitude":34.69639,
+    "gn:longitude":10.32167,
+    "gn:modification_date":"1998-02-26",
+    "gn:name":"Hanout Seridik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679151,
+        1108757595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590647
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"62c6127cf3db997ca04d10e49dd08646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757595,
+            "locality_id":1293449449,
+            "region_id":85679151
+        }
+    ],
+    "wof:id":1293449449,
+    "wof:lastmodified":1536841015,
+    "wof:name":"Hanout Seridik",
+    "wof:parent_id":1108757595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.32167,
+    34.69639,
+    10.32167,
+    34.69639
+],
+  "geometry": {"coordinates":[10.32167,34.69639],"type":"Point"}
+}

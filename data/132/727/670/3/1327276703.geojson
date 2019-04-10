@@ -1,0 +1,75 @@
+{
+  "id": 1327276703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18389,36.95222,10.18389,36.95222",
+    "geom:latitude":36.95222,
+    "geom:longitude":10.18389,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Mennzel el Henndi",
+    "gn:country_code":"TN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590239,
+    "gn:latitude":36.95222,
+    "gn:longitude":10.18389,
+    "gn:modification_date":"1998-02-09",
+    "gn:name":"Mennzel el Henndi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108807159,
+        1108757247,
+        85679099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590239
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"c937688174b6d4d51e58f62b9047527d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757247,
+            "locality_id":1327276703,
+            "region_id":1108807159
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757247,
+            "locality_id":1327276703,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1327276703,
+    "wof:lastmodified":1536905933,
+    "wof:name":"Mennzel el Henndi",
+    "wof:parent_id":1108757247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18389,
+    36.95222,
+    10.18389,
+    36.95222
+],
+  "geometry": {"coordinates":[10.18389,36.95222],"type":"Point"}
+}

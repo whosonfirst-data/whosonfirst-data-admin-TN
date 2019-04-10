@@ -1,0 +1,72 @@
+{
+  "id": 1193030745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75221,36.46247,10.75221,36.46247",
+    "geom:latitude":36.46247,
+    "geom:longitude":10.75221,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"El Fehri",
+    "gn:country_code":"TN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473789,
+    "gn:latitude":36.46247,
+    "gn:longitude":10.75221,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Fehri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Fihr\u012b",
+        "El Fahri",
+        "El Fehri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473789
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"3f738872456f72943dd13664cbc3fe76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757567,
+            "locality_id":1193030745,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1193030745,
+    "wof:lastmodified":1537706528,
+    "wof:name":"El Fehri",
+    "wof:parent_id":1108757567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75221,
+    36.46247,
+    10.75221,
+    36.46247
+],
+  "geometry": {"coordinates":[10.75221,36.46247],"type":"Point"}
+}

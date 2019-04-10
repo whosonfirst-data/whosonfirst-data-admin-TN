@@ -1,0 +1,67 @@
+{
+  "id": 1310641959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31917,35.31722,9.31917,35.31722",
+    "geom:latitude":35.31722,
+    "geom:longitude":9.31917,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Henchir el Haouachi",
+    "gn:country_code":"TN",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2587354,
+    "gn:latitude":35.31722,
+    "gn:longitude":9.31917,
+    "gn:modification_date":"1999-06-13",
+    "gn:name":"Henchir el Haouachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2587354
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"cac4c06b8a1ea8ca44f893f51c9774d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757633,
+            "locality_id":1310641959,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":1310641959,
+    "wof:lastmodified":1536720386,
+    "wof:name":"Henchir el Haouachi",
+    "wof:parent_id":1108757633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31917,
+    35.31722,
+    9.31917,
+    35.31722
+],
+  "geometry": {"coordinates":[9.31917,35.31722],"type":"Point"}
+}

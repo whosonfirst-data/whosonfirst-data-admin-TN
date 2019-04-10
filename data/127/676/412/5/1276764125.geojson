@@ -1,0 +1,67 @@
+{
+  "id": 1276764125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23472,35.60833,10.23472,35.60833",
+    "geom:latitude":35.60833,
+    "geom:longitude":10.23472,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Amara Ben Sliman",
+    "gn:country_code":"TN",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2587724,
+    "gn:latitude":35.60833,
+    "gn:longitude":10.23472,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Amara Ben Sliman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2587724
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"6acf8a525d419150768dbbfde06d3d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757391,
+            "locality_id":1276764125,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1276764125,
+    "wof:lastmodified":1536698854,
+    "wof:name":"Amara Ben Sliman",
+    "wof:parent_id":1108757391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23472,
+    35.60833,
+    10.23472,
+    35.60833
+],
+  "geometry": {"coordinates":[10.23472,35.60833],"type":"Point"}
+}

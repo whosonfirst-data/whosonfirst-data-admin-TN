@@ -1,0 +1,78 @@
+{
+  "id": 421203079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.74703,33.35699,8.74703,33.35699",
+    "geom:latitude":33.35699,
+    "geom:longitude":8.74703,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "\u015eabr\u012byah"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2467497,
+    "qs:gn_pop":0,
+    "qs:name":"Sabriyah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Qibili",
+    "qs:photos":131,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":131,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":229262,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442591,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467497,
+        "gp:id":1442591,
+        "qs:id":229262
+    },
+    "wof:country":"TN",
+    "wof:created":1459010139,
+    "wof:geomhash":"f92bfb875c3dbf0d413b83898ceabeb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757433,
+            "locality_id":421203079,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":421203079,
+    "wof:lastmodified":1501263263,
+    "wof:name":"Sabriyah",
+    "wof:parent_id":1108757433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.74703,
+    33.35699,
+    8.74703,
+    33.35699
+],
+  "geometry": {"coordinates":[8.74703,33.35699],"type":"Point"}
+}

@@ -1,0 +1,124 @@
+{
+  "id": 421183759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.44412,35.56626,8.44412,35.56626",
+    "geom:latitude":35.56626,
+    "geom:longitude":8.44412,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062f\u0631\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Ha\u00efdra"
+    ],
+    "name:cym_x_preferred":[
+        "Ha\u00efdra"
+    ],
+    "name:deu_x_preferred":[
+        "Ha\u00efdra"
+    ],
+    "name:dut_x_preferred":[
+        "Ha\u00efdra"
+    ],
+    "name:eng_x_preferred":[
+        "Ha\u00efdra"
+    ],
+    "name:fin_x_preferred":[
+        "Ha\u00efdra"
+    ],
+    "name:fra_x_preferred":[
+        "Ha\u00efdra"
+    ],
+    "name:fre_x_preferred":[
+        "Ha\u00efdra"
+    ],
+    "name:ger_x_preferred":[
+        "Ha\u00efdra"
+    ],
+    "name:ita_x_preferred":[
+        "Haidra"
+    ],
+    "name:por_x_preferred":[
+        "Ha\u00efdra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u0434\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Hennchir Ha\u00efdra"
+    ],
+    "name:wel_x_preferred":[
+        "Ha\u00efdra"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2470789,
+    "qs:gn_pop":0,
+    "qs:name":"Haidra",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Qasrayn",
+    "qs:photos":61,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":983983,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442317,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":529,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679133,
+        1108757411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470789,
+        "gp:id":1442317,
+        "qs:id":983983,
+        "wd:id":"Q2358652",
+        "wk:page":"Ha\u00efdra"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009381,
+    "wof:geomhash":"b08179b657bd65a5b5cf752c6e4cd717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757411,
+            "locality_id":421183759,
+            "region_id":85679133
+        }
+    ],
+    "wof:id":421183759,
+    "wof:lastmodified":1527717694,
+    "wof:name":"Haidra",
+    "wof:parent_id":1108757411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.44412,
+    35.56626,
+    8.44412,
+    35.56626
+],
+  "geometry": {"coordinates":[8.44412,35.56626],"type":"Point"}
+}

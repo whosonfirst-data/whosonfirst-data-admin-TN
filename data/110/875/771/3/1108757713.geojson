@@ -1,0 +1,86 @@
+{
+  "id": 1108757713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000583,
+    "geom:area_square_m":5845000.734238,
+    "geom:bbox":"10.6087640954,35.8162452982,10.651666641,35.8570034105",
+    "geom:latitude":35.835358,
+    "geom:longitude":10.629014,
+    "iso:country":"TN",
+    "lbl:latitude":35.832445,
+    "lbl:longitude":10.632265,
+    "meso:adm1_en":"Sousse",
+    "meso:gadm_adm2":"Sousse M\u00e9dina",
+    "meso:gaul_adm2":"Sousse Medina",
+    "meso:hasc_id":"TN.SS.SM",
+    "meso:mps_x":10.632265,
+    "meso:mps_y":35.832445,
+    "meso:name_alt":"Sousse M\u00e9dina",
+    "meso:name_loc":"Sousse Medina",
+    "meso:source":"AOTM",
+    "mps:latitude":35.832445,
+    "mps:longitude":10.632265,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sousse M\u00e9dina"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-04-28",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-04-28",
+    "statoids:capital":"",
+    "statoids:country":"TN",
+    "statoids:hasc":"TN.SS",
+    "statoids:name":"Sousse M\u00e9dina",
+    "statoids:population":"29680",
+    "statoids:statoid":"TN.SS.SM",
+    "statoids:timezone":"+1",
+    "statoids:type":"delegation",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TN.SS.SM"
+    },
+    "wof:country":"TN",
+    "wof:created":1481307361,
+    "wof:geomhash":"b9d742afb6d9c4537c64cfdb70906d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757713,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":1108757713,
+    "wof:lastmodified":1536615722,
+    "wof:name":"Sousse Medina",
+    "wof:parent_id":85679173,
+    "wof:placetype":"county",
+    "wof:placetype_local":"delegation",
+    "wof:population":29680,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:shortcode":"SM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.60876409538728,
+    35.81624529818276,
+    10.65166664100019,
+    35.85700341052811
+],
+  "geometry": {"coordinates":[[[10.62121408418454,35.85700341052811],[10.6237497330003,35.84747314500021],[10.62747192400019,35.84375000000023],[10.63080596900022,35.84205627400024],[10.63336086300006,35.83955383300025],[10.63580513000028,35.83872222900021],[10.64497184800018,35.82955551100025],[10.6483058930001,35.82875061000016],[10.64913845100023,35.82788848900015],[10.65166664100019,35.82705688500027],[10.65161132799994,35.82538986200029],[10.64916706100013,35.82544326800024],[10.6483058930001,35.8245849610002],[10.64663887000029,35.82541656500024],[10.64411068000021,35.82538986200029],[10.64372253400023,35.82413864100022],[10.64486710216083,35.82155226020443],[10.63544770337992,35.81624529818276],[10.63145443537004,35.82141059168276],[10.6288766014582,35.82467231560231],[10.62638688433487,35.82761443182767],[10.62424457066493,35.83014290888966],[10.62217302370812,35.8325486805014],[10.62006240644228,35.83500535455885],[10.61817935459978,35.83723912584147],[10.61661014473103,35.83910060191032],[10.6153024698404,35.8406518319677],[10.61421274076488,35.84194452368219],[10.61330463320195,35.84302176677759],[10.61082797621213,35.84595970249232],[10.60876409538728,35.84840798225459],[10.62121408418454,35.85700341052811]]],"type":"Polygon"}
+}

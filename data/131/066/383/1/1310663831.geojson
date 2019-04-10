@@ -1,0 +1,74 @@
+{
+  "id": 1310663831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.75972,37.05806,9.75972,37.05806",
+    "geom:latitude":37.05806,
+    "geom:longitude":9.75972,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Borj el Kherba",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472030,
+    "gn:latitude":37.05806,
+    "gn:longitude":9.75972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Borj el Kherba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burj al Khirbah",
+        "Bordj el Kherba",
+        "Bordj el Krerba",
+        "Borj el Kherba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472030
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"d7022ce15442d8277c5da0c9fe71eaa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757293,
+            "locality_id":1310663831,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1310663831,
+    "wof:lastmodified":1537706511,
+    "wof:name":"Borj el Kherba",
+    "wof:parent_id":1108757293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.75972,
+    37.05806,
+    9.75972,
+    37.05806
+],
+  "geometry": {"coordinates":[9.75972,37.05806],"type":"Point"}
+}

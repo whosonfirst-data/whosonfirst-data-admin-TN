@@ -1,0 +1,66 @@
+{
+  "id": 1209578755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.79066,37.06982,9.79066,37.06982",
+    "geom:latitude":37.06982,
+    "geom:longitude":9.79066,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar Bir es Soula",
+    "gn:country_code":"TN",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471507,
+    "gn:latitude":37.06982,
+    "gn:longitude":9.79066,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar Bir es Soula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Bir Soula",
+        "Daww\u0101r Bi\u2019r a\u015f \u015e\u016blah",
+        "Douar Bir es Soula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471507
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"1d8b80fbb1d5b7a69c5fd28d0a276b68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209578755
+        }
+    ],
+    "wof:id":1209578755,
+    "wof:lastmodified":1537706499,
+    "wof:name":"Douar Bir es Soula",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.79066,
+    37.06982,
+    9.79066,
+    37.06982
+],
+  "geometry": {"coordinates":[9.79066,37.06982],"type":"Point"}
+}

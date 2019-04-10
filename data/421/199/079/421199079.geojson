@@ -1,0 +1,102 @@
+{
+  "id": 421199079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.54951,36.46813,8.54951,36.46813",
+    "geom:latitude":36.46813,
+    "geom:longitude":8.54951,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0645\u0644\u064a\u0632"
+    ],
+    "name:cat_x_preferred":[
+        "Oued Mliz"
+    ],
+    "name:eng_x_preferred":[
+        "Oued Melliz"
+    ],
+    "name:fre_x_preferred":[
+        "Oued Meliz"
+    ],
+    "name:ger_x_preferred":[
+        "Oued Melliz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0435\u0434\u0456-\u041c\u0435\u043b\u0456\u0437"
+    ],
+    "name:unk_x_variant":[
+        "Oued Meliz"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2464157,
+    "qs:gn_pop":2148,
+    "qs:name":"Wadi Maliz",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Jundubah",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":189032,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442760,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464157,
+        "gp:id":1442760,
+        "qs:id":189032,
+        "wd:id":"Q3136209",
+        "wk:page":"Oued Melliz"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009976,
+    "wof:geomhash":"ef48d5554a802e86ecf46b974ef16937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757371,
+            "locality_id":421199079,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":421199079,
+    "wof:lastmodified":1514506716,
+    "wof:name":"Wadi Maliz",
+    "wof:parent_id":1108757371,
+    "wof:placetype":"locality",
+    "wof:population":2148,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.54951,
+    36.46813,
+    8.54951,
+    36.46813
+],
+  "geometry": {"coordinates":[8.54951,36.46813],"type":"Point"}
+}

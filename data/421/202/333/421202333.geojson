@@ -1,0 +1,74 @@
+{
+  "id": 421202333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.633392,35.832981,10.633392,35.832981",
+    "geom:latitude":35.832981,
+    "geom:longitude":10.633392,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sosah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Susah",
+    "qs:photos":4999,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4999,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":221262,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442702,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1442702,
+        "qs:id":221262
+    },
+    "wof:country":"TN",
+    "wof:created":1459010114,
+    "wof:geomhash":"cff47a1e4d01074db2a7b644a9ca34da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757713,
+            "locality_id":421202333,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":421202333,
+    "wof:lastmodified":1494646367,
+    "wof:name":"Sosah",
+    "wof:parent_id":1108757713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.633392,
+    35.832981,
+    10.633392,
+    35.832981
+],
+  "geometry": {"coordinates":[10.633392,35.832981],"type":"Point"}
+}

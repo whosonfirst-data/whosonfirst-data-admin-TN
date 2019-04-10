@@ -1,0 +1,67 @@
+{
+  "id": 1209057109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.08333,33.88333,10.08333,33.88333",
+    "geom:latitude":33.88333,
+    "geom:longitude":10.08333,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Manzil",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2469271,
+    "gn:latitude":33.88333,
+    "gn:longitude":10.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Manzil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mennzel",
+        "Menzel",
+        "Manzil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469271
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f06a793b3cb6c13542d31a4c7e81ad00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209057109
+        }
+    ],
+    "wof:id":1209057109,
+    "wof:lastmodified":1537706490,
+    "wof:name":"Manzil",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.08333,
+    33.88333,
+    10.08333,
+    33.88333
+],
+  "geometry": {"coordinates":[10.08333,33.88333],"type":"Point"}
+}

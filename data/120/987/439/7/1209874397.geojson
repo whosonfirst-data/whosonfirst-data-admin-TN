@@ -1,0 +1,72 @@
+{
+  "id": 1209874397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.56028,35.92056,10.56028,35.92056",
+    "geom:latitude":35.92056,
+    "geom:longitude":10.56028,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Souani el Adari",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2467183,
+    "gn:latitude":35.92056,
+    "gn:longitude":10.56028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Souani el Adari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saw\u0101n\u012b al \u2018Adh\u0101r\u012b",
+        "Souani el Adari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467183
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"613e16978052dd5cf258e28203f45540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757683,
+            "locality_id":1209874397,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":1209874397,
+    "wof:lastmodified":1537706482,
+    "wof:name":"Souani el Adari",
+    "wof:parent_id":1108757683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.56028,
+    35.92055999999999,
+    10.56028,
+    35.92055999999999
+],
+  "geometry": {"coordinates":[10.56028,35.92055999999999],"type":"Point"}
+}

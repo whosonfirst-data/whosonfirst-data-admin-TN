@@ -1,0 +1,108 @@
+{
+  "id": 421185617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.69602,36.65547,8.69602,36.65547",
+    "geom:latitude":36.65547,
+    "geom:longitude":8.69602,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0646\u0627\u0646\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Fernana"
+    ],
+    "name:dut_x_preferred":[
+        "Fernana"
+    ],
+    "name:eng_x_preferred":[
+        "Fernana"
+    ],
+    "name:fre_x_preferred":[
+        "Fernana"
+    ],
+    "name:ger_x_preferred":[
+        "Fernana"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a6\u03b5\u03c1\u03bd\u03ac\u03bd\u03b1"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u0440\u043d\u0430\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Fernara"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473788,
+    "qs:gn_pop":1962,
+    "qs:name":"Al Firnanah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Jundubah",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1035895,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441751,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473788,
+        "gp:id":1441751,
+        "qs:id":1035895,
+        "wd:id":"Q3069035",
+        "wk:page":"Fernana"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009449,
+    "wof:geomhash":"75adf7a14a7c6446111fe9c2ea4eb1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757361,
+            "locality_id":421185617,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":421185617,
+    "wof:lastmodified":1514506602,
+    "wof:name":"Al Firnanah",
+    "wof:parent_id":1108757361,
+    "wof:placetype":"locality",
+    "wof:population":1962,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.69602,
+    36.65547,
+    8.69602,
+    36.65547
+],
+  "geometry": {"coordinates":[8.69602,36.65547],"type":"Point"}
+}

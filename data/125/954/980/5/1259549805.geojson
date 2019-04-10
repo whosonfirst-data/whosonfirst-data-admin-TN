@@ -1,0 +1,72 @@
+{
+  "id": 1259549805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.62115,37.28923,9.62115,37.28923",
+    "geom:latitude":37.28923,
+    "geom:longitude":9.62115,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dar Ali Ben Hamidou",
+    "gn:country_code":"TN",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471727,
+    "gn:latitude":37.28923,
+    "gn:longitude":9.62115,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dar Ali Ben Hamidou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Ali Ben Hammidou",
+        "D\u0101r \u2018Al\u012b Bin \u1e28am\u012bd\u016b",
+        "Dar Ali Ben Hamidou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471727
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"99bb56cf37fc80cf975f869749908fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757275,
+            "locality_id":1259549805,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1259549805,
+    "wof:lastmodified":1537706509,
+    "wof:name":"Dar Ali Ben Hamidou",
+    "wof:parent_id":1108757275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.62115,
+    37.28923,
+    9.62115,
+    37.28923
+],
+  "geometry": {"coordinates":[9.62115,37.28923],"type":"Point"}
+}

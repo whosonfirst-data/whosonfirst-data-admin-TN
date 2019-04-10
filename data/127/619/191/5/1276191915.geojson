@@ -1,0 +1,67 @@
+{
+  "id": 1276191915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.22333,36.53806,10.22333,36.53806",
+    "geom:latitude":36.53806,
+    "geom:longitude":10.22333,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Douar Bou Said",
+    "gn:country_code":"TN",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590523,
+    "gn:latitude":36.53806,
+    "gn:longitude":10.22333,
+    "gn:modification_date":"1998-02-09",
+    "gn:name":"Douar Bou Said",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679107,
+        1108757271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590523
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"a010e1ec45c368e515adcf2d1c48ff7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757271,
+            "locality_id":1276191915,
+            "region_id":85679107
+        }
+    ],
+    "wof:id":1276191915,
+    "wof:lastmodified":1536968237,
+    "wof:name":"Douar Bou Said",
+    "wof:parent_id":1108757271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.22333,
+    36.53806,
+    10.22333,
+    36.53806
+],
+  "geometry": {"coordinates":[10.22333,36.53806],"type":"Point"}
+}

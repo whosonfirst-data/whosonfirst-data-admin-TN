@@ -1,0 +1,74 @@
+{
+  "id": 421177377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.092211,33.975607,8.092211,33.975607",
+    "geom:latitude":33.975607,
+    "geom:longitude":8.092211,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tozeur Aeroport",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Tawzar",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":415174,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":22662597,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679095,
+        1108757743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22662597,
+        "qs:id":415174
+    },
+    "wof:country":"TN",
+    "wof:created":1459009142,
+    "wof:geomhash":"e4a8297002a02b17fad780729fb7620e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757743,
+            "locality_id":421177377,
+            "region_id":85679095
+        }
+    ],
+    "wof:id":421177377,
+    "wof:lastmodified":1494646372,
+    "wof:name":"Tozeur Aeroport",
+    "wof:parent_id":1108757743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.092211,
+    33.975607,
+    8.092211,
+    33.975607
+],
+  "geometry": {"coordinates":[8.092211,33.975607],"type":"Point"}
+}

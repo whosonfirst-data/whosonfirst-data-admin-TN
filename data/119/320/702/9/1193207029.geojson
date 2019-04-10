@@ -1,0 +1,71 @@
+{
+  "id": 1193207029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.17171,36.22894,10.17171,36.22894",
+    "geom:latitude":36.22894,
+    "geom:longitude":10.17171,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Saouaf",
+    "gn:country_code":"TN",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473171,
+    "gn:latitude":36.22894,
+    "gn:longitude":10.17171,
+    "gn:modification_date":"2018-02-28",
+    "gn:name":"Saouaf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015eaww\u0101f",
+        "Sawaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679179,
+        1108757765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473171
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"4c7c2f22dde5cdfa5b04f75210fe41a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757765,
+            "locality_id":1193207029,
+            "region_id":85679179
+        }
+    ],
+    "wof:id":1193207029,
+    "wof:lastmodified":1537706519,
+    "wof:name":"Saouaf",
+    "wof:parent_id":1108757765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.17171,
+    36.22894,
+    10.17171,
+    36.22894
+],
+  "geometry": {"coordinates":[10.17171,36.22894],"type":"Point"}
+}

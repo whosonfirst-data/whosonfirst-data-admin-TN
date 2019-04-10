@@ -1,0 +1,78 @@
+{
+  "id": 421171321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78159,35.69773,10.78159,35.69773",
+    "geom:latitude":35.69773,
+    "geom:longitude":10.78159,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Mnara"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473556,
+    "qs:gn_pop":0,
+    "qs:name":"Al Mamurah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Nabul",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":266871,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441814,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679165,
+        1108757533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473556,
+        "gp:id":1441814,
+        "qs:id":266871
+    },
+    "wof:country":"TN",
+    "wof:created":1459008889,
+    "wof:geomhash":"67373a723fee055e2b0c25a7d67ef67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757533,
+            "locality_id":421171321,
+            "region_id":85679165
+        }
+    ],
+    "wof:id":421171321,
+    "wof:lastmodified":1501263271,
+    "wof:name":"Al Mamurah",
+    "wof:parent_id":1108757533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78159,
+    35.69773,
+    10.78159,
+    35.69773
+],
+  "geometry": {"coordinates":[10.78159,35.69773],"type":"Point"}
+}

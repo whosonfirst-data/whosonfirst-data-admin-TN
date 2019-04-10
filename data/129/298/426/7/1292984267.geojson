@@ -1,0 +1,72 @@
+{
+  "id": 1292984267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.93998,35.91063,8.93998,35.91063",
+    "geom:latitude":35.91063,
+    "geom:longitude":8.93998,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Douar Ben Jarou",
+    "gn:country_code":"TN",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471510,
+    "gn:latitude":35.91063,
+    "gn:longitude":8.93998,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar Ben Jarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben Djarou",
+        "Daww\u0101r Bin Jarw",
+        "Douar Ben Jarou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471510
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"053a44709dcf68d7f214e97a81edac1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757443,
+            "locality_id":1292984267,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1292984267,
+    "wof:lastmodified":1537706499,
+    "wof:name":"Douar Ben Jarou",
+    "wof:parent_id":1108757443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.93998,
+    35.91063,
+    8.93998,
+    35.91063
+],
+  "geometry": {"coordinates":[8.93998,35.91063],"type":"Point"}
+}

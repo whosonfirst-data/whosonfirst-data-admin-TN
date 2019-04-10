@@ -1,0 +1,72 @@
+{
+  "id": 1242980997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.68333,36.9,8.68333,36.9",
+    "geom:latitude":36.9,
+    "geom:longitude":8.68333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Douar Sidi Salah Ben Hassine",
+    "gn:country_code":"TN",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471478,
+    "gn:latitude":36.9,
+    "gn:longitude":8.68333,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Douar Sidi Salah Ben Hassine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sidi Salah Ben Assine",
+        "Douar Sidi Salah Ben Hassine",
+        "Daww\u0101r S\u012bd\u012b \u015e\u0101li\u1e29 Bin \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471478
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"eabc78cc7b6f2c83a49136866adf9b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757373,
+            "locality_id":1242980997,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1242980997,
+    "wof:lastmodified":1537706497,
+    "wof:name":"Douar Sidi Salah Ben Hassine",
+    "wof:parent_id":1108757373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.68333,
+    36.9,
+    8.68333,
+    36.9
+],
+  "geometry": {"coordinates":[8.68333,36.9],"type":"Point"}
+}

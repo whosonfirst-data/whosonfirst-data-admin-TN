@@ -1,0 +1,73 @@
+{
+  "id": 1226585167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.42585,35.08439,9.42585,35.08439",
+    "geom:latitude":35.08439,
+    "geom:longitude":9.42585,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Zaouia Sedaguia",
+    "gn:country_code":"TN",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463949,
+    "gn:latitude":35.08439,
+    "gn:longitude":9.42585,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Zaou\u00efa Sedaguia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sadaguia",
+        "Zaouiet Sadaguia",
+        "Zaou\u00efa Sedaguia",
+        "Z\u0101wiyat a\u015f \u015ead\u0101q\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463949
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"8e68d34f02da9dc4544811704f5f2958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757653,
+            "locality_id":1226585167,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":1226585167,
+    "wof:lastmodified":1537706474,
+    "wof:name":"Zaouia Sedaguia",
+    "wof:parent_id":1108757653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.42585,
+    35.08439,
+    9.42585,
+    35.08439
+],
+  "geometry": {"coordinates":[9.42585,35.08439],"type":"Point"}
+}

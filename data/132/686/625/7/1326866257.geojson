@@ -1,0 +1,67 @@
+{
+  "id": 1326866257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96783,33.68642,8.96783,33.68642",
+    "geom:latitude":33.68642,
+    "geom:longitude":8.96783,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Kebili el Ouati",
+    "gn:country_code":"TN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589415,
+    "gn:latitude":33.68642,
+    "gn:longitude":8.96783,
+    "gn:modification_date":"1997-09-24",
+    "gn:name":"Kebili el Ouati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589415
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"850b9c746fdd2b5a280fbfce619c8cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757437,
+            "locality_id":1326866257,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":1326866257,
+    "wof:lastmodified":1536998931,
+    "wof:name":"Kebili el Ouati",
+    "wof:parent_id":1108757437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96783,
+    33.68642,
+    8.96783,
+    33.68642
+],
+  "geometry": {"coordinates":[8.96783,33.68642],"type":"Point"}
+}

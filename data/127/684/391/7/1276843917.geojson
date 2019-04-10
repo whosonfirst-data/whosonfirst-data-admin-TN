@@ -1,0 +1,73 @@
+{
+  "id": 1276843917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.05028,35.93361,9.05028,35.93361",
+    "geom:latitude":35.93361,
+    "geom:longitude":9.05028,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sidi Mohammed Ben Messaoud",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2465371,
+    "gn:latitude":35.93361,
+    "gn:longitude":9.05028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sidi Mohammed Ben Messaoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u012bd\u012b Mu\u1e29ammad Bin Mas\u2018\u016bd",
+        "Sidi Mohamed Ben Messaoud",
+        "Sidi Mohammed Ben Messaoud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2465371
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"4183755d6550b9ecbf429490e21b597a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757445,
+            "locality_id":1276843917,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1276843917,
+    "wof:lastmodified":1537706478,
+    "wof:name":"Sidi Mohammed Ben Messaoud",
+    "wof:parent_id":1108757445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.05028,
+    35.93360999999999,
+    9.05028,
+    35.93360999999999
+],
+  "geometry": {"coordinates":[9.05028,35.93360999999999],"type":"Point"}
+}

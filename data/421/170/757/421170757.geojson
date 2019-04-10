@@ -1,0 +1,255 @@
+{
+  "id": 421170757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.21965,33.13783,11.21965,33.13783",
+    "geom:latitude":33.13783,
+    "geom:longitude":11.21965,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0642\u0631\u062f\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:ces_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:chi_x_preferred":[
+        "\u672c\u52a0\u723e\u4e39"
+    ],
+    "name:cym_x_preferred":[
+        "Ben Guerdane"
+    ],
+    "name:cze_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:deu_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:dut_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:eng_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646 \u0642\u0631\u062f\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:fre_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:ger_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:ita_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca4\uac00\ub974\ub2e8"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0646 \u0642\u0631\u062f\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Bin Kirdan"
+    ],
+    "name:por_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d-\u0413\u0430\u0440\u0434\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:spa_x_preferred":[
+        "Ben Gardane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d \u041a\u0430\u0440\u0434\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Ben Gardan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0646 \u0642\u0631\u062f\u0627\u0646"
+    ],
+    "name:wel_x_preferred":[
+        "Ben Guerdane"
+    ],
+    "name:zho_x_preferred":[
+        "\u672c\u52a0\u723e\u4e39"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Tunisia",
+    "ne:ADM0_A3":"TUN",
+    "ne:ADM1NAME":"M\u00e9denine",
+    "ne:ADMIN1_COD":28,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":2472431,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Bin Qirdan",
+    "ne:GN_POP":13364,
+    "ne:GTOPO30":9.0,
+    "ne:ISO_A2":"TN",
+    "ne:LABELRANK":7,
+    "ne:LATITUDE":33.140392,
+    "ne:LONGITUDE":11.220028,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Ben Gardane",
+    "ne:MAX_AREAKM":28.0,
+    "ne:MAX_AREAMI":11.0,
+    "ne:MAX_BBXMAX":11.241667,
+    "ne:MAX_BBXMIN":11.166667,
+    "ne:MAX_BBYMAX":33.166667,
+    "ne:MAX_BBYMIN":33.1,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":34.0,
+    "ne:MAX_PERMI":21.0,
+    "ne:MAX_POP10":19843,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":11.211859,
+    "ne:MEAN_BBYC":33.131517,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":28.0,
+    "ne:MIN_AREAMI":11.0,
+    "ne:MIN_BBXMAX":11.241667,
+    "ne:MIN_BBXMIN":11.166667,
+    "ne:MIN_BBYMAX":33.166667,
+    "ne:MIN_BBYMIN":33.1,
+    "ne:MIN_PERKM":34.0,
+    "ne:MIN_PERMI":21.0,
+    "ne:NAME":"Ben Gardane",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Ben Gardane",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":19843,
+    "ne:POP_MIN":13364,
+    "ne:POP_OTHER":18543,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Tunisia",
+    "ne:SOV_A3":"TUN",
+    "ne:TIMEZONE":"Africa/Tunis",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2472431,
+    "qs:gn_pop":13364,
+    "qs:name":"Bin Qirdan",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Madanin",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":257033,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442012,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":33.138889,
+    "wd:longitude":11.216667,
+    "wd:wordcount":318,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472431,
+        "gp:id":1442012,
+        "qs:id":257033,
+        "wd:id":"Q1143002",
+        "wk:page":"Ben Gardane"
+    },
+    "wof:country":"TN",
+    "wof:created":1459008867,
+    "wof:geomhash":"0692f5c801a544c1e922e85644a7f142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757509,
+            "locality_id":421170757,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":421170757,
+    "wof:lastmodified":1527716468,
+    "wof:name":"Bin Qirdan",
+    "wof:parent_id":1108757509,
+    "wof:placetype":"locality",
+    "wof:population":13364,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.21965,
+    33.13783,
+    11.21965,
+    33.13783
+],
+  "geometry": {"coordinates":[11.21965,33.13783],"type":"Point"}
+}

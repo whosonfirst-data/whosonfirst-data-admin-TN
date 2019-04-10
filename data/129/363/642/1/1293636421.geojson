@@ -1,0 +1,70 @@
+{
+  "id": 1293636421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.07295,33.8882,10.07295,33.8882",
+    "geom:latitude":33.8882,
+    "geom:longitude":10.07295,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Nahal",
+    "gn:country_code":"TN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473356,
+    "gn:latitude":33.8882,
+    "gn:longitude":10.07295,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Nahal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Na\u1e29l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473356
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"4ec8d09c5ea4ae0e6d0ec83b814fa493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757311,
+            "locality_id":1293636421,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1293636421,
+    "wof:lastmodified":1537706520,
+    "wof:name":"Nahal",
+    "wof:parent_id":1108757311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.07295,
+    33.8882,
+    10.07295,
+    33.8882
+],
+  "geometry": {"coordinates":[10.07295,33.8882],"type":"Point"}
+}

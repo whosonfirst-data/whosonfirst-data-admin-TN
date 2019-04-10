@@ -1,0 +1,67 @@
+{
+  "id": 1209784261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.25806,36.0075,10.25806,36.0075",
+    "geom:latitude":36.0075,
+    "geom:longitude":10.25806,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Oulad Neffet",
+    "gn:country_code":"TN",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586399,
+    "gn:latitude":36.0075,
+    "gn:longitude":10.25806,
+    "gn:modification_date":"1999-06-13",
+    "gn:name":"Oulad Neffet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586399
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"81ac78f8cf98d554ddf6c10d27fc59b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757699,
+            "locality_id":1209784261,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":1209784261,
+    "wof:lastmodified":1536370331,
+    "wof:name":"Oulad Neffet",
+    "wof:parent_id":1108757699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.25806,
+    36.0075,
+    10.25806,
+    36.0075
+],
+  "geometry": {"coordinates":[10.25806,36.0075],"type":"Point"}
+}

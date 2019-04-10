@@ -1,0 +1,72 @@
+{
+  "id": 1293731419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.29524,33.30179,10.29524,33.30179",
+    "geom:latitude":33.30179,
+    "geom:longitude":10.29524,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ksar Djedid",
+    "gn:country_code":"TN",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473462,
+    "gn:latitude":33.30179,
+    "gn:longitude":10.29524,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ksar Djedid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biada",
+        "Ksar Djedid",
+        "Al Qa\u015fr al Jad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473462
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"0d9eab695013649adc9ab50b8f0a1ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757513,
+            "locality_id":1293731419,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":1293731419,
+    "wof:lastmodified":1537706521,
+    "wof:name":"Ksar Djedid",
+    "wof:parent_id":1108757513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.29524,
+    33.30179,
+    10.29524,
+    33.30179
+],
+  "geometry": {"coordinates":[10.29524,33.30179],"type":"Point"}
+}

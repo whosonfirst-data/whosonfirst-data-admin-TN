@@ -1,0 +1,97 @@
+{
+  "id": 421177731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.73645,33.78743,8.73645,33.78743",
+    "geom:latitude":33.78743,
+    "geom:longitude":8.73645,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u0637\u0646\u0627\u0633\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Fatnassa"
+    ],
+    "name:eng_x_preferred":[
+        "Fatnassa"
+    ],
+    "name:fre_x_preferred":[
+        "Fatnassa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u0442\u043d\u0430\u0441\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Fatnassa"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2471103,
+    "qs:gn_pop":0,
+    "qs:name":"Fitnasah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Qibili",
+    "qs:photos":38,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":38,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1352998,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442290,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":15,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471103,
+        "gp:id":1442290,
+        "qs:id":1352998,
+        "wd:id":"Q560125",
+        "wk:page":"Fatnassa"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009158,
+    "wof:geomhash":"4eae73d3a656ab79faa56fb941434255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757441,
+            "locality_id":421177731,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":421177731,
+    "wof:lastmodified":1527716477,
+    "wof:name":"Fitnasah",
+    "wof:parent_id":1108757441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.73645,
+    33.78743,
+    8.73645,
+    33.78743
+],
+  "geometry": {"coordinates":[8.73645,33.78743],"type":"Point"}
+}

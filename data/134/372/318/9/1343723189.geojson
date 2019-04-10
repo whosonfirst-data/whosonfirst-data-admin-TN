@@ -1,0 +1,70 @@
+{
+  "id": 1343723189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.99957,33.50936,9.99957,33.50936",
+    "geom:latitude":33.50936,
+    "geom:longitude":9.99957,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Chabet Smala",
+    "gn:country_code":"TN",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2466911,
+    "gn:latitude":33.50936,
+    "gn:longitude":9.99957,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Chabet Smala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shu\u2018bat Zam\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2466911
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"fdbd228d3105e273a0df78c21d3e46b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757321,
+            "locality_id":1343723189,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1343723189,
+    "wof:lastmodified":1537706481,
+    "wof:name":"Chabet Smala",
+    "wof:parent_id":1108757321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99957,
+    33.50936,
+    9.99957,
+    33.50936
+],
+  "geometry": {"coordinates":[9.99957,33.50936],"type":"Point"}
+}

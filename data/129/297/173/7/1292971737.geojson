@@ -1,0 +1,71 @@
+{
+  "id": 1292971737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.20111,35.79315,9.20111,35.79315",
+    "geom:latitude":35.79315,
+    "geom:longitude":9.20111,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Haraig",
+    "gn:country_code":"TN",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473737,
+    "gn:latitude":35.79315,
+    "gn:longitude":9.20111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Hara\u00efg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28ar\u0101\u2019iq",
+        "El Hara\u00efg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473737
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"95b848af5d9f9bed874455792a8ae25f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757675,
+            "locality_id":1292971737,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1292971737,
+    "wof:lastmodified":1537706527,
+    "wof:name":"El Haraig",
+    "wof:parent_id":1108757675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.20111,
+    35.79315,
+    9.20111,
+    35.79315
+],
+  "geometry": {"coordinates":[9.20111,35.79315],"type":"Point"}
+}

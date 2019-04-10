@@ -1,0 +1,72 @@
+{
+  "id": 1225801651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50917,35.94417,9.50917,35.94417",
+    "geom:latitude":35.94417,
+    "geom:longitude":9.50917,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dechret Bou Sabioun",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471601,
+    "gn:latitude":35.94417,
+    "gn:longitude":9.50917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dechret Bou Sabioun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashrat B\u016b Sabioun",
+        "Dechret Bou Sabioun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471601
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"81fadedc102b53442c94eeb97510a467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757681,
+            "locality_id":1225801651,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1225801651,
+    "wof:lastmodified":1537706504,
+    "wof:name":"Dechret Bou Sabioun",
+    "wof:parent_id":1108757681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50917,
+    35.94417,
+    9.50917,
+    35.94417
+],
+  "geometry": {"coordinates":[9.50917,35.94417],"type":"Point"}
+}

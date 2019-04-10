@@ -1,0 +1,78 @@
+{
+  "id": 1226547447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8274,35.35375,9.8274,35.35375",
+    "geom:latitude":35.35375,
+    "geom:longitude":9.8274,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Menzel M'heri",
+    "gn:country_code":"TN",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2466418,
+    "gn:latitude":35.35375,
+    "gn:longitude":9.8274,
+    "gn:modification_date":"2018-03-22",
+    "gn:name":"Menzel M\u2019h\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi-Ali-Narsallah",
+        "Nsar Allah",
+        "Sidi Ali Ben Nasr Allah",
+        "S\u012bd\u012b \u2018Al\u012b Bin Na\u015fr All\u0101h",
+        "Sidi Naceur Allah",
+        "Sidi Nasr Allah",
+        "Sidi Nasseur Allah",
+        "Menzel M\u2019h\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2466418,
+        "wk:page":"Menzel_Mehiri"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"c135fd46e63f07b032d75951c812b06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757393,
+            "locality_id":1226547447,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1226547447,
+    "wof:lastmodified":1537706481,
+    "wof:name":"Menzel M'heri",
+    "wof:parent_id":1108757393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8274,
+    35.35375,
+    9.8274,
+    35.35375
+],
+  "geometry": {"coordinates":[9.8274,35.35375],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890438737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.06056,35.50056,11.06056,35.50056",
+    "geom:latitude":35.50056,
+    "geom:longitude":11.06056,
+    "gn:country":"TN",
+    "gn:fcode":"PPLX",
+    "gn:pop":44349,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Az Zaw\u012blah"
+    ],
+    "qs:name":"Zouila",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85679161,
+        85632703,
+        1108757481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472833,
+        "qs:id":1035875
+    },
+    "wof:country":"TN",
+    "wof:created":1469052207,
+    "wof:geomhash":"ce9865a286e4682f128257400a9498cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757481,
+            "neighbourhood_id":890438737,
+            "region_id":85679161
+        }
+    ],
+    "wof:id":890438737,
+    "wof:lastmodified":1505343567,
+    "wof:name":"Zouila",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":44349,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.06056,
+    35.50056,
+    11.06056,
+    35.50056
+],
+  "geometry": {"coordinates":[11.06056,35.50056],"type":"Point"}
+}

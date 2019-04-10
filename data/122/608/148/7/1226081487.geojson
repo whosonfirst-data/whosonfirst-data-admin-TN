@@ -1,0 +1,72 @@
+{
+  "id": 1226081487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9275,36.73194,9.9275,36.73194",
+    "geom:latitude":36.73194,
+    "geom:longitude":9.9275,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Borj el Hafsia",
+    "gn:country_code":"TN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472039,
+    "gn:latitude":36.73194,
+    "gn:longitude":9.9275,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Borj el Hafsia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bordj el Hafsia",
+        "Burj al \u1e28af\u015f\u012byah",
+        "Borj el Hafsia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472039
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"196b5e6cd64ab95aab69ffaccd45579b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757503,
+            "locality_id":1226081487,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1226081487,
+    "wof:lastmodified":1537706512,
+    "wof:name":"Borj el Hafsia",
+    "wof:parent_id":1108757503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9275,
+    36.73194,
+    9.9275,
+    36.73194
+],
+  "geometry": {"coordinates":[9.9275,36.73194],"type":"Point"}
+}

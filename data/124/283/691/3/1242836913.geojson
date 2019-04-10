@@ -1,0 +1,67 @@
+{
+  "id": 1242836913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.85965,36.72449,10.85965,36.72449",
+    "geom:latitude":36.72449,
+    "geom:longitude":10.85965,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dar Sidi Attik",
+    "gn:country_code":"TN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2581956,
+    "gn:latitude":36.72449,
+    "gn:longitude":10.85965,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Dar Sidi Attik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2581956
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e316e6454d0ccd0d9cb9099e73cbafff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757571,
+            "locality_id":1242836913,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1242836913,
+    "wof:lastmodified":1536690402,
+    "wof:name":"Dar Sidi Attik",
+    "wof:parent_id":1108757571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.85965,
+    36.72449,
+    10.85965,
+    36.72449
+],
+  "geometry": {"coordinates":[10.85965,36.72449],"type":"Point"}
+}

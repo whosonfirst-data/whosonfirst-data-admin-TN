@@ -1,0 +1,66 @@
+{
+  "id": 1209232679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.56735,36.68269,9.56735,36.68269",
+    "geom:latitude":36.68269,
+    "geom:longitude":9.56735,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sidi Nasseur",
+    "gn:country_code":"TN",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2466255,
+    "gn:latitude":36.68269,
+    "gn:longitude":9.56735,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sidi Nasseur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Naceur",
+        "Sidi Nasseur",
+        "S\u012bd\u012b an N\u0101\u015fir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2466255
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"106e7891b96ce9717a1cfb4bf4875be3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209232679
+        }
+    ],
+    "wof:id":1209232679,
+    "wof:lastmodified":1537706480,
+    "wof:name":"Sidi Nasseur",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.56735,
+    36.68269,
+    9.56735,
+    36.68269
+],
+  "geometry": {"coordinates":[9.56735,36.68269],"type":"Point"}
+}

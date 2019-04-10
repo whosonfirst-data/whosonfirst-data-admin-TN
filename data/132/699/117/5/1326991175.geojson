@@ -1,0 +1,67 @@
+{
+  "id": 1326991175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.77249,33.88103,9.77249,33.88103",
+    "geom:latitude":33.88103,
+    "geom:longitude":9.77249,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sombat",
+    "gn:country_code":"TN",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9782426,
+    "gn:latitude":33.88103,
+    "gn:longitude":9.77249,
+    "gn:modification_date":"2014-10-26",
+    "gn:name":"Sombat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9782426
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"66e1fe467abacb7caeb71bbc03f20ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757307,
+            "locality_id":1326991175,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1326991175,
+    "wof:lastmodified":1536819217,
+    "wof:name":"Sombat",
+    "wof:parent_id":1108757307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.77249,
+    33.88103,
+    9.77249,
+    33.88103
+],
+  "geometry": {"coordinates":[9.77249,33.88103],"type":"Point"}
+}

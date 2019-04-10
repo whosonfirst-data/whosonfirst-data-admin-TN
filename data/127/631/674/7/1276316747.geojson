@@ -1,0 +1,67 @@
+{
+  "id": 1276316747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.00861,35.79306,9.00861,35.79306",
+    "geom:latitude":35.79306,
+    "geom:longitude":9.00861,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Fouk Ahmed el Aifa",
+    "gn:country_code":"TN",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2588281,
+    "gn:latitude":35.79306,
+    "gn:longitude":9.00861,
+    "gn:modification_date":"1997-09-23",
+    "gn:name":"Fouk Ahmed el A\u00effa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2588281
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"da5c9bf9d1f95b1f98a2487776966d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757445,
+            "locality_id":1276316747,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1276316747,
+    "wof:lastmodified":1536801001,
+    "wof:name":"Fouk Ahmed el Aifa",
+    "wof:parent_id":1108757445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.00861,
+    35.79306,
+    9.00861,
+    35.79306
+],
+  "geometry": {"coordinates":[9.00861,35.79306],"type":"Point"}
+}

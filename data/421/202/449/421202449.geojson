@@ -1,0 +1,120 @@
+{
+  "id": 421202449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.53722,35.87278,10.53722,35.87278",
+    "geom:latitude":35.87278,
+    "geom:longitude":10.53722,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0639\u0629 \u0627\u0644\u0643\u0628\u0631\u0649"
+    ],
+    "name:cat_x_preferred":[
+        "Kalaa Kebira"
+    ],
+    "name:dut_x_preferred":[
+        "Kal\u00e2a Kebira"
+    ],
+    "name:eng_x_preferred":[
+        "Kal\u00e2a Kebira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0639\u0647 \u0627\u0644\u06a9\u0628\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Kal\u00e2a Kebira"
+    ],
+    "name:fre_x_preferred":[
+        "Kal\u00e2a Kebira"
+    ],
+    "name:ita_x_preferred":[
+        "Kal\u00e2a Kebira"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0639\u0647 \u0627\u0644\u06a9\u0628\u0631\u06cc"
+    ],
+    "name:ron_x_preferred":[
+        "Kala\u00e2 Kebira"
+    ],
+    "name:rum_x_preferred":[
+        "Kala\u00e2 Kebira"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u044f\u0430-\u0435\u043b\u044c-\u041a\u0435\u0431\u0456\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Qalaa Kebira"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0639\u06c3 \u0627\u0644\u06a9\u0628\u0631\u06cc"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473483,
+    "qs:gn_pop":0,
+    "qs:name":"Al Qalah al Kubra",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Susah",
+    "qs:photos":362,
+    "qs:photos_1k":73,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":362,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":222671,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441849,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473483,
+        "gp:id":1441849,
+        "qs:id":222671,
+        "wd:id":"Q2718742",
+        "wk:page":"Kal\u00e2a Kebira"
+    },
+    "wof:country":"TN",
+    "wof:created":1459010118,
+    "wof:geomhash":"86bee7f1796acb0102135fd9bbd5d4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757695,
+            "locality_id":421202449,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":421202449,
+    "wof:lastmodified":1514506605,
+    "wof:name":"Al Qalah al Kubra",
+    "wof:parent_id":1108757695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.53722,
+    35.87278,
+    10.53722,
+    35.87278
+],
+  "geometry": {"coordinates":[10.53722,35.87278],"type":"Point"}
+}

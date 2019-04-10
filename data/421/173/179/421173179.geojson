@@ -1,0 +1,183 @@
+{
+  "id": 421173179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.305,36.81806,10.305,36.81806",
+    "geom:latitude":36.81806,
+    "geom:longitude":10.305,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0642 \u0627\u0644\u0648\u0627\u062f\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u053d\u0561\u056c\u0584 \u0567\u056c \u0548\u0582\u0565\u0564"
+    ],
+    "name:baq_x_preferred":[
+        "Goleta"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u043b\u044c\u043a-\u044d\u043b\u044c-\u0423\u044d\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "La Goulette"
+    ],
+    "name:dan_x_preferred":[
+        "La Goulette"
+    ],
+    "name:deu_x_preferred":[
+        "La Goulette"
+    ],
+    "name:dut_x_preferred":[
+        "La Goulette"
+    ],
+    "name:eng_x_preferred":[
+        "La Goulette"
+    ],
+    "name:eus_x_preferred":[
+        "Goleta"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0644\u0642 \u0627\u0644\u0648\u0627\u062f\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "La Goulette"
+    ],
+    "name:fre_x_preferred":[
+        "La Goulette"
+    ],
+    "name:ger_x_preferred":[
+        "La Goulette"
+    ],
+    "name:glg_x_preferred":[
+        "La Goulette"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1 \u0393\u03ba\u03bf\u03c5\u03bb\u03ad\u03c4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05d2\u05d5\u05dc\u05d8"
+    ],
+    "name:ind_x_preferred":[
+        "La Goulette"
+    ],
+    "name:ita_x_preferred":[
+        "La Goletta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30b0\u30ec\u30c3\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uad74\ub808\ud2b8"
+    ],
+    "name:lit_x_preferred":[
+        "Chalk el Uedas"
+    ],
+    "name:ltz_x_preferred":[
+        "La Goulette"
+    ],
+    "name:per_x_preferred":[
+        "\u062d\u0644\u0642 \u0627\u0644\u0648\u0627\u062f\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "La Goulette"
+    ],
+    "name:rum_x_preferred":[
+        "La Goulette"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u044c\u043a-\u044d\u043b\u044c-\u0423\u044d\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "La Goulette"
+    ],
+    "name:spa_x_preferred":[
+        "La Goleta"
+    ],
+    "name:swe_x_preferred":[
+        "La Goulette"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0490\u0443\u043b\u0454\u0442"
+    ],
+    "name:unk_x_variant":[
+        "El Aouina"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06af\u0648\u0644\u06cc\u062a\u06cc"
+    ],
+    "name:wel_x_preferred":[
+        "La Goulette"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2470656,
+    "qs:gn_pop":79795,
+    "qs:name":"Halq al Wadi",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Tunis",
+    "qs:photos":628,
+    "qs:photos_1k":127,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":628,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":492892,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442318,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679123,
+        1108757755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470656,
+        "gp:id":1442318,
+        "qs:id":492892,
+        "wd:id":"Q798445",
+        "wk:page":"La Goulette"
+    },
+    "wof:country":"TN",
+    "wof:created":1459008973,
+    "wof:geomhash":"c94ffeabee553b38d154ad1fc845df85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757755,
+            "locality_id":421173179,
+            "region_id":85679123
+        }
+    ],
+    "wof:id":421173179,
+    "wof:lastmodified":1514506634,
+    "wof:name":"Halq al Wadi",
+    "wof:parent_id":1108757755,
+    "wof:placetype":"locality",
+    "wof:population":79795,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.305,
+    36.81806,
+    10.305,
+    36.81806
+],
+  "geometry": {"coordinates":[10.305,36.81806],"type":"Point"}
+}

@@ -1,0 +1,153 @@
+{
+  "id": 421200301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.78594,37.15368,9.78594,37.15368",
+    "geom:latitude":37.15368,
+    "geom:longitude":9.78594,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0632\u0644 \u0628\u0648\u0631\u0642\u064a\u0628\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u0544\u0565\u0576\u0566\u0565\u056c \u0532\u0578\u0582\u0580\u0563\u056b\u0562\u0561"
+    ],
+    "name:cat_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u723e\u5409\u5df4\u71df"
+    ],
+    "name:dut_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "name:eng_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "name:epo_x_preferred":[
+        "Mencel-Burgibo"
+    ],
+    "name:fre_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "name:ger_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "name:hrv_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "name:kor_x_preferred":[
+        "\uba58\uc824\ubd80\ub974\uae30\ubc14"
+    ],
+    "name:oci_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0646\u0632\u0644 \u0628\u0648 \u0631\u0642\u06cc\u0628\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Manzil Bu Rukajba"
+    ],
+    "name:rum_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "name:sco_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "name:spa_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u043d\u0437\u0435\u043b \u0411\u0443\u0440\u0433\u0438\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "name:tur_x_preferred":[
+        "Menzel Burgiba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043d\u0437\u0435\u043b\u044c-\u0411\u0443\u0440\u0433\u0456\u0431\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bourguiba"
+    ],
+    "name:uzb_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "name:wel_x_preferred":[
+        "Menzel Bourguiba"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2469264,
+    "qs:gn_pop":46245,
+    "qs:name":"Sidi Fath Allah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Tunis",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1298678,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442674,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469264,
+        "gp:id":1442674,
+        "qs:id":1298678,
+        "wd:id":"Q27435",
+        "wk:page":"Menzel Bourguiba"
+    },
+    "wof:country":"TN",
+    "wof:created":1459010018,
+    "wof:geomhash":"6707c6825532734bde5e08d742558a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757297,
+            "locality_id":421200301,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":421200301,
+    "wof:lastmodified":1514506697,
+    "wof:name":"Sidi Fath Allah",
+    "wof:parent_id":1108757297,
+    "wof:placetype":"locality",
+    "wof:population":46245,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.78594,
+    37.15368,
+    9.78594,
+    37.15368
+],
+  "geometry": {"coordinates":[9.78594,37.15368],"type":"Point"}
+}

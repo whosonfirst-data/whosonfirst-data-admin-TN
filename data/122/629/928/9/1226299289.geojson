@@ -1,0 +1,71 @@
+{
+  "id": 1226299289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.54726,35.95896,9.54726,35.95896",
+    "geom:latitude":35.95896,
+    "geom:longitude":9.54726,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dechret Sidi Hamada",
+    "gn:country_code":"TN",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471594,
+    "gn:latitude":35.95896,
+    "gn:longitude":9.54726,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dechret Sidi Hamada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashrat S\u012bd\u012b \u1e28am\u0101dah",
+        "Dechret Sidi Hamada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471594
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"ac2b79ab320f8ed0a9cf6b8248718f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757681,
+            "locality_id":1226299289,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1226299289,
+    "wof:lastmodified":1537706504,
+    "wof:name":"Dechret Sidi Hamada",
+    "wof:parent_id":1108757681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.54726,
+    35.95896,
+    9.54726,
+    35.95896
+],
+  "geometry": {"coordinates":[9.54726,35.95896],"type":"Point"}
+}

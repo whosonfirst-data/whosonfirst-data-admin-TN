@@ -1,0 +1,67 @@
+{
+  "id": 1209938627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.75869,36.59617,8.75869,36.59617",
+    "geom:latitude":36.59617,
+    "geom:longitude":8.75869,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Aioun",
+    "gn:country_code":"TN",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570762,
+    "gn:latitude":36.59617,
+    "gn:longitude":8.75869,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"El A\u00efoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570762
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f126b099be762649bf522c3b459f60b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757361,
+            "locality_id":1209938627,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1209938627,
+    "wof:lastmodified":1536389487,
+    "wof:name":"El Aioun",
+    "wof:parent_id":1108757361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.75869,
+    36.59617,
+    8.75869,
+    36.59617
+],
+  "geometry": {"coordinates":[8.75869,36.59617],"type":"Point"}
+}

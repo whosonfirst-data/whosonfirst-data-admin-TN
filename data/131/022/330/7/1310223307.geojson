@@ -1,0 +1,75 @@
+{
+  "id": 1310223307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.10837,36.87483,11.10837,36.87483",
+    "geom:latitude":36.87483,
+    "geom:longitude":11.10837,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hammam el Rhezez",
+    "gn:country_code":"TN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470586,
+    "gn:latitude":36.87483,
+    "gn:longitude":11.10837,
+    "gn:modification_date":"2018-03-27",
+    "gn:name":"Hammam el Rhezez",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hammam el Rhez\u00e8ze",
+        "Hammam Lekses",
+        "Hammam el Rhezez",
+        "Hamam-el-Guezeze",
+        "\u1e28amm\u0101m al Ghazz\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470586,
+        "wk:page":"Hammam_Ghez%C3%A8ze"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"bef5de108faa016600411c7b3b7aa61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757575,
+            "locality_id":1310223307,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1310223307,
+    "wof:lastmodified":1537706495,
+    "wof:name":"Hammam el Rhezez",
+    "wof:parent_id":1108757575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.10837,
+    36.87483,
+    11.10837,
+    36.87483
+],
+  "geometry": {"coordinates":[11.10837,36.87483],"type":"Point"}
+}

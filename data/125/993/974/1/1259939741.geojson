@@ -1,0 +1,67 @@
+{
+  "id": 1259939741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75078,34.85921,10.75078,34.85921",
+    "geom:latitude":34.85921,
+    "geom:longitude":10.75078,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Dar Mohammed Salah",
+    "gn:country_code":"TN",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572054,
+    "gn:latitude":34.85921,
+    "gn:longitude":10.75078,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Dar Mohammed Salah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679151,
+        1108757615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572054
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"01a7e2904181204a69421608acb2313e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757615,
+            "locality_id":1259939741,
+            "region_id":85679151
+        }
+    ],
+    "wof:id":1259939741,
+    "wof:lastmodified":1536698555,
+    "wof:name":"Dar Mohammed Salah",
+    "wof:parent_id":1108757615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75078,
+    34.85921,
+    10.75078,
+    34.85921
+],
+  "geometry": {"coordinates":[10.75078,34.85921],"type":"Point"}
+}

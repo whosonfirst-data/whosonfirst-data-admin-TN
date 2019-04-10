@@ -1,0 +1,67 @@
+{
+  "id": 1209455683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.27111,34.01772,8.27111,34.01772",
+    "geom:latitude":34.01772,
+    "geom:longitude":8.27111,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Cedada",
+    "gn:country_code":"TN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2467464,
+    "gn:latitude":34.01772,
+    "gn:longitude":8.27111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cedada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seddada",
+        "Saddada",
+        "Sadd\u0101dah",
+        "Cedada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467464
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"31927f50be5ebf437056694af3cd4e6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209455683
+        }
+    ],
+    "wof:id":1209455683,
+    "wof:lastmodified":1537706483,
+    "wof:name":"Cedada",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.27111,
+    34.01772,
+    8.27111,
+    34.01772
+],
+  "geometry": {"coordinates":[8.27111,34.01772],"type":"Point"}
+}

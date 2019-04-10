@@ -1,0 +1,112 @@
+{
+  "id": 421202391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.47306,35.95667,10.47306,35.95667",
+    "geom:latitude":35.95667,
+    "geom:longitude":10.47306,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0628\u0648\u0639\u0644\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Sidi Bou Ali"
+    ],
+    "name:dut_x_preferred":[
+        "Sidi Bou Ali"
+    ],
+    "name:eng_x_preferred":[
+        "Sidi Bou Ali"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Bou Ali"
+    ],
+    "name:fre_x_preferred":[
+        "Sidi Bou Ali"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Bou Ali"
+    ],
+    "name:rum_x_preferred":[
+        "Sidi Bou Ali"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0434\u0456-\u0431\u0443-\u0410\u043b\u0456"
+    ],
+    "name:unk_x_variant":[
+        "S\u012bd\u012b B\u016b \u2018Al\u012b"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2466034,
+    "qs:gn_pop":8855,
+    "qs:name":"Sidi Bu Ali",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Susah",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":221707,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442661,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2466034,
+        "gp:id":1442661,
+        "qs:id":221707,
+        "wd:id":"Q3142513",
+        "wk:page":"Sidi Bou Ali"
+    },
+    "wof:country":"TN",
+    "wof:created":1459010116,
+    "wof:geomhash":"2587b39b294c832596513bbbf7df3065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757703,
+            "locality_id":421202391,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":421202391,
+    "wof:lastmodified":1527716203,
+    "wof:name":"Sidi Bu Ali",
+    "wof:parent_id":1108757703,
+    "wof:placetype":"locality",
+    "wof:population":8855,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.47306,
+    35.95667,
+    10.47306,
+    35.95667
+],
+  "geometry": {"coordinates":[10.47306,35.95667],"type":"Point"}
+}

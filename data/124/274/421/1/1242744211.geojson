@@ -1,0 +1,71 @@
+{
+  "id": 1242744211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.94512,36.88928,9.94512,36.88928",
+    "geom:latitude":36.88928,
+    "geom:longitude":9.94512,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Chaouat",
+    "gn:country_code":"TN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2466879,
+    "gn:latitude":36.88928,
+    "gn:longitude":9.94512,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chaouat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuw\u0101\u0163",
+        "Chaouat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2466879
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"ed210f31bcfd7b4afbebf4f87c730ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757499,
+            "locality_id":1242744211,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1242744211,
+    "wof:lastmodified":1537706481,
+    "wof:name":"Chaouat",
+    "wof:parent_id":1108757499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.94512,
+    36.88928,
+    9.94512,
+    36.88928
+],
+  "geometry": {"coordinates":[9.94512,36.88928],"type":"Point"}
+}

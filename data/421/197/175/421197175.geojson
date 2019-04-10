@@ -1,0 +1,77 @@
+{
+  "id": 421197175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.17278,36.83889,10.17278,36.83889",
+    "geom:latitude":36.83889,
+    "geom:longitude":10.17278,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2471829,
+    "qs:gn_pop":0,
+    "qs:name":"Cr\u00e9mieuxville",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Tunis",
+    "qs:photos":119,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":119,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1352996,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442071,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108757755,
+        85679123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471829,
+        "gp:id":1442071,
+        "qs:id":1352996
+    },
+    "wof:country":"TN",
+    "wof:created":1459009905,
+    "wof:geomhash":"9948711d39ea90d1f5bcd96733cc6237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757755,
+            "locality_id":-1,
+            "neighbourhood_id":421197175,
+            "region_id":85679123
+        }
+    ],
+    "wof:id":421197175,
+    "wof:lastmodified":1531858751,
+    "wof:name":"Cr\u00e9mieuxville",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.17278,
+    36.83889,
+    10.17278,
+    36.83889
+],
+  "geometry": {"coordinates":[10.17278,36.83889],"type":"Point"}
+}

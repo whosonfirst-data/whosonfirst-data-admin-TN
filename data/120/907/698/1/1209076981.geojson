@@ -1,0 +1,61 @@
+{
+  "id": 1209076981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.27174,35.90156,8.27174,35.90156",
+    "geom:latitude":35.90156,
+    "geom:longitude":8.27174,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Henchir Zarouane",
+    "gn:country_code":"TN",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589467,
+    "gn:latitude":35.90156,
+    "gn:longitude":8.27174,
+    "gn:modification_date":"1997-09-08",
+    "gn:name":"Henchir Zarouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589467
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"4eb6f412d5a54008b72ffa69c009f45d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209076981
+        }
+    ],
+    "wof:id":1209076981,
+    "wof:lastmodified":1536298462,
+    "wof:name":"Henchir Zarouane",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.27174,
+    35.90156,
+    8.27174,
+    35.90156
+],
+  "geometry": {"coordinates":[8.27174,35.90156],"type":"Point"}
+}

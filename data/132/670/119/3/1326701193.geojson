@@ -1,0 +1,72 @@
+{
+  "id": 1326701193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.17167,35.95806,9.17167,35.95806",
+    "geom:latitude":35.95806,
+    "geom:longitude":9.17167,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bir Khelifa",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472354,
+    "gn:latitude":35.95806,
+    "gn:longitude":9.17167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bir Khelifa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u2019r Khal\u012bfah",
+        "Bir Khelifa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472354
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"b1b2d68864df5f240ce0a8ee5a10e1c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757679,
+            "locality_id":1326701193,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1326701193,
+    "wof:lastmodified":1537706513,
+    "wof:name":"Bir Khelifa",
+    "wof:parent_id":1108757679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.17167,
+    35.95806,
+    9.17167,
+    35.95806
+],
+  "geometry": {"coordinates":[9.17167,35.95806],"type":"Point"}
+}

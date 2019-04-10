@@ -1,0 +1,231 @@
+{
+  "id": 421200581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.21889,36.75306,10.21889,36.75306",
+    "geom:latitude":36.75306,
+    "geom:longitude":10.21889,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0646 \u0639\u0631\u0648\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09a8 \u0985\u09cd\u09af\u09be\u09b0\u09c1\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:chi_x_preferred":[
+        "\u672c\u963f\u9c81\u65af"
+    ],
+    "name:cym_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:dan_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:deu_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:dut_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bd \u0391\u03c1\u03bf\u03cd\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646 \u0639\u0631\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:fra_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:fre_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:ger_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bd \u0391\u03c1\u03bf\u03cd\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac7\u0aa8 \u0a8f\u0ab0\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0928 \u0905\u0930\u094c\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:ita_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30f3\u30ca\u30e9\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc6\u0ca8\u0ccd \u0c85\u0cb0\u0ccb\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca4\uc544\ub8e8\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Ben Ar\u016bsa"
+    ],
+    "name:lit_x_preferred":[
+        "Ben Arusas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0928 \u0906\u0930\u094b\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:nld_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:nob_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:nor_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0646 \u0639\u0631\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Bin Arus"
+    ],
+    "name:por_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:ron_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:rum_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d-\u0410\u0440\u0443\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd9\u0db1\u0dca \u0d85\u0dbb\u0dd4\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:swe_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0ba9\u0bcd \u0b85\u0bb0\u0bcb\u0bb5\u0bc1\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c46\u0c28\u0c4d \u0c05\u0c30\u0c4b\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1a\u0e19\u0e2d\u0e32\u0e23\u0e38\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Ben Arus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d-\u0410\u0440\u0443\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Bin \u2018Ar\u016bs"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0646 \u0627\u0631\u0648\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:wel_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:zho_x_preferred":[
+        "\u672c\u963f\u9c81\u65af"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":2472479,
+    "qs:gn_pop":0,
+    "qs:name":"Bin Arus",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Tunis",
+    "qs:photos":58,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":58,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887898,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442007,
+    "src:geom":"quattroshapes",
+    "wd:latitude":36.747222,
+    "wd:longitude":10.333333,
+    "wd:wordcount":240,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679107,
+        1108757271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472479,
+        "gp:id":1442007,
+        "qs:id":887898,
+        "wd:id":"Q816443",
+        "wk:page":"Ben Arous"
+    },
+    "wof:country":"TN",
+    "wof:created":1459010030,
+    "wof:geomhash":"70202de8244e8349d24b5069d28e73b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757271,
+            "locality_id":421200581,
+            "region_id":85679107
+        }
+    ],
+    "wof:id":421200581,
+    "wof:lastmodified":1527716424,
+    "wof:name":"Bin Arus",
+    "wof:parent_id":1108757271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.21889,
+    36.75306,
+    10.21889,
+    36.75306
+],
+  "geometry": {"coordinates":[10.21889,36.75306],"type":"Point"}
+}

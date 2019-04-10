@@ -1,0 +1,67 @@
+{
+  "id": 1209655319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23273,36.70182,10.23273,36.70182",
+    "geom:latitude":36.70182,
+    "geom:longitude":10.23273,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Nassene",
+    "gn:country_code":"TN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2468503,
+    "gn:latitude":36.70182,
+    "gn:longitude":10.23273,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nassene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Les Nassen",
+        "Na\u2018s\u0101n",
+        "Nassen",
+        "Nassene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468503
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"2fb5fbd09502501adb86d82b1b6e0b20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209655319
+        }
+    ],
+    "wof:id":1209655319,
+    "wof:lastmodified":1537706489,
+    "wof:name":"Nassene",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23273,
+    36.70182,
+    10.23273,
+    36.70182
+],
+  "geometry": {"coordinates":[10.23273,36.70182],"type":"Point"}
+}

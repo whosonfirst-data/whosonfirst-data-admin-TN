@@ -1,0 +1,70 @@
+{
+  "id": 1276676483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.07614,36.78031,9.07614,36.78031",
+    "geom:latitude":36.78031,
+    "geom:longitude":9.07614,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hennchir Sidi Saadoum",
+    "gn:country_code":"TN",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470504,
+    "gn:latitude":36.78031,
+    "gn:longitude":9.07614,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Hennchir Sidi Saadoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hansh\u012br S\u012bd\u012b Saadoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679103,
+        1108757251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470504
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e228c9b8fe85d9c2ddaceacd2c76faf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757251,
+            "locality_id":1276676483,
+            "region_id":85679103
+        }
+    ],
+    "wof:id":1276676483,
+    "wof:lastmodified":1537706494,
+    "wof:name":"Hennchir Sidi Saadoum",
+    "wof:parent_id":1108757251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.07614,
+    36.78031,
+    9.07614,
+    36.78031
+],
+  "geometry": {"coordinates":[9.07614,36.78031],"type":"Point"}
+}

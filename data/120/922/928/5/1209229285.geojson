@@ -1,0 +1,64 @@
+{
+  "id": 1209229285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85,36.35,8.85,36.35",
+    "geom:latitude":36.35,
+    "geom:longitude":8.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Douar Hadj Ahmed",
+    "gn:country_code":"TN",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471559,
+    "gn:latitude":36.35,
+    "gn:longitude":8.85,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Douar Hadj Ahmed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daww\u0101r al \u1e28\u0101jj A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471559
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"d9ebe2e9b21e186c2fb1c6f2a09b1cad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209229285
+        }
+    ],
+    "wof:id":1209229285,
+    "wof:lastmodified":1537706502,
+    "wof:name":"Douar Hadj Ahmed",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85,
+    36.35,
+    8.85,
+    36.35
+],
+  "geometry": {"coordinates":[8.85,36.35],"type":"Point"}
+}

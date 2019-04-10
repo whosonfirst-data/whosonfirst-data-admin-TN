@@ -1,0 +1,66 @@
+{
+  "id": 1209584279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.46639,35.90944,10.46639,35.90944",
+    "geom:latitude":35.90944,
+    "geom:longitude":10.46639,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Dar ech Chaouch Abd Alla",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471709,
+    "gn:latitude":35.90944,
+    "gn:longitude":10.46639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dar ech Chaouch Abd Alla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r ash Sh\u0101wush \u2018Abd All\u0101h",
+        "Dar ech Chaouch Abd Alla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471709
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"853e1c811b97b1708545b2a57438f3ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209584279
+        }
+    ],
+    "wof:id":1209584279,
+    "wof:lastmodified":1537706508,
+    "wof:name":"Dar ech Chaouch Abd Alla",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.46639,
+    35.90944000000001,
+    10.46639,
+    35.90944000000001
+],
+  "geometry": {"coordinates":[10.46639,35.90944000000001],"type":"Point"}
+}

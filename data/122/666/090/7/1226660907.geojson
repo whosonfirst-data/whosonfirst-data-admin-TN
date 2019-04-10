@@ -1,0 +1,63 @@
+{
+  "id": 1226660907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.90694,37.02167,10.90694,37.02167",
+    "geom:latitude":37.02167,
+    "geom:longitude":10.90694,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Thonara",
+    "gn:country_code":"TN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572337,
+    "gn:latitude":37.02167,
+    "gn:longitude":10.90694,
+    "gn:modification_date":"1996-09-17",
+    "gn:name":"Thonara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572337
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f9bf23a08f76e17dedf57972399ef595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226660907,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226660907,
+    "wof:lastmodified":1536836483,
+    "wof:name":"Thonara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.90694,
+    37.02167,
+    10.90694,
+    37.02167
+],
+  "geometry": {"coordinates":[10.90694,37.02167],"type":"Point"}
+}

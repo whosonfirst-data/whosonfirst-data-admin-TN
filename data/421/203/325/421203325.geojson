@@ -1,0 +1,108 @@
+{
+  "id": 421203325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.99959,33.47573,9.99959,33.47573",
+    "geom:latitude":33.47573,
+    "geom:longitude":9.99959,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Andr\u00e9 T\u00e9chin\u00e9"
+    ],
+    "name:dan_x_preferred":[
+        "Andr\u00e9 T\u00e9chin\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Andr\u00e9 T\u00e9chin\u00e9"
+    ],
+    "name:eus_x_preferred":[
+        "Andr\u00e9 T\u00e9chin\u00e9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u062f\u0631\u0647 \u062a\u0634\u06cc\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Andr\u00e9 T\u00e9chin\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Andr\u00e9 T\u00e9chin\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c9\u30ec\u30fb\u30c6\u30b7\u30cd"
+    ],
+    "name:mlg_x_preferred":[
+        "Andr\u00e9 T\u00e9chin\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Andr\u00e9 T\u00e9chin\u00e9"
+    ],
+    "name:unk_x_variant":[
+        "Techin"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2464628,
+    "qs:gn_pop":0,
+    "qs:name":"Techine",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Qabis",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":58898,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442729,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464628,
+        "gp:id":1442729,
+        "qs:id":58898
+    },
+    "wof:country":"TN",
+    "wof:created":1459010147,
+    "wof:geomhash":"f40b05e575e979cc4bba1dfef9f9493f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757321,
+            "locality_id":421203325,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":421203325,
+    "wof:lastmodified":1501263258,
+    "wof:name":"Techine",
+    "wof:parent_id":1108757321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99959,
+    33.47573,
+    9.99959,
+    33.47573
+],
+  "geometry": {"coordinates":[9.99959,33.47573],"type":"Point"}
+}

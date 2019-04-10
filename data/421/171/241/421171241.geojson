@@ -1,0 +1,78 @@
+{
+  "id": 421171241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.5659,36.43482,10.5659,36.43482",
+    "geom:latitude":36.43482,
+    "geom:longitude":10.5659,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Fort-Saint"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2472364,
+    "qs:gn_pop":0,
+    "qs:name":"Bi'r Bo Ruqbah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Nabul",
+    "qs:photos":579,
+    "qs:photos_1k":117,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":579,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1221035,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441998,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472364,
+        "gp:id":1441998,
+        "qs:id":1221035
+    },
+    "wof:country":"TN",
+    "wof:created":1459008886,
+    "wof:geomhash":"1ef1d0c186bc9777382c2ea75c744f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757569,
+            "locality_id":421171241,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":421171241,
+    "wof:lastmodified":1501263268,
+    "wof:name":"Bi'r Bo Ruqbah",
+    "wof:parent_id":1108757569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5659,
+    36.43482,
+    10.5659,
+    36.43482
+],
+  "geometry": {"coordinates":[10.5659,36.43482],"type":"Point"}
+}

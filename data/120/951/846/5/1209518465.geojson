@@ -1,0 +1,61 @@
+{
+  "id": 1209518465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.57667,35.29056,8.57667,35.29056",
+    "geom:latitude":35.29056,
+    "geom:longitude":8.57667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Khalouet Bou Haslaya",
+    "gn:country_code":"TN",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589481,
+    "gn:latitude":35.29056,
+    "gn:longitude":8.57667,
+    "gn:modification_date":"1997-09-08",
+    "gn:name":"Khalouet Bou Haslaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589481
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"b6ec34fd65edf6465adc4864db9c80ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209518465
+        }
+    ],
+    "wof:id":1209518465,
+    "wof:lastmodified":1536284656,
+    "wof:name":"Khalouet Bou Haslaya",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.57667,
+    35.29056,
+    8.57667,
+    35.29056
+],
+  "geometry": {"coordinates":[8.57667,35.29056],"type":"Point"}
+}

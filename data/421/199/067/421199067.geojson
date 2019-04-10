@@ -1,0 +1,112 @@
+{
+  "id": 421199067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.42385,35.27311,9.42385,35.27311",
+    "geom:latitude":35.27311,
+    "geom:longitude":9.42385,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0645\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Jelma"
+    ],
+    "name:cym_x_preferred":[
+        "Jilma"
+    ],
+    "name:dut_x_preferred":[
+        "Jilma"
+    ],
+    "name:eng_x_preferred":[
+        "Jilma"
+    ],
+    "name:fra_x_preferred":[
+        "Jilma"
+    ],
+    "name:fre_x_preferred":[
+        "Jilma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0456\u043b\u043c\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Djilma"
+    ],
+    "name:wel_x_preferred":[
+        "Jilma"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2470120,
+    "qs:gn_pop":5647,
+    "qs:name":"Jilmah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Sidi Bu Zayd",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":189008,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442369,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470120,
+        "gp:id":1442369,
+        "qs:id":189008,
+        "wd:id":"Q3178237",
+        "wk:page":"Jilma"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009976,
+    "wof:geomhash":"d481958c3bc643fb0179b94fc52e5e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757633,
+            "locality_id":421199067,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":421199067,
+    "wof:lastmodified":1527716419,
+    "wof:name":"Jilmah",
+    "wof:parent_id":1108757633,
+    "wof:placetype":"locality",
+    "wof:population":5647,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.42385,
+    35.27311,
+    9.42385,
+    35.27311
+],
+  "geometry": {"coordinates":[9.42385,35.27311],"type":"Point"}
+}

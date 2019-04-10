@@ -1,0 +1,67 @@
+{
+  "id": 1276961745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.39448,35.43405,10.39448,35.43405",
+    "geom:latitude":35.43405,
+    "geom:longitude":10.39448,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Chehimet Nord",
+    "gn:country_code":"TN",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204409,
+    "gn:latitude":35.43405,
+    "gn:longitude":10.39448,
+    "gn:modification_date":"2016-07-18",
+    "gn:name":"Chehimet Nord",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679161,
+        1108757485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204409
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"28798b388bd89616d44f85e7e116744f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757485,
+            "locality_id":1276961745,
+            "region_id":85679161
+        }
+    ],
+    "wof:id":1276961745,
+    "wof:lastmodified":1536932378,
+    "wof:name":"Chehimet Nord",
+    "wof:parent_id":1108757485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.39448,
+    35.43405,
+    10.39448,
+    35.43405
+],
+  "geometry": {"coordinates":[10.39448,35.43405],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226725861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93861,37.15556,9.93861,37.15556",
+    "geom:latitude":37.15556,
+    "geom:longitude":9.93861,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar el Khima",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471547,
+    "gn:latitude":37.15556,
+    "gn:longitude":9.93861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar el Khima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Khima",
+        "Daww\u0101r al Khaymah",
+        "Douar el Krima",
+        "Douar el Khima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471547
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"1bacaeaa18b02772189a87dbb32dc61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757299,
+            "locality_id":1226725861,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1226725861,
+    "wof:lastmodified":1537706501,
+    "wof:name":"Douar el Khima",
+    "wof:parent_id":1108757299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93861,
+    37.15556,
+    9.93861,
+    37.15556
+],
+  "geometry": {"coordinates":[9.93861,37.15556],"type":"Point"}
+}

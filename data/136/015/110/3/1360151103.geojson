@@ -1,0 +1,72 @@
+{
+  "id": 1360151103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.45194,37.01861,9.45194,37.01861",
+    "geom:latitude":37.01861,
+    "geom:longitude":9.45194,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar el Arab",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471568,
+    "gn:latitude":37.01861,
+    "gn:longitude":9.45194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar el Arab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daww\u0101r al \u2018Arab",
+        "Douar el Arab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471568
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"6c2044c328a03a521b2327de1aaf2b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757285,
+            "locality_id":1360151103,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1360151103,
+    "wof:lastmodified":1537706503,
+    "wof:name":"Douar el Arab",
+    "wof:parent_id":1108757285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.45194,
+    37.01861,
+    9.45194,
+    37.01861
+],
+  "geometry": {"coordinates":[9.45194,37.01861],"type":"Point"}
+}

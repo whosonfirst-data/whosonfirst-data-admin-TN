@@ -1,0 +1,67 @@
+{
+  "id": 1293859645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.875,37.12361,9.875,37.12361",
+    "geom:latitude":37.12361,
+    "geom:longitude":9.875,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar el Helalif",
+    "gn:country_code":"TN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589992,
+    "gn:latitude":37.12361,
+    "gn:longitude":9.875,
+    "gn:modification_date":"1998-02-26",
+    "gn:name":"Douar el Helalif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589992
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"fe9227ec4cc656d8eea359e8097e49b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757297,
+            "locality_id":1293859645,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1293859645,
+    "wof:lastmodified":1536747533,
+    "wof:name":"Douar el Helalif",
+    "wof:parent_id":1108757297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.875,
+    37.12361,
+    9.875,
+    37.12361
+],
+  "geometry": {"coordinates":[9.875,37.12361],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344232889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.63751,37.02192,9.63751,37.02192",
+    "geom:latitude":37.02192,
+    "geom:longitude":9.63751,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Borj ech Chouchana",
+    "gn:country_code":"TN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586165,
+    "gn:latitude":37.02192,
+    "gn:longitude":9.63751,
+    "gn:modification_date":"1997-04-22",
+    "gn:name":"Borj ech Chouchana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586165
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"3194e79798ea201b0c4b3f89057914c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757293,
+            "locality_id":1344232889,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1344232889,
+    "wof:lastmodified":1536624920,
+    "wof:name":"Borj ech Chouchana",
+    "wof:parent_id":1108757293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.63751,
+    37.02192,
+    9.63751,
+    37.02192
+],
+  "geometry": {"coordinates":[9.63751,37.02192],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242948931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.935,36.93778,9.935,36.93778",
+    "geom:latitude":36.93778,
+    "geom:longitude":9.935,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar Dagma",
+    "gn:country_code":"TN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2585004,
+    "gn:latitude":36.93778,
+    "gn:longitude":9.935,
+    "gn:modification_date":"1997-04-18",
+    "gn:name":"Douar Dagma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2585004
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f5ae3aea990b8e9d44f67833666da96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757305,
+            "locality_id":1242948931,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1242948931,
+    "wof:lastmodified":1537024807,
+    "wof:name":"Douar Dagma",
+    "wof:parent_id":1108757305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.935,
+    36.93778,
+    9.935,
+    36.93778
+],
+  "geometry": {"coordinates":[9.935,36.93778],"type":"Point"}
+}

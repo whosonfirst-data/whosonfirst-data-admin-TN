@@ -1,0 +1,67 @@
+{
+  "id": 1242818635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.07306,36.98611,10.07306,36.98611",
+    "geom:latitude":36.98611,
+    "geom:longitude":10.07306,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Douar Kaouana",
+    "gn:country_code":"TN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590227,
+    "gn:latitude":36.98611,
+    "gn:longitude":10.07306,
+    "gn:modification_date":"1998-02-09",
+    "gn:name":"Douar Kaouana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108807159,
+        1108757239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590227
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"88cbe4725c9238ff3d0fdda23e70a683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757239,
+            "locality_id":1242818635,
+            "region_id":1108807159
+        }
+    ],
+    "wof:id":1242818635,
+    "wof:lastmodified":1536716854,
+    "wof:name":"Douar Kaouana",
+    "wof:parent_id":1108757239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.07306,
+    36.98611,
+    10.07306,
+    36.98611
+],
+  "geometry": {"coordinates":[10.07306,36.98611],"type":"Point"}
+}

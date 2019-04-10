@@ -1,0 +1,71 @@
+{
+  "id": 1293867397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.43274,35.8684,8.43274,35.8684",
+    "geom:latitude":35.8684,
+    "geom:longitude":8.43274,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Slata",
+    "gn:country_code":"TN",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2467339,
+    "gn:latitude":35.8684,
+    "gn:longitude":8.43274,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Slata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sala\u0163ah",
+        "Slata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467339
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e8b6dfb434e0520693d2db55c41b2d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757465,
+            "locality_id":1293867397,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1293867397,
+    "wof:lastmodified":1537706482,
+    "wof:name":"Slata",
+    "wof:parent_id":1108757465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.43274,
+    35.8684,
+    8.43274,
+    35.8684
+],
+  "geometry": {"coordinates":[8.43274,35.8684],"type":"Point"}
+}

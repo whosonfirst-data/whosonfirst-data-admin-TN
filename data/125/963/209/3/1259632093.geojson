@@ -1,0 +1,74 @@
+{
+  "id": 1259632093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.53446,35.10107,9.53446,35.10107",
+    "geom:latitude":35.10107,
+    "geom:longitude":9.53446,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Es Souda",
+    "gn:country_code":"TN",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473173,
+    "gn:latitude":35.10107,
+    "gn:longitude":9.53446,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Es Souda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poste de Lessouda",
+        "Lassouda",
+        "As Sawd\u0101\u2019",
+        "Lessouda",
+        "Es Souda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473173
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"ddf4ade9d5bf6b31bfd89e8ca44cad7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757651,
+            "locality_id":1259632093,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":1259632093,
+    "wof:lastmodified":1537706519,
+    "wof:name":"Es Souda",
+    "wof:parent_id":1108757651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.53446,
+    35.10107,
+    9.53446,
+    35.10107
+],
+  "geometry": {"coordinates":[9.53446,35.10107],"type":"Point"}
+}

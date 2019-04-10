@@ -1,0 +1,72 @@
+{
+  "id": 1242910459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.08907,33.77425,9.08907,33.77425",
+    "geom:latitude":33.77425,
+    "geom:longitude":9.08907,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Limaguess",
+    "gn:country_code":"TN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2469518,
+    "gn:latitude":33.77425,
+    "gn:longitude":9.08907,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Limaguess",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Limaguese",
+        "Limagu\u00e8s",
+        "Limaguess"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469518
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"1e50d1a6e16b47ddbbcb0523511c629f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757435,
+            "locality_id":1242910459,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":1242910459,
+    "wof:lastmodified":1537706491,
+    "wof:name":"Limaguess",
+    "wof:parent_id":1108757435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.08907,
+    33.77425,
+    9.08907,
+    33.77425
+],
+  "geometry": {"coordinates":[9.08907,33.77425],"type":"Point"}
+}

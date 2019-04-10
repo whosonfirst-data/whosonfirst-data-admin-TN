@@ -1,0 +1,74 @@
+{
+  "id": 1225993795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18373,34.42188,10.18373,34.42188",
+    "geom:latitude":34.42188,
+    "geom:longitude":10.18373,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Hechichina",
+    "gn:country_code":"TN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473718,
+    "gn:latitude":34.42188,
+    "gn:longitude":10.18373,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Hechichina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borj el Achichina",
+        "El Achichina",
+        "Bordj El Achichina",
+        "Hachichina",
+        "Al \u1e28ushaysh\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679151,
+        1108757607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473718
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"0f41cd59954df28a528e75f487f82ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757607,
+            "locality_id":1225993795,
+            "region_id":85679151
+        }
+    ],
+    "wof:id":1225993795,
+    "wof:lastmodified":1537706527,
+    "wof:name":"Hechichina",
+    "wof:parent_id":1108757607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18373,
+    34.42188,
+    10.18373,
+    34.42188
+],
+  "geometry": {"coordinates":[10.18373,34.42188],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260010295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.88468,33.57074,8.88468,33.57074",
+    "geom:latitude":33.57074,
+    "geom:longitude":8.88468,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"El Meghmouma",
+    "gn:country_code":"TN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473576,
+    "gn:latitude":33.57074,
+    "gn:longitude":8.88468,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Meghmouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Maghm\u016bmah",
+        "El Merhmouma",
+        "El Meghmouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473576
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f9b478cd28b41ec63b207e9ca390b4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757437,
+            "locality_id":1260010295,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":1260010295,
+    "wof:lastmodified":1537706524,
+    "wof:name":"El Meghmouma",
+    "wof:parent_id":1108757437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.88468,
+    33.57074,
+    8.88468,
+    33.57074
+],
+  "geometry": {"coordinates":[8.88468,33.57074],"type":"Point"}
+}

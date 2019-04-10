@@ -1,0 +1,72 @@
+{
+  "id": 1226518219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98306,37.13028,9.98306,37.13028",
+    "geom:latitude":37.13028,
+    "geom:longitude":9.98306,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar Slimane Gharbi",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590720,
+    "gn:latitude":37.13028,
+    "gn:longitude":9.98306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Slimane Gharbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Slimane Rharbi",
+        "Douar Slimane Gharbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590720
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f5cab1923cf777c1ea22c7adbdf8148b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757283,
+            "locality_id":1226518219,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1226518219,
+    "wof:lastmodified":1537706538,
+    "wof:name":"Douar Slimane Gharbi",
+    "wof:parent_id":1108757283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98306,
+    37.13028,
+    9.98306,
+    37.13028
+],
+  "geometry": {"coordinates":[9.98306,37.13028],"type":"Point"}
+}

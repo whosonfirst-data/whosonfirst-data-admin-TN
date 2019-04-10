@@ -1,0 +1,80 @@
+{
+  "id": 890422507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.11829,37.0629,10.11829,37.0629",
+    "geom:latitude":37.0629,
+    "geom:longitude":10.11829,
+    "gn:country":"TN",
+    "gn:fcode":"PPL",
+    "gn:pop":15313,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0442-\u0430\u043b\u044c-\u0410\u043d\u0434\u0430\u043b\u0443\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Kalaat-El-Andaleus"
+    ],
+    "qs:name":"Qal\u2018at al Andalus",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108807159,
+        1108757239,
+        85679099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468329,
+        "gp:id":1442492,
+        "qs:id":574186
+    },
+    "wof:country":"TN",
+    "wof:created":1469051449,
+    "wof:geomhash":"77e09c82b96f6f232a59a7c5eaf87711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757239,
+            "locality_id":890422507,
+            "region_id":1108807159
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757239,
+            "locality_id":890422507,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":890422507,
+    "wof:lastmodified":1505343470,
+    "wof:name":"Qal\u2018at al Andalus",
+    "wof:parent_id":1108757239,
+    "wof:placetype":"locality",
+    "wof:population":15313,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.11829,
+    37.0629,
+    10.11829,
+    37.0629
+],
+  "geometry": {"coordinates":[10.11829,37.0629],"type":"Point"}
+}

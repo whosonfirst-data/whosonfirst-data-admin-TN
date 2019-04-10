@@ -1,0 +1,71 @@
+{
+  "id": 1259446645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98081,36.92629,8.98081,36.92629",
+    "geom:latitude":36.92629,
+    "geom:longitude":8.98081,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tarf",
+    "gn:country_code":"TN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2464747,
+    "gn:latitude":36.92629,
+    "gn:longitude":8.98081,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tarf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162araf",
+        "Tarf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679103,
+        1108757263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464747
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"8b8cfe4cf326f976302b6648f50df391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757263,
+            "locality_id":1259446645,
+            "region_id":85679103
+        }
+    ],
+    "wof:id":1259446645,
+    "wof:lastmodified":1537706477,
+    "wof:name":"Tarf",
+    "wof:parent_id":1108757263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98081,
+    36.92629,
+    8.98081,
+    36.92629
+],
+  "geometry": {"coordinates":[8.98081,36.92629],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309772227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.83492,37.27556,9.83492,37.27556",
+    "geom:latitude":37.27556,
+    "geom:longitude":9.83492,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bizerte Bab Mateur",
+    "gn:country_code":"TN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204083,
+    "gn:latitude":37.27556,
+    "gn:longitude":9.83492,
+    "gn:modification_date":"2016-07-13",
+    "gn:name":"Bizerte Bab Mateur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204083
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"6f4f60ea035b7ca05a23a74b580c572c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757275,
+            "locality_id":1309772227,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1309772227,
+    "wof:lastmodified":1536978982,
+    "wof:name":"Bizerte Bab Mateur",
+    "wof:parent_id":1108757275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.83492,
+    37.27556,
+    9.83492,
+    37.27556
+],
+  "geometry": {"coordinates":[9.83492,37.27556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226660671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.60639,36.71449,9.60639,36.71449",
+    "geom:latitude":36.71449,
+    "geom:longitude":9.60639,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chassart-Teffaha",
+    "gn:country_code":"TN",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471873,
+    "gn:latitude":36.71449,
+    "gn:longitude":9.60639,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Chassart-Teffaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679103,
+        1108757261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471873
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"13c24a9276b3070cbcd804e5ade06c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757261,
+            "locality_id":1226660671,
+            "region_id":85679103
+        }
+    ],
+    "wof:id":1226660671,
+    "wof:lastmodified":1536836844,
+    "wof:name":"Chassart-Teffaha",
+    "wof:parent_id":1108757261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.60639,
+    36.71449000000001,
+    9.60639,
+    36.71449000000001
+],
+  "geometry": {"coordinates":[9.60639,36.71449000000001],"type":"Point"}
+}

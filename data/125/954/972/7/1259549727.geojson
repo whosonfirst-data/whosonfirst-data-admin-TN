@@ -1,0 +1,71 @@
+{
+  "id": 1259549727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.47222,37.05194,9.47222,37.05194",
+    "geom:latitude":37.05194,
+    "geom:longitude":9.47222,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dar Mohammed Bel Haj",
+    "gn:country_code":"TN",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586736,
+    "gn:latitude":37.05194,
+    "gn:longitude":9.47222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dar Mohammed Bel Haj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Mohammed Bel Hadj",
+        "Dar Mohammed Bel Haj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586736
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e2e04b737d098ca2e1ede7a5456568dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757285,
+            "locality_id":1259549727,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1259549727,
+    "wof:lastmodified":1537706535,
+    "wof:name":"Dar Mohammed Bel Haj",
+    "wof:parent_id":1108757285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47222,
+    37.05194,
+    9.47222,
+    37.05194
+],
+  "geometry": {"coordinates":[9.47222,37.05194],"type":"Point"}
+}

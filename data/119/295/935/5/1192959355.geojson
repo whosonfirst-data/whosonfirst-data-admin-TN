@@ -1,0 +1,70 @@
+{
+  "id": 1192959355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36667,33.15,10.36667,33.15",
+    "geom:latitude":33.15,
+    "geom:longitude":10.36667,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ksar el Ababsa",
+    "gn:country_code":"TN",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2468187,
+    "gn:latitude":33.15,
+    "gn:longitude":10.36667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ksar el Ababsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fr al \u2018Ab\u0101bisah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679191,
+        1108757723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468187
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"49f0679c474712416070a1ec5c7b6c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757723,
+            "locality_id":1192959355,
+            "region_id":85679191
+        }
+    ],
+    "wof:id":1192959355,
+    "wof:lastmodified":1537706487,
+    "wof:name":"Ksar el Ababsa",
+    "wof:parent_id":1108757723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36667,
+    33.15,
+    10.36667,
+    33.15
+],
+  "geometry": {"coordinates":[10.36667,33.15],"type":"Point"}
+}

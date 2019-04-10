@@ -1,0 +1,106 @@
+{
+  "id": 1125869451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.61231,36.64964,9.61231,36.64964",
+    "geom:latitude":36.64964,
+    "geom:longitude":9.61231,
+    "gn:gn_country":"TN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":20118,
+    "gn:population":20118,
+    "iso:country":"TN",
+    "lbl:latitude":36.64964,
+    "lbl:longitude":9.61231,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0627\u0632 \u0627\u0644\u0628\u0627\u0628"
+    ],
+    "name:cat_x_preferred":[
+        "Mejez El Bab"
+    ],
+    "name:chi_x_preferred":[
+        "\u9ea5\u5fb7\u5091\u65af\u5967\u5df4\u5e03"
+    ],
+    "name:dut_x_preferred":[
+        "Medjez el-Bab"
+    ],
+    "name:eng_x_preferred":[
+        "Majaz al Bab"
+    ],
+    "name:fre_x_preferred":[
+        "Medjez el-Bab"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\uc790\uc988\uc54c\ubc14\ube0c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0434\u0436\u0430\u0437-\u0435\u043b\u044c-\u0411\u0430\u0431"
+    ],
+    "name:unk_x_variant":[
+        "Medjez el Bab"
+    ],
+    "qs_pg:aaroncc":"TN",
+    "qs_pg:gn_country":"TN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2469386,
+    "qs_pg:gn_pop":20118,
+    "qs_pg:name":"Maj\u0101z al B\u0101b",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":140129,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679103,
+        1108757261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469386,
+        "qs_pg:id":140129,
+        "wd:id":"Q1153895"
+    },
+    "wof:country":"TN",
+    "wof:created":1497294214,
+    "wof:geomhash":"35c6e9b2a64a86435b04ef983c3cc0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757261,
+            "locality_id":1125869451,
+            "region_id":85679103
+        }
+    ],
+    "wof:id":1125869451,
+    "wof:lastmodified":1514506665,
+    "wof:name":"Maj\u0101z al B\u0101b",
+    "wof:parent_id":1108757261,
+    "wof:placetype":"locality",
+    "wof:population":20118,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61231,
+    36.64964,
+    9.61231,
+    36.64964
+],
+  "geometry": {"coordinates":[9.61231,36.64964],"type":"Point"}
+}

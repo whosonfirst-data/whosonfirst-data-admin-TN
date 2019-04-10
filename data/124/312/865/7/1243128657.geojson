@@ -1,0 +1,74 @@
+{
+  "id": 1243128657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.14516,35.87439,9.14516,35.87439",
+    "geom:latitude":35.87439,
+    "geom:longitude":9.14516,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Souk el Djemaa",
+    "gn:country_code":"TN",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2464928,
+    "gn:latitude":35.87439,
+    "gn:longitude":9.14516,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Souk el Djem\u00e2a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camp de Souk el Djemaa",
+        "S\u016bq al Jum\u2018ah",
+        "Camp de Souk el Jemaa",
+        "Souk El Djema",
+        "Souk el Djem\u00e2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464928
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"4043cc91a97599c24a9426d964d18155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757675,
+            "locality_id":1243128657,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1243128657,
+    "wof:lastmodified":1537706477,
+    "wof:name":"Souk el Djemaa",
+    "wof:parent_id":1108757675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.14516,
+    35.87439000000001,
+    9.14516,
+    35.87439000000001
+],
+  "geometry": {"coordinates":[9.14516,35.87439000000001],"type":"Point"}
+}

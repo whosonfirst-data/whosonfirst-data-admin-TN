@@ -1,0 +1,70 @@
+{
+  "id": 1293393193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.80069,35.6663,8.80069,35.6663",
+    "geom:latitude":35.6663,
+    "geom:longitude":8.80069,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Douar Ali Ben Krelout",
+    "gn:country_code":"TN",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471550,
+    "gn:latitude":35.6663,
+    "gn:longitude":8.80069,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Douar Ali Ben Krelout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daww\u0101r \u2018Al\u012b Bin Khul\u016b\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679133,
+        1108757401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471550
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"7d00a969a3c2679ee8fa58a15308c428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757401,
+            "locality_id":1293393193,
+            "region_id":85679133
+        }
+    ],
+    "wof:id":1293393193,
+    "wof:lastmodified":1537706502,
+    "wof:name":"Douar Ali Ben Krelout",
+    "wof:parent_id":1108757401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.80069,
+    35.6663,
+    8.80069,
+    35.6663
+],
+  "geometry": {"coordinates":[8.80069,35.6663],"type":"Point"}
+}

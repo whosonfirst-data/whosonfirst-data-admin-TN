@@ -1,0 +1,100 @@
+{
+  "id": 1125914811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.85528,36.72556,10.85528,36.72556",
+    "geom:latitude":36.72556,
+    "geom:longitude":10.85528,
+    "gn:gn_country":"TN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3602,
+    "gn:population":3602,
+    "iso:country":"TN",
+    "lbl:latitude":36.72556,
+    "lbl:longitude":10.85528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064a\u062f\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "El Mida"
+    ],
+    "name:dut_x_preferred":[
+        "El Mida"
+    ],
+    "name:eng_x_preferred":[
+        "El Mida"
+    ],
+    "name:fre_x_preferred":[
+        "El Mida"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041c\u0456\u0434\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mida"
+    ],
+    "qs_pg:aaroncc":"TN",
+    "qs_pg:gn_country":"TN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2473514,
+    "qs_pg:gn_pop":3602,
+    "qs_pg:name":"El Mida",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1035889,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473514,
+        "qs_pg:id":1035889,
+        "wd:id":"Q253325"
+    },
+    "wof:country":"TN",
+    "wof:created":1497296282,
+    "wof:geomhash":"4f80228a8f5f0d5153cb03786af8757a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757571,
+            "locality_id":1125914811,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1125914811,
+    "wof:lastmodified":1514506623,
+    "wof:name":"El Mida",
+    "wof:parent_id":1108757571,
+    "wof:placetype":"locality",
+    "wof:population":3602,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.85528,
+    36.72556,
+    10.85528,
+    36.72556
+],
+  "geometry": {"coordinates":[10.85528,36.72556],"type":"Point"}
+}

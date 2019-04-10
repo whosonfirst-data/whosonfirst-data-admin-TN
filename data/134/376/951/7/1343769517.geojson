@@ -1,0 +1,72 @@
+{
+  "id": 1343769517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.58227,35.54308,9.58227,35.54308",
+    "geom:latitude":35.54308,
+    "geom:longitude":9.58227,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jebel Trozza",
+    "gn:country_code":"TN",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470272,
+    "gn:latitude":35.54308,
+    "gn:longitude":9.58227,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jebel Trozza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djebel Trozza",
+        "Jabal Trozza",
+        "Jebel Trozza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470272
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"714deeb40bdd41a0730b08a0ec88dcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757383,
+            "locality_id":1343769517,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1343769517,
+    "wof:lastmodified":1537706493,
+    "wof:name":"Jebel Trozza",
+    "wof:parent_id":1108757383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.58227,
+    35.54308,
+    9.58227,
+    35.54308
+],
+  "geometry": {"coordinates":[9.58227,35.54308],"type":"Point"}
+}

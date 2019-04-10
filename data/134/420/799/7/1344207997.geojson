@@ -1,0 +1,74 @@
+{
+  "id": 1344207997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.78496,33.89927,9.78496,33.89927",
+    "geom:latitude":33.89927,
+    "geom:longitude":9.78496,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bou Attouche",
+    "gn:country_code":"TN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472247,
+    "gn:latitude":33.89927,
+    "gn:longitude":9.78496,
+    "gn:modification_date":"2014-11-29",
+    "gn:name":"Bou Attouche",
+    "gn:population":2700,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou Atouch",
+        "B\u016b \u2018A\u0163\u0163\u016bsh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472247
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"06d57588ba3d0d5b302d3b843081cbc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757307,
+            "locality_id":1344207997,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1344207997,
+    "wof:lastmodified":1537706513,
+    "wof:name":"Bou Attouche",
+    "wof:parent_id":1108757307,
+    "wof:placetype":"locality",
+    "wof:population":2700,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.78496,
+    33.89927,
+    9.78496,
+    33.89927
+],
+  "geometry": {"coordinates":[9.78496,33.89927],"type":"Point"}
+}

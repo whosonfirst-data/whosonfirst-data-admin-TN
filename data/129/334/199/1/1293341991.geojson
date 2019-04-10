@@ -1,0 +1,67 @@
+{
+  "id": 1293341991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.94449,36.55452,9.94449,36.55452",
+    "geom:latitude":36.55452,
+    "geom:longitude":9.94449,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Armand-Colin",
+    "gn:country_code":"TN",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473281,
+    "gn:latitude":36.55452,
+    "gn:longitude":9.94449,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Armand-Colin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679179,
+        1108757757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473281
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"16e42dfce0d304046b0e5e560c21bbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757757,
+            "locality_id":1293341991,
+            "region_id":85679179
+        }
+    ],
+    "wof:id":1293341991,
+    "wof:lastmodified":1536996126,
+    "wof:name":"Armand-Colin",
+    "wof:parent_id":1108757757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.94449,
+    36.55452,
+    9.94449,
+    36.55452
+],
+  "geometry": {"coordinates":[9.94449,36.55452],"type":"Point"}
+}

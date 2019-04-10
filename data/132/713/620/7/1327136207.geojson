@@ -1,0 +1,67 @@
+{
+  "id": 1327136207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.97944,36.01028,9.97944,36.01028",
+    "geom:latitude":36.01028,
+    "geom:longitude":9.97944,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Hememda",
+    "gn:country_code":"TN",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2584012,
+    "gn:latitude":36.01028,
+    "gn:longitude":9.97944,
+    "gn:modification_date":"1997-04-18",
+    "gn:name":"El Hememda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2584012
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"94f5e1161ed3ff4caef6c9781d7b8929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757397,
+            "locality_id":1327136207,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1327136207,
+    "wof:lastmodified":1536607819,
+    "wof:name":"El Hememda",
+    "wof:parent_id":1108757397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.97944,
+    36.01028,
+    9.97944,
+    36.01028
+],
+  "geometry": {"coordinates":[9.97944,36.01028],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310424045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.90528,36.85194,10.90528,36.85194",
+    "geom:latitude":36.85194,
+    "geom:longitude":10.90528,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Douar er Rainine",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471538,
+    "gn:latitude":36.85194,
+    "gn:longitude":10.90528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar er Rainine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daww\u0101r ar Ru\u2018ayn\u012bn",
+        "Er Ra\u00efnine",
+        "Douar er Rainine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471538
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"0214d524268774f652c74ea2feee4a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757587,
+            "locality_id":1310424045,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1310424045,
+    "wof:lastmodified":1537706501,
+    "wof:name":"Douar er Rainine",
+    "wof:parent_id":1108757587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.90528,
+    36.85194,
+    10.90528,
+    36.85194
+],
+  "geometry": {"coordinates":[10.90528,36.85194],"type":"Point"}
+}

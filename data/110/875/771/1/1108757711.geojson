@@ -1,0 +1,86 @@
+{
+  "id": 1108757711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001245,
+    "geom:area_square_m":12481711.509576,
+    "geom:bbox":"10.58319994,35.7985712237,10.6354477034,35.8484079823",
+    "geom:latitude":35.823895,
+    "geom:longitude":10.609971,
+    "iso:country":"TN",
+    "lbl:latitude":35.82391,
+    "lbl:longitude":10.609575,
+    "meso:adm1_en":"Sousse",
+    "meso:gadm_adm2":"Sousse Jaouhara",
+    "meso:gaul_adm2":"Sousse Jaouhara",
+    "meso:hasc_id":"TN.SS.SJ",
+    "meso:mps_x":10.609575,
+    "meso:mps_y":35.82391,
+    "meso:name_alt":"Sousse Jaouhara",
+    "meso:name_loc":"Sousse Jouhara",
+    "meso:source":"AOTM",
+    "mps:latitude":35.82391,
+    "mps:longitude":10.609575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sousse Jaouhara"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-04-28",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-04-28",
+    "statoids:capital":"",
+    "statoids:country":"TN",
+    "statoids:hasc":"TN.SS",
+    "statoids:name":"Sousse Jaouhara",
+    "statoids:population":"62663",
+    "statoids:statoid":"TN.SS.SJ",
+    "statoids:timezone":"+1",
+    "statoids:type":"delegation",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TN.SS.SJ"
+    },
+    "wof:country":"TN",
+    "wof:created":1481307360,
+    "wof:geomhash":"4c46fc0679072c03ef40e94c6afe2564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757711,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":1108757711,
+    "wof:lastmodified":1536615722,
+    "wof:name":"Sousse Jouhara",
+    "wof:parent_id":85679173,
+    "wof:placetype":"county",
+    "wof:placetype_local":"delegation",
+    "wof:population":62663,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:shortcode":"SJ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.58319994000021,
+    35.79857122366607,
+    10.63544770337992,
+    35.84840798225459
+],
+  "geometry": {"coordinates":[[[10.60876409538728,35.84840798225459],[10.61082797621213,35.84595970249232],[10.61330463320195,35.84302176677759],[10.61421274076488,35.84194452368219],[10.6153024698404,35.8406518319677],[10.61661014473103,35.83910060191032],[10.61817935459978,35.83723912584147],[10.62006240644228,35.83500535455885],[10.62217302370812,35.8325486805014],[10.62424457066493,35.83014290888966],[10.62638688433487,35.82761443182767],[10.6288766014582,35.82467231560231],[10.63145443537004,35.82141059168276],[10.63544770337992,35.81624529818276],[10.62458588746943,35.81007339786461],[10.62178992242135,35.80419731982695],[10.61895908424145,35.79857122366607],[10.61398685760757,35.80204281756873],[10.60802018564692,35.80620873025192],[10.60583240592801,35.80773623156909],[10.60320707026533,35.80956923314969],[10.6000566674701,35.81176883504641],[10.59421410228623,35.81584809674579],[10.59470347417496,35.81880524002193],[10.59099477716075,35.82419030674743],[10.58694260402604,35.82882448754273],[10.5847937142248,35.82992825773675],[10.58319994000021,35.83070887606419],[10.58923592113327,35.83488783169248],[10.59249061684227,35.8371411901195],[10.59520286326644,35.83901898880868],[10.59746306861992,35.84058382104967],[10.59934657308114,35.84188784791716],[10.60448340342995,35.84544428482849],[10.60876409538728,35.84840798225459]]],"type":"Polygon"}
+}

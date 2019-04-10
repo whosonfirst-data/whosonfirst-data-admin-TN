@@ -1,0 +1,72 @@
+{
+  "id": 1343774957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.61667,35.35,8.61667,35.35",
+    "geom:latitude":35.35,
+    "geom:longitude":8.61667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dar Ouled Khalifa",
+    "gn:country_code":"TN",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471700,
+    "gn:latitude":35.35,
+    "gn:longitude":8.61667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Dar Ouled Khalifa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dechret Ouled Kralifa",
+        "Dar Ouled Khalifa",
+        "D\u0101r Awl\u0101d Khal\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679133,
+        1108757409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471700
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"02a6e133891123c79303fdc2c7d9d913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757409,
+            "locality_id":1343774957,
+            "region_id":85679133
+        }
+    ],
+    "wof:id":1343774957,
+    "wof:lastmodified":1537706508,
+    "wof:name":"Dar Ouled Khalifa",
+    "wof:parent_id":1108757409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.61667,
+    35.35,
+    8.61667,
+    35.35
+],
+  "geometry": {"coordinates":[8.61667,35.35],"type":"Point"}
+}

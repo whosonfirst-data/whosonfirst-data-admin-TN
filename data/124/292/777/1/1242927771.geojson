@@ -1,0 +1,72 @@
+{
+  "id": 1242927771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.27222,36.59972,10.27222,36.59972",
+    "geom:latitude":36.59972,
+    "geom:longitude":10.27222,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Douar el Haj Jemaa",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589274,
+    "gn:latitude":36.59972,
+    "gn:longitude":10.27222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar el Haj Jemaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Hadj Djemaa",
+        "Douar el Haj Jemaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679107,
+        1108757271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589274
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e44a9a116cf1aacabe715043049dffa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757271,
+            "locality_id":1242927771,
+            "region_id":85679107
+        }
+    ],
+    "wof:id":1242927771,
+    "wof:lastmodified":1537706536,
+    "wof:name":"Douar el Haj Jemaa",
+    "wof:parent_id":1108757271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.27222,
+    36.59972,
+    10.27222,
+    36.59972
+],
+  "geometry": {"coordinates":[10.27222,36.59972],"type":"Point"}
+}

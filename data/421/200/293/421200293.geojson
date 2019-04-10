@@ -1,0 +1,82 @@
+{
+  "id": 421200293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.58431,36.68312,10.58431,36.68312",
+    "geom:latitude":36.68312,
+    "geom:longitude":10.58431,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Mennzel Bou Zelfa"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2469262,
+    "qs:gn_pop":16231,
+    "qs:name":"Manzil Bo Zalafah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Nabul",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1298631,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442429,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469262,
+        "gp:id":1442429,
+        "qs:id":1298631
+    },
+    "wof:country":"TN",
+    "wof:created":1459010018,
+    "wof:geomhash":"25c990588c4b6a0abdeb7cf3fd0f79ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757585,
+            "locality_id":421200293,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":421200293,
+    "wof:lastmodified":1505340767,
+    "wof:name":"Manzil Bo Zalafah",
+    "wof:parent_id":1108757585,
+    "wof:placetype":"locality",
+    "wof:population":16231,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.58431,
+    36.68312,
+    10.58431,
+    36.68312
+],
+  "geometry": {"coordinates":[10.58431,36.68312],"type":"Point"}
+}

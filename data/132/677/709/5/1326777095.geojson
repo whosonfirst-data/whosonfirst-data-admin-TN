@@ -1,0 +1,71 @@
+{
+  "id": 1326777095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.3714,34.53262,8.3714,34.53262",
+    "geom:latitude":34.53262,
+    "geom:longitude":8.3714,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Hennchir Souatir",
+    "gn:country_code":"TN",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470511,
+    "gn:latitude":34.53262,
+    "gn:longitude":8.3714,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Hennchir Souatir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Henchir-Souatir",
+        "Hansh\u012br as Saw\u0101\u0163\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679141,
+        1108757345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470511
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"36f06e142300833fab348f7623a0614c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757345,
+            "locality_id":1326777095,
+            "region_id":85679141
+        }
+    ],
+    "wof:id":1326777095,
+    "wof:lastmodified":1537706494,
+    "wof:name":"Hennchir Souatir",
+    "wof:parent_id":1108757345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3714,
+    34.53262,
+    8.3714,
+    34.53262
+],
+  "geometry": {"coordinates":[8.3714,34.53262],"type":"Point"}
+}

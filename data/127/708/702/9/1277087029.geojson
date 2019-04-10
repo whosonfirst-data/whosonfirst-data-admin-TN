@@ -1,0 +1,67 @@
+{
+  "id": 1277087029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.92028,35.69389,8.92028,35.69389",
+    "geom:latitude":35.69389,
+    "geom:longitude":8.92028,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sidi Bou Khelout",
+    "gn:country_code":"TN",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589474,
+    "gn:latitude":35.69389,
+    "gn:longitude":8.92028,
+    "gn:modification_date":"1997-09-08",
+    "gn:name":"Sidi Bou Khelout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679133,
+        1108757401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589474
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"361cc0a66ceccc7e73381ee512d945fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757401,
+            "locality_id":1277087029,
+            "region_id":85679133
+        }
+    ],
+    "wof:id":1277087029,
+    "wof:lastmodified":1536761621,
+    "wof:name":"Sidi Bou Khelout",
+    "wof:parent_id":1108757401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.92028,
+    35.69389,
+    8.92028,
+    35.69389
+],
+  "geometry": {"coordinates":[8.92028,35.69389],"type":"Point"}
+}

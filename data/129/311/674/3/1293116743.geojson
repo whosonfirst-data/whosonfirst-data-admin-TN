@@ -1,0 +1,74 @@
+{
+  "id": 1293116743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.31667,36.86667,10.31667,36.86667",
+    "geom:latitude":36.86667,
+    "geom:longitude":10.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"El Malka",
+    "gn:country_code":"TN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473502,
+    "gn:latitude":36.86667,
+    "gn:longitude":10.31667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"El Malka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malga",
+        "Mu\u2018allaka",
+        "La Malka",
+        "La Malga",
+        "Al Mu\u2018allaqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679123,
+        1108757755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473502
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"5df3a25dfa06eecb695d205c12dfe7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757755,
+            "locality_id":1293116743,
+            "region_id":85679123
+        }
+    ],
+    "wof:id":1293116743,
+    "wof:lastmodified":1537706522,
+    "wof:name":"El Malka",
+    "wof:parent_id":1108757755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.31667,
+    36.86667,
+    10.31667,
+    36.86667
+],
+  "geometry": {"coordinates":[10.31667,36.86667],"type":"Point"}
+}

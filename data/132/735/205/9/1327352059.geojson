@@ -1,0 +1,72 @@
+{
+  "id": 1327352059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7,36.86667,9.7,36.86667",
+    "geom:latitude":36.86667,
+    "geom:longitude":9.7,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dekhila",
+    "gn:country_code":"TN",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2474046,
+    "gn:latitude":36.86667,
+    "gn:longitude":9.7,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Dekhila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eddekhila",
+        "Dekhila",
+        "Ad Dakh\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2474046
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"b18cdecce6ecd6f94b82be5483c2a57b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757507,
+            "locality_id":1327352059,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1327352059,
+    "wof:lastmodified":1537706531,
+    "wof:name":"Dekhila",
+    "wof:parent_id":1108757507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7,
+    36.86667,
+    9.7,
+    36.86667
+],
+  "geometry": {"coordinates":[9.7,36.86667],"type":"Point"}
+}

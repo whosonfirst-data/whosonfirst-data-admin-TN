@@ -1,0 +1,165 @@
+{
+  "id": 421199771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.71667,35.3,10.71667,35.3",
+    "geom:latitude":35.3,
+    "geom:longitude":10.71667,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0645"
+    ],
+    "name:baq_x_preferred":[
+        "El Djem"
+    ],
+    "name:cat_x_preferred":[
+        "El Djem"
+    ],
+    "name:chi_x_preferred":[
+        "\u5091\u59c6"
+    ],
+    "name:cze_x_preferred":[
+        "El-D\u017eem"
+    ],
+    "name:dan_x_preferred":[
+        "El Djem"
+    ],
+    "name:dut_x_preferred":[
+        "El Djem"
+    ],
+    "name:eng_x_preferred":[
+        "El Jem"
+    ],
+    "name:fin_x_preferred":[
+        "El Jem"
+    ],
+    "name:fre_x_preferred":[
+        "El Jem"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10ef\u10d4\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "El Djem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d2'\u05dd"
+    ],
+    "name:ita_x_preferred":[
+        "El Jem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30b8\u30a7\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\uc82c"
+    ],
+    "name:lit_x_preferred":[
+        "El D\u017eemas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0435\u043b-\u040f\u0435\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Al-D\u017camm"
+    ],
+    "name:por_x_preferred":[
+        "El Jem"
+    ],
+    "name:rum_x_preferred":[
+        "El Djem"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c \u0414\u0436\u0435\u043c"
+    ],
+    "name:slv_x_preferred":[
+        "El D\u017eem"
+    ],
+    "name:tur_x_preferred":[
+        "El Cem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0414\u0436\u0435\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Sidi el Djem"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062c\u0645"
+    ],
+    "name:wel_x_preferred":[
+        "El Jem"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473654,
+    "qs:gn_pop":20029,
+    "qs:name":"Al Jamm",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Mahdiyah",
+    "qs:photos":3039,
+    "qs:photos_1k":616,
+    "qs:photos_9k":13,
+    "qs:photos_9r":11,
+    "qs:photos_all":3039,
+    "qs:photos_sr":19,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":492878,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441779,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679161,
+        1108757473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473654,
+        "gp:id":1441779,
+        "qs:id":492878,
+        "wd:id":"Q291012",
+        "wk:page":"El Djem"
+    },
+    "wof:country":"TN",
+    "wof:created":1459010000,
+    "wof:geomhash":"64ebce8b4620072c446039503e903d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757473,
+            "locality_id":421199771,
+            "region_id":85679161
+        }
+    ],
+    "wof:id":421199771,
+    "wof:lastmodified":1514506603,
+    "wof:name":"Al Jamm",
+    "wof:parent_id":1108757473,
+    "wof:placetype":"locality",
+    "wof:population":20029,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.71667,
+    35.3,
+    10.71667,
+    35.3
+],
+  "geometry": {"coordinates":[10.71667,35.3],"type":"Point"}
+}

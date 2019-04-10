@@ -1,0 +1,73 @@
+{
+  "id": 1259824669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82108,32.87119,10.82108,32.87119",
+    "geom:latitude":32.87119,
+    "geom:longitude":10.82108,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ksar Mehiri",
+    "gn:country_code":"TN",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2468095,
+    "gn:latitude":32.87119,
+    "gn:longitude":10.82108,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ksar Mehiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ksar Mehira",
+        "Ksar Mhiri",
+        "Ksar Mehiri",
+        "Qa\u015fr Mehiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679191,
+        1108757729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468095
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"fad1b0581deae3b23b77dd2b711e87de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757729,
+            "locality_id":1259824669,
+            "region_id":85679191
+        }
+    ],
+    "wof:id":1259824669,
+    "wof:lastmodified":1537706485,
+    "wof:name":"Ksar Mehiri",
+    "wof:parent_id":1108757729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82108,
+    32.87119000000001,
+    10.82108,
+    32.87119000000001
+],
+  "geometry": {"coordinates":[10.82108,32.87119000000001],"type":"Point"}
+}

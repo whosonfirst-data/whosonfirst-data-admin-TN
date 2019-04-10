@@ -1,0 +1,71 @@
+{
+  "id": 1293538317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.36944,35.24098,9.36944,35.24098",
+    "geom:latitude":35.24098,
+    "geom:longitude":9.36944,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Dar Taieb Bou Abd es Slam",
+    "gn:country_code":"TN",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2564957,
+    "gn:latitude":35.24098,
+    "gn:longitude":9.36944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dar Ta\u00efeb Bou Abd es Slam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Ta\u00efeb Bou Abd el Slam",
+        "Dar Ta\u00efeb Bou Abd es Slam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2564957
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"0613f2fd16233d77dbb00c55a9d93337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757633,
+            "locality_id":1293538317,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":1293538317,
+    "wof:lastmodified":1537706531,
+    "wof:name":"Dar Taieb Bou Abd es Slam",
+    "wof:parent_id":1108757633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.36944,
+    35.24098,
+    9.36944,
+    35.24098
+],
+  "geometry": {"coordinates":[9.36944,35.24098],"type":"Point"}
+}

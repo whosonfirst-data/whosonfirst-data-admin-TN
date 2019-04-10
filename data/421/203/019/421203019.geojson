@@ -1,0 +1,115 @@
+{
+  "id": 421203019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.26194,32.91176,10.26194,32.91176",
+    "geom:latitude":32.91176,
+    "geom:longitude":10.26194,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0634\u0646\u0646\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0435\u043d\u0438\u043d\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Chenini"
+    ],
+    "name:dut_x_preferred":[
+        "Chenini"
+    ],
+    "name:eng_x_preferred":[
+        "Chenini"
+    ],
+    "name:fra_x_preferred":[
+        "Chenini"
+    ],
+    "name:fre_x_preferred":[
+        "Chenini"
+    ],
+    "name:ger_x_preferred":[
+        "Chenini"
+    ],
+    "name:ita_x_preferred":[
+        "Chenini"
+    ],
+    "name:por_x_preferred":[
+        "Chenini"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043d\u0438\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Chenini"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2467041,
+    "qs:gn_pop":0,
+    "qs:name":"Shanini",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Tatawin",
+    "qs:photos":207,
+    "qs:photos_1k":42,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":207,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":229114,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442617,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":160,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679191,
+        1108757733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467041,
+        "gp:id":1442617,
+        "qs:id":229114,
+        "wd:id":"Q2317502",
+        "wk:page":"Chenini"
+    },
+    "wof:country":"TN",
+    "wof:created":1459010137,
+    "wof:geomhash":"cfe95d05b5ac032b48c3a1d18d719ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757733,
+            "locality_id":421203019,
+            "region_id":85679191
+        }
+    ],
+    "wof:id":421203019,
+    "wof:lastmodified":1527716198,
+    "wof:name":"Shanini",
+    "wof:parent_id":1108757733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.26194,
+    32.91176,
+    10.26194,
+    32.91176
+],
+  "geometry": {"coordinates":[10.26194,32.91176],"type":"Point"}
+}

@@ -1,0 +1,127 @@
+{
+  "id": 421170763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.67624,35.63235,9.67624,35.63235",
+    "geom:latitude":35.63235,
+    "geom:longitude":9.67624,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062d\u0641\u0648\u0632"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u0444\u043e\u0443\u0437"
+    ],
+    "name:cat_x_preferred":[
+        "Haffouz"
+    ],
+    "name:cym_x_preferred":[
+        "Haffouz"
+    ],
+    "name:deu_x_preferred":[
+        "Haffouz"
+    ],
+    "name:dut_x_preferred":[
+        "Haffouz"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c6\u03bf\u03cd\u03b6"
+    ],
+    "name:eng_x_preferred":[
+        "Haffouz"
+    ],
+    "name:fra_x_preferred":[
+        "Haffouz"
+    ],
+    "name:fre_x_preferred":[
+        "Haffouz"
+    ],
+    "name:ger_x_preferred":[
+        "Haffouz"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03b1\u03c6\u03bf\u03cd\u03b6"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0444\u0444\u0443\u0437"
+    ],
+    "name:unk_x_variant":[
+        "Pichon"
+    ],
+    "name:wel_x_preferred":[
+        "Haffouz"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2470800,
+    "qs:gn_pop":7765,
+    "qs:name":"Haffuz",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Qayrawan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":257034,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442315,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470800,
+        "gp:id":1442315,
+        "qs:id":257034,
+        "wd:id":"Q1568078",
+        "wk:page":"Haffouz"
+    },
+    "wof:country":"TN",
+    "wof:created":1459008867,
+    "wof:geomhash":"52d46691e2ff6167f56841fb0d8dbfdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757383,
+            "locality_id":421170763,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":421170763,
+    "wof:lastmodified":1527716457,
+    "wof:name":"Haffuz",
+    "wof:parent_id":1108757383,
+    "wof:placetype":"locality",
+    "wof:population":7765,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.67624,
+    35.63235,
+    9.67624,
+    35.63235
+],
+  "geometry": {"coordinates":[9.67624,35.63235],"type":"Point"}
+}

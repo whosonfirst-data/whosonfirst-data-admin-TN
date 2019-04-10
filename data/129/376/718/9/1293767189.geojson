@@ -1,0 +1,67 @@
+{
+  "id": 1293767189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.13,35.93667,9.13,35.93667",
+    "geom:latitude":35.93667,
+    "geom:longitude":9.13,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Ajama",
+    "gn:country_code":"TN",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2588415,
+    "gn:latitude":35.93667,
+    "gn:longitude":9.13,
+    "gn:modification_date":"1997-09-23",
+    "gn:name":"El Ajama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2588415
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"cdc8127eae3e0c5ae663d996c0870dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757675,
+            "locality_id":1293767189,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1293767189,
+    "wof:lastmodified":1536880196,
+    "wof:name":"El Ajama",
+    "wof:parent_id":1108757675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.13,
+    35.93667,
+    9.13,
+    35.93667
+],
+  "geometry": {"coordinates":[9.13,35.93667],"type":"Point"}
+}

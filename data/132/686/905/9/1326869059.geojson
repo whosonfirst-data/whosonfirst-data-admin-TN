@@ -1,0 +1,72 @@
+{
+  "id": 1326869059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.99352,36.57486,9.99352,36.57486",
+    "geom:latitude":36.57486,
+    "geom:longitude":9.99352,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Ain el Asker",
+    "gn:country_code":"TN",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472910,
+    "gn:latitude":36.57486,
+    "gn:longitude":9.99352,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efn el Asker",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayn al \u2018Askar",
+        "A\u00efne el Asker",
+        "A\u00efn el Asker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679179,
+        1108757757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472910
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"dd594792e2a060b5123bf7911bb04802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757757,
+            "locality_id":1326869059,
+            "region_id":85679179
+        }
+    ],
+    "wof:id":1326869059,
+    "wof:lastmodified":1537706517,
+    "wof:name":"Ain el Asker",
+    "wof:parent_id":1108757757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99352,
+    36.57486,
+    9.99352,
+    36.57486
+],
+  "geometry": {"coordinates":[9.99352,36.57486],"type":"Point"}
+}

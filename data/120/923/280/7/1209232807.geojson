@@ -1,0 +1,67 @@
+{
+  "id": 1209232807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.20389,35.32167,10.20389,35.32167",
+    "geom:latitude":35.32167,
+    "geom:longitude":10.20389,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dar et Touibia",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471702,
+    "gn:latitude":35.32167,
+    "gn:longitude":10.20389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dar et Touibia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Touibia",
+        "D\u0101r a\u0163 \u0162uwayb\u012byah",
+        "Dar et Touibia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471702
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"22f16d881f330855db18ce9da94020ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209232807
+        }
+    ],
+    "wof:id":1209232807,
+    "wof:lastmodified":1537706508,
+    "wof:name":"Dar et Touibia",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.20389,
+    35.32167000000001,
+    10.20389,
+    35.32167000000001
+],
+  "geometry": {"coordinates":[10.20389,35.32167000000001],"type":"Point"}
+}

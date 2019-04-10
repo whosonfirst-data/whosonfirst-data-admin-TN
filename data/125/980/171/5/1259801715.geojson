@@ -1,0 +1,71 @@
+{
+  "id": 1259801715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31667,36.05,9.31667,36.05",
+    "geom:latitude":36.05,
+    "geom:longitude":9.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dar el Hadj Ali Ben Slimane",
+    "gn:country_code":"TN",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471732,
+    "gn:latitude":36.05,
+    "gn:longitude":9.31667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Dar el Hadj Ali Ben Slimane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Hadj Ali Ben Sliman",
+        "D\u0101r al \u1e28\u0101jj \u2018Al\u012b Bin Sulaym\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471732
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"2818174fb193399252588e77cf5b0bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757679,
+            "locality_id":1259801715,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1259801715,
+    "wof:lastmodified":1537706509,
+    "wof:name":"Dar el Hadj Ali Ben Slimane",
+    "wof:parent_id":1108757679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31667,
+    36.05,
+    9.31667,
+    36.05
+],
+  "geometry": {"coordinates":[9.31667,36.05],"type":"Point"}
+}

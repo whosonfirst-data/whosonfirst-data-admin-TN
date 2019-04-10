@@ -1,0 +1,70 @@
+{
+  "id": 1326448725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05,36.98333,11.05,36.98333",
+    "geom:latitude":36.98333,
+    "geom:longitude":11.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hennchir Ksar Rhaleb",
+    "gn:country_code":"TN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470506,
+    "gn:latitude":36.98333,
+    "gn:longitude":11.05,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Hennchir Ksar Rhaleb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hansh\u012br Qa\u015fr Ghall\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470506
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"0b092ed3e59a501cdfcccb901b962646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757577,
+            "locality_id":1326448725,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1326448725,
+    "wof:lastmodified":1537706494,
+    "wof:name":"Hennchir Ksar Rhaleb",
+    "wof:parent_id":1108757577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05,
+    36.98333,
+    11.05,
+    36.98333
+],
+  "geometry": {"coordinates":[11.05,36.98333],"type":"Point"}
+}

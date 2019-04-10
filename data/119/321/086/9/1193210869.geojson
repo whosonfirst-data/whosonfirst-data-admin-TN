@@ -1,0 +1,74 @@
+{
+  "id": 1193210869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10556,36.915,10.10556,36.915",
+    "geom:latitude":36.915,
+    "geom:longitude":10.10556,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"La Sebala",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473197,
+    "gn:latitude":36.915,
+    "gn:longitude":10.10556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Sebala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Sab\u0101lah",
+        "La Sebala du Kha\u00efat",
+        "Cebala-ben-Ammar",
+        "La Sebala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108807159,
+        1108757239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473197
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"209920d0767fe2e37eaca730a4cc9bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757239,
+            "locality_id":1193210869,
+            "region_id":1108807159
+        }
+    ],
+    "wof:id":1193210869,
+    "wof:lastmodified":1537706519,
+    "wof:name":"La Sebala",
+    "wof:parent_id":1108757239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10556,
+    36.915,
+    10.10556,
+    36.915
+],
+  "geometry": {"coordinates":[10.10556,36.915],"type":"Point"}
+}

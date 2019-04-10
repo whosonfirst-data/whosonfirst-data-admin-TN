@@ -1,0 +1,67 @@
+{
+  "id": 1293455999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.94944,37.11528,9.94944,37.11528",
+    "geom:latitude":37.11528,
+    "geom:longitude":9.94944,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar Ben Said",
+    "gn:country_code":"TN",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590729,
+    "gn:latitude":37.11528,
+    "gn:longitude":9.94944,
+    "gn:modification_date":"1998-02-26",
+    "gn:name":"Douar Ben Sa\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590729
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f47e8fa5773333245483cdf4846ea1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757283,
+            "locality_id":1293455999,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1293455999,
+    "wof:lastmodified":1536831619,
+    "wof:name":"Douar Ben Said",
+    "wof:parent_id":1108757283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.94944,
+    37.11528,
+    9.94944,
+    37.11528
+],
+  "geometry": {"coordinates":[9.94944,37.11528],"type":"Point"}
+}

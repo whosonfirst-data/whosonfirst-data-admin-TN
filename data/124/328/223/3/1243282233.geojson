@@ -1,0 +1,67 @@
+{
+  "id": 1243282233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.85273,37.27323,9.85273,37.27323",
+    "geom:latitude":37.27323,
+    "geom:longitude":9.85273,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bijouville",
+    "gn:country_code":"TN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472499,
+    "gn:latitude":37.27323,
+    "gn:longitude":9.85273,
+    "gn:modification_date":"1997-03-11",
+    "gn:name":"Bijouville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472499
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"23cb11bf964e9a1d05c5675ffd3f5ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757281,
+            "locality_id":1243282233,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1243282233,
+    "wof:lastmodified":1537040547,
+    "wof:name":"Bijouville",
+    "wof:parent_id":1108757281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.85273,
+    37.27323,
+    9.85273,
+    37.27323
+],
+  "geometry": {"coordinates":[9.85273,37.27323],"type":"Point"}
+}

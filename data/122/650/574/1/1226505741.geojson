@@ -1,0 +1,67 @@
+{
+  "id": 1226505741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65517,37.29353,9.65517,37.29353",
+    "geom:latitude":37.29353,
+    "geom:longitude":9.65517,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dar Hassene ech Chemiki",
+    "gn:country_code":"TN",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586014,
+    "gn:latitude":37.29353,
+    "gn:longitude":9.65517,
+    "gn:modification_date":"1997-04-22",
+    "gn:name":"Dar Hassene ech Chemiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586014
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"9a2852cad3da8f5c044fb3f9a7b5f339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757275,
+            "locality_id":1226505741,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1226505741,
+    "wof:lastmodified":1537053519,
+    "wof:name":"Dar Hassene ech Chemiki",
+    "wof:parent_id":1108757275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65517,
+    37.29353,
+    9.65517,
+    37.29353
+],
+  "geometry": {"coordinates":[9.65517,37.29353],"type":"Point"}
+}

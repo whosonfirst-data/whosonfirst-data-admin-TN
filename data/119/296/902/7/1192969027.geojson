@@ -1,0 +1,70 @@
+{
+  "id": 1192969027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1,33.85,10.1,33.85",
+    "geom:latitude":33.85,
+    "geom:longitude":10.1,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"El Menara",
+    "gn:country_code":"TN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473557,
+    "gn:latitude":33.85,
+    "gn:longitude":10.1,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"El Menara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Man\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473557
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f81c376dcde18a302d6c3dcf719113a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757315,
+            "locality_id":1192969027,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1192969027,
+    "wof:lastmodified":1537706524,
+    "wof:name":"El Menara",
+    "wof:parent_id":1108757315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1,
+    33.85,
+    10.1,
+    33.85
+],
+  "geometry": {"coordinates":[10.1,33.85],"type":"Point"}
+}

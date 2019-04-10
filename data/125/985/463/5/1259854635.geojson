@@ -1,0 +1,67 @@
+{
+  "id": 1259854635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.80643,36.66274,10.80643,36.66274",
+    "geom:latitude":36.66274,
+    "geom:longitude":10.80643,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dar Taleb Mohammed",
+    "gn:country_code":"TN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2581926,
+    "gn:latitude":36.66274,
+    "gn:longitude":10.80643,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Dar Taleb Mohammed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2581926
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"52c5162e5aaece9b921b102d77bf7ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757581,
+            "locality_id":1259854635,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1259854635,
+    "wof:lastmodified":1536819914,
+    "wof:name":"Dar Taleb Mohammed",
+    "wof:parent_id":1108757581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.80643,
+    36.66274,
+    10.80643,
+    36.66274
+],
+  "geometry": {"coordinates":[10.80643,36.66274],"type":"Point"}
+}

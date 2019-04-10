@@ -1,0 +1,67 @@
+{
+  "id": 1209737609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.51755,36.51307,8.51755,36.51307",
+    "geom:latitude":36.51307,
+    "geom:longitude":8.51755,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Et Tahma",
+    "gn:country_code":"TN",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570725,
+    "gn:latitude":36.51307,
+    "gn:longitude":8.51755,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Et Tahma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570725
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e660784167f89b9399830e38efd1a2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757371,
+            "locality_id":1209737609,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1209737609,
+    "wof:lastmodified":1536371995,
+    "wof:name":"Et Tahma",
+    "wof:parent_id":1108757371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.51755,
+    36.51307,
+    8.51755,
+    36.51307
+],
+  "geometry": {"coordinates":[8.51755,36.51307],"type":"Point"}
+}

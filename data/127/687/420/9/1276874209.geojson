@@ -1,0 +1,67 @@
+{
+  "id": 1276874209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.56972,35.92778,9.56972,35.92778",
+    "geom:latitude":35.92778,
+    "geom:longitude":9.56972,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dechret el Golea",
+    "gn:country_code":"TN",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2588732,
+    "gn:latitude":35.92778,
+    "gn:longitude":9.56972,
+    "gn:modification_date":"1997-09-24",
+    "gn:name":"Dechret el Golea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2588732
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"cd7e5ed3b824374b69c92b52041c2f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757395,
+            "locality_id":1276874209,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1276874209,
+    "wof:lastmodified":1537046780,
+    "wof:name":"Dechret el Golea",
+    "wof:parent_id":1108757395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.56972,
+    35.92778,
+    9.56972,
+    35.92778
+],
+  "geometry": {"coordinates":[9.56972,35.92778],"type":"Point"}
+}

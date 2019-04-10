@@ -1,0 +1,74 @@
+{
+  "id": 1310164095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.47909,35.81573,9.47909,35.81573",
+    "geom:latitude":35.81573,
+    "geom:longitude":9.47909,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dechret Mannsoura",
+    "gn:country_code":"TN",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471596,
+    "gn:latitude":35.81573,
+    "gn:longitude":9.47909,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dechret Mannsoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mansoura",
+        "Dechret et Mannsoura",
+        "Dashrat Man\u015f\u016brah",
+        "Dechret Mannsoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471596,
+        "wk:page":"Mansoura%2C_Tunisia"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"1b2163296ead410e2bddf3038ddad8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757669,
+            "locality_id":1310164095,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1310164095,
+    "wof:lastmodified":1537706504,
+    "wof:name":"Dechret Mannsoura",
+    "wof:parent_id":1108757669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47909,
+    35.81573,
+    9.47909,
+    35.81573
+],
+  "geometry": {"coordinates":[9.47909,35.81573],"type":"Point"}
+}

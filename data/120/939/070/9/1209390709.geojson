@@ -1,0 +1,61 @@
+{
+  "id": 1209390709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.96972,37.13583,9.96972,37.13583",
+    "geom:latitude":37.13583,
+    "geom:longitude":9.96972,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar Ben Amara",
+    "gn:country_code":"TN",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590699,
+    "gn:latitude":37.13583,
+    "gn:longitude":9.96972,
+    "gn:modification_date":"1998-02-26",
+    "gn:name":"Douar Ben Amara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590699
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"25c70e4e9dd6316771b370657d09e0d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209390709
+        }
+    ],
+    "wof:id":1209390709,
+    "wof:lastmodified":1536288470,
+    "wof:name":"Douar Ben Amara",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.96972,
+    37.13583,
+    9.96972,
+    37.13583
+],
+  "geometry": {"coordinates":[9.96972,37.13583],"type":"Point"}
+}

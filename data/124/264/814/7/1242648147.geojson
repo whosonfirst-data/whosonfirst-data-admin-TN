@@ -1,0 +1,71 @@
+{
+  "id": 1242648147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.81777,36.02204,8.81777,36.02204",
+    "geom:latitude":36.02204,
+    "geom:longitude":8.81777,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mechta Abd Allah Ben Sassi",
+    "gn:country_code":"TN",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2469122,
+    "gn:latitude":36.02204,
+    "gn:longitude":8.81777,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mechta Abd Allah Ben Sassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masht\u00e1 \u2018Abd All\u0101h Bin S\u0101s\u012b",
+        "Mechta Abd Allah Ben Sassi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469122
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"2847b1a48e68406ce6cce7629058627b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757443,
+            "locality_id":1242648147,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1242648147,
+    "wof:lastmodified":1537706490,
+    "wof:name":"Mechta Abd Allah Ben Sassi",
+    "wof:parent_id":1108757443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.81777,
+    36.02204000000001,
+    8.81777,
+    36.02204000000001
+],
+  "geometry": {"coordinates":[8.81777,36.02204000000001],"type":"Point"}
+}

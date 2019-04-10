@@ -1,0 +1,64 @@
+{
+  "id": 1209694735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96667,35.76667,8.96667,35.76667",
+    "geom:latitude":35.76667,
+    "geom:longitude":8.96667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Oulad Merzoug",
+    "gn:country_code":"TN",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472991,
+    "gn:latitude":35.76667,
+    "gn:longitude":8.96667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Oulad Merzoug",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awl\u0101d Marz\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472991
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"5f5dac5cb504230c410a5714a686e57f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209694735
+        }
+    ],
+    "wof:id":1209694735,
+    "wof:lastmodified":1537706518,
+    "wof:name":"Oulad Merzoug",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96667,
+    35.76667,
+    8.96667,
+    35.76667
+],
+  "geometry": {"coordinates":[8.96667,35.76667],"type":"Point"}
+}

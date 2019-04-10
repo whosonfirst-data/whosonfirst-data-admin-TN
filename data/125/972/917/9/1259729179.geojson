@@ -1,0 +1,80 @@
+{
+  "id": 1259729179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.00284,35.02915,11.00284,35.02915",
+    "geom:latitude":35.02915,
+    "geom:longitude":11.00284,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Louza",
+    "gn:country_code":"TN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473584,
+    "gn:latitude":35.02915,
+    "gn:longitude":11.00284,
+    "gn:modification_date":"2016-10-11",
+    "gn:name":"Louza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0648\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Louza",
+        "Luza",
+        "Al Lawzah",
+        "La Louza",
+        "La Laouza",
+        "La Laousa",
+        "Louza",
+        "Louza el Louata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679151,
+        1108757599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473584
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"72ca371f35a069d174fb1bcbb7165cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757599,
+            "locality_id":1259729179,
+            "region_id":85679151
+        }
+    ],
+    "wof:id":1259729179,
+    "wof:lastmodified":1537706525,
+    "wof:name":"Louza",
+    "wof:parent_id":1108757599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.00284,
+    35.02915,
+    11.00284,
+    35.02915
+],
+  "geometry": {"coordinates":[11.00284,35.02915],"type":"Point"}
+}

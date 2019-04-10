@@ -1,0 +1,65 @@
+{
+  "id": 1209075065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.10609,35.68214,9.10609,35.68214",
+    "geom:latitude":35.68214,
+    "geom:longitude":9.10609,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Fondouk Debbiche",
+    "gn:country_code":"TN",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471072,
+    "gn:latitude":35.68214,
+    "gn:longitude":9.10609,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fondouk Debbiche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Funduq Dabb\u012bsh",
+        "Fondouk Debbiche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471072
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"a1ea74c64ab50c420031ebd17bd6c255",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209075065
+        }
+    ],
+    "wof:id":1209075065,
+    "wof:lastmodified":1537706496,
+    "wof:name":"Fondouk Debbiche",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.10609,
+    35.68214000000001,
+    9.10609,
+    35.68214000000001
+],
+  "geometry": {"coordinates":[9.10609,35.68214000000001],"type":"Point"}
+}

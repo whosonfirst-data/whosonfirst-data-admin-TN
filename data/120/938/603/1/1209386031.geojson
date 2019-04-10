@@ -1,0 +1,61 @@
+{
+  "id": 1209386031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.11583,35.93389,9.11583,35.93389",
+    "geom:latitude":35.93389,
+    "geom:longitude":9.11583,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Douar Ben Mahmoud",
+    "gn:country_code":"TN",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2588412,
+    "gn:latitude":35.93389,
+    "gn:longitude":9.11583,
+    "gn:modification_date":"1997-09-23",
+    "gn:name":"Douar Ben Mahmoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2588412
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"4e55f9a6a797e6a2f4093e372b0b2d96",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209386031
+        }
+    ],
+    "wof:id":1209386031,
+    "wof:lastmodified":1536288622,
+    "wof:name":"Douar Ben Mahmoud",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.11583,
+    35.93389000000001,
+    9.11583,
+    35.93389000000001
+],
+  "geometry": {"coordinates":[9.11583,35.93389000000001],"type":"Point"}
+}

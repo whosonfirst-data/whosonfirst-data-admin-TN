@@ -1,0 +1,68 @@
+{
+  "id": 1327038785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.05987,35.59316,9.05987,35.59316",
+    "geom:latitude":35.59316,
+    "geom:longitude":9.05987,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jedelienne",
+    "gn:country_code":"TN",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870034,
+    "gn:latitude":35.59316,
+    "gn:longitude":9.05987,
+    "gn:modification_date":"2011-06-09",
+    "gn:name":"Jedelienne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679133,
+        1108757401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870034,
+        "wk:page":"Jedelienne"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e04d0f77ff086d2c5988b786e61854d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757401,
+            "locality_id":1327038785,
+            "region_id":85679133
+        }
+    ],
+    "wof:id":1327038785,
+    "wof:lastmodified":1537574453,
+    "wof:name":"Jedelienne",
+    "wof:parent_id":1108757401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.05987,
+    35.59316,
+    9.05987,
+    35.59316
+],
+  "geometry": {"coordinates":[9.05987,35.59316],"type":"Point"}
+}

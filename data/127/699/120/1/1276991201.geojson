@@ -1,0 +1,72 @@
+{
+  "id": 1276991201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.79052,36.66127,10.79052,36.66127",
+    "geom:latitude":36.66127,
+    "geom:longitude":10.79052,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dar Hassen Zegoulli",
+    "gn:country_code":"TN",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471669,
+    "gn:latitude":36.66127,
+    "gn:longitude":10.79052,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dar Hassen Zegoulli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r \u1e28asan Zegoulli",
+        "Dar Hassen Zegouli",
+        "Dar Hassen Zegoulli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471669
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"eb7f0a09c372a23ac0c881ba5cd281ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757581,
+            "locality_id":1276991201,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1276991201,
+    "wof:lastmodified":1537706507,
+    "wof:name":"Dar Hassen Zegoulli",
+    "wof:parent_id":1108757581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.79052,
+    36.66127,
+    10.79052,
+    36.66127
+],
+  "geometry": {"coordinates":[10.79052,36.66127],"type":"Point"}
+}

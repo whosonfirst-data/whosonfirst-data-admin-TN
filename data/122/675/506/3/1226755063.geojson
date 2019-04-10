@@ -1,0 +1,72 @@
+{
+  "id": 1226755063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.02944,35.96528,10.02944,35.96528",
+    "geom:latitude":35.96528,
+    "geom:longitude":10.02944,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Haoumet",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473729,
+    "gn:latitude":35.96528,
+    "gn:longitude":10.02944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Haoumet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28awm\u0101t",
+        "El Haoumet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473729
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"45d6cbc082086cac60cc9793ce6affcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757397,
+            "locality_id":1226755063,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1226755063,
+    "wof:lastmodified":1537706527,
+    "wof:name":"El Haoumet",
+    "wof:parent_id":1108757397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.02944,
+    35.96528,
+    10.02944,
+    35.96528
+],
+  "geometry": {"coordinates":[10.02944,35.96528],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344105557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9725,35.00722,9.9725,35.00722",
+    "geom:latitude":35.00722,
+    "geom:longitude":9.9725,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Hanout Cheikh",
+    "gn:country_code":"TN",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2588116,
+    "gn:latitude":35.00722,
+    "gn:longitude":9.9725,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Hanout Che\u00efkh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2588116
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"c461a6b6fa7e9907cc7e9b6f1ec51542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757645,
+            "locality_id":1344105557,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":1344105557,
+    "wof:lastmodified":1536810199,
+    "wof:name":"Hanout Cheikh",
+    "wof:parent_id":1108757645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9725,
+    35.00722,
+    9.9725,
+    35.00722
+],
+  "geometry": {"coordinates":[9.9725,35.00722],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343676469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.85316,35.1399,9.85316,35.1399",
+    "geom:latitude":35.1399,
+    "geom:longitude":9.85316,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"El Abadlia",
+    "gn:country_code":"TN",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473900,
+    "gn:latitude":35.1399,
+    "gn:longitude":9.85316,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Abadlia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Ab\u0101dil\u012byah",
+        "El Abadlia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473900
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e001f2081994cec8d1dcb182b384ffae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757643,
+            "locality_id":1343676469,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":1343676469,
+    "wof:lastmodified":1537706531,
+    "wof:name":"El Abadlia",
+    "wof:parent_id":1108757643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.85316,
+    35.1399,
+    9.85316,
+    35.1399
+],
+  "geometry": {"coordinates":[9.85316,35.1399],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421196803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0737,35.54332,9.0737,35.54332",
+    "geom:latitude":35.54332,
+    "geom:longitude":9.0737,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Sab\u012bbah"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2467506,
+    "qs:gn_pop":6291,
+    "qs:name":"Sabibah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Qasrayn",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1298671,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442590,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679133,
+        1108757423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467506,
+        "gp:id":1442590,
+        "qs:id":1298671
+    },
+    "wof:country":"TN",
+    "wof:created":1459009893,
+    "wof:geomhash":"1dee8f73ddc321a29ab8b7725073ed40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757423,
+            "locality_id":421196803,
+            "region_id":85679133
+        }
+    ],
+    "wof:id":421196803,
+    "wof:lastmodified":1505340749,
+    "wof:name":"Sabibah",
+    "wof:parent_id":1108757423,
+    "wof:placetype":"locality",
+    "wof:population":6291,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0737,
+    35.54332,
+    9.0737,
+    35.54332
+],
+  "geometry": {"coordinates":[9.0737,35.54332],"type":"Point"}
+}

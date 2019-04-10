@@ -1,0 +1,71 @@
+{
+  "id": 1327079069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.23219,33.99639,8.23219,33.99639",
+    "geom:latitude":33.99639,
+    "geom:longitude":8.23219,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Zorgane",
+    "gn:country_code":"TN",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463839,
+    "gn:latitude":33.99639,
+    "gn:longitude":8.23219,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zorgane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zurq\u0101n",
+        "Zorgane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679095,
+        1108757735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463839
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"858be8157f5b14f81b46eb5c546e1ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757735,
+            "locality_id":1327079069,
+            "region_id":85679095
+        }
+    ],
+    "wof:id":1327079069,
+    "wof:lastmodified":1537706473,
+    "wof:name":"Zorgane",
+    "wof:parent_id":1108757735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.23219,
+    33.99639000000001,
+    8.23219,
+    33.99639000000001
+],
+  "geometry": {"coordinates":[8.23219,33.99639000000001],"type":"Point"}
+}

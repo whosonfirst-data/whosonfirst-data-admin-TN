@@ -1,0 +1,61 @@
+{
+  "id": 1209617159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.15083,35.31528,10.15083,35.31528",
+    "geom:latitude":35.31528,
+    "geom:longitude":10.15083,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Salem Ben ez Zine",
+    "gn:country_code":"TN",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2587135,
+    "gn:latitude":35.31528,
+    "gn:longitude":10.15083,
+    "gn:modification_date":"1997-05-07",
+    "gn:name":"Douar Salem Ben ez Zine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2587135
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"1f4b3c6f5cfb1d20d44c1993d82c842e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209617159
+        }
+    ],
+    "wof:id":1209617159,
+    "wof:lastmodified":1536281649,
+    "wof:name":"Douar Salem Ben ez Zine",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.15083,
+    35.31528,
+    10.15083,
+    35.31528
+],
+  "geometry": {"coordinates":[10.15083,35.31528],"type":"Point"}
+}

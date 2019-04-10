@@ -1,0 +1,72 @@
+{
+  "id": 1276714019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.07611,36.92083,10.07611,36.92083",
+    "geom:latitude":36.92083,
+    "geom:longitude":10.07611,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Borj el Khouja",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590233,
+    "gn:latitude":36.92083,
+    "gn:longitude":10.07611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Borj el Khouja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borj el Khoudja",
+        "Borj el Khouja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108807159,
+        1108757239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590233
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"3c181cb1989f006c000b5dce27446dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757239,
+            "locality_id":1276714019,
+            "region_id":1108807159
+        }
+    ],
+    "wof:id":1276714019,
+    "wof:lastmodified":1537706537,
+    "wof:name":"Borj el Khouja",
+    "wof:parent_id":1108757239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.07611,
+    36.92083,
+    10.07611,
+    36.92083
+],
+  "geometry": {"coordinates":[10.07611,36.92083],"type":"Point"}
+}

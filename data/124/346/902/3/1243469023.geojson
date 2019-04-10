@@ -1,0 +1,72 @@
+{
+  "id": 1243469023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.99154,35.16798,9.99154,35.16798",
+    "geom:latitude":35.16798,
+    "geom:longitude":9.99154,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Douar Amor Ben Ramah",
+    "gn:country_code":"TN",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471631,
+    "gn:latitude":35.16798,
+    "gn:longitude":9.99154,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar Amor Ben Ramah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r \u2018Umar Bin ar Ramm\u0101\u1e29",
+        "Dar Amor Ben Rammah",
+        "Douar Amor Ben Ramah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471631
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"43f149f73a50945391c5f0d4b09ae682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757381,
+            "locality_id":1243469023,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1243469023,
+    "wof:lastmodified":1537706506,
+    "wof:name":"Douar Amor Ben Ramah",
+    "wof:parent_id":1108757381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99154,
+    35.16798,
+    9.99154,
+    35.16798
+],
+  "geometry": {"coordinates":[9.99154,35.16798],"type":"Point"}
+}

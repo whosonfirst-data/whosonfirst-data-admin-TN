@@ -1,0 +1,114 @@
+{
+  "id": 421197971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.90651,36.37419,9.90651,36.37419",
+    "geom:latitude":36.37419,
+    "geom:longitude":9.90651,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u062d\u0635"
+    ],
+    "name:cat_x_preferred":[
+        "El Fahs"
+    ],
+    "name:dut_x_preferred":[
+        "El Fahs"
+    ],
+    "name:eng_x_preferred":[
+        "El Fahs"
+    ],
+    "name:fre_x_preferred":[
+        "El Fahs"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ud30c\uc2a4"
+    ],
+    "name:rum_x_preferred":[
+        "El Fahs"
+    ],
+    "name:rup_x_preferred":[
+        "El Fahs"
+    ],
+    "name:sco_x_preferred":[
+        "El Fahs"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0424\u0430\u0445\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Pont-du-Fahs"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2468285,
+    "qs:gn_pop":18083,
+    "qs:name":"Qantarat al Fahs",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Zaghwan",
+    "qs:photos":274,
+    "qs:photos_1k":56,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":274,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":492908,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442496,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679179,
+        1108757759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468285,
+        "gp:id":1442496,
+        "qs:id":492908,
+        "wd:id":"Q657250",
+        "wk:page":"El Fahs"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009931,
+    "wof:geomhash":"49f4eafc6c2deb7aea8440ed318b3e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757759,
+            "locality_id":421197971,
+            "region_id":85679179
+        }
+    ],
+    "wof:id":421197971,
+    "wof:lastmodified":1514506683,
+    "wof:name":"Qantarat al Fahs",
+    "wof:parent_id":1108757759,
+    "wof:placetype":"locality",
+    "wof:population":18083,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.90651,
+    36.37419,
+    9.90651,
+    36.37419
+],
+  "geometry": {"coordinates":[9.90651,36.37419],"type":"Point"}
+}

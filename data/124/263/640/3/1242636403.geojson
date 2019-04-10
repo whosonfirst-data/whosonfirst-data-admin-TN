@@ -1,0 +1,71 @@
+{
+  "id": 1242636403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.47937,35.06209,9.47937,35.06209",
+    "geom:latitude":35.06209,
+    "geom:longitude":9.47937,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Henchir Haj Ali Bou Hamouda",
+    "gn:country_code":"TN",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2587494,
+    "gn:latitude":35.06209,
+    "gn:longitude":9.47937,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Henchir Haj Ali Bou Hamouda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Henchir Hadj Ali Bou Hamouda",
+        "Henchir Haj Ali Bou Hamouda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2587494
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"24eb00efb8b495c9450593652d8677ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757653,
+            "locality_id":1242636403,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":1242636403,
+    "wof:lastmodified":1537706535,
+    "wof:name":"Henchir Haj Ali Bou Hamouda",
+    "wof:parent_id":1108757653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47937,
+    35.06209,
+    9.47937,
+    35.06209
+],
+  "geometry": {"coordinates":[9.47937,35.06209],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209699377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.00611,35.82528,9.00611,35.82528",
+    "geom:latitude":35.82528,
+    "geom:longitude":9.00611,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Douar Jouf es Sbiba",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2588370,
+    "gn:latitude":35.82528,
+    "gn:longitude":9.00611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Jouf es Sbiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Djouf es Sbiba",
+        "Douar Jouf es Sbiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2588370
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"d9dde728d6711f991830101fd0e3106e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757445,
+            "locality_id":1209699377,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1209699377,
+    "wof:lastmodified":1537706536,
+    "wof:name":"Douar Jouf es Sbiba",
+    "wof:parent_id":1108757445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.00611,
+    35.82528,
+    9.00611,
+    35.82528
+],
+  "geometry": {"coordinates":[9.00611,35.82528],"type":"Point"}
+}

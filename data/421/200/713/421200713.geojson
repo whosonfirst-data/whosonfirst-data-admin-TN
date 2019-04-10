@@ -1,0 +1,75 @@
+{
+  "id": 421200713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.0102,33.78191,11.0102,33.78191",
+    "geom:latitude":33.78191,
+    "geom:longitude":11.0102,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473284,
+    "qs:gn_pop":0,
+    "qs:name":"Arkou",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Madanin",
+    "qs:photos":677,
+    "qs:photos_1k":137,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":677,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":892161,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441890,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473284,
+        "gp:id":1441890,
+        "qs:id":892161
+    },
+    "wof:country":"TN",
+    "wof:created":1459010035,
+    "wof:geomhash":"c6adf18f55207b5eb549acc90ad5ce9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757519,
+            "locality_id":421200713,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":421200713,
+    "wof:lastmodified":1494646334,
+    "wof:name":"Arkou",
+    "wof:parent_id":1108757519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.0102,
+    33.78191,
+    11.0102,
+    33.78191
+],
+  "geometry": {"coordinates":[11.0102,33.78191],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 421178255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.26404,34.4628,9.26404,34.4628",
+    "geom:latitude":34.4628,
+    "geom:longitude":9.26404,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0646\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Sened"
+    ],
+    "name:dut_x_preferred":[
+        "Sened"
+    ],
+    "name:eng_x_preferred":[
+        "Sened"
+    ],
+    "name:fra_x_preferred":[
+        "Sened"
+    ],
+    "name:fre_x_preferred":[
+        "Sened"
+    ],
+    "name:ita_x_preferred":[
+        "Sened"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0430\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Sened"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473183,
+    "qs:gn_pop":7859,
+    "qs:name":"As Sanad",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Qafash",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":278698,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441898,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679141,
+        1108757351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473183,
+        "gp:id":1441898,
+        "qs:id":278698,
+        "wd:id":"Q2736042"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009176,
+    "wof:geomhash":"fd3c0d112992f67a17c553731d4cef77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757351,
+            "locality_id":421178255,
+            "region_id":85679141
+        }
+    ],
+    "wof:id":421178255,
+    "wof:lastmodified":1527717727,
+    "wof:name":"As Sanad",
+    "wof:parent_id":1108757351,
+    "wof:placetype":"locality",
+    "wof:population":7859,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.26404,
+    34.4628,
+    9.26404,
+    34.4628
+],
+  "geometry": {"coordinates":[9.26404,34.4628],"type":"Point"}
+}

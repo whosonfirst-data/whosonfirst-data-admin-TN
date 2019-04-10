@@ -1,0 +1,67 @@
+{
+  "id": 1260355443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.99222,36.95583,9.99222,36.95583",
+    "geom:latitude":36.95583,
+    "geom:longitude":9.99222,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"De Carnieres",
+    "gn:country_code":"TN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471456,
+    "gn:latitude":36.95583,
+    "gn:longitude":9.99222,
+    "gn:modification_date":"1997-04-18",
+    "gn:name":"De Carni\u00e8res",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471456
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"7c6b01d54b1f35def63d90b484f928d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757305,
+            "locality_id":1260355443,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1260355443,
+    "wof:lastmodified":1536613183,
+    "wof:name":"De Carnieres",
+    "wof:parent_id":1108757305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99222,
+    36.95583,
+    9.99222,
+    36.95583
+],
+  "geometry": {"coordinates":[9.99222,36.95583],"type":"Point"}
+}

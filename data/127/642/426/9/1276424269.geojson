@@ -1,0 +1,72 @@
+{
+  "id": 1276424269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.83952,35.79378,8.83952,35.79378",
+    "geom:latitude":35.79378,
+    "geom:longitude":8.83952,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Douar el Azaizia",
+    "gn:country_code":"TN",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471567,
+    "gn:latitude":35.79378,
+    "gn:longitude":8.83952,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar el Aza\u00efzia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Aza\u00efzia",
+        "Daww\u0101r al Aza\u00efzia",
+        "Douar el Aza\u00efzia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471567
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"53f9905cd7c370668eaf927e9683961a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757445,
+            "locality_id":1276424269,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1276424269,
+    "wof:lastmodified":1537706503,
+    "wof:name":"Douar el Azaizia",
+    "wof:parent_id":1108757445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.83952,
+    35.79378,
+    8.83952,
+    35.79378
+],
+  "geometry": {"coordinates":[8.83952,35.79378],"type":"Point"}
+}

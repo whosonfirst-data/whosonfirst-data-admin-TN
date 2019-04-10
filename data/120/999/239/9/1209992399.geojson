@@ -1,0 +1,73 @@
+{
+  "id": 1209992399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.60778,37.20417,9.60778,37.20417",
+    "geom:latitude":37.20417,
+    "geom:longitude":9.60778,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar Kharrata",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471548,
+    "gn:latitude":37.20417,
+    "gn:longitude":9.60778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar Kharrata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Krarrata",
+        "Daww\u0101r al Kharr\u0101\u0163ah",
+        "Douar Kharrata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471548
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"d386d2b37718ec4fa444c98963ecf00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757275,
+            "locality_id":1209992399,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1209992399,
+    "wof:lastmodified":1537706501,
+    "wof:name":"Douar Kharrata",
+    "wof:parent_id":1108757275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.60778,
+    37.20417,
+    9.60778,
+    37.20417
+],
+  "geometry": {"coordinates":[9.60778,37.20417],"type":"Point"}
+}

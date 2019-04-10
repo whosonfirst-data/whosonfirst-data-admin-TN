@@ -1,0 +1,73 @@
+{
+  "id": 1293209437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.72472,35.65287,8.72472,35.65287",
+    "geom:latitude":35.65287,
+    "geom:longitude":8.72472,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dar el Haj Salih Ben Moubarak",
+    "gn:country_code":"TN",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471730,
+    "gn:latitude":35.65287,
+    "gn:longitude":8.72472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dar el Haj Salih Ben Moubarak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar el Hadj Salah Ben M\u2019barek",
+        "Dar el Hadj Salah Ben Emmbarek",
+        "D\u0101r al \u1e28\u0101jj \u015e\u0101li\u1e29 Bin Mub\u0101rak",
+        "Dar el Haj Salih Ben Moubarak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679133,
+        1108757427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471730
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"dae59184679753d4bfaa841029ace7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757427,
+            "locality_id":1293209437,
+            "region_id":85679133
+        }
+    ],
+    "wof:id":1293209437,
+    "wof:lastmodified":1537706509,
+    "wof:name":"Dar el Haj Salih Ben Moubarak",
+    "wof:parent_id":1108757427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.72472,
+    35.65287,
+    8.72472,
+    35.65287
+],
+  "geometry": {"coordinates":[8.72472,35.65287],"type":"Point"}
+}

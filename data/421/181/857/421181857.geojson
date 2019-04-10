@@ -1,0 +1,82 @@
+{
+  "id": 421181857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19883,33.2528,10.19883,33.2528",
+    "geom:latitude":33.2528,
+    "geom:longitude":10.19883,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "El Ben Kheddaone"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2472726,
+    "qs:gn_pop":3588,
+    "qs:name":"Bani Khaddash",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Madanin",
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":507357,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441968,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472726,
+        "gp:id":1441968,
+        "qs:id":507357
+    },
+    "wof:country":"TN",
+    "wof:created":1459009309,
+    "wof:geomhash":"45c759336571c463c31c4eac9c2628a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757513,
+            "locality_id":421181857,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":421181857,
+    "wof:lastmodified":1505340659,
+    "wof:name":"Bani Khaddash",
+    "wof:parent_id":1108757513,
+    "wof:placetype":"locality",
+    "wof:population":3588,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19883,
+    33.2528,
+    10.19883,
+    33.2528
+],
+  "geometry": {"coordinates":[10.19883,33.2528],"type":"Point"}
+}

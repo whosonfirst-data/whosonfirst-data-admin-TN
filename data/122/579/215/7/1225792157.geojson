@@ -1,0 +1,70 @@
+{
+  "id": 1225792157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.06667,33.86667,10.06667,33.86667",
+    "geom:latitude":33.86667,
+    "geom:longitude":10.06667,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Jouaoula",
+    "gn:country_code":"TN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470163,
+    "gn:latitude":33.86667,
+    "gn:longitude":10.06667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Jouaoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaw\u0101wilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470163
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"9850f846978f1e87b0ab6669f7231cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757311,
+            "locality_id":1225792157,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1225792157,
+    "wof:lastmodified":1537706493,
+    "wof:name":"Jouaoula",
+    "wof:parent_id":1108757311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.06667,
+    33.86667,
+    10.06667,
+    33.86667
+],
+  "geometry": {"coordinates":[10.06667,33.86667],"type":"Point"}
+}

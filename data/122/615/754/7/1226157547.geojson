@@ -1,0 +1,72 @@
+{
+  "id": 1226157547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.29778,36.53639,8.29778,36.53639",
+    "geom:latitude":36.53639,
+    "geom:longitude":8.29778,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Azib el Mroug",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472861,
+    "gn:latitude":36.53639,
+    "gn:longitude":8.29778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Azib el Mroug",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Az\u012bb al Mur\u016bq",
+        "Azib el Mroug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472861
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"cc87388d205dcbe0c874b9cd66159c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757363,
+            "locality_id":1226157547,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1226157547,
+    "wof:lastmodified":1537706516,
+    "wof:name":"Azib el Mroug",
+    "wof:parent_id":1108757363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.29778,
+    36.53639,
+    8.29778,
+    36.53639
+],
+  "geometry": {"coordinates":[8.29778,36.53639],"type":"Point"}
+}

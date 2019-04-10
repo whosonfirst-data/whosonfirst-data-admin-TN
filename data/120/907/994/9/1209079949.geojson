@@ -1,0 +1,61 @@
+{
+  "id": 1209079949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.87074,35.96849,8.87074,35.96849",
+    "geom:latitude":35.96849,
+    "geom:longitude":8.87074,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Magazdia",
+    "gn:country_code":"TN",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589458,
+    "gn:latitude":35.96849,
+    "gn:longitude":8.87074,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"El Magazdia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589458
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"84b0a7c0ca2b630a8a7ca895cd4ed31a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209079949
+        }
+    ],
+    "wof:id":1209079949,
+    "wof:lastmodified":1536298371,
+    "wof:name":"El Magazdia",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.87074,
+    35.96849,
+    8.87074,
+    35.96849
+],
+  "geometry": {"coordinates":[8.87074,35.96849],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 421199075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.99475,35.41808,10.99475,35.41808",
+    "geom:latitude":35.41808,
+    "geom:longitude":10.99475,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0648\u0631 \u0627\u0644\u0633\u0627\u0641"
+    ],
+    "name:cat_x_preferred":[
+        "Ksour Essef"
+    ],
+    "name:dut_x_preferred":[
+        "Ksour Essef"
+    ],
+    "name:eng_x_preferred":[
+        "Ksour Essef"
+    ],
+    "name:fre_x_preferred":[
+        "Ksour Essef"
+    ],
+    "name:rum_x_preferred":[
+        "Ksour Essaf"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0441\u0443\u0440-\u0435\u0441-\u0421\u0435\u0444"
+    ],
+    "name:unk_x_variant":[
+        "Qsour Essaf"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2467856,
+    "qs:gn_pop":27936,
+    "qs:name":"Qusur as Saf",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Mahdiyah",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":189027,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442572,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679161,
+        1108757479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467856,
+        "gp:id":1442572,
+        "qs:id":189027,
+        "wd:id":"Q3141573",
+        "wk:page":"Ksour Essef"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009976,
+    "wof:geomhash":"6a647157e631ee24a0a3494195807b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757479,
+            "locality_id":421199075,
+            "region_id":85679161
+        }
+    ],
+    "wof:id":421199075,
+    "wof:lastmodified":1514506684,
+    "wof:name":"Qusur as Saf",
+    "wof:parent_id":1108757479,
+    "wof:placetype":"locality",
+    "wof:population":27936,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.99475,
+    35.41808,
+    10.99475,
+    35.41808
+],
+  "geometry": {"coordinates":[10.99475,35.41808],"type":"Point"}
+}

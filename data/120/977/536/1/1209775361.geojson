@@ -1,0 +1,71 @@
+{
+  "id": 1209775361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.74219,35.12226,10.74219,35.12226",
+    "geom:latitude":35.12226,
+    "geom:longitude":10.74219,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Hencha",
+    "gn:country_code":"TN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473742,
+    "gn:latitude":35.12226,
+    "gn:longitude":10.74219,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Hencha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Hencha",
+        "Al \u1e28anashah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679151,
+        1108757603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473742
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"aaeb8b6141e9e6d9ffcc9f3a2c5e9c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757603,
+            "locality_id":1209775361,
+            "region_id":85679151
+        }
+    ],
+    "wof:id":1209775361,
+    "wof:lastmodified":1537706527,
+    "wof:name":"Hencha",
+    "wof:parent_id":1108757603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.74219,
+    35.12226,
+    10.74219,
+    35.12226
+],
+  "geometry": {"coordinates":[10.74219,35.12226],"type":"Point"}
+}

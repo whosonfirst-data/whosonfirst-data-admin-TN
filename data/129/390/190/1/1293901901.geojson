@@ -1,0 +1,72 @@
+{
+  "id": 1293901901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50493,36.41574,9.50493,36.41574",
+    "geom:latitude":36.41574,
+    "geom:longitude":9.50493,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bou Djelida",
+    "gn:country_code":"TN",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472176,
+    "gn:latitude":36.41574,
+    "gn:longitude":9.50493,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Bou Djelida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dachret Bou Djelida",
+        "Dachret Bou Djehda",
+        "B\u016b Jal\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472176
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"5e083e0199c425809d730773a7363d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757665,
+            "locality_id":1293901901,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1293901901,
+    "wof:lastmodified":1537706512,
+    "wof:name":"Bou Djelida",
+    "wof:parent_id":1108757665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50493,
+    36.41574,
+    9.50493,
+    36.41574
+],
+  "geometry": {"coordinates":[9.50493,36.41574],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421172141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.84193,34.57758,9.84193,34.57758",
+    "geom:latitude":34.57758,
+    "geom:longitude":9.84193,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Merzouna"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473525,
+    "qs:gn_pop":5564,
+    "qs:name":"Al Mazzonah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Sidi Bu Zayd",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1298572,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441834,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473525,
+        "gp:id":1441834,
+        "qs:id":1298572
+    },
+    "wof:country":"TN",
+    "wof:created":1459008921,
+    "wof:geomhash":"c0217f92b54dd78d0acd22a484dfe7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757635,
+            "locality_id":421172141,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":421172141,
+    "wof:lastmodified":1505340609,
+    "wof:name":"Al Mazzonah",
+    "wof:parent_id":1108757635,
+    "wof:placetype":"locality",
+    "wof:population":5564,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.84193,
+    34.57758,
+    9.84193,
+    34.57758
+],
+  "geometry": {"coordinates":[9.84193,34.57758],"type":"Point"}
+}

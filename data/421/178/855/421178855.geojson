@@ -1,0 +1,154 @@
+{
+  "id": 421178855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.60313,35.8609,10.60313,35.8609",
+    "geom:latitude":35.8609,
+    "geom:longitude":10.60313,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0627\u0645 \u0633\u0648\u0633\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:cym_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:cze_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:dut_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:eng_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:fin_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:fra_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:fre_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03b1\u03bc\u03ac\u03bc \u03a3\u03bf\u03c5\u03c2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05de\u05d0\u05dd \u05e1\u05d5\u05e1\u05d4"
+    ],
+    "name:kab_x_preferred":[
+        "\u1e24emmam Susa"
+    ],
+    "name:kor_x_preferred":[
+        "\ud568\ub9d8\uc218\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:pol_x_preferred":[
+        "Hammam Susa"
+    ],
+    "name:ron_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:rum_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043c\u043c\u0430\u043c \u0421\u0443\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:slo_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:slv_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u043c\u043c\u0430\u043c-\u0421\u0443\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Justiniapolis"
+    ],
+    "name:wel_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2470579,
+    "qs:gn_pop":33834,
+    "qs:name":"Hammam Susah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Susah",
+    "qs:photos":1769,
+    "qs:photos_1k":358,
+    "qs:photos_9k":8,
+    "qs:photos_9r":8,
+    "qs:photos_all":1769,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":140131,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442323,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470579,
+        "gp:id":1442323,
+        "qs:id":140131,
+        "wd:id":"Q545273",
+        "wk:page":"Hammam Sousse"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009195,
+    "wof:geomhash":"400d1c82752e68b9d652a4f7d8a40eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757689,
+            "locality_id":421178855,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":421178855,
+    "wof:lastmodified":1527717727,
+    "wof:name":"Hammam Susah",
+    "wof:parent_id":1108757689,
+    "wof:placetype":"locality",
+    "wof:population":33834,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.60313,
+    35.8609,
+    10.60313,
+    35.8609
+],
+  "geometry": {"coordinates":[10.60313,35.8609],"type":"Point"}
+}

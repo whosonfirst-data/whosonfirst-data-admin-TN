@@ -1,0 +1,67 @@
+{
+  "id": 1209881643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.84306,36.87639,10.84306,36.87639",
+    "geom:latitude":36.87639,
+    "geom:longitude":10.84306,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dar el Guedidi",
+    "gn:country_code":"TN",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2582174,
+    "gn:latitude":36.87639,
+    "gn:longitude":10.84306,
+    "gn:modification_date":"1996-10-24",
+    "gn:name":"Dar el Guedidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2582174
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"da503871fa988302596aa79137e58cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757577,
+            "locality_id":1209881643,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1209881643,
+    "wof:lastmodified":1536394772,
+    "wof:name":"Dar el Guedidi",
+    "wof:parent_id":1108757577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.84306,
+    36.87639,
+    10.84306,
+    36.87639
+],
+  "geometry": {"coordinates":[10.84306,36.87639],"type":"Point"}
+}

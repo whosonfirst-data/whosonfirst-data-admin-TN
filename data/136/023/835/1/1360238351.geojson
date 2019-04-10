@@ -1,0 +1,71 @@
+{
+  "id": 1360238351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.12439,33.91011,8.12439,33.91011",
+    "geom:latitude":33.91011,
+    "geom:longitude":8.12439,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Jehim",
+    "gn:country_code":"TN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589395,
+    "gn:latitude":33.91011,
+    "gn:longitude":8.12439,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jehim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djehim",
+        "Jehim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679095,
+        1108757743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589395
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"cb51f471e0e482883aa68c7b02001347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757743,
+            "locality_id":1360238351,
+            "region_id":85679095
+        }
+    ],
+    "wof:id":1360238351,
+    "wof:lastmodified":1537706537,
+    "wof:name":"Jehim",
+    "wof:parent_id":1108757743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.12439,
+    33.91011,
+    8.12439,
+    33.91011
+],
+  "geometry": {"coordinates":[8.12439,33.91011],"type":"Point"}
+}

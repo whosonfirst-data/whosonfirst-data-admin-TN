@@ -1,0 +1,64 @@
+{
+  "id": 1209376253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.33333,33.25,10.33333,33.25",
+    "geom:latitude":33.25,
+    "geom:longitude":10.33333,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ksar Kourikria",
+    "gn:country_code":"TN",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2468148,
+    "gn:latitude":33.25,
+    "gn:longitude":10.33333,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ksar Kourikria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fr al Qurayqir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468148
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"8837fd456b2e4cad8693d8708b5fe286",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209376253
+        }
+    ],
+    "wof:id":1209376253,
+    "wof:lastmodified":1537706486,
+    "wof:name":"Ksar Kourikria",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.33333,
+    33.25,
+    10.33333,
+    33.25
+],
+  "geometry": {"coordinates":[10.33333,33.25],"type":"Point"}
+}

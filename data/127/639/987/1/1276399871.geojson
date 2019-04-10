@@ -1,0 +1,75 @@
+{
+  "id": 1276399871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.74704,34.25101,8.74704,34.25101",
+    "geom:latitude":34.25101,
+    "geom:longitude":8.74704,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"M'dhilla",
+    "gn:country_code":"TN",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473578,
+    "gn:latitude":34.25101,
+    "gn:longitude":8.74704,
+    "gn:modification_date":"2018-03-22",
+    "gn:name":"M\u2019dhilla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ma\u1e11\u012blah",
+        "Mdilla",
+        "Village de la Mine",
+        "Le Mdilla",
+        "M\u2019dhilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679141,
+        1108757341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473578,
+        "wk:page":"Mdhila"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"1bab4788691318c2dfbf14d5541080c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757341,
+            "locality_id":1276399871,
+            "region_id":85679141
+        }
+    ],
+    "wof:id":1276399871,
+    "wof:lastmodified":1537706525,
+    "wof:name":"M'dhilla",
+    "wof:parent_id":1108757341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.74704,
+    34.25101,
+    8.74704,
+    34.25101
+],
+  "geometry": {"coordinates":[8.74704,34.25101],"type":"Point"}
+}

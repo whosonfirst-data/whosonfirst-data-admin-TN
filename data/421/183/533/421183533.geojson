@@ -1,0 +1,112 @@
+{
+  "id": 421183533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0924,34.73592,10.0924,34.73592",
+    "geom:latitude":34.73592,
+    "geom:longitude":10.0924,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0639\u0644\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Bir Ali Ben Kh\u00e9lifa"
+    ],
+    "name:dut_x_preferred":[
+        "Bir Ali Ben Kh\u00e9lifa"
+    ],
+    "name:eng_x_preferred":[
+        "Bir Ali Ben Kh\u00e9lifa"
+    ],
+    "name:fra_x_preferred":[
+        "Bir Ali Ben Khalifa"
+    ],
+    "name:fre_x_preferred":[
+        "Bir Ali Ben Khalifa"
+    ],
+    "name:ita_x_preferred":[
+        "Bir Ali Ben Khalifa"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ub974\uc54c\ub9ac\ubca4\ucf08\ub9ac\ud30c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0435\u0440-\u0410\u043b\u0456-\u0411\u0435\u043d-\u0425\u0430\u043b\u0456\u0444\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bir Ali Ben Khalifa"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2472379,
+    "qs:gn_pop":4864,
+    "qs:name":"Bi'r Ali Bin Khalifah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Safaqis",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1298599,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441996,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679151,
+        1108757597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472379,
+        "gp:id":1441996,
+        "qs:id":1298599,
+        "wd:id":"Q1153877",
+        "wk:page":"Bir Ali Ben Kh\u00e9lifa"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009372,
+    "wof:geomhash":"cdd40ed1846f193445298910205bc66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757597,
+            "locality_id":421183533,
+            "region_id":85679151
+        }
+    ],
+    "wof:id":421183533,
+    "wof:lastmodified":1527716487,
+    "wof:name":"Bi'r Ali Bin Khalifah",
+    "wof:parent_id":1108757597,
+    "wof:placetype":"locality",
+    "wof:population":4864,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0924,
+    34.73592,
+    10.0924,
+    34.73592
+],
+  "geometry": {"coordinates":[10.0924,34.73592],"type":"Point"}
+}

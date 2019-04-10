@@ -1,0 +1,133 @@
+{
+  "id": 421197973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.87765,33.87309,7.87765,33.87309",
+    "geom:latitude":33.87309,
+    "geom:longitude":7.87765,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0641\u0637\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Nefta"
+    ],
+    "name:deu_x_preferred":[
+        "Nefta"
+    ],
+    "name:dut_x_preferred":[
+        "Nafta"
+    ],
+    "name:eng_x_preferred":[
+        "Nafta"
+    ],
+    "name:fra_x_preferred":[
+        "Nefta"
+    ],
+    "name:fre_x_preferred":[
+        "Nefta"
+    ],
+    "name:ger_x_preferred":[
+        "Nefta"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0435\u0444\u0442\u0430 \u0448\u04b1\u0440\u0430\u0442\u044b"
+    ],
+    "name:pol_x_preferred":[
+        "Nafta"
+    ],
+    "name:por_x_preferred":[
+        "Nefta"
+    ],
+    "name:ron_x_preferred":[
+        "Nefta"
+    ],
+    "name:rum_x_preferred":[
+        "Nefta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0444\u0442\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Nefta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0444\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Aggarset Nepte"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2468561,
+    "qs:gn_pop":21720,
+    "qs:name":"Naftah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Tawzar",
+    "qs:photos":258,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":258,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":492909,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442476,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":865,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679095,
+        1108757739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468561,
+        "gp:id":1442476,
+        "qs:id":492909,
+        "wd:id":"Q1026298",
+        "wk:page":"Nefta, Tunisia"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009931,
+    "wof:geomhash":"bc49055c282b4891b620cd70029c80c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757739,
+            "locality_id":421197973,
+            "region_id":85679095
+        }
+    ],
+    "wof:id":421197973,
+    "wof:lastmodified":1527716407,
+    "wof:name":"Naftah",
+    "wof:parent_id":1108757739,
+    "wof:placetype":"locality",
+    "wof:population":21720,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.87765,
+    33.87309,
+    7.87765,
+    33.87309
+],
+  "geometry": {"coordinates":[7.87765,33.87309],"type":"Point"}
+}

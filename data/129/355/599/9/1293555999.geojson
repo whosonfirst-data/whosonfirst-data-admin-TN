@@ -1,0 +1,67 @@
+{
+  "id": 1293555999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.25028,36.64639,10.25028,36.64639",
+    "geom:latitude":36.64639,
+    "geom:longitude":10.25028,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Douar Ennbaza",
+    "gn:country_code":"TN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589273,
+    "gn:latitude":36.64639,
+    "gn:longitude":10.25028,
+    "gn:modification_date":"1997-09-24",
+    "gn:name":"Douar Ennbaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679107,
+        1108757271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589273
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"421cfc8ab87d2db3456e9f1ec1101638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757271,
+            "locality_id":1293555999,
+            "region_id":85679107
+        }
+    ],
+    "wof:id":1293555999,
+    "wof:lastmodified":1536688555,
+    "wof:name":"Douar Ennbaza",
+    "wof:parent_id":1108757271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.25028,
+    36.64639,
+    10.25028,
+    36.64639
+],
+  "geometry": {"coordinates":[10.25028,36.64639],"type":"Point"}
+}

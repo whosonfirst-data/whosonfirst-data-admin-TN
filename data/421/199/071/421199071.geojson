@@ -1,0 +1,112 @@
+{
+  "id": 421199071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.90809,35.035,10.90809,35.035",
+    "geom:latitude":35.035,
+    "geom:longitude":10.90809,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0646\u064a\u0627\u0646\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Jebeniana"
+    ],
+    "name:cym_x_preferred":[
+        "Jebiniana"
+    ],
+    "name:dut_x_preferred":[
+        "Jebiniana"
+    ],
+    "name:eng_x_preferred":[
+        "Jebiniana"
+    ],
+    "name:fra_x_preferred":[
+        "Jebiniana"
+    ],
+    "name:fre_x_preferred":[
+        "Jebiniana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0435\u0431\u0456\u043d\u044c\u044f\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Djebaniana"
+    ],
+    "name:wel_x_preferred":[
+        "Jebiniana"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2470260,
+    "qs:gn_pop":7349,
+    "qs:name":"Jabinyanah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Safaqis",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":38,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":189010,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442356,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679151,
+        1108757599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470260,
+        "gp:id":1442356,
+        "qs:id":189010,
+        "wd:id":"Q3176336",
+        "wk:page":"Jebiniana"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009976,
+    "wof:geomhash":"153821f1fe3d5177a1e422081550da63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757599,
+            "locality_id":421199071,
+            "region_id":85679151
+        }
+    ],
+    "wof:id":421199071,
+    "wof:lastmodified":1527716411,
+    "wof:name":"Jabinyanah",
+    "wof:parent_id":1108757599,
+    "wof:placetype":"locality",
+    "wof:population":7349,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.90809,
+    35.035,
+    10.90809,
+    35.035
+],
+  "geometry": {"coordinates":[10.90809,35.035],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210030925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98,36.37667,8.98,36.37667",
+    "geom:latitude":36.37667,
+    "geom:longitude":8.98,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Souk el Jamaa",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2464926,
+    "gn:latitude":36.37667,
+    "gn:longitude":8.98,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Souk el Jamaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq al Jum\u2018ah",
+        "Souk el Djamaa",
+        "Souk el Jamaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464926
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"599de33fc66fdc1318e7df99958b28d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757671,
+            "locality_id":1210030925,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1210030925,
+    "wof:lastmodified":1537706477,
+    "wof:name":"Souk el Jamaa",
+    "wof:parent_id":1108757671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98,
+    36.37667,
+    8.98,
+    36.37667
+],
+  "geometry": {"coordinates":[8.98,36.37667],"type":"Point"}
+}

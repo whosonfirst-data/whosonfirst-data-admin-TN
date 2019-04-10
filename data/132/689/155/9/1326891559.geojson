@@ -1,0 +1,71 @@
+{
+  "id": 1326891559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.82406,33.57389,9.82406,33.57389",
+    "geom:latitude":33.57389,
+    "geom:longitude":9.82406,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Zeraoua",
+    "gn:country_code":"TN",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463992,
+    "gn:latitude":33.57389,
+    "gn:longitude":9.82406,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Zeraoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zraoua",
+        "Zar\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463992
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"9414d2a968914b0cf1cfbd8adc8ffde1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757323,
+            "locality_id":1326891559,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1326891559,
+    "wof:lastmodified":1537706475,
+    "wof:name":"Zeraoua",
+    "wof:parent_id":1108757323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.82406,
+    33.57389000000001,
+    9.82406,
+    33.57389000000001
+],
+  "geometry": {"coordinates":[9.82406,33.57389000000001],"type":"Point"}
+}

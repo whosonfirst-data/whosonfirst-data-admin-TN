@@ -1,0 +1,82 @@
+{
+  "id": 421181173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.71109,35.75166,10.71109,35.75166",
+    "geom:latitude":35.75166,
+    "geom:longitude":10.71109,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ain Sahalin"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473190,
+    "qs:gn_pop":13806,
+    "qs:name":"As Sahilin",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Munastir",
+    "qs:photos":184,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":184,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":479013,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441895,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679165,
+        1108757551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473190,
+        "gp:id":1441895,
+        "qs:id":479013
+    },
+    "wof:country":"TN",
+    "wof:created":1459009287,
+    "wof:geomhash":"d12d7ebb3f8be28d03ed70e76bbdbdd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757551,
+            "locality_id":421181173,
+            "region_id":85679165
+        }
+    ],
+    "wof:id":421181173,
+    "wof:lastmodified":1505340650,
+    "wof:name":"As Sahilin",
+    "wof:parent_id":1108757551,
+    "wof:placetype":"locality",
+    "wof:population":13806,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.71109,
+    35.75166,
+    10.71109,
+    35.75166
+],
+  "geometry": {"coordinates":[10.71109,35.75166],"type":"Point"}
+}

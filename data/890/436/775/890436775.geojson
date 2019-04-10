@@ -1,0 +1,87 @@
+{
+  "id": 890436775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.84424,36.80368,9.84424,36.80368",
+    "geom:latitude":36.80368,
+    "geom:longitude":9.84424,
+    "gn:country":"TN",
+    "gn:fcode":"PPL",
+    "gn:pop":6047,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "El Battan"
+    ],
+    "name:eng_x_preferred":[
+        "El Battan"
+    ],
+    "name:fre_x_preferred":[
+        "El Batan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0411\u0430\u0442\u0442\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Al Ba\u0163\u0101n"
+    ],
+    "qs:name":"El Battan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473823,
+        "gp:id":1441738,
+        "qs:id":1035901,
+        "wd:id":"Q3049744",
+        "wk:page":"El Battan"
+    },
+    "wof:country":"TN",
+    "wof:created":1469052125,
+    "wof:geomhash":"9ef34b4d503ef17020c23abb6956654a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757497,
+            "locality_id":890436775,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":890436775,
+    "wof:lastmodified":1527735406,
+    "wof:name":"El Battan",
+    "wof:parent_id":1108757497,
+    "wof:placetype":"locality",
+    "wof:population":6047,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.84424,
+    36.80368,
+    9.84424,
+    36.80368
+],
+  "geometry": {"coordinates":[9.84424,36.80368],"type":"Point"}
+}

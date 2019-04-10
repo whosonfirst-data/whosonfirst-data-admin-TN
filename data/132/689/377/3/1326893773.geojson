@@ -1,0 +1,73 @@
+{
+  "id": 1326893773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.97056,37.11417,9.97056,37.11417",
+    "geom:latitude":37.11417,
+    "geom:longitude":9.97056,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar el Hofer",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471553,
+    "gn:latitude":37.11417,
+    "gn:longitude":9.97056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar el Hofer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daww\u0101r al Hofer",
+        "Douar el Hafer",
+        "Douar el Hofer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471553
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"ab2651769f11b7ca609f4c71251be915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757283,
+            "locality_id":1326893773,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1326893773,
+    "wof:lastmodified":1537706502,
+    "wof:name":"Douar el Hofer",
+    "wof:parent_id":1108757283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.97056,
+    37.11417,
+    9.97056,
+    37.11417
+],
+  "geometry": {"coordinates":[9.97056,37.11417],"type":"Point"}
+}

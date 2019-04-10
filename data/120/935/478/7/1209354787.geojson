@@ -1,0 +1,66 @@
+{
+  "id": 1209354787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.04222,36.9099,10.04222,36.9099",
+    "geom:latitude":36.9099,
+    "geom:longitude":10.04222,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Sidi Tabet",
+    "gn:country_code":"TN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2465146,
+    "gn:latitude":36.9099,
+    "gn:longitude":10.04222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sidi Tabet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haras de Sidi Tabet",
+        "S\u012bd\u012b Th\u0101bit",
+        "Sidi Tabet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2465146
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"2b12de420f8925d627ffb1527aace282",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209354787
+        }
+    ],
+    "wof:id":1209354787,
+    "wof:lastmodified":1537706478,
+    "wof:name":"Sidi Tabet",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.04222,
+    36.9099,
+    10.04222,
+    36.9099
+],
+  "geometry": {"coordinates":[10.04222,36.9099],"type":"Point"}
+}

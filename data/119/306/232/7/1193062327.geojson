@@ -1,0 +1,75 @@
+{
+  "id": 1193062327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18462,36.88081,10.18462,36.88081",
+    "geom:latitude":36.88081,
+    "geom:longitude":10.18462,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Nassim",
+    "gn:country_code":"TN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":11257883,
+    "gn:latitude":36.88081,
+    "gn:longitude":10.18462,
+    "gn:modification_date":"2017-06-16",
+    "gn:name":"Nassim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108807159,
+        1108757247,
+        85679099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257883
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"3f1af140c27450e0a2a2296db7015052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757247,
+            "locality_id":1193062327,
+            "region_id":1108807159
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757247,
+            "locality_id":1193062327,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1193062327,
+    "wof:lastmodified":1536376565,
+    "wof:name":"Nassim",
+    "wof:parent_id":1108757247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18462,
+    36.88081,
+    10.18462,
+    36.88081
+],
+  "geometry": {"coordinates":[10.18462,36.88081],"type":"Point"}
+}

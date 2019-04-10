@@ -1,0 +1,73 @@
+{
+  "id": 1344128447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.97611,36.14583,9.97611,36.14583",
+    "geom:latitude":36.14583,
+    "geom:longitude":9.97611,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Dar Chaouch Ali Ben Khalifa",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471636,
+    "gn:latitude":36.14583,
+    "gn:longitude":9.97611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dar Chaouch Ali Ben Khalifa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar Chaouch Ali Ben Kralifa",
+        "D\u0101r Sh\u0101wush \u2018Al\u012b Bin Khal\u012bfah",
+        "Dar Chaouch Ali Ben Khalifa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679179,
+        1108757761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471636
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"3f4d7874f39ecd6f360e4d5cf2810f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757761,
+            "locality_id":1344128447,
+            "region_id":85679179
+        }
+    ],
+    "wof:id":1344128447,
+    "wof:lastmodified":1537706507,
+    "wof:name":"Dar Chaouch Ali Ben Khalifa",
+    "wof:parent_id":1108757761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.97611,
+    36.14583,
+    9.97611,
+    36.14583
+],
+  "geometry": {"coordinates":[9.97611,36.14583],"type":"Point"}
+}

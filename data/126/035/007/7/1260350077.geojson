@@ -1,0 +1,67 @@
+{
+  "id": 1260350077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98076,33.57871,9.98076,33.57871",
+    "geom:latitude":33.57871,
+    "geom:longitude":9.98076,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Tidjma",
+    "gn:country_code":"TN",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2464547,
+    "gn:latitude":33.57871,
+    "gn:longitude":9.98076,
+    "gn:modification_date":"1993-12-03",
+    "gn:name":"Tidjma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464547
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"b7066996566b3862da9c6dde09580d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757323,
+            "locality_id":1260350077,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1260350077,
+    "wof:lastmodified":1536620840,
+    "wof:name":"Tidjma",
+    "wof:parent_id":1108757323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98076,
+    33.57871,
+    9.98076,
+    33.57871
+],
+  "geometry": {"coordinates":[9.98076,33.57871],"type":"Point"}
+}

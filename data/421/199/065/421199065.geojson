@@ -1,0 +1,82 @@
+{
+  "id": 421199065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.15549,34.3827,8.15549,34.3827",
+    "geom:latitude":34.3827,
+    "geom:longitude":8.15549,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Redevef"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473257,
+    "qs:gn_pop":30048,
+    "qs:name":"Ar Rudayyif",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Qafash",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":189007,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441889,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679141,
+        1108757347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473257,
+        "gp:id":1441889,
+        "qs:id":189007
+    },
+    "wof:country":"TN",
+    "wof:created":1459009976,
+    "wof:geomhash":"269fa7c821e3852b077bf373047d323f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757347,
+            "locality_id":421199065,
+            "region_id":85679141
+        }
+    ],
+    "wof:id":421199065,
+    "wof:lastmodified":1505340761,
+    "wof:name":"Ar Rudayyif",
+    "wof:parent_id":1108757347,
+    "wof:placetype":"locality",
+    "wof:population":30048,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.15549,
+    34.3827,
+    8.15549,
+    34.3827
+],
+  "geometry": {"coordinates":[8.15549,34.3827],"type":"Point"}
+}

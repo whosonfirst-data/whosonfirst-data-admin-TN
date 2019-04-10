@@ -1,0 +1,72 @@
+{
+  "id": 1293655495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98566,37.08518,9.98566,37.08518",
+    "geom:latitude":37.08518,
+    "geom:longitude":9.98566,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar el Haouidh",
+    "gn:country_code":"TN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471552,
+    "gn:latitude":37.08518,
+    "gn:longitude":9.98566,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar el Haouidh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daww\u0101r al \u1e28uway\u1e11",
+        "El-Haouid",
+        "Douar el Haouidh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471552
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"b37df6dc450cdcff8d4e54cac71d011c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757305,
+            "locality_id":1293655495,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1293655495,
+    "wof:lastmodified":1537706502,
+    "wof:name":"Douar el Haouidh",
+    "wof:parent_id":1108757305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98566,
+    37.08518,
+    9.98566,
+    37.08518
+],
+  "geometry": {"coordinates":[9.98566,37.08518],"type":"Point"}
+}

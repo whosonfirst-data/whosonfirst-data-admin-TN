@@ -1,0 +1,70 @@
+{
+  "id": 1327195423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.11667,33.53333,11.11667,33.53333",
+    "geom:latitude":33.53333,
+    "geom:longitude":11.11667,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Souahel",
+    "gn:country_code":"TN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2467191,
+    "gn:latitude":33.53333,
+    "gn:longitude":11.11667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Souahel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saw\u0101\u1e29il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467191
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"2aab8d6d960749e2291dc9c8c9acd976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757527,
+            "locality_id":1327195423,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":1327195423,
+    "wof:lastmodified":1537706482,
+    "wof:name":"Souahel",
+    "wof:parent_id":1108757527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.11667,
+    33.53333,
+    11.11667,
+    33.53333
+],
+  "geometry": {"coordinates":[11.11667,33.53333],"type":"Point"}
+}

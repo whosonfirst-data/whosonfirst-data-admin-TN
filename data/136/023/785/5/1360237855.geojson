@@ -1,0 +1,72 @@
+{
+  "id": 1360237855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0825,36.69222,10.0825,36.69222",
+    "geom:latitude":36.69222,
+    "geom:longitude":10.0825,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"El Mstiri",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473503,
+    "gn:latitude":36.69222,
+    "gn:longitude":10.0825,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Mstiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mstiri",
+        "El Mstiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473503
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"a75d7bb87452d1747ed0058d0fc312b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757503,
+            "locality_id":1360237855,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1360237855,
+    "wof:lastmodified":1537706522,
+    "wof:name":"El Mstiri",
+    "wof:parent_id":1108757503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0825,
+    36.69222,
+    10.0825,
+    36.69222
+],
+  "geometry": {"coordinates":[10.0825,36.69222],"type":"Point"}
+}

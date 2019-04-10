@@ -1,0 +1,108 @@
+{
+  "id": 421185613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.02081,35.93325,10.02081,35.93325",
+    "geom:latitude":35.93325,
+    "geom:longitude":10.02081,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0628\u064a\u062e\u0629"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0431\u0438\u043a\u0445\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Sbikha"
+    ],
+    "name:dut_x_preferred":[
+        "Sbikha"
+    ],
+    "name:eng_x_preferred":[
+        "Sbikha"
+    ],
+    "name:fre_x_preferred":[
+        "Sbikha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0431\u0456\u0445\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Sbikra"
+    ],
+    "name:wel_x_preferred":[
+        "Sbikha"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473163,
+    "qs:gn_pop":7062,
+    "qs:name":"As Subaykhah",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Qayrawan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1035876,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441907,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473163,
+        "gp:id":1441907,
+        "qs:id":1035876,
+        "wd:id":"Q3178321",
+        "wk:page":"Sbikha"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009449,
+    "wof:geomhash":"c71b30ef184f13fd60795be540e1aeff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757397,
+            "locality_id":421185613,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":421185613,
+    "wof:lastmodified":1514506609,
+    "wof:name":"As Subaykhah",
+    "wof:parent_id":1108757397,
+    "wof:placetype":"locality",
+    "wof:population":7062,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.02081,
+    35.93325,
+    10.02081,
+    35.93325
+],
+  "geometry": {"coordinates":[10.02081,35.93325],"type":"Point"}
+}

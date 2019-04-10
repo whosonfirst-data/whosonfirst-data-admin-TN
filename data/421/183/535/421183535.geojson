@@ -1,0 +1,117 @@
+{
+  "id": 421183535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.19321,34.93212,9.19321,34.93212",
+    "geom:latitude":34.93212,
+    "geom:longitude":9.19321,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0627\u0644\u062d\u0641\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Bir El Hfay"
+    ],
+    "name:cym_x_preferred":[
+        "Bir El Hafey"
+    ],
+    "name:dut_x_preferred":[
+        "Bir El Hafey"
+    ],
+    "name:eng_x_preferred":[
+        "Bir El Hafey"
+    ],
+    "name:fra_x_preferred":[
+        "Bir El Hafey"
+    ],
+    "name:fre_x_preferred":[
+        "Bir El Hafey"
+    ],
+    "name:ita_x_preferred":[
+        "Bir El Hafey"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0435\u0440-\u0435\u043b\u044c-\u0425\u0430\u0444\u0435\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Bir el Afey"
+    ],
+    "name:wel_x_preferred":[
+        "Bir El Hafey"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2472380,
+    "qs:gn_pop":5016,
+    "qs:name":"Bi'r al Hufayy",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Sidi Bu Zayd",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1298600,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441991,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":34.93,
+    "wd:longitude":9.2,
+    "wd:wordcount":188,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472380,
+        "gp:id":1441991,
+        "qs:id":1298600,
+        "wd:id":"Q2737160",
+        "wk:page":"Bir El Hafey"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009373,
+    "wof:geomhash":"c1484019ae201d0f510201e87af9f931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757631,
+            "locality_id":421183535,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":421183535,
+    "wof:lastmodified":1527716489,
+    "wof:name":"Bi'r al Hufayy",
+    "wof:parent_id":1108757631,
+    "wof:placetype":"locality",
+    "wof:population":5016,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.19321,
+    34.93212,
+    9.19321,
+    34.93212
+],
+  "geometry": {"coordinates":[9.19321,34.93212],"type":"Point"}
+}

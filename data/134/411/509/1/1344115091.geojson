@@ -1,0 +1,72 @@
+{
+  "id": 1344115091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.43972,35.94,10.43972,35.94",
+    "geom:latitude":35.94,
+    "geom:longitude":10.43972,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Henndi el Haj Brahim",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2587530,
+    "gn:latitude":35.94,
+    "gn:longitude":10.43972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Henndi el Haj Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Henndi el Hadj Brahim",
+        "Henndi el Haj Brahim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2587530
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"159fb9574aa7147394c3e66979d62c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757703,
+            "locality_id":1344115091,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":1344115091,
+    "wof:lastmodified":1537706536,
+    "wof:name":"Henndi el Haj Brahim",
+    "wof:parent_id":1108757703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.43972,
+    35.94,
+    10.43972,
+    35.94
+],
+  "geometry": {"coordinates":[10.43972,35.94],"type":"Point"}
+}

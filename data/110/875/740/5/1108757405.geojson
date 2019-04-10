@@ -1,0 +1,86 @@
+{
+  "id": 1108757405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000187,
+    "geom:area_square_m":1890450.844855,
+    "geom:bbox":"8.81934158838,35.1486409953,8.83932846346,35.1607085599",
+    "geom:latitude":35.154764,
+    "geom:longitude":8.829366,
+    "iso:country":"TN",
+    "lbl:latitude":35.154741,
+    "lbl:longitude":8.829366,
+    "meso:adm1_en":"Kasserine",
+    "meso:gadm_adm2":"Ezzouhour",
+    "meso:gaul_adm2":"Ezzouhour",
+    "meso:hasc_id":"TN.KS.EZ",
+    "meso:mps_x":8.829366,
+    "meso:mps_y":35.154741,
+    "meso:name_alt":"Ezzouhour",
+    "meso:name_loc":"Ez_zouhour",
+    "meso:source":"AOTM",
+    "mps:latitude":35.154741,
+    "mps:longitude":8.829366,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ezzouhour"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-04-28",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-04-28",
+    "statoids:capital":"",
+    "statoids:country":"TN",
+    "statoids:hasc":"TN.KS",
+    "statoids:name":"Ezzouhour",
+    "statoids:population":"20277",
+    "statoids:statoid":"TN.KS.EZ",
+    "statoids:timezone":"+1",
+    "statoids:type":"delegation",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TN.KS.EZ"
+    },
+    "wof:country":"TN",
+    "wof:created":1481307191,
+    "wof:geomhash":"d0b03c0424b4b6d3f91f5f5e58614bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757405,
+            "region_id":85679133
+        }
+    ],
+    "wof:id":1108757405,
+    "wof:lastmodified":1536615715,
+    "wof:name":"Ez_zouhour",
+    "wof:parent_id":85679133,
+    "wof:placetype":"county",
+    "wof:placetype_local":"delegation",
+    "wof:population":20277,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:shortcode":"EZ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.81934158837846,
+    35.14864099531269,
+    8.83932846345941,
+    35.16070855991206
+],
+  "geometry": {"coordinates":[[[8.83932846345941,35.15136873472412],[8.83128213555417,35.14864099531269],[8.82227425513769,35.15027597269243],[8.81951306274227,35.15149547840648],[8.81934158837846,35.15381404902423],[8.82020465081682,35.15715902214502],[8.82166052567698,35.15849409247473],[8.82374628689608,35.15963987440489],[8.8306690264078,35.16069083023482],[8.83634875020775,35.16070855991206],[8.83804454087725,35.1559813019152],[8.83932846345941,35.15136873472412]]],"type":"Polygon"}
+}

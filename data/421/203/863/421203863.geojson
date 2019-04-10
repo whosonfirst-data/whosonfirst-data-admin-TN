@@ -1,0 +1,78 @@
+{
+  "id": 421203863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.91954,33.7458,10.91954,33.7458",
+    "geom:latitude":33.7458,
+    "geom:longitude":10.91954,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Humt-Seduiksh"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2467128,
+    "qs:gn_pop":0,
+    "qs:name":"Sedouikech",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Madanin",
+    "qs:photos":143,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":143,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235457,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442614,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467128,
+        "gp:id":1442614,
+        "qs:id":235457
+    },
+    "wof:country":"TN",
+    "wof:created":1459010166,
+    "wof:geomhash":"7e897b67c7d7c3740aad87f4c8400717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757519,
+            "locality_id":421203863,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":421203863,
+    "wof:lastmodified":1501263263,
+    "wof:name":"Sedouikech",
+    "wof:parent_id":1108757519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.91954,
+    33.7458,
+    10.91954,
+    33.7458
+],
+  "geometry": {"coordinates":[10.91954,33.7458],"type":"Point"}
+}

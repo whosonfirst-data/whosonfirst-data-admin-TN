@@ -1,0 +1,67 @@
+{
+  "id": 1293746825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.82778,37.00667,9.82778,37.00667",
+    "geom:latitude":37.00667,
+    "geom:longitude":9.82778,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar el Mekki",
+    "gn:country_code":"TN",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590079,
+    "gn:latitude":37.00667,
+    "gn:longitude":9.82778,
+    "gn:modification_date":"1998-02-26",
+    "gn:name":"Douar el Mekki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590079
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f1f4882f2d32ed6f8db1931bc1fcd1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757293,
+            "locality_id":1293746825,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1293746825,
+    "wof:lastmodified":1536910808,
+    "wof:name":"Douar el Mekki",
+    "wof:parent_id":1108757293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.82778,
+    37.00667,
+    9.82778,
+    37.00667
+],
+  "geometry": {"coordinates":[9.82778,37.00667],"type":"Point"}
+}

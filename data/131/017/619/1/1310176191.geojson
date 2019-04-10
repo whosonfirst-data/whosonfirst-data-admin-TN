@@ -1,0 +1,67 @@
+{
+  "id": 1310176191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90632,36.25335,8.90632,36.25335",
+    "geom:latitude":36.25335,
+    "geom:longitude":8.90632,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ain el Mouia",
+    "gn:country_code":"TN",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570700,
+    "gn:latitude":36.25335,
+    "gn:longitude":8.90632,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"A\u00efn el Mouia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570700
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"9957e47683696c19dc6f7e1c94fb02e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757461,
+            "locality_id":1310176191,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1310176191,
+    "wof:lastmodified":1536894445,
+    "wof:name":"Ain el Mouia",
+    "wof:parent_id":1108757461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90632,
+    36.25335,
+    8.90632,
+    36.25335
+],
+  "geometry": {"coordinates":[8.90632,36.25335],"type":"Point"}
+}

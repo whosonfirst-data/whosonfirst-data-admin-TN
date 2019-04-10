@@ -1,0 +1,72 @@
+{
+  "id": 1293145009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.96917,36.66111,9.96917,36.66111",
+    "geom:latitude":36.66111,
+    "geom:longitude":9.96917,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Borj et Teurki",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2584812,
+    "gn:latitude":36.66111,
+    "gn:longitude":9.96917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Borj et Teurki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bordj et Teurki",
+        "Borj et Teurki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2584812
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"7d8fa7e0953a4667d03c352fa61080db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757503,
+            "locality_id":1293145009,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1293145009,
+    "wof:lastmodified":1537706533,
+    "wof:name":"Borj et Teurki",
+    "wof:parent_id":1108757503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.96917,
+    36.66111,
+    9.96917,
+    36.66111
+],
+  "geometry": {"coordinates":[9.96917,36.66111],"type":"Point"}
+}

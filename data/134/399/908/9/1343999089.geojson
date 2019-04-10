@@ -1,0 +1,71 @@
+{
+  "id": 1343999089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.49426,32.91476,10.49426,32.91476",
+    "geom:latitude":32.91476,
+    "geom:longitude":10.49426,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Guetoufa",
+    "gn:country_code":"TN",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2468028,
+    "gn:latitude":32.91476,
+    "gn:longitude":10.49426,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Guetoufa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guettoufa",
+        "Qa\u0163\u016bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679191,
+        1108757731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468028
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"eeb142d80ebef229a05d96b8f6058d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757731,
+            "locality_id":1343999089,
+            "region_id":85679191
+        }
+    ],
+    "wof:id":1343999089,
+    "wof:lastmodified":1537706484,
+    "wof:name":"Guetoufa",
+    "wof:parent_id":1108757731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.49426,
+    32.91476,
+    10.49426,
+    32.91476
+],
+  "geometry": {"coordinates":[10.49426,32.91476],"type":"Point"}
+}

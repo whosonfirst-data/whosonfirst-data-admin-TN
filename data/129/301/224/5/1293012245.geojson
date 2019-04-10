@@ -1,0 +1,68 @@
+{
+  "id": 1293012245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.12472,35.20583,10.12472,35.20583",
+    "geom:latitude":35.20583,
+    "geom:longitude":10.12472,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bou Hajla",
+    "gn:country_code":"TN",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8849165,
+    "gn:latitude":35.20583,
+    "gn:longitude":10.12472,
+    "gn:modification_date":"2014-04-09",
+    "gn:name":"Bou Hajla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8849165,
+        "wk:page":"Bou_Hajla"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"dd8f56a6f86050de30dddf5d420ae0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757381,
+            "locality_id":1293012245,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1293012245,
+    "wof:lastmodified":1537574454,
+    "wof:name":"Bou Hajla",
+    "wof:parent_id":1108757381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.12472,
+    35.20583,
+    10.12472,
+    35.20583
+],
+  "geometry": {"coordinates":[10.12472,35.20583],"type":"Point"}
+}

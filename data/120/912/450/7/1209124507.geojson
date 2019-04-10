@@ -1,0 +1,65 @@
+{
+  "id": 1209124507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.73333,36.86667,10.73333,36.86667",
+    "geom:latitude":36.86667,
+    "geom:longitude":10.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"El Makhzene",
+    "gn:country_code":"TN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473563,
+    "gn:latitude":36.86667,
+    "gn:longitude":10.73333,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"El Makhzene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Makrzene",
+        "Al Makhzan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473563
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"638d18471e89ab89e08fa701f972da71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209124507
+        }
+    ],
+    "wof:id":1209124507,
+    "wof:lastmodified":1537706524,
+    "wof:name":"El Makhzene",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.73333,
+    36.86667,
+    10.73333,
+    36.86667
+],
+  "geometry": {"coordinates":[10.73333,36.86667],"type":"Point"}
+}

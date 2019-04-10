@@ -1,0 +1,71 @@
+{
+  "id": 1243282027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.97032,36.85784,9.97032,36.85784",
+    "geom:latitude":36.85784,
+    "geom:longitude":9.97032,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kahoua ad Douadji",
+    "gn:country_code":"TN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470029,
+    "gn:latitude":36.85784,
+    "gn:longitude":9.97032,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kahoua ad Douadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kahoua ed Douadji",
+        "Kahoua ad Douadji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470029
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"66c3c4895a9c6aacb0132fe29064ec5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757499,
+            "locality_id":1243282027,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1243282027,
+    "wof:lastmodified":1537706492,
+    "wof:name":"Kahoua ad Douadji",
+    "wof:parent_id":1108757499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.97032,
+    36.85784,
+    9.97032,
+    36.85784
+],
+  "geometry": {"coordinates":[9.97032,36.85784],"type":"Point"}
+}

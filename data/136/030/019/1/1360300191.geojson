@@ -1,0 +1,71 @@
+{
+  "id": 1360300191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31667,36.31667,9.31667,36.31667",
+    "geom:latitude":36.31667,
+    "geom:longitude":9.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dechret el Kramet",
+    "gn:country_code":"TN",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471620,
+    "gn:latitude":36.31667,
+    "gn:longitude":9.31667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Dechret el Kramet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dechrat Kramet",
+        "Dashrat al Kramet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679157,
+        1108757667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471620
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"8ee44732eb94b9f04b03cf52b09712ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757667,
+            "locality_id":1360300191,
+            "region_id":85679157
+        }
+    ],
+    "wof:id":1360300191,
+    "wof:lastmodified":1537706506,
+    "wof:name":"Dechret el Kramet",
+    "wof:parent_id":1108757667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31667,
+    36.31667,
+    9.31667,
+    36.31667
+],
+  "geometry": {"coordinates":[9.31667,36.31667],"type":"Point"}
+}

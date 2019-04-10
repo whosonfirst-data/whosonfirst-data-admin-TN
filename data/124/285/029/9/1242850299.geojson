@@ -1,0 +1,72 @@
+{
+  "id": 1242850299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.91083,37.08111,9.91083,37.08111",
+    "geom:latitude":37.08111,
+    "geom:longitude":9.91083,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar el Haj Bou Amra",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590745,
+    "gn:latitude":37.08111,
+    "gn:longitude":9.91083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar el Haj Bou Amra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Hadj Bou Amra",
+        "Douar el Haj Bou Amra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590745
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"af6508f9dec1d882de0639c6fbc80477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757305,
+            "locality_id":1242850299,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1242850299,
+    "wof:lastmodified":1537706538,
+    "wof:name":"Douar el Haj Bou Amra",
+    "wof:parent_id":1108757305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.91083,
+    37.08111,
+    9.91083,
+    37.08111
+],
+  "geometry": {"coordinates":[9.91083,37.08111],"type":"Point"}
+}

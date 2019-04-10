@@ -1,0 +1,72 @@
+{
+  "id": 1243530347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93389,37.04528,9.93389,37.04528",
+    "geom:latitude":37.04528,
+    "geom:longitude":9.93389,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Douar Haj Chabane",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590773,
+    "gn:latitude":37.04528,
+    "gn:longitude":9.93389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Haj Chabane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Hadj Chabane",
+        "Douar Haj Chabane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679113,
+        1108757305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590773
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"377aa38ffbb53518bf1b1f1e64bd22e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757305,
+            "locality_id":1243530347,
+            "region_id":85679113
+        }
+    ],
+    "wof:id":1243530347,
+    "wof:lastmodified":1537706538,
+    "wof:name":"Douar Haj Chabane",
+    "wof:parent_id":1108757305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93389,
+    37.04528,
+    9.93389,
+    37.04528
+],
+  "geometry": {"coordinates":[9.93389,37.04528],"type":"Point"}
+}

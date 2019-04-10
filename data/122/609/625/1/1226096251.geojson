@@ -1,0 +1,72 @@
+{
+  "id": 1226096251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.4,35.08333,9.4,35.08333",
+    "geom:latitude":35.08333,
+    "geom:longitude":9.4,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Haouita el Rhezala",
+    "gn:country_code":"TN",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470304,
+    "gn:latitude":35.08333,
+    "gn:longitude":9.4,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Haouita el Rhezala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haouita er Rhezat",
+        "Haouita el Rhezala",
+        "\u1e28uway\u0163at al Ghaz\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470304
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"b4cf6b3a47a409f5fcb2dd6ed2f7e3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757653,
+            "locality_id":1226096251,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":1226096251,
+    "wof:lastmodified":1537706494,
+    "wof:name":"Haouita el Rhezala",
+    "wof:parent_id":1108757653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4,
+    35.08333,
+    9.4,
+    35.08333
+],
+  "geometry": {"coordinates":[9.4,35.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293494973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69186,35.9284,9.69186,35.9284",
+    "geom:latitude":35.9284,
+    "geom:longitude":9.69186,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Mohammed Bou Brahim",
+    "gn:country_code":"TN",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2588806,
+    "gn:latitude":35.9284,
+    "gn:longitude":9.69186,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Douar Mohammed Bou Brahim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2588806
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"7450d5e5ee59c114ee1cfe73677314bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757395,
+            "locality_id":1293494973,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1293494973,
+    "wof:lastmodified":1536776794,
+    "wof:name":"Douar Mohammed Bou Brahim",
+    "wof:parent_id":1108757395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69186,
+    35.9284,
+    9.69186,
+    35.9284
+],
+  "geometry": {"coordinates":[9.69186,35.9284],"type":"Point"}
+}

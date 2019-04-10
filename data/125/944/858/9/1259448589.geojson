@@ -1,0 +1,67 @@
+{
+  "id": 1259448589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4325,36.44861,10.4325,36.44861",
+    "geom:latitude":36.44861,
+    "geom:longitude":10.4325,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ouled Salem",
+    "gn:country_code":"TN",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2586530,
+    "gn:latitude":36.44861,
+    "gn:longitude":10.4325,
+    "gn:modification_date":"1997-05-30",
+    "gn:name":"Ouled Salem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2586530
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"c615f5c79f44e8b5e001bd1c395f047b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757569,
+            "locality_id":1259448589,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1259448589,
+    "wof:lastmodified":1536909355,
+    "wof:name":"Ouled Salem",
+    "wof:parent_id":1108757569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4325,
+    36.44861,
+    10.4325,
+    36.44861
+],
+  "geometry": {"coordinates":[10.4325,36.44861],"type":"Point"}
+}

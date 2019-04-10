@@ -1,0 +1,71 @@
+{
+  "id": 1327482347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.43793,35.36957,9.43793,35.36957",
+    "geom:latitude":35.36957,
+    "geom:longitude":9.43793,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Douar et Tarig",
+    "gn:country_code":"TN",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2564955,
+    "gn:latitude":35.36957,
+    "gn:longitude":9.43793,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar et Tarig",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar el Tarig",
+        "Douar et Tarig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2564955
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"821f1bfdbb681c1613967f764e0d2546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757633,
+            "locality_id":1327482347,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":1327482347,
+    "wof:lastmodified":1537706531,
+    "wof:name":"Douar et Tarig",
+    "wof:parent_id":1108757633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.43793,
+    35.36957,
+    9.43793,
+    35.36957
+],
+  "geometry": {"coordinates":[9.43793,35.36957],"type":"Point"}
+}

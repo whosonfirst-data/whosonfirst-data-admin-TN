@@ -1,0 +1,73 @@
+{
+  "id": 1293253333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.99472,33.56866,9.99472,33.56866",
+    "geom:latitude":33.56866,
+    "geom:longitude":9.99472,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Haddedj",
+    "gn:country_code":"TN",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470816,
+    "gn:latitude":33.56866,
+    "gn:longitude":9.99472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haddedj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Had\u00e8ge",
+        "Haddej",
+        "Hachache-Matmata",
+        "Haddedj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470816
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"b2e7e32f0212d797405023a6ebd1dc46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757323,
+            "locality_id":1293253333,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1293253333,
+    "wof:lastmodified":1537706495,
+    "wof:name":"Haddedj",
+    "wof:parent_id":1108757323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99472,
+    33.56865999999999,
+    9.99472,
+    33.56865999999999
+],
+  "geometry": {"coordinates":[9.99472,33.56865999999999],"type":"Point"}
+}

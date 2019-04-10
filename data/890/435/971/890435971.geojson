@@ -1,0 +1,144 @@
+{
+  "id": 890435971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.34174,36.8687,10.34174,36.8687",
+    "geom:latitude":36.8687,
+    "geom:longitude":10.34174,
+    "gn:country":"TN",
+    "gn:fcode":"PPL",
+    "gn:pop":5000,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0628\u0648 \u0633\u0639\u064a\u062f"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u056b\u0564\u056b \u0532\u0578\u0582 \u054d\u0561\u056b\u0564"
+    ],
+    "name:cat_x_preferred":[
+        "Sidi Bou Sa\u00efd"
+    ],
+    "name:chi_x_preferred":[
+        "\u897f\u8fea\u5e03\u8d5b\u4e49\u5fb7"
+    ],
+    "name:dan_x_preferred":[
+        "Sidi Bou Sa\u00efd"
+    ],
+    "name:dut_x_preferred":[
+        "Sidi Bou Said"
+    ],
+    "name:eng_x_preferred":[
+        "Sidi Bou Sa\u00efd"
+    ],
+    "name:eng_x_variant":[
+        "Sidi Bou Said"
+    ],
+    "name:fre_x_preferred":[
+        "Sidi Bou Sa\u00efd"
+    ],
+    "name:ger_x_preferred":[
+        "Sidi Bou Sa\u00efd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d3\u05d9 \u05d1\u05d5 \u05e1\u05e2\u05d9\u05d3"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Bou Said"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30c7\u30a3\u30fb\u30d6\u30fb\u30b5\u30a4\u30c9"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi Bu Sa\u025bid"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ub514\ubd80\uc0ac\uc774\ub4dc"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Bou Said"
+    ],
+    "name:rum_x_preferred":[
+        "Sidi Bou Sa\u00efd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u0438 \u0411\u0443 \u0421\u0430\u0438\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Sidi Bou Said"
+    ],
+    "name:slv_x_preferred":[
+        "Sidi Bou Said"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Bou Said"
+    ],
+    "name:tur_x_preferred":[
+        "Sidi Bu Said"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0434\u0456-\u0411\u0443\u0441\u0430\u0457\u0434"
+    ],
+    "name:unk_x_variant":[
+        "S\u012bd\u012b Ab\u012b Sa\u2018\u012bd"
+    ],
+    "name:wel_x_preferred":[
+        "Sidi Bou Sa\u00efd"
+    ],
+    "qs:name":"Sidi Bou Sa\u00efd",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":339,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679123,
+        1108757755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2466688,
+        "gp:id":1442633,
+        "qs:id":1035856,
+        "wd:id":"Q877391",
+        "wk:page":"Sidi Bou Said"
+    },
+    "wof:country":"TN",
+    "wof:created":1469052088,
+    "wof:geomhash":"1c918e14d32dd6d907d4942f0cdb71be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757755,
+            "locality_id":890435971,
+            "region_id":85679123
+        }
+    ],
+    "wof:id":890435971,
+    "wof:lastmodified":1527793048,
+    "wof:name":"Sidi Bou Sa\u00efd",
+    "wof:parent_id":1108757755,
+    "wof:placetype":"locality",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.34174,
+    36.8687,
+    10.34174,
+    36.8687
+],
+  "geometry": {"coordinates":[10.34174,36.8687],"type":"Point"}
+}

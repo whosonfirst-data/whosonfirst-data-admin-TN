@@ -1,0 +1,67 @@
+{
+  "id": 1343733799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.77083,36.65306,9.77083,36.65306",
+    "geom:latitude":36.65306,
+    "geom:longitude":9.77083,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ouled Alaia",
+    "gn:country_code":"TN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2584456,
+    "gn:latitude":36.65306,
+    "gn:longitude":9.77083,
+    "gn:modification_date":"2009-03-17",
+    "gn:name":"Ouled Ala\u00efa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679103,
+        1108757261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2584456
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"aaea9663bd33a486a24a9886b11418fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757261,
+            "locality_id":1343733799,
+            "region_id":85679103
+        }
+    ],
+    "wof:id":1343733799,
+    "wof:lastmodified":1536848303,
+    "wof:name":"Ouled Alaia",
+    "wof:parent_id":1108757261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.77083,
+    36.65306,
+    9.77083,
+    36.65306
+],
+  "geometry": {"coordinates":[9.77083,36.65306],"type":"Point"}
+}

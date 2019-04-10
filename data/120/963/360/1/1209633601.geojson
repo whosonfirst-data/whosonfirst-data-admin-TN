@@ -1,0 +1,66 @@
+{
+  "id": 1209633601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.81111,36.90028,10.81111,36.90028",
+    "geom:latitude":36.90028,
+    "geom:longitude":10.81111,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Douar Zougjag",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2582142,
+    "gn:latitude":36.90028,
+    "gn:longitude":10.81111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Douar Zougjag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Zougdjag",
+        "Douar Zougjag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2582142
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"2880b9992f21102e235b5b9c82efdbc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209633601
+        }
+    ],
+    "wof:id":1209633601,
+    "wof:lastmodified":1537706532,
+    "wof:name":"Douar Zougjag",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.81111,
+    36.90028,
+    10.81111,
+    36.90028
+],
+  "geometry": {"coordinates":[10.81111,36.90028],"type":"Point"}
+}

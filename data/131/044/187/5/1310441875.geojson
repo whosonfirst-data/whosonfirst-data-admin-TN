@@ -1,0 +1,73 @@
+{
+  "id": 1310441875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.01167,33.66583,9.01167,33.66583",
+    "geom:latitude":33.66583,
+    "geom:longitude":9.01167,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Bazma",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473820,
+    "gn:latitude":33.66583,
+    "gn:longitude":9.01167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bazma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al B\u0101zimah",
+        "Bazima",
+        "Bazma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473820
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"8a2b328a80b646d70a0ed574b9642648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757437,
+            "locality_id":1310441875,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":1310441875,
+    "wof:lastmodified":1537706529,
+    "wof:name":"Bazma",
+    "wof:parent_id":1108757437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.01167,
+    33.66583,
+    9.01167,
+    33.66583
+],
+  "geometry": {"coordinates":[9.01167,33.66583],"type":"Point"}
+}

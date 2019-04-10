@@ -1,0 +1,67 @@
+{
+  "id": 1310671137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.23,35.33972,10.23,35.33972",
+    "geom:latitude":35.33972,
+    "geom:longitude":10.23,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Douar Mabrouk Ben Rehem",
+    "gn:country_code":"TN",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2587121,
+    "gn:latitude":35.33972,
+    "gn:longitude":10.23,
+    "gn:modification_date":"1999-06-13",
+    "gn:name":"Douar Mabrouk Ben Rehem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679161,
+        1108757477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2587121
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"07dd232df8c06783230ad6d555e5d5f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757477,
+            "locality_id":1310671137,
+            "region_id":85679161
+        }
+    ],
+    "wof:id":1310671137,
+    "wof:lastmodified":1536678019,
+    "wof:name":"Douar Mabrouk Ben Rehem",
+    "wof:parent_id":1108757477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.23,
+    35.33972,
+    10.23,
+    35.33972
+],
+  "geometry": {"coordinates":[10.23,35.33972],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226203491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.11667,33.5,10.11667,33.5",
+    "geom:latitude":33.5,
+    "geom:longitude":10.11667,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"El Braouka",
+    "gn:country_code":"TN",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473825,
+    "gn:latitude":33.5,
+    "gn:longitude":10.11667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"El Braouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Braouka",
+        "Al Bar\u0101wikah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473825
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"5012c15ff0d845c794f7d7e12d6cca2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757319,
+            "locality_id":1226203491,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1226203491,
+    "wof:lastmodified":1537706529,
+    "wof:name":"El Braouka",
+    "wof:parent_id":1108757319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.11667,
+    33.5,
+    10.11667,
+    33.5
+],
+  "geometry": {"coordinates":[10.11667,33.5],"type":"Point"}
+}

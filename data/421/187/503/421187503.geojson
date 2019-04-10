@@ -1,0 +1,78 @@
+{
+  "id": 421187503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.84227,33.78592,10.84227,33.78592",
+    "geom:latitude":33.78592,
+    "geom:longitude":10.84227,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Oued Zebib"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2464160,
+    "qs:gn_pop":0,
+    "qs:name":"Wadi az Zabib",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Madanin",
+    "qs:photos":237,
+    "qs:photos_1k":48,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":237,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083592,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442758,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464160,
+        "gp:id":1442758,
+        "qs:id":1083592
+    },
+    "wof:country":"TN",
+    "wof:created":1459009515,
+    "wof:geomhash":"e5fc317c75dc5c6405a8f521e8f11c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757515,
+            "locality_id":421187503,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":421187503,
+    "wof:lastmodified":1501263254,
+    "wof:name":"Wadi az Zabib",
+    "wof:parent_id":1108757515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.84227,
+    33.78592,
+    10.84227,
+    33.78592
+],
+  "geometry": {"coordinates":[10.84227,33.78592],"type":"Point"}
+}

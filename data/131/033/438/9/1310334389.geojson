@@ -1,0 +1,74 @@
+{
+  "id": 1310334389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91348,33.6039,8.91348,33.6039",
+    "geom:latitude":33.6039,
+    "geom:longitude":8.91348,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Berghoutsia",
+    "gn:country_code":"TN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472055,
+    "gn:latitude":33.6039,
+    "gn:longitude":8.91348,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Berghoutsia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burgh\u016bth\u012byah",
+        "Barghouthla",
+        "Berrboutsia",
+        "Berrhoutsia",
+        "Berghoutsia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472055
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f1b820cbfc17cc58de418a0cccf2a98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757437,
+            "locality_id":1310334389,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":1310334389,
+    "wof:lastmodified":1537706512,
+    "wof:name":"Berghoutsia",
+    "wof:parent_id":1108757437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91348,
+    33.6039,
+    8.91348,
+    33.6039
+],
+  "geometry": {"coordinates":[8.91348,33.6039],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276389503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01667,33.8,11.01667,33.8",
+    "geom:latitude":33.8,
+    "geom:longitude":11.01667,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Temlale",
+    "gn:country_code":"TN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2464613,
+    "gn:latitude":33.8,
+    "gn:longitude":11.01667,
+    "gn:modification_date":"1993-12-03",
+    "gn:name":"Temlale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464613
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"9a0c232528d22588b5fc3043782015c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757519,
+            "locality_id":1276389503,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":1276389503,
+    "wof:lastmodified":1536703652,
+    "wof:name":"Temlale",
+    "wof:parent_id":1108757519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01667,
+    33.8,
+    11.01667,
+    33.8
+],
+  "geometry": {"coordinates":[11.01667,33.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326905647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83944,36.9375,10.83944,36.9375",
+    "geom:latitude":36.9375,
+    "geom:longitude":10.83944,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dar Bou Guedaoui",
+    "gn:country_code":"TN",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2582153,
+    "gn:latitude":36.9375,
+    "gn:longitude":10.83944,
+    "gn:modification_date":"1996-10-24",
+    "gn:name":"Dar Bou Guedaoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2582153
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"26841b72ee96cf8e699a706e00841ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757577,
+            "locality_id":1326905647,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1326905647,
+    "wof:lastmodified":1536943652,
+    "wof:name":"Dar Bou Guedaoui",
+    "wof:parent_id":1108757577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83944,
+    36.9375,
+    10.83944,
+    36.9375
+],
+  "geometry": {"coordinates":[10.83944,36.9375],"type":"Point"}
+}

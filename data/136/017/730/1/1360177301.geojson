@@ -1,0 +1,67 @@
+{
+  "id": 1360177301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90276,36.9521,8.90276,36.9521",
+    "geom:latitude":36.9521,
+    "geom:longitude":8.90276,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Souk et Tleta",
+    "gn:country_code":"TN",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570853,
+    "gn:latitude":36.9521,
+    "gn:longitude":8.90276,
+    "gn:modification_date":"1996-01-16",
+    "gn:name":"Souk et Tleta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570853
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"f7cb226cb4a6d076f15748531b4b7b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757373,
+            "locality_id":1360177301,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1360177301,
+    "wof:lastmodified":1536812117,
+    "wof:name":"Souk et Tleta",
+    "wof:parent_id":1108757373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90276,
+    36.9521,
+    8.90276,
+    36.9521
+],
+  "geometry": {"coordinates":[8.90276,36.9521],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1108757753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":959856.903108,
+    "geom:bbox":"10.1271119279,36.7830126007,10.1430689891,36.7932131724",
+    "geom:latitude":36.788576,
+    "geom:longitude":10.136327,
+    "iso:country":"TN",
+    "lbl:latitude":36.78865,
+    "lbl:longitude":10.136973,
+    "meso:adm1_en":"Tunis",
+    "meso:gadm_adm2":"Sabkhet Sijoumi",
+    "meso:gaul_adm2":"Ezouhour",
+    "meso:hasc_id":"TN.TU.EZ",
+    "meso:mps_x":10.136973,
+    "meso:mps_y":36.78865,
+    "meso:name_alt":"Ezzouhour",
+    "meso:name_loc":"Ezouhour",
+    "meso:source":"AOTM",
+    "mps:latitude":36.78865,
+    "mps:longitude":10.136973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ezzouhour"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-04-28",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-04-28",
+    "statoids:capital":"",
+    "statoids:country":"TN",
+    "statoids:hasc":"TN.TU",
+    "statoids:name":"Ezzouhour",
+    "statoids:population":"40434",
+    "statoids:statoid":"TN.TU.EZ",
+    "statoids:timezone":"+1",
+    "statoids:type":"delegation",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TN.TU.EZ"
+    },
+    "wof:country":"TN",
+    "wof:created":1481307384,
+    "wof:geomhash":"fbbe2977a9a3e2c508050c21ca288708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757753,
+            "region_id":85679123
+        }
+    ],
+    "wof:id":1108757753,
+    "wof:lastmodified":1536615723,
+    "wof:name":"Ezouhour",
+    "wof:parent_id":85679123,
+    "wof:placetype":"county",
+    "wof:placetype_local":"delegation",
+    "wof:population":40434,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:shortcode":"EZ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.12711192787177,
+    36.78301260073808,
+    10.14306898911532,
+    36.79321317237842
+],
+  "geometry": {"coordinates":[[[10.13110497357527,36.79298090483469],[10.13190358271597,36.79293445132595],[10.13286191368481,36.79287870711545],[10.13401191084741,36.79281181406286],[10.13539190744254,36.79273154239974],[10.13704790335669,36.79263521640401],[10.13868401762907,36.79222843039791],[10.14015675942419,36.7914552827197],[10.14143731583983,36.79043148238986],[10.14235688900838,36.78897542721518],[10.14306898911532,36.7871491453042],[10.14274691468522,36.78506164796017],[10.14157838096651,36.78354949146313],[10.14032314255062,36.78301260073808],[10.13871981321978,36.78304617648642],[10.13692902951658,36.78376643719319],[10.13489887442412,36.78499330178454],[10.13276158287955,36.78656441630881],[10.13091390669141,36.78836919935822],[10.12940428583317,36.79019167845368],[10.12790885687521,36.79215818706962],[10.12711192787177,36.79321317237842],[10.13110497357527,36.79298090483469]]],"type":"Polygon"}
+}

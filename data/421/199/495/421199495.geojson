@@ -1,0 +1,78 @@
+{
+  "id": 421199495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.12389,36.81306,10.12389,36.81306",
+    "geom:latitude":36.81306,
+    "geom:longitude":10.12389,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Al Qa\u015fr as Sa\u2018\u012bd"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2473461,
+    "qs:gn_pop":0,
+    "qs:name":"Al Qasr as Said",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Tunis",
+    "qs:photos":97,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":97,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":479025,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1441857,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679123,
+        1108757755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473461,
+        "gp:id":1441857,
+        "qs:id":479025
+    },
+    "wof:country":"TN",
+    "wof:created":1459009991,
+    "wof:geomhash":"68740890d0f71f2e107f83949e3fb0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757755,
+            "locality_id":421199495,
+            "region_id":85679123
+        }
+    ],
+    "wof:id":421199495,
+    "wof:lastmodified":1501263271,
+    "wof:name":"Al Qasr as Said",
+    "wof:parent_id":1108757755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.12389,
+    36.81306,
+    10.12389,
+    36.81306
+],
+  "geometry": {"coordinates":[10.12389,36.81306],"type":"Point"}
+}

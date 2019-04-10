@@ -1,0 +1,86 @@
+{
+  "id": 1108757749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00034,
+    "geom:area_square_m":3366237.653893,
+    "geom:bbox":"10.1686014306,36.7552048065,10.1917337955,36.777525448",
+    "geom:latitude":36.765073,
+    "geom:longitude":10.180706,
+    "iso:country":"TN",
+    "lbl:latitude":36.764852,
+    "lbl:longitude":10.17955,
+    "meso:adm1_en":"Tunis",
+    "meso:gadm_adm2":"El Ouardia",
+    "meso:gaul_adm2":"El Querdia",
+    "meso:hasc_id":"TN.TU.OU",
+    "meso:mps_x":10.17955,
+    "meso:mps_y":36.764852,
+    "meso:name_alt":"El Ouardia",
+    "meso:name_loc":"El Ouardia",
+    "meso:source":"AOTM",
+    "mps:latitude":36.764852,
+    "mps:longitude":10.17955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "El Ouardia"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-04-28",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-04-28",
+    "statoids:capital":"",
+    "statoids:country":"TN",
+    "statoids:hasc":"TN.TU",
+    "statoids:name":"El Ouardia",
+    "statoids:population":"33734",
+    "statoids:statoid":"TN.TU.OU",
+    "statoids:timezone":"+1",
+    "statoids:type":"delegation",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TN.TU.OU"
+    },
+    "wof:country":"TN",
+    "wof:created":1481307382,
+    "wof:geomhash":"526af38d15611c50b1e50d1522cfdaf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757749,
+            "region_id":85679123
+        }
+    ],
+    "wof:id":1108757749,
+    "wof:lastmodified":1536615723,
+    "wof:name":"El Ouardia",
+    "wof:parent_id":85679123,
+    "wof:placetype":"county",
+    "wof:placetype_local":"delegation",
+    "wof:population":33734,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:shortcode":"OU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.16860143055353,
+    36.75520480645442,
+    10.19173379547628,
+    36.77752544797301
+],
+  "geometry": {"coordinates":[[[10.16876871242583,36.76452750796789],[10.17131325153699,36.76797363278196],[10.17343214149266,36.77046064823948],[10.17643057193643,36.77126793819977],[10.17895070434251,36.77172495490539],[10.18242254054234,36.77469397863364],[10.18569208564497,36.77752544797301],[10.18779938569992,36.77693497262941],[10.19023422994053,36.77152320614472],[10.19173379547628,36.7643210781327],[10.19168913172032,36.76028046480337],[10.18778932719546,36.75811511500441],[10.18350898075344,36.75795095166824],[10.18035728836807,36.75783781196343],[10.17554602379417,36.75562797744858],[10.17048077651984,36.75520480645442],[10.16860143055353,36.7604956803111],[10.16876871242583,36.76452750796789]]],"type":"Polygon"}
+}

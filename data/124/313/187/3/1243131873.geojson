@@ -1,0 +1,67 @@
+{
+  "id": 1243131873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38917,34.58889,10.38917,34.58889",
+    "geom:latitude":34.58889,
+    "geom:longitude":10.38917,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Douar Ouled Abd el Kader",
+    "gn:country_code":"TN",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590959,
+    "gn:latitude":34.58889,
+    "gn:longitude":10.38917,
+    "gn:modification_date":"1998-02-26",
+    "gn:name":"Douar Ouled Abd el Kader",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679151,
+        1108757611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590959
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"5b45e0fafeab328064f9a46dd34b2b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757611,
+            "locality_id":1243131873,
+            "region_id":85679151
+        }
+    ],
+    "wof:id":1243131873,
+    "wof:lastmodified":1536762512,
+    "wof:name":"Douar Ouled Abd el Kader",
+    "wof:parent_id":1108757611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38917,
+    34.58889,
+    10.38917,
+    34.58889
+],
+  "geometry": {"coordinates":[10.38917,34.58889],"type":"Point"}
+}

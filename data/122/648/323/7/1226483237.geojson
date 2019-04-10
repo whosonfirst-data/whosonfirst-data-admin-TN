@@ -1,0 +1,70 @@
+{
+  "id": 1226483237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48502,32.87515,10.48502,32.87515",
+    "geom:latitude":32.87515,
+    "geom:longitude":10.48502,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ksar Oulad Aoun",
+    "gn:country_code":"TN",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2468134,
+    "gn:latitude":32.87515,
+    "gn:longitude":10.48502,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ksar Oulad Aoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fr Awl\u0101d \u2018Awn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679191,
+        1108757733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468134
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"be7c0406b73d13f74540a6db4cef3118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757733,
+            "locality_id":1226483237,
+            "region_id":85679191
+        }
+    ],
+    "wof:id":1226483237,
+    "wof:lastmodified":1537706486,
+    "wof:name":"Ksar Oulad Aoun",
+    "wof:parent_id":1108757733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48502,
+    32.87515,
+    10.48502,
+    32.87515
+],
+  "geometry": {"coordinates":[10.48502,32.87515],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243112225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98833,36.62083,9.98833,36.62083",
+    "geom:latitude":36.62083,
+    "geom:longitude":9.98833,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Borj Bach Mamlouk",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472005,
+    "gn:latitude":36.62083,
+    "gn:longitude":9.98833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Borj Bach Mamlouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burj B\u0101sh Maml\u016bk",
+        "Bordj Bach Mamlouk",
+        "Borj Bach Mamlouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679179,
+        1108757757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472005
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e658a08844f237284e464a1b0da291a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757757,
+            "locality_id":1243112225,
+            "region_id":85679179
+        }
+    ],
+    "wof:id":1243112225,
+    "wof:lastmodified":1537706511,
+    "wof:name":"Borj Bach Mamlouk",
+    "wof:parent_id":1108757757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98833,
+    36.62083,
+    9.98833,
+    36.62083
+],
+  "geometry": {"coordinates":[9.98833,36.62083],"type":"Point"}
+}

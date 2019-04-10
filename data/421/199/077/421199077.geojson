@@ -1,0 +1,105 @@
+{
+  "id": 421199077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.84256,35.68562,10.84256,35.68562",
+    "geom:latitude":35.68562,
+    "geom:longitude":10.84256,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u064a\u0628\u0629 \u0627\u0644\u0645\u062f\u064a\u0648\u0646\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Ksibet El M\u00e9diouni"
+    ],
+    "name:dut_x_preferred":[
+        "Ksibet El Mediouni"
+    ],
+    "name:eng_x_preferred":[
+        "Ksibet El Mediouni"
+    ],
+    "name:fre_x_preferred":[
+        "Ksibet el-M\u00e9diouni"
+    ],
+    "name:rum_x_preferred":[
+        "Ksibet El Mediouni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0441\u0456\u0431\u0435\u0442-\u0435\u043b\u044c-\u041c\u0435\u0434\u0456\u0443\u043d\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Sieba"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2467890,
+    "qs:gn_pop":11313,
+    "qs:name":"Qusaybat al Madyuni",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Munastir",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":189028,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442569,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679165,
+        1108757541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2467890,
+        "gp:id":1442569,
+        "qs:id":189028,
+        "wd:id":"Q3141427",
+        "wk:page":"Ksibet El Mediouni"
+    },
+    "wof:country":"TN",
+    "wof:created":1459009976,
+    "wof:geomhash":"afc8a17389d7c6c655766b2bc4c14c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757541,
+            "locality_id":421199077,
+            "region_id":85679165
+        }
+    ],
+    "wof:id":421199077,
+    "wof:lastmodified":1514506684,
+    "wof:name":"Qusaybat al Madyuni",
+    "wof:parent_id":1108757541,
+    "wof:placetype":"locality",
+    "wof:population":11313,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.84256,
+    35.68562,
+    10.84256,
+    35.68562
+],
+  "geometry": {"coordinates":[10.84256,35.68562],"type":"Point"}
+}

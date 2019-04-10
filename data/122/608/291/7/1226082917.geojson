@@ -1,0 +1,68 @@
+{
+  "id": 1226082917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.49366,32.77169,10.49366,32.77169",
+    "geom:latitude":32.77169,
+    "geom:longitude":10.49366,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ksar Ouled Soltane",
+    "gn:country_code":"TN",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7280296,
+    "gn:latitude":32.77169,
+    "gn:longitude":10.49366,
+    "gn:modification_date":"2010-02-28",
+    "gn:name":"Ksar Ouled Soltane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679191,
+        1108757731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7280296,
+        "wk:page":"Ksar_Ouled_Soltane"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"a3e76543a0ecf695ff6f83f419ab320f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757731,
+            "locality_id":1226082917,
+            "region_id":85679191
+        }
+    ],
+    "wof:id":1226082917,
+    "wof:lastmodified":1537574453,
+    "wof:name":"Ksar Ouled Soltane",
+    "wof:parent_id":1108757731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.49366,
+    32.77169,
+    10.49366,
+    32.77169
+],
+  "geometry": {"coordinates":[10.49366,32.77169],"type":"Point"}
+}

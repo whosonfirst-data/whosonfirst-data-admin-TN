@@ -1,0 +1,67 @@
+{
+  "id": 1209498063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.54745,35.34325,10.54745,35.34325",
+    "geom:latitude":35.34325,
+    "geom:longitude":10.54745,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Souassi",
+    "gn:country_code":"TN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2464020,
+    "gn:latitude":35.34325,
+    "gn:longitude":10.54745,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Souassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smala des Souassi",
+        "La Smala des Souassi",
+        "Souassi",
+        "Zam\u0101lat as Saw\u0101s\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464020
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"873536711908dedacdcd97f975bb46ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209498063
+        }
+    ],
+    "wof:id":1209498063,
+    "wof:lastmodified":1537706475,
+    "wof:name":"Souassi",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.54745,
+    35.34325,
+    10.54745,
+    35.34325
+],
+  "geometry": {"coordinates":[10.54745,35.34325],"type":"Point"}
+}

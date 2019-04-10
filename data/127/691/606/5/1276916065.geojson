@@ -1,0 +1,72 @@
+{
+  "id": 1276916065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.15758,33.9927,8.15758,33.9927",
+    "geom:latitude":33.9927,
+    "geom:longitude":8.15758,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"En Nemlet",
+    "gn:country_code":"TN",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473354,
+    "gn:latitude":33.9927,
+    "gn:longitude":8.15758,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"En Nemlet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nemlet",
+        "An Naml\u0101t",
+        "En Nemlet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679095,
+        1108757735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473354
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"2718f579ad3ca7fdb904756b0343d77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757735,
+            "locality_id":1276916065,
+            "region_id":85679095
+        }
+    ],
+    "wof:id":1276916065,
+    "wof:lastmodified":1537706520,
+    "wof:name":"En Nemlet",
+    "wof:parent_id":1108757735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.15758,
+    33.9927,
+    8.15758,
+    33.9927
+],
+  "geometry": {"coordinates":[8.15758,33.9927],"type":"Point"}
+}

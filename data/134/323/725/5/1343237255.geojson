@@ -1,0 +1,113 @@
+{
+  "id": 1343237255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.09917,36.94639,11.09917,36.94639",
+    "geom:latitude":36.94639,
+    "geom:longitude":11.09917,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Kerkouane",
+    "gn:country_code":"TN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6941921,
+    "gn:latitude":36.94639,
+    "gn:longitude":11.09917,
+    "gn:modification_date":"2009-06-09",
+    "gn:name":"Kerkouane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0643\u0648\u0627\u0646"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0435\u0440\u043a\u0443\u0430\u043d"
+    ],
+    "name:fin_x_preferred":[
+        "Kerkuane"
+    ],
+    "name:hbs_x_preferred":[
+        "Kerkuane"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05e7\u05d5\u05d0\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Kerkuane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30eb\u30af\u30a2\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10e0\u10d9\u10e3\u10d0\u10dc\u10d4"
+    ],
+    "name:lit_x_preferred":[
+        "Kerkuanas"
+    ],
+    "name:nld_x_preferred":[
+        "Kerkuane"
+    ],
+    "name:pol_x_preferred":[
+        "Karkawan"
+    ],
+    "name:por_x_preferred":[
+        "Cidade P\u00fanica de Kerkuane e sua Necr\u00f3pole"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u043a\u0443\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kerkuan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0440\u043a\u0443\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6941921,
+        "wk:page":"Kerkouane"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"1ed8cf683e07840568839882c5553134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757575,
+            "locality_id":1343237255,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1343237255,
+    "wof:lastmodified":1537706539,
+    "wof:name":"Kerkouane",
+    "wof:parent_id":1108757575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.09917,
+    36.94639,
+    11.09917,
+    36.94639
+],
+  "geometry": {"coordinates":[11.09917,36.94639],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327148965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.84157,36.57587,10.84157,36.57587",
+    "geom:latitude":36.57587,
+    "geom:longitude":10.84157,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Beni Aichoun",
+    "gn:country_code":"TN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472738,
+    "gn:latitude":36.57587,
+    "gn:longitude":10.84157,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beni A\u00efchoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b \u2018Aysh\u016bn",
+        "Beni A\u00efchoum",
+        "Ben Aichoun",
+        "Beni-Aychoun",
+        "Beni A\u00efchoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472738
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"b3fac2912f8067ae179bfa8543401e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757581,
+            "locality_id":1327148965,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1327148965,
+    "wof:lastmodified":1537706515,
+    "wof:name":"Beni Aichoun",
+    "wof:parent_id":1108757581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.84157,
+    36.57587,
+    10.84157,
+    36.57587
+],
+  "geometry": {"coordinates":[10.84157,36.57587],"type":"Point"}
+}

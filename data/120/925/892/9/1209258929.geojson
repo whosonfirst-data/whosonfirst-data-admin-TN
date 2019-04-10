@@ -1,0 +1,70 @@
+{
+  "id": 1209258929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.09278,37.00028,10.09278,37.00028",
+    "geom:latitude":37.00028,
+    "geom:longitude":10.09278,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Borj Ali Ben Ammar",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472032,
+    "gn:latitude":37.00028,
+    "gn:longitude":10.09278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Borj Ali Ben Ammar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bordj Ali Ben Ammar",
+        "Burj \u2018Al\u012b Bin \u2018Amm\u0101r",
+        "Borj Ali Ben Ahmar",
+        "Bordj Ali Bene Ammar",
+        "Bordj Adj Ali",
+        "Borj Ali Ben Ammar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472032
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"a9129572596de3f164760cb726f560fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209258929
+        }
+    ],
+    "wof:id":1209258929,
+    "wof:lastmodified":1537706511,
+    "wof:name":"Borj Ali Ben Ammar",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.09278,
+    37.00028,
+    10.09278,
+    37.00028
+],
+  "geometry": {"coordinates":[10.09278,37.00028],"type":"Point"}
+}

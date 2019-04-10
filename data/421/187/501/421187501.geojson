@@ -1,0 +1,78 @@
+{
+  "id": 421187501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05694,35.50389,11.05694,35.50389",
+    "geom:latitude":35.50389,
+    "geom:longitude":11.05694,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Th\u0101bit al Kalb"
+    ],
+    "qs:gn_country":"TN",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2464593,
+    "qs:gn_pop":0,
+    "qs:name":"Thabit al Kalb",
+    "qs:name_adm0":"Tunisia",
+    "qs:name_adm1":"Al Mahdiyah",
+    "qs:photos":1263,
+    "qs:photos_1k":256,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1263,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083591,
+    "qs:woe_adm0":23424967,
+    "qs:woe_id":1442732,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679161,
+        1108757481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2464593,
+        "gp:id":1442732,
+        "qs:id":1083591
+    },
+    "wof:country":"TN",
+    "wof:created":1459009515,
+    "wof:geomhash":"38cb07b39c082d45ad755d313f25ecfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757481,
+            "locality_id":421187501,
+            "region_id":85679161
+        }
+    ],
+    "wof:id":421187501,
+    "wof:lastmodified":1501263258,
+    "wof:name":"Thabit al Kalb",
+    "wof:parent_id":1108757481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05694,
+    35.50389,
+    11.05694,
+    35.50389
+],
+  "geometry": {"coordinates":[11.05694,35.50389],"type":"Point"}
+}

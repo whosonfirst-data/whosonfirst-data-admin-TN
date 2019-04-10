@@ -1,0 +1,66 @@
+{
+  "id": 1209689093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03944,35.39833,11.03944,35.39833",
+    "geom:latitude":35.39833,
+    "geom:longitude":11.03944,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sidi Bou Jobline",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2588540,
+    "gn:latitude":35.39833,
+    "gn:longitude":11.03944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidi Bou Jobline",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidi Bou Djobline",
+        "Sidi Bou Jobline"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2588540
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"9f2c3126c9e698fb20824112d21d138f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209689093
+        }
+    ],
+    "wof:id":1209689093,
+    "wof:lastmodified":1537706536,
+    "wof:name":"Sidi Bou Jobline",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03944,
+    35.39833,
+    11.03944,
+    35.39833
+],
+  "geometry": {"coordinates":[11.03944,35.39833],"type":"Point"}
+}

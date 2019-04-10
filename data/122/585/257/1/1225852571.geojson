@@ -1,0 +1,67 @@
+{
+  "id": 1225852571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.90639,35.15611,9.90639,35.15611",
+    "geom:latitude":35.15611,
+    "geom:longitude":9.90639,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dar Sialah",
+    "gn:country_code":"TN",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2588067,
+    "gn:latitude":35.15611,
+    "gn:longitude":9.90639,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Dar Sialah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2588067
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"68b5ec67833559c19f84b9e5b9f910dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757643,
+            "locality_id":1225852571,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":1225852571,
+    "wof:lastmodified":1537003024,
+    "wof:name":"Dar Sialah",
+    "wof:parent_id":1108757643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.90639,
+    35.15611,
+    9.90639,
+    35.15611
+],
+  "geometry": {"coordinates":[9.90639,35.15611],"type":"Point"}
+}

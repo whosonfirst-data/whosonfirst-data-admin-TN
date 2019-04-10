@@ -1,0 +1,72 @@
+{
+  "id": 1193078153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.47836,35.09677,9.47836,35.09677",
+    "geom:latitude":35.09677,
+    "geom:longitude":9.47836,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Sanndouk",
+    "gn:country_code":"TN",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473156,
+    "gn:latitude":35.09677,
+    "gn:longitude":9.47836,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanndouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015eund\u016bq",
+        "Sandouk",
+        "Sanndouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679147,
+        1108757653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473156
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e5fd23d35712cdfaabaf337aa7d00762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757653,
+            "locality_id":1193078153,
+            "region_id":85679147
+        }
+    ],
+    "wof:id":1193078153,
+    "wof:lastmodified":1537706518,
+    "wof:name":"Sanndouk",
+    "wof:parent_id":1108757653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47836,
+    35.09677,
+    9.47836,
+    35.09677
+],
+  "geometry": {"coordinates":[9.47836,35.09677],"type":"Point"}
+}

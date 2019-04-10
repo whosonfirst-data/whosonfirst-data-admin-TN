@@ -1,0 +1,93 @@
+{
+  "id": 890438305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78222,36.46917,10.78222,36.46917",
+    "geom:latitude":36.46917,
+    "geom:longitude":10.78222,
+    "gn:country":"TN",
+    "gn:fcode":"PPL",
+    "gn:pop":18011,
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u062e\u064a\u0627\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Beni Khiar"
+    ],
+    "name:dut_x_preferred":[
+        "B\u00e9ni Khiar"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00e9ni Khiar"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00e9ni Khiar"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e9ni Khiar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d\u0456-\u0425'\u044f\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Ban\u012b Khiy\u0101r"
+    ],
+    "qs:name":"Beni Khiar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472722,
+        "gp:id":1441971,
+        "qs:id":1035873,
+        "wd:id":"Q2737310",
+        "wk:page":"B\u00e9ni Khiar"
+    },
+    "wof:country":"TN",
+    "wof:created":1469052188,
+    "wof:geomhash":"5d03e5133599a2ef3b0a3163aed02da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757563,
+            "locality_id":890438305,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":890438305,
+    "wof:lastmodified":1527735423,
+    "wof:name":"Beni Khiar",
+    "wof:parent_id":1108757563,
+    "wof:placetype":"locality",
+    "wof:population":18011,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78222,
+    36.46917,
+    10.78222,
+    36.46917
+],
+  "geometry": {"coordinates":[10.78222,36.46917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292954597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.12917,31.46722,10.12917,31.46722",
+    "geom:latitude":31.46722,
+    "geom:longitude":10.12917,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Bir Zar",
+    "gn:country_code":"TN",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565911,
+    "gn:latitude":31.46722,
+    "gn:longitude":10.12917,
+    "gn:modification_date":"1995-02-15",
+    "gn:name":"Bir Zar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679191,
+        1108757721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565911
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"7e41e5015a78a98b6bcd6d4d505ee042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757721,
+            "locality_id":1292954597,
+            "region_id":85679191
+        }
+    ],
+    "wof:id":1292954597,
+    "wof:lastmodified":1537055905,
+    "wof:name":"Bir Zar",
+    "wof:parent_id":1108757721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.12917,
+    31.46722,
+    10.12917,
+    31.46722
+],
+  "geometry": {"coordinates":[10.12917,31.46722],"type":"Point"}
+}

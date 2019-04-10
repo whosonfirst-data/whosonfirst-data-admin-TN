@@ -1,0 +1,65 @@
+{
+  "id": 1209449067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90827,33.58798,8.90827,33.58798",
+    "geom:latitude":33.58798,
+    "geom:longitude":8.90827,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Kelouamene",
+    "gn:country_code":"TN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2469928,
+    "gn:latitude":33.58798,
+    "gn:longitude":8.90827,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kelouamene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kelouamen",
+        "Kelouamene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469928
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"885a3fb2fbe462a063000c2d4dfb4e6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209449067
+        }
+    ],
+    "wof:id":1209449067,
+    "wof:lastmodified":1537706492,
+    "wof:name":"Kelouamene",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90827,
+    33.58798,
+    8.90827,
+    33.58798
+],
+  "geometry": {"coordinates":[8.90827,33.58798],"type":"Point"}
+}

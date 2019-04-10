@@ -1,0 +1,61 @@
+{
+  "id": 1209633547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.99944,37.00056,10.99944,37.00056",
+    "geom:latitude":37.00056,
+    "geom:longitude":10.99944,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dar el Jilani",
+    "gn:country_code":"TN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572375,
+    "gn:latitude":37.00056,
+    "gn:longitude":10.99944,
+    "gn:modification_date":"1996-09-17",
+    "gn:name":"Dar el Jilani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572375
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"33088b03b9d950006de34033034e09c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209633547
+        }
+    ],
+    "wof:id":1209633547,
+    "wof:lastmodified":1536281114,
+    "wof:name":"Dar el Jilani",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.99944,
+    37.00056,
+    10.99944,
+    37.00056
+],
+  "geometry": {"coordinates":[10.99944,37.00056],"type":"Point"}
+}

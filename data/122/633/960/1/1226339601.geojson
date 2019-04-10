@@ -1,0 +1,75 @@
+{
+  "id": 1226339601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96981,36.60732,8.96981,36.60732",
+    "geom:latitude":36.60732,
+    "geom:longitude":8.96981,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bou Salem",
+    "gn:country_code":"TN",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471956,
+    "gn:latitude":36.60732,
+    "gn:longitude":8.96981,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bou Salem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq al Kham\u012bs",
+        "B\u016b S\u0101lim",
+        "Souk el Kremis",
+        "Souk el Khemis",
+        "Bou Salem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471956,
+        "wk:page":"Bou_Salem"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"45c3fff45469522d9e4465002b7554b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757359,
+            "locality_id":1226339601,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1226339601,
+    "wof:lastmodified":1537706510,
+    "wof:name":"Bou Salem",
+    "wof:parent_id":1108757359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96981,
+    36.60732,
+    8.96981,
+    36.60732
+],
+  "geometry": {"coordinates":[8.96981,36.60732],"type":"Point"}
+}

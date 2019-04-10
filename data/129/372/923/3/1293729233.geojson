@@ -1,0 +1,70 @@
+{
+  "id": 1293729233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.65,32.98333,10.65,32.98333",
+    "geom:latitude":32.98333,
+    "geom:longitude":10.65,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Kasbet Ammar",
+    "gn:country_code":"TN",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2468217,
+    "gn:latitude":32.98333,
+    "gn:longitude":10.65,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kasbet Ammar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fabat \u2018Amm\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679191,
+        1108757731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468217
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"6068ff1feeb37edfe22ba034b03c26ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757731,
+            "locality_id":1293729233,
+            "region_id":85679191
+        }
+    ],
+    "wof:id":1293729233,
+    "wof:lastmodified":1537706488,
+    "wof:name":"Kasbet Ammar",
+    "wof:parent_id":1108757731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.65,
+    32.98333,
+    10.65,
+    32.98333
+],
+  "geometry": {"coordinates":[10.65,32.98333],"type":"Point"}
+}

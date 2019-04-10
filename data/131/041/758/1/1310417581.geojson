@@ -1,0 +1,67 @@
+{
+  "id": 1310417581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.57139,35.38889,9.57139,35.38889",
+    "geom:latitude":35.38889,
+    "geom:longitude":9.57139,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dar Ameur",
+    "gn:country_code":"TN",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2585252,
+    "gn:latitude":35.38889,
+    "gn:longitude":9.57139,
+    "gn:modification_date":"1997-02-14",
+    "gn:name":"Dar Ameur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2585252
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"ef91568aad5be2cde04561356d409552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757387,
+            "locality_id":1310417581,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1310417581,
+    "wof:lastmodified":1537042063,
+    "wof:name":"Dar Ameur",
+    "wof:parent_id":1108757387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.57139,
+    35.38889,
+    9.57139,
+    35.38889
+],
+  "geometry": {"coordinates":[9.57139,35.38889],"type":"Point"}
+}

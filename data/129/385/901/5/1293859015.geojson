@@ -1,0 +1,67 @@
+{
+  "id": 1293859015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38778,36.56833,10.38778,36.56833",
+    "geom:latitude":36.56833,
+    "geom:longitude":10.38778,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Douar Oulad ech Cherabi",
+    "gn:country_code":"TN",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589319,
+    "gn:latitude":36.56833,
+    "gn:longitude":10.38778,
+    "gn:modification_date":"1997-09-24",
+    "gn:name":"Douar Oulad ech Cherabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679119,
+        1108757573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589319
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"92e315a4ccd4cc461ee91f3fb73ed452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757573,
+            "locality_id":1293859015,
+            "region_id":85679119
+        }
+    ],
+    "wof:id":1293859015,
+    "wof:lastmodified":1536748474,
+    "wof:name":"Douar Oulad ech Cherabi",
+    "wof:parent_id":1108757573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38778,
+    36.56833,
+    10.38778,
+    36.56833
+],
+  "geometry": {"coordinates":[10.38778,36.56833],"type":"Point"}
+}

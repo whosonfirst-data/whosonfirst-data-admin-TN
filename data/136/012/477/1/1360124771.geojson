@@ -1,0 +1,76 @@
+{
+  "id": 1360124771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01704,36.75898,10.01704,36.75898",
+    "geom:latitude":36.75898,
+    "geom:longitude":10.01704,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"La Mornaghia",
+    "gn:country_code":"TN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473489,
+    "gn:latitude":36.75898,
+    "gn:longitude":10.01704,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Mornaghia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Murn\u0101q\u012byah",
+        "La Mornarhia",
+        "Mornaguia",
+        "Mornarhia",
+        "Mornaghia",
+        "La Mornaghia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473489,
+        "wk:page":"Mornaguia"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"c403b131eafbfc1b14cc61aec9902465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757503,
+            "locality_id":1360124771,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1360124771,
+    "wof:lastmodified":1537706522,
+    "wof:name":"La Mornaghia",
+    "wof:parent_id":1108757503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01704,
+    36.75898,
+    10.01704,
+    36.75898
+],
+  "geometry": {"coordinates":[10.01704,36.75898],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327068721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.13167,36.97361,10.13167,36.97361",
+    "geom:latitude":36.97361,
+    "geom:longitude":10.13167,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Douar Sidi Bou Hanech",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471480,
+    "gn:latitude":36.97361,
+    "gn:longitude":10.13167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douar Sidi Bou Hanech",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douar Sidi Bou Haneche",
+        "Daww\u0101r S\u012bd\u012b B\u016b \u1e28anash",
+        "Douar Sidi Bou Hanech"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108807159,
+        1108757239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471480
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"1fe95b2378d75e18c498cc370a07fb60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757239,
+            "locality_id":1327068721,
+            "region_id":1108807159
+        }
+    ],
+    "wof:id":1327068721,
+    "wof:lastmodified":1537706497,
+    "wof:name":"Douar Sidi Bou Hanech",
+    "wof:parent_id":1108757239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.13167,
+    36.97361,
+    10.13167,
+    36.97361
+],
+  "geometry": {"coordinates":[10.13167,36.97361],"type":"Point"}
+}

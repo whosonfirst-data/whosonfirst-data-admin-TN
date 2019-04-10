@@ -1,0 +1,71 @@
+{
+  "id": 1226292045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03414,34.64881,11.03414,34.64881",
+    "geom:latitude":34.64881,
+    "geom:longitude":11.03414,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Qarqannah",
+    "gn:country_code":"TN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7288448,
+    "gn:latitude":34.64881,
+    "gn:longitude":11.03414,
+    "gn:modification_date":"2010-04-18",
+    "gn:name":"Qarqannah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kerkennah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679151,
+        1108757617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7288448,
+        "wk:page":"Kerkennah_Islands"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"d64dc3d914529c6084dbfbfca9195d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757617,
+            "locality_id":1226292045,
+            "region_id":85679151
+        }
+    ],
+    "wof:id":1226292045,
+    "wof:lastmodified":1537574453,
+    "wof:name":"Qarqannah",
+    "wof:parent_id":1108757617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03414,
+    34.64881,
+    11.03414,
+    34.64881
+],
+  "geometry": {"coordinates":[11.03414,34.64881],"type":"Point"}
+}

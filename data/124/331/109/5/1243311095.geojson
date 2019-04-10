@@ -1,0 +1,67 @@
+{
+  "id": 1243311095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38654,36.69705,10.38654,36.69705",
+    "geom:latitude":36.69705,
+    "geom:longitude":10.38654,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Borj Cedria",
+    "gn:country_code":"TN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692494,
+    "gn:latitude":36.69705,
+    "gn:longitude":10.38654,
+    "gn:modification_date":"2008-05-21",
+    "gn:name":"Borj Cedria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679107,
+        1108757271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692494
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"fbb68aac31cebf35d47787670c1e0987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757271,
+            "locality_id":1243311095,
+            "region_id":85679107
+        }
+    ],
+    "wof:id":1243311095,
+    "wof:lastmodified":1536999988,
+    "wof:name":"Borj Cedria",
+    "wof:parent_id":1108757271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38654,
+    36.69705,
+    10.38654,
+    36.69705
+],
+  "geometry": {"coordinates":[10.38654,36.69705],"type":"Point"}
+}

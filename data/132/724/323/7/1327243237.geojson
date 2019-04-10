@@ -1,0 +1,74 @@
+{
+  "id": 1327243237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.58944,35.84778,9.58944,35.84778",
+    "geom:latitude":35.84778,
+    "geom:longitude":9.58944,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ousseltia",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473417,
+    "gn:latitude":35.84778,
+    "gn:longitude":9.58944,
+    "gn:modification_date":"2018-03-22",
+    "gn:name":"Ousseltia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Wasl\u0101t\u012byah",
+        "Ouseltia",
+        "Ousseltia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473417,
+        "wk:page":"Oueslatia"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"e0235add01630dbca0e2b94c43c61385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757395,
+            "locality_id":1327243237,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1327243237,
+    "wof:lastmodified":1537706521,
+    "wof:name":"Ousseltia",
+    "wof:parent_id":1108757395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.58944,
+    35.84778,
+    9.58944,
+    35.84778
+],
+  "geometry": {"coordinates":[9.58944,35.84778],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1108757245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000337,
+    "geom:area_square_m":3336087.14695,
+    "geom:bbox":"10.0940383194,36.8172264762,10.1200738771,36.8365088763",
+    "geom:latitude":36.827924,
+    "geom:longitude":10.108618,
+    "iso:country":"TN",
+    "lbl:latitude":36.826968,
+    "lbl:longitude":10.109672,
+    "meso:adm1_en":"Ariana",
+    "meso:gadm_adm2":"Bardo",
+    "meso:gaul_adm2":"Ettadhamen",
+    "meso:hasc_id":"TN.AN.ET",
+    "meso:mps_x":10.109672,
+    "meso:mps_y":36.826968,
+    "meso:name_alt":"Ettadhamen",
+    "meso:name_loc":"Ettadhamen",
+    "meso:source":"AOTM",
+    "mps:latitude":36.826968,
+    "mps:longitude":10.109672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ettadhamen"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-04-28",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-04-28",
+    "statoids:capital":"",
+    "statoids:country":"TN",
+    "statoids:hasc":"TN.AN",
+    "statoids:name":"Ettadhamen",
+    "statoids:population":"78311",
+    "statoids:statoid":"TN.AN.ET",
+    "statoids:timezone":"+1",
+    "statoids:type":"delegation",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        1108807159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TN.AN.ET"
+    },
+    "wof:country":"TN",
+    "wof:created":1481307108,
+    "wof:geomhash":"fe0408376b705298b5765fb34ca281ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757245,
+            "region_id":1108807159
+        }
+    ],
+    "wof:id":1108757245,
+    "wof:lastmodified":1536615711,
+    "wof:name":"Ettadhamen",
+    "wof:parent_id":1108807159,
+    "wof:placetype":"county",
+    "wof:placetype_local":"delegation",
+    "wof:population":78311,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:shortcode":"ET",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.09403831938038,
+    36.8172264762374,
+    10.12007387706093,
+    36.83650887628416
+],
+  "geometry": {"coordinates":[[[10.11686352608349,36.83650887628416],[10.11846050064341,36.83224019344424],[10.12007387706093,36.82749710020276],[10.11891348629318,36.82558141508267],[10.11624757743734,36.81887866167369],[10.10540054105375,36.8172264762374],[10.10311743002435,36.82081377191848],[10.10037769678906,36.82511852673578],[10.09937312793613,36.82669693683546],[10.0981676453126,36.82859102895507],[10.09672106616437,36.8308639394986],[10.09403831938038,36.8350791554157],[10.09942760429639,36.83541672839853],[10.10233359126091,36.83559875304614],[10.10475524706467,36.83575044025248],[10.10677329356781,36.83587684625776],[10.11227705675818,36.83622158990853],[10.11686352608349,36.83650887628416]]],"type":"Polygon"}
+}

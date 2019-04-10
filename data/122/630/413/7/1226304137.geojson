@@ -1,0 +1,70 @@
+{
+  "id": 1226304137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.20742,33.23996,10.20742,33.23996",
+    "geom:latitude":33.23996,
+    "geom:longitude":10.20742,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ksar Oulad Bou Abid",
+    "gn:country_code":"TN",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2468132,
+    "gn:latitude":33.23996,
+    "gn:longitude":10.20742,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ksar Oulad Bou Abid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fr Awl\u0101d B\u016b \u2018Ab\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468132
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"9e7c83db8e5ea7c0c3ce6a2d19d67093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757513,
+            "locality_id":1226304137,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":1226304137,
+    "wof:lastmodified":1537706486,
+    "wof:name":"Ksar Oulad Bou Abid",
+    "wof:parent_id":1108757513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.20742,
+    33.23996,
+    10.20742,
+    33.23996
+],
+  "geometry": {"coordinates":[10.20742,33.23996],"type":"Point"}
+}

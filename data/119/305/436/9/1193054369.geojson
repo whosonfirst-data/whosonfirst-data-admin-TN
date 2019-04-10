@@ -1,0 +1,67 @@
+{
+  "id": 1193054369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.815,36.78333,9.815,36.78333",
+    "geom:latitude":36.78333,
+    "geom:longitude":9.815,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Douar el Guessa",
+    "gn:country_code":"TN",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2584610,
+    "gn:latitude":36.78333,
+    "gn:longitude":9.815,
+    "gn:modification_date":"2009-03-17",
+    "gn:name":"Douar el Guessa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679099,
+        1108757497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2584610
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"956f4a73dd469c1a98f2806ab5f53c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757497,
+            "locality_id":1193054369,
+            "region_id":85679099
+        }
+    ],
+    "wof:id":1193054369,
+    "wof:lastmodified":1536363706,
+    "wof:name":"Douar el Guessa",
+    "wof:parent_id":1108757497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.815,
+    36.78333,
+    9.815,
+    36.78333
+],
+  "geometry": {"coordinates":[9.815,36.78333],"type":"Point"}
+}

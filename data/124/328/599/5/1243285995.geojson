@@ -1,0 +1,67 @@
+{
+  "id": 1243285995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.45694,36.63472,8.45694,36.63472",
+    "geom:latitude":36.63472,
+    "geom:longitude":8.45694,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mrabia Halima",
+    "gn:country_code":"TN",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2584735,
+    "gn:latitude":36.63472,
+    "gn:longitude":8.45694,
+    "gn:modification_date":"1997-04-18",
+    "gn:name":"Mrabia Halima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679115,
+        1108757361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2584735
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"b4bb53c1a18825d9b54ba6dff73bd417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757361,
+            "locality_id":1243285995,
+            "region_id":85679115
+        }
+    ],
+    "wof:id":1243285995,
+    "wof:lastmodified":1537035352,
+    "wof:name":"Mrabia Halima",
+    "wof:parent_id":1108757361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.45694,
+    36.63472,
+    8.45694,
+    36.63472
+],
+  "geometry": {"coordinates":[8.45694,36.63472],"type":"Point"}
+}

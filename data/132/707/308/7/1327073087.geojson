@@ -1,0 +1,67 @@
+{
+  "id": 1327073087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0432,36.55872,10.0432,36.55872",
+    "geom:latitude":36.55872,
+    "geom:longitude":10.0432,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Jebel Oust",
+    "gn:country_code":"TN",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205007,
+    "gn:latitude":36.55872,
+    "gn:longitude":10.0432,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Jebel Oust",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679179,
+        1108757757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205007
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"bf00205c419b1be24afcda1edce8156a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757757,
+            "locality_id":1327073087,
+            "region_id":85679179
+        }
+    ],
+    "wof:id":1327073087,
+    "wof:lastmodified":1536702069,
+    "wof:name":"Jebel Oust",
+    "wof:parent_id":1108757757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0432,
+    36.55872,
+    10.0432,
+    36.55872
+],
+  "geometry": {"coordinates":[10.0432,36.55872],"type":"Point"}
+}

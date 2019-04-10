@@ -1,0 +1,71 @@
+{
+  "id": 1343819069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.89507,33.60694,9.89507,33.60694",
+    "geom:latitude":33.60694,
+    "geom:longitude":9.89507,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Beni Aissa",
+    "gn:country_code":"TN",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472728,
+    "gn:latitude":33.60694,
+    "gn:longitude":9.89507,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Beni A\u00efssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni A\u00efssa",
+        "Ban\u012b \u2018\u012as\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472728
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"291dd7bdf290c49a4543ae34d777b90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757323,
+            "locality_id":1343819069,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":1343819069,
+    "wof:lastmodified":1537706515,
+    "wof:name":"Beni Aissa",
+    "wof:parent_id":1108757323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.89507,
+    33.60694,
+    9.89507,
+    33.60694
+],
+  "geometry": {"coordinates":[9.89507,33.60694],"type":"Point"}
+}

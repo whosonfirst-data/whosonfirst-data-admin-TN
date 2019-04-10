@@ -1,0 +1,70 @@
+{
+  "id": 1193108009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98333,35.75,8.98333,35.75",
+    "geom:latitude":35.75,
+    "geom:longitude":8.98333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Douar el Gouadria",
+    "gn:country_code":"TN",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471541,
+    "gn:latitude":35.75,
+    "gn:longitude":8.98333,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Douar el Gouadria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daww\u0101r al Qaw\u0101dir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679131,
+        1108757445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471541
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"488f824b4732021b1b086752b3c16ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757445,
+            "locality_id":1193108009,
+            "region_id":85679131
+        }
+    ],
+    "wof:id":1193108009,
+    "wof:lastmodified":1537706501,
+    "wof:name":"Douar el Gouadria",
+    "wof:parent_id":1108757445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98333,
+    35.75,
+    8.98333,
+    35.75
+],
+  "geometry": {"coordinates":[8.98333,35.75],"type":"Point"}
+}

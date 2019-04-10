@@ -1,0 +1,73 @@
+{
+  "id": 1209724633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.65971,35.15744,8.65971,35.15744",
+    "geom:latitude":35.15744,
+    "geom:longitude":8.65971,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dechret Zaouiet Sidi Salah",
+    "gn:country_code":"TN",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471593,
+    "gn:latitude":35.15744,
+    "gn:longitude":8.65971,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Dechret Zaouiet Sidi Salah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaouiet Sidi Salah ben Jabar",
+        "Zaouiet Sidi Salah Ben Djabar",
+        "Zaouia Sidi Salah ben Jabar",
+        "Dashrat Z\u0101wiyat S\u012bd\u012b \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679133,
+        1108757417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471593
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"ee69c9b7ca442cfcef1caa653a849b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757417,
+            "locality_id":1209724633,
+            "region_id":85679133
+        }
+    ],
+    "wof:id":1209724633,
+    "wof:lastmodified":1537706504,
+    "wof:name":"Dechret Zaouiet Sidi Salah",
+    "wof:parent_id":1108757417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.65971,
+    35.15744,
+    8.65971,
+    35.15744
+],
+  "geometry": {"coordinates":[8.65971,35.15744],"type":"Point"}
+}

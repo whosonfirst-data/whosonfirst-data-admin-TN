@@ -1,0 +1,72 @@
+{
+  "id": 1293814993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.81794,33.4269,8.81794,33.4269",
+    "geom:latitude":33.4269,
+    "geom:longitude":8.81794,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Ghidmah",
+    "gn:country_code":"TN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2470955,
+    "gn:latitude":33.4269,
+    "gn:longitude":8.81794,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ghidmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rhibma",
+        "Rhidma",
+        "Ghidmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679187,
+        1108757431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2470955
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"1f1decc185d41c2db04ae4938a7f2446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757431,
+            "locality_id":1293814993,
+            "region_id":85679187
+        }
+    ],
+    "wof:id":1293814993,
+    "wof:lastmodified":1537706495,
+    "wof:name":"Ghidmah",
+    "wof:parent_id":1108757431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.81794,
+    33.4269,
+    8.81794,
+    33.4269
+],
+  "geometry": {"coordinates":[8.81794,33.4269],"type":"Point"}
+}

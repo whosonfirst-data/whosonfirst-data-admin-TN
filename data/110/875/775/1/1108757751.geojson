@@ -1,0 +1,86 @@
+{
+  "id": 1108757751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:area_square_m":1518872.649923,
+    "geom:bbox":"10.1162475774,36.8141068299,10.133512763,36.8274971002",
+    "geom:latitude":36.820389,
+    "geom:longitude":10.124958,
+    "iso:country":"TN",
+    "lbl:latitude":36.820735,
+    "lbl:longitude":10.124794,
+    "meso:adm1_en":"Tunis",
+    "meso:gadm_adm2":"Bardo",
+    "meso:gaul_adm2":"El Tahrir",
+    "meso:hasc_id":"TN.TU.TA",
+    "meso:mps_x":10.124794,
+    "meso:mps_y":36.820735,
+    "meso:name_alt":"El Tahrir",
+    "meso:name_loc":"Ettahrir",
+    "meso:source":"AOTM",
+    "mps:latitude":36.820735,
+    "mps:longitude":10.124794,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "El Tahrir"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-04-28",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-04-28",
+    "statoids:capital":"",
+    "statoids:country":"TN",
+    "statoids:hasc":"TN.TU",
+    "statoids:name":"El Tahrir",
+    "statoids:population":"21956",
+    "statoids:statoid":"TN.TU.TA",
+    "statoids:timezone":"+1",
+    "statoids:type":"delegation",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"TN.TU.TA"
+    },
+    "wof:country":"TN",
+    "wof:created":1481307383,
+    "wof:geomhash":"5e415f911193c18d4e0aded380577a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757751,
+            "region_id":85679123
+        }
+    ],
+    "wof:id":1108757751,
+    "wof:lastmodified":1536615723,
+    "wof:name":"Ettahrir",
+    "wof:parent_id":85679123,
+    "wof:placetype":"county",
+    "wof:placetype_local":"delegation",
+    "wof:population":21956,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:shortcode":"TA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.11624757743734,
+    36.81410682990029,
+    10.13351276298849,
+    36.82749710020276
+],
+  "geometry": {"coordinates":[[[10.12007387706093,36.82749710020276],[10.12591590936828,36.82590200949345],[10.1333061931363,36.8215248299402],[10.13351276298849,36.81659419846283],[10.1291178436204,36.81410682990029],[10.11718585444869,36.81729548099939],[10.11624757743734,36.81887866167369],[10.11891348629318,36.82558141508267],[10.12007387706093,36.82749710020276]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276555285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55306,35.90917,9.55306,35.90917",
+    "geom:latitude":35.90917,
+    "geom:longitude":9.55306,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dechret Touama",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2471610,
+    "gn:latitude":35.90917,
+    "gn:longitude":9.55306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dechret Touama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashrat at Taw\u2019amah",
+        "Dechret Touama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2471610
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"7ab5a0d8ee227f877b363eae544cd147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757395,
+            "locality_id":1276555285,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1276555285,
+    "wof:lastmodified":1537706505,
+    "wof:name":"Dechret Touama",
+    "wof:parent_id":1108757395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55306,
+    35.90917,
+    9.55306,
+    35.90917
+],
+  "geometry": {"coordinates":[9.55306,35.90917],"type":"Point"}
+}

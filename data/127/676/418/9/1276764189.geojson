@@ -1,0 +1,72 @@
+{
+  "id": 1276764189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.24944,35.96528,10.24944,35.96528",
+    "geom:latitude":35.96528,
+    "geom:longitude":10.24944,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Et Trabelsia",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473109,
+    "gn:latitude":35.96528,
+    "gn:longitude":10.24944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Et Trabelsia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u0163 \u0162ar\u0101bulus\u012byah",
+        "Et Trabelsia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473109
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"eb3bbd2661a4878debea02001f2d384d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757397,
+            "locality_id":1276764189,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1276764189,
+    "wof:lastmodified":1537706518,
+    "wof:name":"Et Trabelsia",
+    "wof:parent_id":1108757397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.24944,
+    35.96528,
+    10.24944,
+    35.96528
+],
+  "geometry": {"coordinates":[10.24944,35.96528],"type":"Point"}
+}

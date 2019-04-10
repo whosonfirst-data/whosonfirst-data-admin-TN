@@ -1,0 +1,67 @@
+{
+  "id": 1242920847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.96667,33.85,10.96667,33.85",
+    "geom:latitude":33.85,
+    "geom:longitude":10.96667,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Mezraia",
+    "gn:country_code":"TN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2468952,
+    "gn:latitude":33.85,
+    "gn:longitude":10.96667,
+    "gn:modification_date":"1993-12-03",
+    "gn:name":"Mezraia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2468952
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"6cad8d87c5b61ddb78403857882ea7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757517,
+            "locality_id":1242920847,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":1242920847,
+    "wof:lastmodified":1537063548,
+    "wof:name":"Mezraia",
+    "wof:parent_id":1108757517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.96667,
+    33.85,
+    10.96667,
+    33.85
+],
+  "geometry": {"coordinates":[10.96667,33.85],"type":"Point"}
+}

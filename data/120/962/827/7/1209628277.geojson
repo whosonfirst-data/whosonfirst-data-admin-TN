@@ -1,0 +1,71 @@
+{
+  "id": 1209628277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.51694,34.74917,8.51694,34.74917",
+    "geom:latitude":34.74917,
+    "geom:longitude":8.51694,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mejen Bel Abbes",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2469364,
+    "gn:latitude":34.74917,
+    "gn:longitude":8.51694,
+    "gn:modification_date":"2018-03-22",
+    "gn:name":"Mejen Bel Abb\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maagen-Bel-Abbes",
+        "Ma\u00e2djen Bel Abb\u00e8s",
+        "M\u0101jin B\u016b al \u2018Abb\u0101s",
+        "Majjen Bel Abbes",
+        "Madj\u00e8ne Bel Abb\u00e8s",
+        "Mejen Bel Abb\u00e8s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2469364,
+        "wk:page":"Magel_Bel_Abb%C3%A8s"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"b63a7e56b4417688b06e7c9dc80e37b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632703,
+            "locality_id":1209628277
+        }
+    ],
+    "wof:id":1209628277,
+    "wof:lastmodified":1537706491,
+    "wof:name":"Mejen Bel Abbes",
+    "wof:parent_id":85632703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.51694,
+    34.74917,
+    8.51694,
+    34.74917
+],
+  "geometry": {"coordinates":[8.51694,34.74917],"type":"Point"}
+}

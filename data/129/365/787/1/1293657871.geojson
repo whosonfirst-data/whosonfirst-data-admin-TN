@@ -1,0 +1,67 @@
+{
+  "id": 1293657871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.39111,35.96917,10.39111,35.96917",
+    "geom:latitude":35.96917,
+    "geom:longitude":10.39111,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Sidi et Taiari",
+    "gn:country_code":"TN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2587525,
+    "gn:latitude":35.96917,
+    "gn:longitude":10.39111,
+    "gn:modification_date":"1997-06-04",
+    "gn:name":"Sidi et Ta\u00efari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679173,
+        1108757703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2587525
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"1e4af6e0cf1410814f30f4562e9db668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757703,
+            "locality_id":1293657871,
+            "region_id":85679173
+        }
+    ],
+    "wof:id":1293657871,
+    "wof:lastmodified":1537037108,
+    "wof:name":"Sidi et Taiari",
+    "wof:parent_id":1108757703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.39111,
+    35.96917,
+    10.39111,
+    35.96917
+],
+  "geometry": {"coordinates":[10.39111,35.96917],"type":"Point"}
+}

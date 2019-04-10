@@ -1,0 +1,74 @@
+{
+  "id": 1293866129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.73456,35.57525,10.73456,35.57525",
+    "geom:latitude":35.57525,
+    "geom:longitude":10.73456,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Zeramedine",
+    "gn:country_code":"TN",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2472838,
+    "gn:latitude":35.57525,
+    "gn:longitude":10.73456,
+    "gn:modification_date":"2018-03-22",
+    "gn:name":"Zeramedine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zeramdine",
+        "Zeramedine",
+        "Zramedine",
+        "Az Zar\u0101mid\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679165,
+        1108757557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2472838,
+        "wk:page":"Z%C3%A9ramdine"
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"376c52a2e0d90ba967f143329c9631d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757557,
+            "locality_id":1293866129,
+            "region_id":85679165
+        }
+    ],
+    "wof:id":1293866129,
+    "wof:lastmodified":1537706516,
+    "wof:name":"Zeramedine",
+    "wof:parent_id":1108757557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.73456,
+    35.57525,
+    10.73456,
+    35.57525
+],
+  "geometry": {"coordinates":[10.73456,35.57525],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226444435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.04618,35.73026,10.04618,35.73026",
+    "geom:latitude":35.73026,
+    "geom:longitude":10.04618,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dar el Allani",
+    "gn:country_code":"TN",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2587156,
+    "gn:latitude":35.73026,
+    "gn:longitude":10.04618,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Dar el Allani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2587156
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"d312d71eb8618052f9061a863f50b1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757389,
+            "locality_id":1226444435,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1226444435,
+    "wof:lastmodified":1536646943,
+    "wof:name":"Dar el Allani",
+    "wof:parent_id":1108757389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.04618,
+    35.73025999999999,
+    10.04618,
+    35.73025999999999
+],
+  "geometry": {"coordinates":[10.04618,35.73025999999999],"type":"Point"}
+}

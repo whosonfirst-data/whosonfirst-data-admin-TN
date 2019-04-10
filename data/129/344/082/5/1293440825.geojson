@@ -1,0 +1,70 @@
+{
+  "id": 1293440825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.9923,33.81682,10.9923,33.81682",
+    "geom:latitude":33.81682,
+    "geom:longitude":10.9923,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"El Mgarsa",
+    "gn:country_code":"TN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473551,
+    "gn:latitude":33.81682,
+    "gn:longitude":10.9923,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"El Mgarsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Maq\u0101risah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473551
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"fa525c884e814a42a25074af9b08829a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757519,
+            "locality_id":1293440825,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":1293440825,
+    "wof:lastmodified":1537706524,
+    "wof:name":"El Mgarsa",
+    "wof:parent_id":1108757519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.9923,
+    33.81682,
+    10.9923,
+    33.81682
+],
+  "geometry": {"coordinates":[10.9923,33.81682],"type":"Point"}
+}

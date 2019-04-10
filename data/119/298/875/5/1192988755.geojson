@@ -1,0 +1,66 @@
+{
+  "id": 1192988755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05,35.51667,11.05,35.51667",
+    "geom:latitude":35.51667,
+    "geom:longitude":11.05,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ar Raml",
+    "gn:cc2":"TN",
+    "gn:country_code":"TN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2473271,
+    "gn:latitude":35.51667,
+    "gn:longitude":11.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ar Raml",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Er Remel",
+        "Ar Raml"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2473271
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"d2b519d95a7d369c5c4f419c849a577b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1192988755,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1192988755,
+    "wof:lastmodified":1537706520,
+    "wof:name":"Ar Raml",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05,
+    35.51667,
+    11.05,
+    35.51667
+],
+  "geometry": {"coordinates":[11.05,35.51667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310013517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55278,35.6475,9.55278,35.6475",
+    "geom:latitude":35.6475,
+    "geom:longitude":9.55278,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douar Ouled Messaoud",
+    "gn:country_code":"TN",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589154,
+    "gn:latitude":35.6475,
+    "gn:longitude":9.55278,
+    "gn:modification_date":"1997-09-24",
+    "gn:name":"Douar Ouled Messaoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Tunis",
+    "iso:country":"TN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679171,
+        1108757383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589154
+    },
+    "wof:country":"TN",
+    "wof:geomhash":"17fdaf8f2c6357686a53a0b4f52ec0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757383,
+            "locality_id":1310013517,
+            "region_id":85679171
+        }
+    ],
+    "wof:id":1310013517,
+    "wof:lastmodified":1536630037,
+    "wof:name":"Douar Ouled Messaoud",
+    "wof:parent_id":1108757383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55278,
+    35.6475,
+    9.55278,
+    35.6475
+],
+  "geometry": {"coordinates":[9.55278,35.6475],"type":"Point"}
+}
