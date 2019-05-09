@@ -10,6 +10,12 @@
     "geom:latitude":35.103946,
     "geom:longitude":8.767142,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "kasserine sud Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.094405,
     "lbl:longitude":8.725793,
     "meso:adm1_en":"Kasserine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757417,
-    "wof:lastmodified":1536615715,
+    "wof:lastmodified":1553718682,
     "wof:name":"kasserine sud",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

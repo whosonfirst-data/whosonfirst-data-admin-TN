@@ -10,6 +10,12 @@
     "geom:latitude":35.616933,
     "geom:longitude":9.709753,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Haffouz Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.647428,
     "lbl:longitude":9.736191,
     "meso:adm1_en":"Kairouan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757383,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718680,
     "wof:name":"Haffouz",
     "wof:parent_id":85679171,
     "wof:placetype":"county",

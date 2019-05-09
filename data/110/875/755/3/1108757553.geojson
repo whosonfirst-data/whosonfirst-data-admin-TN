@@ -10,6 +10,12 @@
     "geom:latitude":35.663065,
     "geom:longitude":10.89412,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "SayadaLamtaBouhjar Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.665964,
     "lbl:longitude":10.887634,
     "meso:adm1_en":"Monastir",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757553,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718684,
     "wof:name":"SayadaLamtaBouhjar",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

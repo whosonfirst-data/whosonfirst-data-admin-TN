@@ -10,6 +10,12 @@
     "geom:latitude":35.230809,
     "geom:longitude":11.060354,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Cebba Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.230283,
     "lbl:longitude":11.061779,
     "meso:adm1_en":"Mahdia",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757469,
-    "wof:lastmodified":1536615717,
+    "wof:lastmodified":1553718683,
     "wof:name":"Cebba",
     "wof:parent_id":85679161,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":35.547927,
     "geom:longitude":8.481535,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Haidara Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.56248,
     "lbl:longitude":8.470295,
     "meso:adm1_en":"Kasserine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757411,
-    "wof:lastmodified":1536615715,
+    "wof:lastmodified":1553718681,
     "wof:name":"Haidara",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

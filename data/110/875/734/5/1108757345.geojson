@@ -10,6 +10,12 @@
     "geom:latitude":34.542397,
     "geom:longitude":8.362473,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Oum Lara\u00ed Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.544509,
     "lbl:longitude":8.366432,
     "meso:adm1_en":"Gafsa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757345,
-    "wof:lastmodified":1536615713,
+    "wof:lastmodified":1553718680,
     "wof:name":"Oum Lara\u00ed",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

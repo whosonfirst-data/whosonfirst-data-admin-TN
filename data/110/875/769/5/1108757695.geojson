@@ -10,6 +10,12 @@
     "geom:latitude":35.863725,
     "geom:longitude":10.402423,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Kal\u00e0a Kebira Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.868597,
     "lbl:longitude":10.386106,
     "meso:adm1_en":"Sousse",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757695,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718688,
     "wof:name":"Kal\u00e0a Kebira",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

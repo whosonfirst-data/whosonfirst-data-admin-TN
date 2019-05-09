@@ -10,6 +10,12 @@
     "geom:latitude":36.719428,
     "geom:longitude":10.523893,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Sliman Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.703453,
     "lbl:longitude":10.516919,
     "meso:adm1_en":"Nabeul",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757591,
-    "wof:lastmodified":1536615719,
+    "wof:lastmodified":1553718686,
     "wof:name":"Sliman",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

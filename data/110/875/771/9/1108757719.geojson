@@ -10,6 +10,12 @@
     "geom:latitude":33.151687,
     "geom:longitude":10.460414,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Bir Lahmar Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.153109,
     "lbl:longitude":10.462927,
     "meso:adm1_en":"Tataouine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757719,
-    "wof:lastmodified":1536615722,
+    "wof:lastmodified":1553718688,
     "wof:name":"Bir Lahmar",
     "wof:parent_id":85679191,
     "wof:placetype":"county",

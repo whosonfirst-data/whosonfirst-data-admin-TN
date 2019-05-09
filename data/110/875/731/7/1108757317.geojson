@@ -10,6 +10,12 @@
     "geom:latitude":33.939219,
     "geom:longitude":10.058735,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Gannouch Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.937568,
     "lbl:longitude":10.058283,
     "meso:adm1_en":"Gabes",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757317,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718679,
     "wof:name":"Gannouch",
     "wof:parent_id":85679137,
     "wof:placetype":"county",

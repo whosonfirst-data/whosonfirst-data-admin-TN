@@ -10,6 +10,12 @@
     "geom:latitude":37.137964,
     "geom:longitude":9.283169,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Sejnane Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":37.116887,
     "lbl:longitude":9.268618,
     "meso:adm1_en":"Bizerte",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757303,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718679,
     "wof:name":"Sejnane",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

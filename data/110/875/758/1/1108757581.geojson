@@ -10,6 +10,12 @@
     "geom:latitude":36.618311,
     "geom:longitude":10.806159,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Korba Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.629074,
     "lbl:longitude":10.807845,
     "meso:adm1_en":"Nabeul",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757581,
-    "wof:lastmodified":1536615719,
+    "wof:lastmodified":1553718685,
     "wof:name":"Korba",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

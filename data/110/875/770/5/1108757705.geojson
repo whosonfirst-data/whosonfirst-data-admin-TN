@@ -10,6 +10,12 @@
     "geom:latitude":35.623867,
     "geom:longitude":10.384263,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Sidi El Hani Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.663976,
     "lbl:longitude":10.350143,
     "meso:adm1_en":"Sousse",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757705,
-    "wof:lastmodified":1536615722,
+    "wof:lastmodified":1553718688,
     "wof:name":"Sidi El Hani",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

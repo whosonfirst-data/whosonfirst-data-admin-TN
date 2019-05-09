@@ -10,6 +10,12 @@
     "geom:latitude":33.373503,
     "geom:longitude":10.629485,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Medenine Nord Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.349434,
     "lbl:longitude":10.62948,
     "meso:adm1_en":"Medenine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757521,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718683,
     "wof:name":"Medenine Nord",
     "wof:parent_id":85679183,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":34.197353,
     "geom:longitude":8.704723,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Mdhila Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.201136,
     "lbl:longitude":8.684073,
     "meso:adm1_en":"Gafsa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757341,
-    "wof:lastmodified":1536615713,
+    "wof:lastmodified":1553718680,
     "wof:name":"Mdhila",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

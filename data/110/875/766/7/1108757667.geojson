@@ -10,6 +10,12 @@
     "geom:latitude":36.230809,
     "geom:longitude":9.341312,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "G\u00e0afour Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.239801,
     "lbl:longitude":9.329596,
     "meso:adm1_en":"Siliana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757667,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718687,
     "wof:name":"G\u00e0afour",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

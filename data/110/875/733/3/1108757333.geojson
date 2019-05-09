@@ -10,6 +10,12 @@
     "geom:latitude":34.577356,
     "geom:longitude":8.916497,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Gafsa nord Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.541068,
     "lbl:longitude":8.837733,
     "meso:adm1_en":"Gafsa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757333,
-    "wof:lastmodified":1536615713,
+    "wof:lastmodified":1553718680,
     "wof:name":"Gafsa nord",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":36.827924,
     "geom:longitude":10.108618,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Ettadhamen Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.826968,
     "lbl:longitude":10.109672,
     "meso:adm1_en":"Ariana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757245,
-    "wof:lastmodified":1536615711,
+    "wof:lastmodified":1553718678,
     "wof:name":"Ettadhamen",
     "wof:parent_id":1108807159,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":35.749162,
     "geom:longitude":10.790784,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Monastir Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.747574,
     "lbl:longitude":10.792986,
     "meso:adm1_en":"Monastir",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757545,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718685,
     "wof:name":"Monastir",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

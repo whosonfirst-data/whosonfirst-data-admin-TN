@@ -10,6 +10,12 @@
     "geom:latitude":36.695181,
     "geom:longitude":9.979859,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Mornaguia Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.704439,
     "lbl:longitude":9.978241,
     "meso:adm1_en":"Manouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757503,
-    "wof:lastmodified":1536615717,
+    "wof:lastmodified":1553718683,
     "wof:name":"Mornaguia",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":36.460441,
     "geom:longitude":8.571196,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Oued Mliz Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.442768,
     "lbl:longitude":8.572598,
     "meso:adm1_en":"Jendouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757371,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718679,
     "wof:name":"Oued Mliz",
     "wof:parent_id":85679115,
     "wof:placetype":"county",

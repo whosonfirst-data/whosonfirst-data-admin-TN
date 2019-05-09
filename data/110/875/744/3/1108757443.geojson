@@ -10,6 +10,12 @@
     "geom:latitude":35.946723,
     "geom:longitude":8.816903,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Dahmani Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.965871,
     "lbl:longitude":8.795224,
     "meso:adm1_en":"Kef",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757443,
-    "wof:lastmodified":1536615716,
+    "wof:lastmodified":1553718682,
     "wof:name":"Dahmani",
     "wof:parent_id":85679131,
     "wof:placetype":"county",

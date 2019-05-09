@@ -10,6 +10,12 @@
     "geom:latitude":36.788714,
     "geom:longitude":9.035411,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Amdoun Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.806341,
     "lbl:longitude":9.024251,
     "meso:adm1_en":"Beja",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757251,
-    "wof:lastmodified":1536615711,
+    "wof:lastmodified":1553718678,
     "wof:name":"Amdoun",
     "wof:parent_id":85679103,
     "wof:placetype":"county",

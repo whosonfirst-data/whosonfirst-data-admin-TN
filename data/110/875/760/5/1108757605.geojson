@@ -10,6 +10,12 @@
     "geom:latitude":34.943095,
     "geom:longitude":10.870641,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "El-Amra Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.942332,
     "lbl:longitude":10.860729,
     "meso:adm1_en":"Sfax",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757605,
-    "wof:lastmodified":1536615720,
+    "wof:lastmodified":1553718685,
     "wof:name":"El-Amra",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

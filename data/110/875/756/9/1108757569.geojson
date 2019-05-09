@@ -10,6 +10,12 @@
     "geom:latitude":36.431724,
     "geom:longitude":10.489387,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "El Hammamet Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.43618,
     "lbl:longitude":10.486196,
     "meso:adm1_en":"Nabeul",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757569,
-    "wof:lastmodified":1536615719,
+    "wof:lastmodified":1553718684,
     "wof:name":"El Hammamet",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

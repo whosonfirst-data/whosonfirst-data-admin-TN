@@ -10,6 +10,12 @@
     "geom:latitude":33.226888,
     "geom:longitude":10.118146,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "B\u00e9ni Khedeche Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.220948,
     "lbl:longitude":10.142973,
     "meso:adm1_en":"Medenine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757513,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718684,
     "wof:name":"B\u00e9ni Khedeche",
     "wof:parent_id":85679183,
     "wof:placetype":"county",

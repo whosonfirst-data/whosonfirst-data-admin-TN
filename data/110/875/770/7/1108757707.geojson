@@ -10,6 +10,12 @@
     "geom:latitude":35.794155,
     "geom:longitude":10.653094,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Sousse Abd Elhamid Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.793532,
     "lbl:longitude":10.652564,
     "meso:adm1_en":"Sousse",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757707,
-    "wof:lastmodified":1536615722,
+    "wof:lastmodified":1553718688,
     "wof:name":"Sousse Abd Elhamid",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

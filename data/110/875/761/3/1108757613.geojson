@@ -10,6 +10,12 @@
     "geom:latitude":34.830349,
     "geom:longitude":10.815311,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Sakiet Eddaier Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.830159,
     "lbl:longitude":10.821365,
     "meso:adm1_en":"Sfax",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757613,
-    "wof:lastmodified":1536615720,
+    "wof:lastmodified":1553718685,
     "wof:name":"Sakiet Eddaier",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":34.455906,
     "geom:longitude":8.629976,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Gafsa Sud Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.396016,
     "lbl:longitude":8.627291,
     "meso:adm1_en":"Gafsa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757335,
-    "wof:lastmodified":1536615713,
+    "wof:lastmodified":1553718681,
     "wof:name":"Gafsa Sud",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

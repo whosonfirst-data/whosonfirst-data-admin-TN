@@ -10,6 +10,12 @@
     "geom:latitude":35.361587,
     "geom:longitude":10.064589,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Bouhajla Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.366699,
     "lbl:longitude":10.051399,
     "meso:adm1_en":"Kairouan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757377,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718680,
     "wof:name":"Bouhajla",
     "wof:parent_id":85679171,
     "wof:placetype":"county",

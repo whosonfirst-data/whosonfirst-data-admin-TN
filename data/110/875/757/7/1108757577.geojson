@@ -10,6 +10,12 @@
     "geom:latitude":36.953614,
     "geom:longitude":10.920461,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Haouaria Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.953584,
     "lbl:longitude":10.918098,
     "meso:adm1_en":"Nabeul",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757577,
-    "wof:lastmodified":1536615719,
+    "wof:lastmodified":1553718686,
     "wof:name":"Haouaria",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":36.685064,
     "geom:longitude":8.917269,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Balta Bouaouan Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.691558,
     "lbl:longitude":8.954691,
     "meso:adm1_en":"Jendouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757357,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718680,
     "wof:name":"Balta Bouaouan",
     "wof:parent_id":85679115,
     "wof:placetype":"county",

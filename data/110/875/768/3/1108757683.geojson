@@ -10,6 +10,12 @@
     "geom:latitude":35.91373,
     "geom:longitude":10.549529,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Akouda Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.912907,
     "lbl:longitude":10.560114,
     "meso:adm1_en":"Sousse",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757683,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718687,
     "wof:name":"Akouda",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

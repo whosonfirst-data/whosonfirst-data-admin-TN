@@ -10,6 +10,12 @@
     "geom:latitude":33.812027,
     "geom:longitude":7.892555,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Nafta Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.779922,
     "lbl:longitude":7.875824,
     "meso:adm1_en":"Tozeur",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757739,
-    "wof:lastmodified":1536615722,
+    "wof:lastmodified":1553718689,
     "wof:name":"Nafta",
     "wof:parent_id":85679095,
     "wof:placetype":"county",

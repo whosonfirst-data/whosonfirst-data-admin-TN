@@ -10,6 +10,12 @@
     "geom:latitude":36.112578,
     "geom:longitude":10.326793,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Enfidha Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.101014,
     "lbl:longitude":10.315159,
     "meso:adm1_en":"Sousse",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757687,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718688,
     "wof:name":"Enfidha",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

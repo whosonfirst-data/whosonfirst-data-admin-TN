@@ -10,6 +10,12 @@
     "geom:latitude":36.967563,
     "geom:longitude":10.103995,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Ariana Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.988053,
     "lbl:longitude":10.117188,
     "meso:adm1_en":"Ariana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757239,
-    "wof:lastmodified":1536615711,
+    "wof:lastmodified":1553718678,
     "wof:name":"Ariana",
     "wof:parent_id":1108807159,
     "wof:placetype":"county",

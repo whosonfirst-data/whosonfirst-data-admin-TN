@@ -10,6 +10,12 @@
     "geom:latitude":34.326519,
     "geom:longitude":9.386998,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Belkhir Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.324672,
     "lbl:longitude":9.410429,
     "meso:adm1_en":"Gafsa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757329,
-    "wof:lastmodified":1536615713,
+    "wof:lastmodified":1553718679,
     "wof:name":"Belkhir",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

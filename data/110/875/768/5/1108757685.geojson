@@ -10,6 +10,12 @@
     "geom:latitude":36.27622,
     "geom:longitude":10.429532,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Bouficha Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.279063,
     "lbl:longitude":10.43148,
     "meso:adm1_en":"Sousse",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757685,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718687,
     "wof:name":"Bouficha",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

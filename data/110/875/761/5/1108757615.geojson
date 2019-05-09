@@ -10,6 +10,12 @@
     "geom:latitude":34.858012,
     "geom:longitude":10.739526,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Sakiet Ezzit Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.861938,
     "lbl:longitude":10.740259,
     "meso:adm1_en":"Sfax",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757615,
-    "wof:lastmodified":1536615720,
+    "wof:lastmodified":1553718686,
     "wof:name":"Sakiet Ezzit",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":36.520681,
     "geom:longitude":10.69738,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Dar Ch\u00e0aban Elfehri Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.551811,
     "lbl:longitude":10.673868,
     "meso:adm1_en":"Nabeul",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757567,
-    "wof:lastmodified":1536615719,
+    "wof:lastmodified":1553718685,
     "wof:name":"Dar Ch\u00e0aban Elfehri",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

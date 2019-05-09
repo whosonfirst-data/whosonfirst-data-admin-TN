@@ -10,6 +10,12 @@
     "geom:latitude":36.641186,
     "geom:longitude":9.182612,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Beja sud Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.633321,
     "lbl:longitude":9.17129,
     "meso:adm1_en":"Beja",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757255,
-    "wof:lastmodified":1536615711,
+    "wof:lastmodified":1553718678,
     "wof:name":"Beja sud",
     "wof:parent_id":85679103,
     "wof:placetype":"county",

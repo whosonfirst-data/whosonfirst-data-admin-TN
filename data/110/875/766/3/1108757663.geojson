@@ -10,6 +10,12 @@
     "geom:latitude":36.180998,
     "geom:longitude":9.13454,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Bourouis Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.18295,
     "lbl:longitude":9.134523,
     "meso:adm1_en":"Siliana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757663,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718687,
     "wof:name":"Bourouis",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":35.971291,
     "geom:longitude":9.401869,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "siliana Sud Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.990371,
     "lbl:longitude":9.401893,
     "meso:adm1_en":"Siliana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757681,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718687,
     "wof:name":"siliana Sud",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

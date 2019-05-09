@@ -10,6 +10,12 @@
     "geom:latitude":37.108316,
     "geom:longitude":9.846601,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Menzel Bourgiba Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":37.100766,
     "lbl:longitude":9.83974,
     "meso:adm1_en":"Bizerte",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757297,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718679,
     "wof:name":"Menzel Bourgiba",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

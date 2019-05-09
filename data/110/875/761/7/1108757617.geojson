@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015669,
-    "geom:area_square_m":159282670.227688,
+    "geom:area_square_m":159282670.227696,
     "geom:bbox":"10.297888756,34.355388641,11.322860718,34.831249237",
     "geom:latitude":34.703903,
     "geom:longitude":11.147007,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Sfax Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.749305,
     "lbl:longitude":11.257811,
     "meso:adm1_en":"Sfax",
@@ -25,6 +31,9 @@
     "mps:longitude":11.257811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sfax"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1108757617,
-    "wof:lastmodified":1512517039,
+    "wof:lastmodified":1555047724,
     "wof:name":"Sfax",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

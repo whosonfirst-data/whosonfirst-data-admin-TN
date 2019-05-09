@@ -10,6 +10,12 @@
     "geom:latitude":36.806621,
     "geom:longitude":10.09054,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Manouba Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.805857,
     "lbl:longitude":10.09054,
     "meso:adm1_en":"Manouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757501,
-    "wof:lastmodified":1536615717,
+    "wof:lastmodified":1553718683,
     "wof:name":"Manouba",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

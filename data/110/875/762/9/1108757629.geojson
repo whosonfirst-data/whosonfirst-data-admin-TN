@@ -10,6 +10,12 @@
     "geom:latitude":34.684182,
     "geom:longitude":10.676946,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Tina Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.685886,
     "lbl:longitude":10.676888,
     "meso:adm1_en":"Sfax",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757629,
-    "wof:lastmodified":1536615720,
+    "wof:lastmodified":1553718687,
     "wof:name":"Tina",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

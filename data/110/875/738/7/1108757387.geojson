@@ -10,6 +10,12 @@
     "geom:latitude":35.419666,
     "geom:longitude":9.575893,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Hajeb El Ayoun Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.386902,
     "lbl:longitude":9.600368,
     "meso:adm1_en":"Kairouan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757387,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718680,
     "wof:name":"Hajeb El Ayoun",
     "wof:parent_id":85679171,
     "wof:placetype":"county",

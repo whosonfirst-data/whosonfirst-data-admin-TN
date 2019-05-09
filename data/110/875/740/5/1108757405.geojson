@@ -10,6 +10,12 @@
     "geom:latitude":35.154764,
     "geom:longitude":8.829366,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Ez_zouhour Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.154741,
     "lbl:longitude":8.829366,
     "meso:adm1_en":"Kasserine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757405,
-    "wof:lastmodified":1536615715,
+    "wof:lastmodified":1553718681,
     "wof:name":"Ez_zouhour",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

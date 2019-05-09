@@ -10,6 +10,12 @@
     "geom:latitude":36.14491,
     "geom:longitude":8.628692,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Kef Ouest Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.153047,
     "lbl:longitude":8.636623,
     "meso:adm1_en":"Kef",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757459,
-    "wof:lastmodified":1536615716,
+    "wof:lastmodified":1553718682,
     "wof:name":"Kef Ouest",
     "wof:parent_id":85679131,
     "wof:placetype":"county",

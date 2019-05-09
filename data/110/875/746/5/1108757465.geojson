@@ -10,6 +10,12 @@
     "geom:latitude":35.96036,
     "geom:longitude":8.55217,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Tajerouin Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.959483,
     "lbl:longitude":8.548708,
     "meso:adm1_en":"Kef",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757465,
-    "wof:lastmodified":1536615717,
+    "wof:lastmodified":1553718683,
     "wof:name":"Tajerouin",
     "wof:parent_id":85679131,
     "wof:placetype":"county",

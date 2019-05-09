@@ -10,6 +10,12 @@
     "geom:latitude":36.863198,
     "geom:longitude":10.17055,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Ariana Elmadina Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.863208,
     "lbl:longitude":10.168115,
     "meso:adm1_en":"Ariana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757243,
-    "wof:lastmodified":1536615711,
+    "wof:lastmodified":1553718677,
     "wof:name":"Ariana Elmadina",
     "wof:parent_id":1108807159,
     "wof:placetype":"county",

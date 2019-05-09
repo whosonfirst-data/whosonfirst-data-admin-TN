@@ -10,6 +10,12 @@
     "geom:latitude":35.539735,
     "geom:longitude":10.622945,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Zarmedine Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.529547,
     "lbl:longitude":10.609067,
     "meso:adm1_en":"Monastir",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757557,
-    "wof:lastmodified":1536615719,
+    "wof:lastmodified":1553718685,
     "wof:name":"Zarmedine",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

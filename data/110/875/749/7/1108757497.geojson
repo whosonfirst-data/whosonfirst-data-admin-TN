@@ -10,6 +10,12 @@
     "geom:latitude":36.771558,
     "geom:longitude":9.764379,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "El Battan Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.764262,
     "lbl:longitude":9.751805,
     "meso:adm1_en":"Manouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757497,
-    "wof:lastmodified":1536615717,
+    "wof:lastmodified":1553718683,
     "wof:name":"El Battan",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

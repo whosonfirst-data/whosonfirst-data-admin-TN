@@ -10,6 +10,12 @@
     "geom:latitude":36.829751,
     "geom:longitude":10.084672,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Douar Hicher Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.827672,
     "lbl:longitude":10.084413,
     "meso:adm1_en":"Manouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757495,
-    "wof:lastmodified":1536615717,
+    "wof:lastmodified":1553718684,
     "wof:name":"Douar Hicher",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":35.53793,
     "geom:longitude":10.872945,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Moknine Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.565448,
     "lbl:longitude":10.89285,
     "meso:adm1_en":"Monastir",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757543,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718685,
     "wof:name":"Moknine",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

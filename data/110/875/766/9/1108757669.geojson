@@ -10,6 +10,12 @@
     "geom:latitude":35.789373,
     "geom:longitude":9.382966,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Kesra Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.781859,
     "lbl:longitude":9.408999,
     "meso:adm1_en":"Siliana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757669,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718686,
     "wof:name":"Kesra",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":36.823795,
     "geom:longitude":10.024138,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Oued Ellili Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.821854,
     "lbl:longitude":10.041299,
     "meso:adm1_en":"Manouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757505,
-    "wof:lastmodified":1536615717,
+    "wof:lastmodified":1553718683,
     "wof:name":"Oued Ellili",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

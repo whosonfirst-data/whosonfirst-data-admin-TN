@@ -10,6 +10,12 @@
     "geom:latitude":32.886509,
     "geom:longitude":11.205267,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Ben Guerdane Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":32.985296,
     "lbl:longitude":11.286081,
     "meso:adm1_en":"Medenine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757509,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718683,
     "wof:name":"Ben Guerdane",
     "wof:parent_id":85679183,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":36.025026,
     "geom:longitude":10.455843,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Hergela Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.034668,
     "lbl:longitude":10.454525,
     "meso:adm1_en":"Sousse",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757693,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718687,
     "wof:name":"Hergela",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

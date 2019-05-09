@@ -10,6 +10,12 @@
     "geom:latitude":36.579317,
     "geom:longitude":9.428002,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Testour Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.575446,
     "lbl:longitude":9.430953,
     "meso:adm1_en":"Beja",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757267,
-    "wof:lastmodified":1536615711,
+    "wof:lastmodified":1553718678,
     "wof:name":"Testour",
     "wof:parent_id":85679103,
     "wof:placetype":"county",

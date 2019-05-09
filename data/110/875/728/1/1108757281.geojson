@@ -10,6 +10,12 @@
     "geom:latitude":37.30612,
     "geom:longitude":9.829561,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Bizerte Nord Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":37.310394,
     "lbl:longitude":9.830698,
     "meso:adm1_en":"Bizerte",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757281,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718678,
     "wof:name":"Bizerte Nord",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

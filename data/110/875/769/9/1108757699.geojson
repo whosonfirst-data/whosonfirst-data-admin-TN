@@ -10,6 +10,12 @@
     "geom:latitude":35.907761,
     "geom:longitude":10.259182,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Kendar Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.910311,
     "lbl:longitude":10.2692,
     "meso:adm1_en":"Sousse",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757699,
-    "wof:lastmodified":1536615722,
+    "wof:lastmodified":1553718688,
     "wof:name":"Kendar",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":35.499798,
     "geom:longitude":9.160354,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Sbiba Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.515982,
     "lbl:longitude":9.146165,
     "meso:adm1_en":"Kasserine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757423,
-    "wof:lastmodified":1536615715,
+    "wof:lastmodified":1553718681,
     "wof:name":"Sbiba",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

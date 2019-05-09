@@ -10,6 +10,12 @@
     "geom:latitude":36.586375,
     "geom:longitude":10.444509,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Grambalia Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.592961,
     "lbl:longitude":10.444507,
     "meso:adm1_en":"Nabeul",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757573,
-    "wof:lastmodified":1536615719,
+    "wof:lastmodified":1553718684,
     "wof:name":"Grambalia",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

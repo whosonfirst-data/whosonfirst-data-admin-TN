@@ -10,6 +10,12 @@
     "geom:latitude":33.568482,
     "geom:longitude":10.226555,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Mareth Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.585541,
     "lbl:longitude":10.261997,
     "meso:adm1_en":"Gabes",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757319,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718679,
     "wof:name":"Mareth",
     "wof:parent_id":85679137,
     "wof:placetype":"county",

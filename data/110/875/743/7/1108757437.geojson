@@ -10,6 +10,12 @@
     "geom:latitude":33.628354,
     "geom:longitude":9.045631,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Kebili Sud Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.643108,
     "lbl:longitude":9.038403,
     "meso:adm1_en":"Kebili",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757437,
-    "wof:lastmodified":1536615716,
+    "wof:lastmodified":1553718681,
     "wof:name":"Kebili Sud",
     "wof:parent_id":85679187,
     "wof:placetype":"county",

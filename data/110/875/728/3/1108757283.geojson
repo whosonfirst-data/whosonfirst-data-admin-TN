@@ -10,6 +10,12 @@
     "geom:latitude":37.14878,
     "geom:longitude":9.997469,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "El Alia Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":37.147991,
     "lbl:longitude":9.99638,
     "meso:adm1_en":"Bizerte",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757283,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718678,
     "wof:name":"El Alia",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":33.750733,
     "geom:longitude":10.807956,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Jerba Ajim Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.768361,
     "lbl:longitude":10.786666,
     "meso:adm1_en":"Medenine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757515,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718683,
     "wof:name":"Jerba Ajim",
     "wof:parent_id":85679183,
     "wof:placetype":"county",

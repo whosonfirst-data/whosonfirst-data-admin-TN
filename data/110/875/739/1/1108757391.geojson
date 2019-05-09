@@ -10,6 +10,12 @@
     "geom:latitude":35.574781,
     "geom:longitude":10.115844,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Kairouan Sud Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.585189,
     "lbl:longitude":10.136275,
     "meso:adm1_en":"Kairouan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757391,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718681,
     "wof:name":"Kairouan Sud",
     "wof:parent_id":85679171,
     "wof:placetype":"county",

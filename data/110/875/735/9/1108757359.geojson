@@ -10,6 +10,12 @@
     "geom:latitude":36.550394,
     "geom:longitude":8.971669,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Bousalem Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.533532,
     "lbl:longitude":8.981261,
     "meso:adm1_en":"Jendouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757359,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718679,
     "wof:name":"Bousalem",
     "wof:parent_id":85679115,
     "wof:placetype":"county",

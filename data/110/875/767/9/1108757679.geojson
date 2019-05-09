@@ -10,6 +10,12 @@
     "geom:latitude":36.057233,
     "geom:longitude":9.282259,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Siliana Nord Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.051839,
     "lbl:longitude":9.234441,
     "meso:adm1_en":"Siliana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757679,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718687,
     "wof:name":"Siliana Nord",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

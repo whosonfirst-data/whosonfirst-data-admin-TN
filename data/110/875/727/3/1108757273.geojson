@@ -10,6 +10,12 @@
     "geom:latitude":36.745695,
     "geom:longitude":10.3046,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Ezzahra Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.746201,
     "lbl:longitude":10.304823,
     "meso:adm1_en":"Ben Arous",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757273,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718677,
     "wof:name":"Ezzahra",
     "wof:parent_id":85679107,
     "wof:placetype":"county",

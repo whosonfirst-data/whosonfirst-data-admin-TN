@@ -10,6 +10,12 @@
     "geom:latitude":37.156126,
     "geom:longitude":10.111905,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Gar El Melh Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":37.161885,
     "lbl:longitude":10.089901,
     "meso:adm1_en":"Bizerte",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757287,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718678,
     "wof:name":"Gar El Melh",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

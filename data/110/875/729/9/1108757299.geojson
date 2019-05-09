@@ -10,6 +10,12 @@
     "geom:latitude":37.212956,
     "geom:longitude":9.950102,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Menzel Jmil Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":37.212355,
     "lbl:longitude":9.974714,
     "meso:adm1_en":"Bizerte",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757299,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718678,
     "wof:name":"Menzel Jmil",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":36.860742,
     "geom:longitude":9.91821,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Jedaida Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.870501,
     "lbl:longitude":9.927277,
     "meso:adm1_en":"Manouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757499,
-    "wof:lastmodified":1536615717,
+    "wof:lastmodified":1553718684,
     "wof:name":"Jedaida",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":35.734619,
     "geom:longitude":10.710409,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Sahline Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.730092,
     "lbl:longitude":10.709602,
     "meso:adm1_en":"Monastir",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757551,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718684,
     "wof:name":"Sahline",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

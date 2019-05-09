@@ -10,6 +10,12 @@
     "geom:latitude":35.599173,
     "geom:longitude":11.010916,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Bekalta Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.604924,
     "lbl:longitude":11.010188,
     "meso:adm1_en":"Monastir",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757531,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718685,
     "wof:name":"Bekalta",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

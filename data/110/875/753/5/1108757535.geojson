@@ -10,6 +10,12 @@
     "geom:latitude":35.525613,
     "geom:longitude":10.752607,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "B\u00e9ni Hassan Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.520446,
     "lbl:longitude":10.759508,
     "meso:adm1_en":"Monastir",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757535,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718686,
     "wof:name":"B\u00e9ni Hassan",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

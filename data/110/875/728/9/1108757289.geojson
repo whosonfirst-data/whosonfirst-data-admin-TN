@@ -10,6 +10,12 @@
     "geom:latitude":37.25676,
     "geom:longitude":9.886943,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Jerzouna Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":37.257654,
     "lbl:longitude":9.88652,
     "meso:adm1_en":"Bizerte",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757289,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718678,
     "wof:name":"Jerzouna",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

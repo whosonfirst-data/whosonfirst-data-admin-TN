@@ -10,6 +10,12 @@
     "geom:latitude":33.366415,
     "geom:longitude":10.386233,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Medenine Sud Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.366967,
     "lbl:longitude":10.398945,
     "meso:adm1_en":"Medenine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757523,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718683,
     "wof:name":"Medenine Sud",
     "wof:parent_id":85679183,
     "wof:placetype":"county",

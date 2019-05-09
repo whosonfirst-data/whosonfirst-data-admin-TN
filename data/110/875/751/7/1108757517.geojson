@@ -10,6 +10,12 @@
     "geom:latitude":33.847844,
     "geom:longitude":10.855743,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Jerba Houmet Souk Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.839258,
     "lbl:longitude":10.845784,
     "meso:adm1_en":"Medenine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757517,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718683,
     "wof:name":"Jerba Houmet Souk",
     "wof:parent_id":85679183,
     "wof:placetype":"county",

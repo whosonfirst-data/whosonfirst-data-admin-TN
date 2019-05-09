@@ -10,6 +10,12 @@
     "geom:latitude":35.697477,
     "geom:longitude":10.671537,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Ouerdanine Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.698658,
     "lbl:longitude":10.667726,
     "meso:adm1_en":"Monastir",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757549,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718684,
     "wof:name":"Ouerdanine",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":34.341411,
     "geom:longitude":8.167057,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Redeyef Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.295306,
     "lbl:longitude":8.126403,
     "meso:adm1_en":"Gafsa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757347,
-    "wof:lastmodified":1536615713,
+    "wof:lastmodified":1553718680,
     "wof:name":"Redeyef",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

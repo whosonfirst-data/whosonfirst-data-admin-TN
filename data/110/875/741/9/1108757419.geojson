@@ -10,6 +10,12 @@
     "geom:latitude":34.777117,
     "geom:longitude":8.53603,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Majel Belabbes Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.764605,
     "lbl:longitude":8.536037,
     "meso:adm1_en":"Kasserine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757419,
-    "wof:lastmodified":1536615715,
+    "wof:lastmodified":1553718682,
     "wof:name":"Majel Belabbes",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

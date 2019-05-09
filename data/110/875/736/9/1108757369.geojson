@@ -10,6 +10,12 @@
     "geom:latitude":36.540371,
     "geom:longitude":8.687255,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Jendouba Nord Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.529695,
     "lbl:longitude":8.689887,
     "meso:adm1_en":"Jendouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757369,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718681,
     "wof:name":"Jendouba Nord",
     "wof:parent_id":85679115,
     "wof:placetype":"county",

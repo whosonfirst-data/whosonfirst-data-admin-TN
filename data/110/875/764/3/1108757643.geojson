@@ -10,6 +10,12 @@
     "geom:latitude":35.102313,
     "geom:longitude":9.844795,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "oueled Haffouz Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.092651,
     "lbl:longitude":9.832928,
     "meso:adm1_en":"Sidi Bou Said",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757643,
-    "wof:lastmodified":1536615720,
+    "wof:lastmodified":1553718686,
     "wof:name":"oueled Haffouz",
     "wof:parent_id":85679147,
     "wof:placetype":"county",

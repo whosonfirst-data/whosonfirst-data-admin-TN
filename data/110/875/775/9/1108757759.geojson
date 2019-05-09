@@ -10,6 +10,12 @@
     "geom:latitude":36.284394,
     "geom:longitude":9.853111,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "El Fahs Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.301062,
     "lbl:longitude":9.856949,
     "meso:adm1_en":"Zaghouan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757759,
-    "wof:lastmodified":1536615723,
+    "wof:lastmodified":1553718689,
     "wof:name":"El Fahs",
     "wof:parent_id":85679179,
     "wof:placetype":"county",

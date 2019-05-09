@@ -10,6 +10,12 @@
     "geom:latitude":33.896312,
     "geom:longitude":10.094777,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Gab\u00e9s Medina Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.892923,
     "lbl:longitude":10.097279,
     "meso:adm1_en":"Gabes",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757309,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718679,
     "wof:name":"Gab\u00e9s Medina",
     "wof:parent_id":85679137,
     "wof:placetype":"county",

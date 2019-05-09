@@ -10,6 +10,12 @@
     "geom:latitude":35.019486,
     "geom:longitude":8.471091,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Feriana Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.015322,
     "lbl:longitude":8.454294,
     "meso:adm1_en":"Kasserine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757407,
-    "wof:lastmodified":1536615715,
+    "wof:lastmodified":1553718681,
     "wof:name":"Feriana",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

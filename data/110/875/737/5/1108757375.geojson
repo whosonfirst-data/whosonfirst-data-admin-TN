@@ -10,6 +10,12 @@
     "geom:latitude":35.641937,
     "geom:longitude":9.470144,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Alaa Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.657928,
     "lbl:longitude":9.473348,
     "meso:adm1_en":"Kairouan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757375,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718679,
     "wof:name":"Alaa",
     "wof:parent_id":85679171,
     "wof:placetype":"county",

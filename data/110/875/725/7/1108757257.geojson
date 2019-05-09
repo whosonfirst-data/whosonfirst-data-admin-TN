@@ -10,6 +10,12 @@
     "geom:latitude":36.526149,
     "geom:longitude":9.690854,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Goblat Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.5244,
     "lbl:longitude":9.693326,
     "meso:adm1_en":"Beja",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757257,
-    "wof:lastmodified":1536615711,
+    "wof:lastmodified":1553718677,
     "wof:name":"Goblat",
     "wof:parent_id":85679103,
     "wof:placetype":"county",

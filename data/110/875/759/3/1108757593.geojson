@@ -10,6 +10,12 @@
     "geom:latitude":36.813849,
     "geom:longitude":10.681309,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Takelsa Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.808798,
     "lbl:longitude":10.67923,
     "meso:adm1_en":"Nabeul",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757593,
-    "wof:lastmodified":1536615719,
+    "wof:lastmodified":1553718685,
     "wof:name":"Takelsa",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

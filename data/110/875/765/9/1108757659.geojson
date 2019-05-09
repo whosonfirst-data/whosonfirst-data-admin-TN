@@ -10,6 +10,12 @@
     "geom:latitude":36.097381,
     "geom:longitude":9.613988,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Bargou Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.093578,
     "lbl:longitude":9.60254,
     "meso:adm1_en":"Siliana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757659,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718686,
     "wof:name":"Bargou",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

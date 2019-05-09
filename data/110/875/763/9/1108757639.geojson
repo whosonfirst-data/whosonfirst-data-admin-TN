@@ -10,6 +10,12 @@
     "geom:latitude":34.625699,
     "geom:longitude":9.617102,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Meknassi Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.615012,
     "lbl:longitude":9.619972,
     "meso:adm1_en":"Sidi Bou Said",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757639,
-    "wof:lastmodified":1536615720,
+    "wof:lastmodified":1553718686,
     "wof:name":"Meknassi",
     "wof:parent_id":85679147,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":36.788576,
     "geom:longitude":10.136327,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Ezouhour Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.78865,
     "lbl:longitude":10.136973,
     "meso:adm1_en":"Tunis",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757753,
-    "wof:lastmodified":1536615723,
+    "wof:lastmodified":1553718689,
     "wof:name":"Ezouhour",
     "wof:parent_id":85679123,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":36.363299,
     "geom:longitude":9.457473,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "El Aroussa Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.36372,
     "lbl:longitude":9.457469,
     "meso:adm1_en":"Siliana",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757665,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718687,
     "wof:name":"El Aroussa",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

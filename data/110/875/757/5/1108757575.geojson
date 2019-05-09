@@ -10,6 +10,12 @@
     "geom:latitude":36.918861,
     "geom:longitude":11.074944,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Hammam Laghzaz Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.913613,
     "lbl:longitude":11.073878,
     "meso:adm1_en":"Nabeul",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757575,
-    "wof:lastmodified":1536615719,
+    "wof:lastmodified":1553718686,
     "wof:name":"Hammam Laghzaz",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

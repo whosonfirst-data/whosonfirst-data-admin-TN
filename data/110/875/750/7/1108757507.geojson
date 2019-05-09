@@ -10,6 +10,12 @@
     "geom:latitude":36.853035,
     "geom:longitude":9.742619,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Tebourba Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.848269,
     "lbl:longitude":9.731522,
     "meso:adm1_en":"Manouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757507,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718683,
     "wof:name":"Tebourba",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

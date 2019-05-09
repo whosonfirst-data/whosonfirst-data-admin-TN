@@ -10,6 +10,12 @@
     "geom:latitude":35.362964,
     "geom:longitude":10.977833,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "ksour Essaf Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.362328,
     "lbl:longitude":10.994289,
     "meso:adm1_en":"Mahdia",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757479,
-    "wof:lastmodified":1536615717,
+    "wof:lastmodified":1553718684,
     "wof:name":"ksour Essaf",
     "wof:parent_id":85679161,
     "wof:placetype":"county",

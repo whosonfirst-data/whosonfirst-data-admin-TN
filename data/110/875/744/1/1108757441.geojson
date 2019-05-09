@@ -10,6 +10,12 @@
     "geom:latitude":33.943533,
     "geom:longitude":8.876121,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Souk El Ahad Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.937726,
     "lbl:longitude":8.868749,
     "meso:adm1_en":"Kebili",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757441,
-    "wof:lastmodified":1536615716,
+    "wof:lastmodified":1553718682,
     "wof:name":"Souk El Ahad",
     "wof:parent_id":85679187,
     "wof:placetype":"county",

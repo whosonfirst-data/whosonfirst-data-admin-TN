@@ -10,6 +10,12 @@
     "geom:latitude":35.936627,
     "geom:longitude":10.02506,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Sbikha Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.904019,
     "lbl:longitude":10.001321,
     "meso:adm1_en":"Kairouan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757397,
-    "wof:lastmodified":1536615715,
+    "wof:lastmodified":1553718680,
     "wof:name":"Sbikha",
     "wof:parent_id":85679171,
     "wof:placetype":"county",

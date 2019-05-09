@@ -10,6 +10,12 @@
     "geom:latitude":33.75942,
     "geom:longitude":7.684152,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Hazoua Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.902504,
     "lbl:longitude":7.636577,
     "meso:adm1_en":"Tozeur",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757737,
-    "wof:lastmodified":1536615722,
+    "wof:lastmodified":1553718688,
     "wof:name":"Hazoua",
     "wof:parent_id":85679095,
     "wof:placetype":"county",

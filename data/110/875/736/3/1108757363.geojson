@@ -10,6 +10,12 @@
     "geom:latitude":36.490373,
     "geom:longitude":8.381644,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Ghar Dimaou Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.515072,
     "lbl:longitude":8.397374,
     "meso:adm1_en":"Jendouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757363,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718681,
     "wof:name":"Ghar Dimaou",
     "wof:parent_id":85679115,
     "wof:placetype":"county",

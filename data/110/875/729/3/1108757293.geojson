@@ -10,6 +10,12 @@
     "geom:latitude":36.977204,
     "geom:longitude":9.672965,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Mateur Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.979771,
     "lbl:longitude":9.669827,
     "meso:adm1_en":"Bizerte",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757293,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718678,
     "wof:name":"Mateur",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

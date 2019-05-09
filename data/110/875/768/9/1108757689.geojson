@@ -10,6 +10,12 @@
     "geom:latitude":35.863533,
     "geom:longitude":10.592589,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Hammam Sousse Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.860313,
     "lbl:longitude":10.594429,
     "meso:adm1_en":"Sousse",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757689,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718687,
     "wof:name":"Hammam Sousse",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

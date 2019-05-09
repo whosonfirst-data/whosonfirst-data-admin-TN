@@ -10,6 +10,12 @@
     "geom:latitude":34.85709,
     "geom:longitude":9.561902,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Souk Jedid Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.839167,
     "lbl:longitude":9.549504,
     "meso:adm1_en":"Sidi Bou Said",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757657,
-    "wof:lastmodified":1536615721,
+    "wof:lastmodified":1553718687,
     "wof:name":"Souk Jedid",
     "wof:parent_id":85679147,
     "wof:placetype":"county",

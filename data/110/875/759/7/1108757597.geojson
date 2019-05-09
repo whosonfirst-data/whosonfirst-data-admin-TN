@@ -10,6 +10,12 @@
     "geom:latitude":34.718604,
     "geom:longitude":10.094572,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Bir Ali Ben Kh\u00e0lifa Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.713289,
     "lbl:longitude":10.078622,
     "meso:adm1_en":"Sfax",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757597,
-    "wof:lastmodified":1536615719,
+    "wof:lastmodified":1553718686,
     "wof:name":"Bir Ali Ben Kh\u00e0lifa",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":36.90441,
     "geom:longitude":8.831742,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Tabarka Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":36.913194,
     "lbl:longitude":8.829109,
     "meso:adm1_en":"Jendouba",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757373,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718679,
     "wof:name":"Tabarka",
     "wof:parent_id":85679115,
     "wof:placetype":"county",

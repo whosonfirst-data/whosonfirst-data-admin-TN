@@ -10,6 +10,12 @@
     "geom:latitude":35.334125,
     "geom:longitude":9.395758,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Jelma Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.333925,
     "lbl:longitude":9.381272,
     "meso:adm1_en":"Sidi Bou Said",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757633,
-    "wof:lastmodified":1536615720,
+    "wof:lastmodified":1553718687,
     "wof:name":"Jelma",
     "wof:parent_id":85679147,
     "wof:placetype":"county",

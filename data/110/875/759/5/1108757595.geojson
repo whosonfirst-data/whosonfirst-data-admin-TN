@@ -10,6 +10,12 @@
     "geom:latitude":34.739481,
     "geom:longitude":10.451601,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Agareb Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.754359,
     "lbl:longitude":10.447884,
     "meso:adm1_en":"Sfax",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757595,
-    "wof:lastmodified":1536615719,
+    "wof:lastmodified":1553718686,
     "wof:name":"Agareb",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

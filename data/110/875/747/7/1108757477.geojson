@@ -10,6 +10,12 @@
     "geom:latitude":35.271063,
     "geom:longitude":10.262132,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Hbira Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.193671,
     "lbl:longitude":10.273168,
     "meso:adm1_en":"Mahdia",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757477,
-    "wof:lastmodified":1536615717,
+    "wof:lastmodified":1553718684,
     "wof:name":"Hbira",
     "wof:parent_id":85679161,
     "wof:placetype":"county",

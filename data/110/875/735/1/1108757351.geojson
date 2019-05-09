@@ -10,6 +10,12 @@
     "geom:latitude":34.530244,
     "geom:longitude":9.156709,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Sened Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.525025,
     "lbl:longitude":9.160042,
     "meso:adm1_en":"Gafsa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757351,
-    "wof:lastmodified":1536615713,
+    "wof:lastmodified":1553718679,
     "wof:name":"Sened",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

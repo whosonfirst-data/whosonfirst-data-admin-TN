@@ -10,6 +10,12 @@
     "geom:latitude":34.628981,
     "geom:longitude":9.402311,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Menzil Bouzayanne Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.629032,
     "lbl:longitude":9.390456,
     "meso:adm1_en":"Sidi Bou Said",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757641,
-    "wof:lastmodified":1536615720,
+    "wof:lastmodified":1553718686,
     "wof:name":"Menzil Bouzayanne",
     "wof:parent_id":85679147,
     "wof:placetype":"county",

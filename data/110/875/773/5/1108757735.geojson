@@ -10,6 +10,12 @@
     "geom:latitude":34.015542,
     "geom:longitude":8.299409,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Degu\u00e9che Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.944972,
     "lbl:longitude":8.332086,
     "meso:adm1_en":"Tozeur",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757735,
-    "wof:lastmodified":1536615722,
+    "wof:lastmodified":1553718688,
     "wof:name":"Degu\u00e9che",
     "wof:parent_id":85679095,
     "wof:placetype":"county",

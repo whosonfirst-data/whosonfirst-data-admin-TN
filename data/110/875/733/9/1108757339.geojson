@@ -10,6 +10,12 @@
     "geom:latitude":34.404668,
     "geom:longitude":8.892327,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Ksar Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.435234,
     "lbl:longitude":8.934351,
     "meso:adm1_en":"Gafsa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757339,
-    "wof:lastmodified":1536615713,
+    "wof:lastmodified":1553718679,
     "wof:name":"Ksar",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

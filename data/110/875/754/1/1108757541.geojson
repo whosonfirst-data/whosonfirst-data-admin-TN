@@ -10,6 +10,12 @@
     "geom:latitude":35.648662,
     "geom:longitude":10.82894,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Ksibet El Medyouni Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.646694,
     "lbl:longitude":10.822142,
     "meso:adm1_en":"Monastir",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757541,
-    "wof:lastmodified":1536615718,
+    "wof:lastmodified":1553718684,
     "wof:name":"Ksibet El Medyouni",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

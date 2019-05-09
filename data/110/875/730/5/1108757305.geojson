@@ -10,6 +10,12 @@
     "geom:latitude":37.029452,
     "geom:longitude":9.977847,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Utique Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":37.022799,
     "lbl:longitude":9.964085,
     "meso:adm1_en":"Bizerte",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757305,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718678,
     "wof:name":"Utique",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

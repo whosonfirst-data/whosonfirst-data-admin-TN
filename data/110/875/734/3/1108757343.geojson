@@ -10,6 +10,12 @@
     "geom:latitude":34.229344,
     "geom:longitude":8.382339,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Metlaoui Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":34.216983,
     "lbl:longitude":8.378086,
     "meso:adm1_en":"Gafsa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757343,
-    "wof:lastmodified":1536615713,
+    "wof:lastmodified":1553718679,
     "wof:name":"Metlaoui",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

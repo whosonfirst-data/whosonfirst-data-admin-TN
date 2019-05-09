@@ -10,6 +10,12 @@
     "geom:latitude":35.642933,
     "geom:longitude":8.91738,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Djedliane Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.663403,
     "lbl:longitude":8.901659,
     "meso:adm1_en":"Kasserine",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757401,
-    "wof:lastmodified":1536615715,
+    "wof:lastmodified":1553718680,
     "wof:name":"Djedliane",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

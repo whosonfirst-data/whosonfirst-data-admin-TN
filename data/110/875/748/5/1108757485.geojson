@@ -10,6 +10,12 @@
     "geom:latitude":35.45344,
     "geom:longitude":10.310831,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Oueled Chamekh Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.447165,
     "lbl:longitude":10.299378,
     "meso:adm1_en":"Mahdia",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757485,
-    "wof:lastmodified":1536615717,
+    "wof:lastmodified":1553718683,
     "wof:name":"Oueled Chamekh",
     "wof:parent_id":85679161,
     "wof:placetype":"county",

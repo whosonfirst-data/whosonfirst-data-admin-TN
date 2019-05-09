@@ -10,6 +10,12 @@
     "geom:latitude":33.24561,
     "geom:longitude":9.513818,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Douz Nord Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.261184,
     "lbl:longitude":9.477673,
     "meso:adm1_en":"Kebili",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757429,
-    "wof:lastmodified":1536615716,
+    "wof:lastmodified":1553718681,
     "wof:name":"Douz Nord",
     "wof:parent_id":85679187,
     "wof:placetype":"county",

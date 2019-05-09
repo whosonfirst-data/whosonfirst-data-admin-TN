@@ -10,6 +10,12 @@
     "geom:latitude":33.850664,
     "geom:longitude":9.987807,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Gab\u00e9s Ouest Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":33.839089,
     "lbl:longitude":9.972154,
     "meso:adm1_en":"Gabes",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757311,
-    "wof:lastmodified":1536615712,
+    "wof:lastmodified":1553718678,
     "wof:name":"Gab\u00e9s Ouest",
     "wof:parent_id":85679137,
     "wof:placetype":"county",

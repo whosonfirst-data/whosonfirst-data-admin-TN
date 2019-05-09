@@ -10,6 +10,12 @@
     "geom:latitude":35.829971,
     "geom:longitude":8.956109,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "El Ksour Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.807906,
     "lbl:longitude":8.94592,
     "meso:adm1_en":"Kef",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757445,
-    "wof:lastmodified":1536615716,
+    "wof:lastmodified":1553718682,
     "wof:name":"El Ksour",
     "wof:parent_id":85679131,
     "wof:placetype":"county",

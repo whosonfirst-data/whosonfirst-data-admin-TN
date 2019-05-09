@@ -10,6 +10,12 @@
     "geom:latitude":35.642646,
     "geom:longitude":9.913183,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Chbika Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.641047,
     "lbl:longitude":9.922029,
     "meso:adm1_en":"Kairouan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757379,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718681,
     "wof:name":"Chbika",
     "wof:parent_id":85679171,
     "wof:placetype":"county",

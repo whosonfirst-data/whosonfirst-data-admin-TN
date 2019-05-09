@@ -10,6 +10,12 @@
     "geom:latitude":35.427923,
     "geom:longitude":10.690202,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Bou Merdas Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.425628,
     "lbl:longitude":10.680548,
     "meso:adm1_en":"Mahdia",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757467,
-    "wof:lastmodified":1536615717,
+    "wof:lastmodified":1553718684,
     "wof:name":"Bou Merdas",
     "wof:parent_id":85679161,
     "wof:placetype":"county",

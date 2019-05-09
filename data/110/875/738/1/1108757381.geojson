@@ -10,6 +10,12 @@
     "geom:latitude":35.158771,
     "geom:longitude":10.067481,
     "iso:country":"TN",
+    "label:eng_x_preferred_longname":[
+        "Chrarda Delegation"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "delegation"
+    ],
     "lbl:latitude":35.156632,
     "lbl:longitude":10.065384,
     "meso:adm1_en":"Kairouan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108757381,
-    "wof:lastmodified":1536615714,
+    "wof:lastmodified":1553718680,
     "wof:name":"Chrarda",
     "wof:parent_id":85679171,
     "wof:placetype":"county",
