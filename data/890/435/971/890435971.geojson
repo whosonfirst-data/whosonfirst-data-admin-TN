@@ -18,20 +18,17 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0628\u0648 \u0633\u0639\u064a\u062f"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u0564\u056b \u0532\u0578\u0582 \u054d\u0561\u056b\u0564"
-    ],
     "name:cat_x_preferred":[
         "Sidi Bou Sa\u00efd"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u8fea\u5e03\u8d5b\u4e49\u5fb7"
+    "name:cym_x_preferred":[
+        "Sidi Bou Sa\u00efd"
     ],
     "name:dan_x_preferred":[
         "Sidi Bou Sa\u00efd"
     ],
-    "name:dut_x_preferred":[
-        "Sidi Bou Said"
+    "name:deu_x_preferred":[
+        "Sidi Bou Sa\u00efd"
     ],
     "name:eng_x_preferred":[
         "Sidi Bou Sa\u00efd"
@@ -39,14 +36,14 @@
     "name:eng_x_variant":[
         "Sidi Bou Said"
     ],
-    "name:fre_x_preferred":[
-        "Sidi Bou Sa\u00efd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sidi Bou Sa\u00efd"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05d3\u05d9 \u05d1\u05d5 \u05e1\u05e2\u05d9\u05d3"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0564\u056b \u0532\u0578\u0582 \u054d\u0561\u056b\u0564"
     ],
     "name:ita_x_preferred":[
         "Sidi Bou Said"
@@ -60,10 +57,13 @@
     "name:kor_x_preferred":[
         "\uc2dc\ub514\ubd80\uc0ac\uc774\ub4dc"
     ],
+    "name:nld_x_preferred":[
+        "Sidi Bou Said"
+    ],
     "name:por_x_preferred":[
         "Sidi Bou Said"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sidi Bou Sa\u00efd"
     ],
     "name:rus_x_preferred":[
@@ -87,8 +87,8 @@
     "name:unk_x_variant":[
         "S\u012bd\u012b Ab\u012b Sa\u2018\u012bd"
     ],
-    "name:wel_x_preferred":[
-        "Sidi Bou Sa\u00efd"
+    "name:zho_x_preferred":[
+        "\u897f\u8fea\u5e03\u8d5b\u4e49\u5fb7"
     ],
     "qs:name":"Sidi Bou Sa\u00efd",
     "qs:photos_9r":0,
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":890435971,
-    "wof:lastmodified":1527793048,
+    "wof:lastmodified":1561766995,
     "wof:name":"Sidi Bou Sa\u00efd",
     "wof:parent_id":1108757755,
     "wof:placetype":"locality",

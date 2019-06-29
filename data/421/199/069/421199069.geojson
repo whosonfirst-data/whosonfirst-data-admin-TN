@@ -19,7 +19,7 @@
     "name:eng_x_preferred":[
         "Djemna"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jemna"
     ],
     "name:por_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":421199069,
-    "wof:lastmodified":1514506635,
+    "wof:lastmodified":1561766990,
     "wof:name":"Jamnah",
     "wof:parent_id":1108757437,
     "wof:placetype":"locality",

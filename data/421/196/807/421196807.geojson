@@ -19,7 +19,7 @@
     "name:eng_x_preferred":[
         "Zaouiet Djedidi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zaouiet Djedidi"
     ],
     "name:ukr_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":421196807,
-    "wof:lastmodified":1514506719,
+    "wof:lastmodified":1561766989,
     "wof:name":"Zawiyat al Jadidi",
     "wof:parent_id":1108757561,
     "wof:placetype":"locality",

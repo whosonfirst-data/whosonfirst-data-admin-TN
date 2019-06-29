@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Midoun"
     ],
-    "name:dut_x_preferred":[
-        "Midoun"
-    ],
     "name:eng_x_preferred":[
         "Midoun"
     ],
@@ -37,20 +34,14 @@
     "name:fra_x_preferred":[
         "Midoun"
     ],
-    "name:fre_x_preferred":[
-        "Midoun"
-    ],
-    "name:ger_x_preferred":[
-        "Midoun"
-    ],
     "name:ita_x_preferred":[
         "Midoun"
     ],
     "name:kab_x_preferred":[
         "Midun"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u062f\u0648\u0646"
+    "name:nld_x_preferred":[
+        "Midoun"
     ],
     "name:pol_x_preferred":[
         "Midun"
@@ -118,7 +109,7 @@
         }
     ],
     "wof:id":421173177,
-    "wof:lastmodified":1527716262,
+    "wof:lastmodified":1561766988,
     "wof:name":"Midun",
     "wof:parent_id":1108757519,
     "wof:placetype":"locality",

@@ -19,7 +19,7 @@
     "name:eng_x_preferred":[
         "Menzel Abderrahmane"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Menzel Abderrahmane"
     ],
     "name:ukr_x_preferred":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":421178849,
-    "wof:lastmodified":1514506668,
+    "wof:lastmodified":1561766993,
     "wof:name":"Manzil Abd ar Rahman",
     "wof:parent_id":1108757299,
     "wof:placetype":"locality",

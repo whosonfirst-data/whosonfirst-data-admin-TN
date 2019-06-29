@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u062f\u0642\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Dougga"
-    ],
     "name:bul_x_preferred":[
         "\u0414\u0443\u0433\u0430"
     ],
@@ -28,13 +25,7 @@
     "name:ces_x_preferred":[
         "Dougga"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u683c\u9547"
-    ],
     "name:cym_x_preferred":[
-        "Dougga"
-    ],
-    "name:cze_x_preferred":[
         "Dougga"
     ],
     "name:dan_x_preferred":[
@@ -43,8 +34,8 @@
     "name:deu_x_preferred":[
         "Thugga"
     ],
-    "name:dut_x_preferred":[
-        "Thugga"
+    "name:deu_x_variant":[
+        "Dougga"
     ],
     "name:eng_x_preferred":[
         "Dougga"
@@ -56,15 +47,6 @@
         "Dougga"
     ],
     "name:fra_x_preferred":[
-        "Dougga"
-    ],
-    "name:fre_x_preferred":[
-        "Dougga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Dougga"
     ],
     "name:hbs_x_preferred":[
@@ -112,9 +94,6 @@
     "name:slk_x_preferred":[
         "Dukka"
     ],
-    "name:slo_x_preferred":[
-        "Dukka"
-    ],
     "name:spa_x_preferred":[
         "Dougga"
     ],
@@ -129,9 +108,6 @@
     ],
     "name:uzb_x_preferred":[
         "Dugga"
-    ],
-    "name:wel_x_preferred":[
-        "Dougga"
     ],
     "name:zho_x_preferred":[
         "\u6c99\u683c\u9547"
@@ -183,7 +159,7 @@
         }
     ],
     "wof:id":421178969,
-    "wof:lastmodified":1527717724,
+    "wof:lastmodified":1561766993,
     "wof:name":"Dougga",
     "wof:parent_id":1108757265,
     "wof:placetype":"locality",

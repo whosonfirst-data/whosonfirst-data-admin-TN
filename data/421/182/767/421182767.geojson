@@ -28,9 +28,6 @@
     "name:fra_x_preferred":[
         "Mateur"
     ],
-    "name:fre_x_preferred":[
-        "Mateur"
-    ],
     "name:kab_x_preferred":[
         "Ma\u1e6der"
     ],
@@ -97,7 +94,7 @@
         }
     ],
     "wof:id":421182767,
-    "wof:lastmodified":1527726453,
+    "wof:lastmodified":1561766993,
     "wof:name":"Matir",
     "wof:parent_id":1108757293,
     "wof:placetype":"locality",

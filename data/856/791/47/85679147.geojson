@@ -40,17 +40,23 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Sidi Bou Zid"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u8fea\u5e03\u6fdf\u5fb7\u7701"
+    "name:cym_x_preferred":[
+        "Sidi Bouzid"
     ],
     "name:dan_x_preferred":[
         "Sidi Bouzid Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Sidi Bouzid"
+    "name:deu_x_preferred":[
+        "Gouvernorat Sidi Bouzid"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03bd\u03c4\u03b9 \u039c\u03c0\u03bf\u03c5 \u0396\u03b1\u03b0\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Sidi Bou Zid"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u062f\u06cc \u0628\u0648\u0632\u06cc\u062f"
     ],
     "name:fin_x_preferred":[
         "Sidi Bou Said"
@@ -58,14 +64,8 @@
     "name:fra_x_preferred":[
         "Sidi Bou Zid"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat de Sidi Bouzid"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernorat Sidi Bouzid"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03af\u03bd\u03c4\u03b9 \u039c\u03c0\u03bf\u03c5 \u0396\u03b1\u03b0\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0aa6\u0abf \u0aac\u0acc\u0a9d\u0abf\u0aa6 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -97,14 +97,14 @@
     "name:mar_x_preferred":[
         "\u0938\u093f\u0926\u0940 \u092c\u093e\u090a\u091d\u093f\u0926 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kawasan kegabenoran Sidi Bou Said"
+    ],
+    "name:nld_x_preferred":[
+        "Sidi Bouzid"
     ],
     "name:nob_x_preferred":[
         "Sidi Bouzid"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u062f\u06cc \u0628\u0648\u0632\u06cc\u062f"
     ],
     "name:pol_x_preferred":[
         "Gubernatorstwo Sidi Bu Zajd"
@@ -112,7 +112,7 @@
     "name:por_x_preferred":[
         "Sidi Bou Said"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Sidi Bouzid"
     ],
     "name:rus_x_preferred":[
@@ -154,8 +154,8 @@
     "name:vie_x_preferred":[
         "T\u1ec9nh Sidi Bouzid"
     ],
-    "name:wel_x_preferred":[
-        "Sidi Bouzid"
+    "name:zho_x_preferred":[
+        "\u897f\u8fea\u5e03\u6fdf\u5fb7\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -280,7 +280,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550549,
+    "wof:lastmodified":1561766966,
     "wof:name":"Sidi Bou Zid",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

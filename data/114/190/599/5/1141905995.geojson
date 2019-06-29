@@ -17,35 +17,35 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0635\u0631\u064a\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Kasserine"
-    ],
     "name:cat_x_preferred":[
         "Kasserine"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u585e\u6797"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kasr\u00edn"
+    ],
+    "name:cym_x_preferred":[
+        "Kasserine"
     ],
     "name:dan_x_preferred":[
         "Kasserine"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kasserine"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039a\u03b1\u03c3\u03c1\u03ac\u03c5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kasserine"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Kasserine"
     ],
-    "name:ger_x_preferred":[
-        "Kasserine"
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u0631\u06cc\u0646"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb \u039a\u03b1\u03c3\u03c1\u03ac\u03c5\u03bd"
+    "name:fra_x_preferred":[
+        "Kasserine"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e1\u05e8\u05d9\u05df"
@@ -62,14 +62,14 @@
     "name:lit_x_preferred":[
         "Kaserinas"
     ],
+    "name:nld_x_preferred":[
+        "Kasserine"
+    ],
     "name:nno_x_preferred":[
         "Kasserine"
     ],
     "name:nob_x_preferred":[
         "Kasserine"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0642\u0635\u0631\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Al-Kasrajn"
@@ -77,7 +77,7 @@
     "name:por_x_preferred":[
         "Kasserine"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kasserine"
     ],
     "name:sco_x_preferred":[
@@ -95,8 +95,8 @@
     "name:urd_x_preferred":[
         "\u0642\u0635\u0631\u06cc\u0646"
     ],
-    "name:wel_x_preferred":[
-        "Kasserine"
+    "name:zho_x_preferred":[
+        "\u5361\u585e\u6797"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tunisia",
@@ -217,7 +217,7 @@
         }
     ],
     "wof:id":1141905995,
-    "wof:lastmodified":1514506646,
+    "wof:lastmodified":1561767001,
     "wof:name":"Kasserine",
     "wof:parent_id":1108757415,
     "wof:placetype":"locality",

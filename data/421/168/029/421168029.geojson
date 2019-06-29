@@ -20,16 +20,13 @@
     "name:cat_x_preferred":[
         "Tozeur"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u6cfd\u5c14"
+    "name:cym_x_preferred":[
+        "Tozeur"
     ],
     "name:dan_x_preferred":[
         "Tozeur"
     ],
     "name:deu_x_preferred":[
-        "Tozeur"
-    ],
-    "name:dut_x_preferred":[
         "Tozeur"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +36,6 @@
         "Tozeur"
     ],
     "name:fra_x_preferred":[
-        "Tozeur"
-    ],
-    "name:fre_x_preferred":[
-        "Tozeur"
-    ],
-    "name:ger_x_preferred":[
         "Tozeur"
     ],
     "name:hun_x_preferred":[
@@ -71,7 +62,10 @@
     "name:lit_x_preferred":[
         "Tauzaras"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Tozeur"
+    ],
+    "name:nld_x_preferred":[
         "Tozeur"
     ],
     "name:pol_x_preferred":[
@@ -80,7 +74,7 @@
     "name:por_x_preferred":[
         "Tozeur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tozeur"
     ],
     "name:rus_x_preferred":[
@@ -109,9 +103,6 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0632\u0631"
-    ],
-    "name:wel_x_preferred":[
-        "Tozeur"
     ],
     "name:zho_x_preferred":[
         "\u6258\u6cfd\u5c14"
@@ -255,7 +246,7 @@
         }
     ],
     "wof:id":421168029,
-    "wof:lastmodified":1514506711,
+    "wof:lastmodified":1561766985,
     "wof:name":"Tawzar",
     "wof:parent_id":1108757743,
     "wof:placetype":"locality",

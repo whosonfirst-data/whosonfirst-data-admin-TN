@@ -31,7 +31,7 @@
     "name:eng_x_preferred":[
         "Nebeur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nebeur"
     ],
     "name:ukr_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1125792521,
-    "wof:lastmodified":1514506682,
+    "wof:lastmodified":1561766995,
     "wof:name":"Nibbar",
     "wof:parent_id":1108757461,
     "wof:placetype":"locality",

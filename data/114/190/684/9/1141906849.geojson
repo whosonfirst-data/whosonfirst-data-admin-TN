@@ -23,8 +23,8 @@
     "name:cat_x_preferred":[
         "Dhiba"
     ],
-    "name:dut_x_preferred":[
-        "Dehiba"
+    "name:deu_x_preferred":[
+        "Dahibah"
     ],
     "name:eng_x_preferred":[
         "Dehiba"
@@ -32,13 +32,13 @@
     "name:epo_x_preferred":[
         "Dehiba"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dehiba"
     ],
-    "name:ger_x_preferred":[
-        "Dahibah"
-    ],
     "name:ita_x_preferred":[
+        "Dehiba"
+    ],
+    "name:nld_x_preferred":[
         "Dehiba"
     ],
     "name:pol_x_preferred":[
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":1141906849,
-    "wof:lastmodified":1514506622,
+    "wof:lastmodified":1561767001,
     "wof:name":"Dehibat",
     "wof:parent_id":1108757721,
     "wof:placetype":"locality",

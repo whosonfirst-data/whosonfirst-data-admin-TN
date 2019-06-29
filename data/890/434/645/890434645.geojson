@@ -24,10 +24,10 @@
     "name:eng_x_preferred":[
         "Melloul\u00e8che"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Melloul\u00e8che"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Malloulech"
     ],
     "name:ukr_x_preferred":[
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890434645,
-    "wof:lastmodified":1527792943,
+    "wof:lastmodified":1561766995,
     "wof:name":"Melloul\u00e8che",
     "wof:parent_id":1108757483,
     "wof:placetype":"locality",

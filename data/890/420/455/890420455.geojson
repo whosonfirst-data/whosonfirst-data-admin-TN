@@ -21,7 +21,7 @@
     "name:eng_x_preferred":[
         "Menzel Horr"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Menzel Horr"
     ],
     "name:ukr_x_preferred":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":890420455,
-    "wof:lastmodified":1514506669,
+    "wof:lastmodified":1561766994,
     "wof:name":"Menzel Heurr",
     "wof:parent_id":1108757587,
     "wof:placetype":"locality",

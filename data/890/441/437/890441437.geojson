@@ -22,22 +22,16 @@
     "name:ara_x_variant":[
         "\u0642\u0641\u0635\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Gafsa"
-    ],
     "name:cat_x_preferred":[
         "Gafsa"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u592b\u85a9"
+    "name:cym_x_preferred":[
+        "Gafsa"
     ],
     "name:dan_x_preferred":[
         "Gafsa"
     ],
     "name:deu_x_preferred":[
-        "Gafsa"
-    ],
-    "name:dut_x_preferred":[
         "Gafsa"
     ],
     "name:ell_x_preferred":[
@@ -49,6 +43,9 @@
     "name:epo_x_preferred":[
         "Gafsa"
     ],
+    "name:eus_x_preferred":[
+        "Gafsa"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0641\u0635\u0647"
     ],
@@ -57,18 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Gafsa"
-    ],
-    "name:fre_x_preferred":[
-        "Gafsa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10e4\u10e1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gafsa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03c6\u03c3\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d0\u05e4\u05e1\u05d4"
@@ -82,6 +67,9 @@
     "name:jpn_x_preferred":[
         "\u30ac\u30d5\u30b5"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10e4\u10e1\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u0413\u0430\u0444\u0441\u0430"
     ],
@@ -91,8 +79,8 @@
     "name:lit_x_preferred":[
         "Gafsa"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u0641\u0635\u0647"
+    "name:nld_x_preferred":[
+        "Gafsa"
     ],
     "name:pol_x_preferred":[
         "Kafsa"
@@ -100,7 +88,7 @@
     "name:por_x_preferred":[
         "Gafsa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gafsa"
     ],
     "name:rus_x_preferred":[
@@ -129,9 +117,6 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0641\u0635\u06c1"
-    ],
-    "name:wel_x_preferred":[
-        "Gafsa"
     ],
     "name:zho_x_preferred":[
         "\u52a0\u592b\u85a9"
@@ -263,7 +248,7 @@
         }
     ],
     "wof:id":890441437,
-    "wof:lastmodified":1527727228,
+    "wof:lastmodified":1561766994,
     "wof:name":"Gafsa",
     "wof:parent_id":1108757335,
     "wof:placetype":"locality",

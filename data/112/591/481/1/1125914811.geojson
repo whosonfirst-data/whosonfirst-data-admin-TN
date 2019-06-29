@@ -25,13 +25,13 @@
     "name:cat_x_preferred":[
         "El Mida"
     ],
-    "name:dut_x_preferred":[
-        "El Mida"
-    ],
     "name:eng_x_preferred":[
         "El Mida"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "El Mida"
+    ],
+    "name:nld_x_preferred":[
         "El Mida"
     ],
     "name:ukr_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1125914811,
-    "wof:lastmodified":1514506623,
+    "wof:lastmodified":1561766995,
     "wof:name":"El Mida",
     "wof:parent_id":1108757571,
     "wof:placetype":"locality",

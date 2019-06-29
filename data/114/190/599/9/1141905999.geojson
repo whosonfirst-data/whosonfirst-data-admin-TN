@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0646\u0633\u062a\u064a\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0576\u0561\u057d\u057f\u056b\u0580"
-    ],
     "name:aze_x_preferred":[
         "Monast\u0131r"
     ],
@@ -35,17 +32,20 @@
     "name:cat_x_preferred":[
         "Monastir"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u7eb3\u65af\u63d0\u5c14"
+    "name:ces_x_preferred":[
+        "Monastir"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Monastir"
     ],
     "name:dan_x_preferred":[
         "Monastir"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Monastir"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03af\u03c1"
     ],
     "name:eng_x_preferred":[
         "Monastir"
@@ -53,20 +53,14 @@
     "name:epo_x_preferred":[
         "Monastir"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0633\u062a\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "Monastir"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Monastir"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10d0\u10e1\u10e2\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Monastir"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03af\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0abe\u0ab8\u0acd\u0a9f\u0abf\u0ab0"
@@ -79,6 +73,9 @@
     ],
     "name:hun_x_preferred":[
         "Monasztir"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0576\u0561\u057d\u057f\u056b\u0580"
     ],
     "name:ind_x_preferred":[
         "Monastir"
@@ -95,6 +92,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cca\u0ca8\u0cbe\u0cb8\u0ccd\u0c9f\u0cc0\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc\u10d0\u10e1\u10e2\u10d8\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubaa8\ub098\uc2a4\ud2f0\ub974"
     ],
@@ -104,13 +104,16 @@
     "name:lit_x_preferred":[
         "Monastyras"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u094b\u0928\u093e\u0938\u094d\u091f\u0940\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Monastir"
+    ],
+    "name:nld_x_preferred":[
         "Monastir"
     ],
     "name:nno_x_preferred":[
@@ -119,16 +122,13 @@
     "name:nob_x_preferred":[
         "Monastir"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0645\u0646\u0633\u062a\u06cc\u0631"
-    ],
     "name:pol_x_preferred":[
         "Monastyr"
     ],
     "name:por_x_preferred":[
         "Monastir"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Monastir"
     ],
     "name:rus_x_preferred":[
@@ -173,8 +173,8 @@
     "name:vie_x_preferred":[
         "Monastir"
     ],
-    "name:wel_x_preferred":[
-        "Monastir"
+    "name:zho_x_preferred":[
+        "\u83ab\u7eb3\u65af\u63d0\u5c14"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tunisia",
@@ -295,7 +295,7 @@
         }
     ],
     "wof:id":1141905999,
-    "wof:lastmodified":1553816734,
+    "wof:lastmodified":1561767001,
     "wof:name":"Monastir",
     "wof:parent_id":1108757545,
     "wof:placetype":"locality",

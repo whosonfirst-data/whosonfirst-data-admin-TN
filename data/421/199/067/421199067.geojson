@@ -22,16 +22,13 @@
     "name:cym_x_preferred":[
         "Jilma"
     ],
-    "name:dut_x_preferred":[
-        "Jilma"
-    ],
     "name:eng_x_preferred":[
         "Jilma"
     ],
     "name:fra_x_preferred":[
         "Jilma"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Jilma"
     ],
     "name:ukr_x_preferred":[
@@ -39,9 +36,6 @@
     ],
     "name:unk_x_variant":[
         "Djilma"
-    ],
-    "name:wel_x_preferred":[
-        "Jilma"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -91,7 +85,7 @@
         }
     ],
     "wof:id":421199067,
-    "wof:lastmodified":1527716419,
+    "wof:lastmodified":1561766990,
     "wof:name":"Jilmah",
     "wof:parent_id":1108757633,
     "wof:placetype":"locality",

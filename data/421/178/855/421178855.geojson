@@ -19,14 +19,14 @@
     "name:cat_x_preferred":[
         "Hammam Sousse"
     ],
+    "name:ces_x_preferred":[
+        "Hammam Sousse"
+    ],
     "name:cym_x_preferred":[
         "Hammam Sousse"
     ],
-    "name:cze_x_preferred":[
-        "Hammam Sousse"
-    ],
-    "name:dut_x_preferred":[
-        "Hammam Sousse"
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bc\u03ac\u03bc \u03a3\u03bf\u03c5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Hammam Sousse"
@@ -36,12 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Hammam Sousse"
-    ],
-    "name:fre_x_preferred":[
-        "Hammam Sousse"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03bc\u03ac\u03bc \u03a3\u03bf\u03c5\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05de\u05d0\u05dd \u05e1\u05d5\u05e1\u05d4"
@@ -61,16 +55,13 @@
     "name:ron_x_preferred":[
         "Hammam Sousse"
     ],
-    "name:rum_x_preferred":[
-        "Hammam Sousse"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043c\u043c\u0430\u043c \u0421\u0443\u0441"
     ],
     "name:sco_x_preferred":[
         "Hammam Sousse"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hammam Sousse"
     ],
     "name:slv_x_preferred":[
@@ -81,9 +72,6 @@
     ],
     "name:unk_x_variant":[
         "Justiniapolis"
-    ],
-    "name:wel_x_preferred":[
-        "Hammam Sousse"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -133,7 +121,7 @@
         }
     ],
     "wof:id":421178855,
-    "wof:lastmodified":1527717727,
+    "wof:lastmodified":1561766993,
     "wof:name":"Hammam Susah",
     "wof:parent_id":1108757689,
     "wof:placetype":"locality",

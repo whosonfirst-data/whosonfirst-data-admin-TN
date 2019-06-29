@@ -21,32 +21,32 @@
     "name:cat_x_preferred":[
         "Manouba"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u52aa\u5df4"
+    "name:cym_x_preferred":[
+        "Manouba"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Manouba"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b1 \u039c\u03b1\u03bd\u03bf\u03c5\u03bc\u03c0\u03ac"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bd\u03bf\u03cd\u03bc\u03c0\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Manouba"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "La Manouba"
-    ],
-    "name:ger_x_preferred":[
-        "Manouba"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd\u03bf\u03cd\u03bc\u03c0\u03b1"
     ],
     "name:ita_x_preferred":[
         "Manouba"
     ],
     "name:kor_x_preferred":[
         "\ub9c8\ub204\ubc14"
+    ],
+    "name:nld_x_preferred":[
+        "Manouba"
     ],
     "name:oci_x_preferred":[
         "Manouba"
@@ -57,7 +57,7 @@
     "name:por_x_preferred":[
         "Manouba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Manouba"
     ],
     "name:rus_x_preferred":[
@@ -80,9 +80,6 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0646\u0648\u0628\u06c1"
-    ],
-    "name:wel_x_preferred":[
-        "Manouba"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u52aa\u5df4"
@@ -130,7 +127,7 @@
         }
     ],
     "wof:id":890434643,
-    "wof:lastmodified":1527792943,
+    "wof:lastmodified":1561766995,
     "wof:name":"Manouba",
     "wof:parent_id":1108757501,
     "wof:placetype":"locality",

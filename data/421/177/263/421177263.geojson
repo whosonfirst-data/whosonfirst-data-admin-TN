@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Thala"
     ],
-    "name:dut_x_preferred":[
-        "Thala"
-    ],
     "name:eng_x_preferred":[
         "Thala"
     ],
@@ -37,13 +34,10 @@
     "name:fra_x_preferred":[
         "Thala"
     ],
-    "name:fre_x_preferred":[
-        "Thala"
-    ],
-    "name:ger_x_preferred":[
-        "Thala"
-    ],
     "name:ita_x_preferred":[
+        "Thala"
+    ],
+    "name:nld_x_preferred":[
         "Thala"
     ],
     "name:ukr_x_preferred":[
@@ -51,9 +45,6 @@
     ],
     "name:unk_x_variant":[
         "Tala"
-    ],
-    "name:wel_x_preferred":[
-        "Thala"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421177263,
-    "wof:lastmodified":1527716485,
+    "wof:lastmodified":1561766992,
     "wof:name":"Talah",
     "wof:parent_id":1108757427,
     "wof:placetype":"locality",

@@ -25,7 +25,7 @@
     "name:eng_x_preferred":[
         "Metline"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Metline"
     ],
     "name:rus_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1125860613,
-    "wof:lastmodified":1514506604,
+    "wof:lastmodified":1561766995,
     "wof:name":"Al Matl\u012bn",
     "wof:parent_id":1108757301,
     "wof:placetype":"locality",

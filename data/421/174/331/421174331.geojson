@@ -22,19 +22,10 @@
     "name:deu_x_preferred":[
         "Remada"
     ],
-    "name:dut_x_preferred":[
-        "Remada"
-    ],
     "name:eng_x_preferred":[
         "Remada"
     ],
     "name:fra_x_preferred":[
-        "Remada"
-    ],
-    "name:fre_x_preferred":[
-        "Remada"
-    ],
-    "name:ger_x_preferred":[
         "Remada"
     ],
     "name:ind_x_preferred":[
@@ -49,6 +40,9 @@
     "name:kor_x_preferred":[
         "\ub808\ub9c8\ub2e4"
     ],
+    "name:nld_x_preferred":[
+        "Remada"
+    ],
     "name:pol_x_preferred":[
         "Ramada"
     ],
@@ -56,9 +50,6 @@
         "Remada"
     ],
     "name:ron_x_preferred":[
-        "Remada"
-    ],
-    "name:rum_x_preferred":[
         "Remada"
     ],
     "name:sco_x_preferred":[
@@ -118,7 +109,7 @@
         }
     ],
     "wof:id":421174331,
-    "wof:lastmodified":1527716223,
+    "wof:lastmodified":1561766987,
     "wof:name":"Ramadah",
     "wof:parent_id":1108757725,
     "wof:placetype":"locality",

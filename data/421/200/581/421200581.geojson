@@ -22,9 +22,6 @@
     "name:cat_x_preferred":[
         "Ben Arous"
     ],
-    "name:chi_x_preferred":[
-        "\u672c\u963f\u9c81\u65af"
-    ],
     "name:cym_x_preferred":[
         "Ben Arous"
     ],
@@ -32,9 +29,6 @@
         "Ben Arous"
     ],
     "name:deu_x_preferred":[
-        "Ben Arous"
-    ],
-    "name:dut_x_preferred":[
         "Ben Arous"
     ],
     "name:ell_x_preferred":[
@@ -51,15 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "Ben Arous"
-    ],
-    "name:fre_x_preferred":[
-        "Ben Arous"
-    ],
-    "name:ger_x_preferred":[
-        "Ben Arous"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03bd \u0391\u03c1\u03bf\u03cd\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8 \u0a8f\u0ab0\u0ab8"
@@ -91,7 +76,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0928 \u0906\u0930\u094b\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ben Arous"
     ],
     "name:nld_x_preferred":[
@@ -103,9 +88,6 @@
     "name:nor_x_preferred":[
         "Ben Arous"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0646 \u0639\u0631\u0648\u0633"
-    ],
     "name:pol_x_preferred":[
         "Bin Arus"
     ],
@@ -113,9 +95,6 @@
         "Ben Arous"
     ],
     "name:ron_x_preferred":[
-        "Ben Arous"
-    ],
-    "name:rum_x_preferred":[
         "Ben Arous"
     ],
     "name:rus_x_preferred":[
@@ -155,9 +134,6 @@
         "\u0628\u0646 \u0627\u0631\u0648\u0648\u0633"
     ],
     "name:vie_x_preferred":[
-        "Ben Arous"
-    ],
-    "name:wel_x_preferred":[
         "Ben Arous"
     ],
     "name:zho_x_preferred":[
@@ -212,7 +188,7 @@
         }
     ],
     "wof:id":421200581,
-    "wof:lastmodified":1527716424,
+    "wof:lastmodified":1561766991,
     "wof:name":"Bin Arus",
     "wof:parent_id":1108757271,
     "wof:placetype":"locality",

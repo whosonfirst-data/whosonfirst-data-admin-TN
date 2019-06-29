@@ -19,20 +19,20 @@
     "name:cat_x_preferred":[
         "Fernana"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fernana"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b5\u03c1\u03bd\u03ac\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Fernana"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fernana"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Fernana"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b5\u03c1\u03bd\u03ac\u03bd\u03b1"
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0440\u043d\u0430\u043d\u0430"
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":421185617,
-    "wof:lastmodified":1514506602,
+    "wof:lastmodified":1561766994,
     "wof:name":"Al Firnanah",
     "wof:parent_id":1108757361,
     "wof:placetype":"locality",
