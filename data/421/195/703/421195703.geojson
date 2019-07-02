@@ -24,9 +24,6 @@
     "name:afr_x_preferred":[
         "Tunis"
     ],
-    "name:alb_x_preferred":[
-        "Tunis"
-    ],
     "name:amh_x_preferred":[
         "\u1271\u1292\u1235"
     ],
@@ -39,16 +36,10 @@
     "name:arg_x_preferred":[
         "T\u00faniz"
     ],
-    "name:arm_x_preferred":[
-        "\u0539\u0578\u0582\u0576\u056b\u057d"
-    ],
     "name:arz_x_preferred":[
         "\u062a\u0648\u0646\u0633"
     ],
     "name:aze_x_preferred":[
-        "Tunis"
-    ],
-    "name:baq_x_preferred":[
         "Tunis"
     ],
     "name:bel_x_preferred":[
@@ -78,9 +69,6 @@
     "name:che_x_preferred":[
         "\u0422\u0443\u043d\u0438\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u7a81\u5c3c\u65af\u5e02"
-    ],
     "name:chv_x_preferred":[
         "\u0422\u0443\u043d\u0438\u0441"
     ],
@@ -90,16 +78,13 @@
     "name:cym_x_preferred":[
         "Tiwnis"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_variant":[
         "Tunis"
     ],
     "name:dan_x_preferred":[
         "Tunis"
     ],
     "name:deu_x_preferred":[
-        "Tunis"
-    ],
-    "name:dut_x_preferred":[
         "Tunis"
     ],
     "name:ell_x_preferred":[
@@ -129,19 +114,10 @@
     "name:fra_x_preferred":[
         "Tunis"
     ],
-    "name:fre_x_preferred":[
-        "Tunis"
-    ],
     "name:frp_x_preferred":[
         "Tunis"
     ],
     "name:fry_x_preferred":[
-        "Tunis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e3\u10dc\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Tunis"
     ],
     "name:gla_x_preferred":[
@@ -152,9 +128,6 @@
     ],
     "name:glg_x_preferred":[
         "Tunes"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03cd\u03bd\u03b9\u03b4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0aaf\u0ac2\u0aa8\u0abf\u0ab8"
@@ -182,9 +155,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0539\u0578\u0582\u0576\u056b\u057d"
-    ],
-    "name:ice_x_preferred":[
-        "T\u00fanis"
     ],
     "name:ido_x_preferred":[
         "Tunis"
@@ -243,17 +213,11 @@
     "name:ltz_x_preferred":[
         "Tunis"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0443\u043d\u0438\u0441"
-    ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d42\u0d23\u0d3f\u0d38\u0d4d\u0d38\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u091f\u094d\u092f\u0941\u0928\u093f\u0938"
-    ],
-    "name:may_x_preferred":[
-        "Tunis"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0443\u043d\u0438\u0441"
@@ -266,6 +230,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u0422\u0443\u043d\u0438\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Tunis"
     ],
     "name:nan_x_preferred":[
         "Tunis"
@@ -297,9 +264,6 @@
     "name:pap_x_preferred":[
         "Tunis"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0646\u0633"
-    ],
     "name:pms_x_preferred":[
         "T\u00f9nis"
     ],
@@ -315,7 +279,7 @@
     "name:que_x_preferred":[
         "Tunis"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tunis"
     ],
     "name:rus_x_preferred":[
@@ -333,7 +297,7 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dd2\u0dba\u0dd4\u0db1\u0dd2\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tunis"
     ],
     "name:slv_x_preferred":[
@@ -350,6 +314,9 @@
     ],
     "name:spa_x_variant":[
         "T\u00fanez"
+    ],
+    "name:sqi_x_preferred":[
+        "Tunis"
     ],
     "name:srp_x_preferred":[
         "\u0422\u0443\u043d\u0438\u0441"
@@ -377,9 +344,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e15\u0e39\u0e19\u0e34\u0e2a"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f4a\u0f74\u0f0b\u0f53\u0f72\u0f66\u0f72\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Tunis"
@@ -418,9 +382,6 @@
         "Tunis"
     ],
     "name:war_x_preferred":[
-        "Tunis"
-    ],
-    "name:wel_x_preferred":[
         "Tunis"
     ],
     "name:wol_x_preferred":[
@@ -587,7 +548,7 @@
         }
     ],
     "wof:id":421195703,
-    "wof:lastmodified":1553278383,
+    "wof:lastmodified":1561766986,
     "wof:name":"Tunis",
     "wof:parent_id":85679123,
     "wof:placetype":"locality",

@@ -40,17 +40,23 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Sussa"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u585e\u7701"
+    "name:cym_x_preferred":[
+        "Sousse"
     ],
     "name:dan_x_preferred":[
         "Sousse Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Sousse"
+    "name:deu_x_preferred":[
+        "Gouvernorat Sousse"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sousse"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u0633\u0647"
     ],
     "name:fin_x_preferred":[
         "Sousse"
@@ -58,14 +64,8 @@
     "name:fra_x_preferred":[
         "Sousse"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat de Sousse"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernorat Sousse"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03cd\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0a82\u0ab8\u0ac7 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -100,14 +100,14 @@
     "name:mar_x_preferred":[
         "\u0938\u0949\u0938 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kawasan kegabenoran Sousse"
+    ],
+    "name:nld_x_preferred":[
+        "Sousse"
     ],
     "name:nob_x_preferred":[
         "Sousse"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u0633\u0647"
     ],
     "name:pol_x_preferred":[
         "Gubernatorstwo Susa"
@@ -115,7 +115,7 @@
     "name:por_x_preferred":[
         "Sousse"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Sousse"
     ],
     "name:rus_x_preferred":[
@@ -157,8 +157,8 @@
     "name:vie_x_preferred":[
         "T\u1ec9nh Sousse"
     ],
-    "name:wel_x_preferred":[
-        "Sousse"
+    "name:zho_x_preferred":[
+        "\u8607\u585e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -285,7 +285,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550522,
+    "wof:lastmodified":1561766964,
     "wof:name":"Sousse",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

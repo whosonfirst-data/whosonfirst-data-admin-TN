@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104479,
-    "geom:area_square_m":1050464895.36907,
+    "geom:area_square_m":1050464895.369083,
     "geom:bbox":"10.4945834156,35.4290404633,11.05038929,35.805416107",
     "geom:latitude":35.598783,
     "geom:longitude":10.770898,
@@ -40,17 +40,23 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Monastir"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u7d0d\u65af\u63d0\u723e\u7701"
+    "name:cym_x_preferred":[
+        "Monastir"
     ],
     "name:dan_x_preferred":[
         "Monastir Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Monastir"
+    "name:deu_x_preferred":[
+        "Gouvernorat Monastir"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03af\u03c1"
     ],
     "name:eng_x_preferred":[
         "Monastir"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0646\u0633\u062a\u06cc\u0631"
     ],
     "name:fin_x_preferred":[
         "Monastir"
@@ -58,17 +64,8 @@
     "name:fra_x_preferred":[
         "Monastir"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat de Monastir"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10d0\u10e1\u10e2\u10d8\u10e0\u10d8\u10e1 \u10d5\u10d8\u10da\u10d0\u10d8\u10d4\u10d7\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernorat Monastir"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03af\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0abe\u0ab8\u0acd\u0a9f\u0abf\u0ab0 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -88,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cca\u0ca8\u0cbe\u0cb8\u0ccd\u0c9f\u0cbf\u0cb0\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc\u10d0\u10e1\u10e2\u10d8\u10e0\u10d8\u10e1 \u10d5\u10d8\u10da\u10d0\u10d8\u10d4\u10d7\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubaa8\ub098\uc2a4\ud2f0\ub974 \uc8fc"
     ],
@@ -100,14 +100,14 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0928\u093e\u0938\u094d\u091f\u0940\u0930 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kawasan kegabenoran Monastir"
+    ],
+    "name:nld_x_preferred":[
+        "Monastir"
     ],
     "name:nob_x_preferred":[
         "Monastir"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0646\u0633\u062a\u06cc\u0631"
     ],
     "name:pol_x_preferred":[
         "Gubernatorstwo Monastyr"
@@ -115,7 +115,7 @@
     "name:por_x_preferred":[
         "Monastir"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Monastir"
     ],
     "name:rus_x_preferred":[
@@ -157,8 +157,8 @@
     "name:vie_x_preferred":[
         "T\u1ec9nh Monastir"
     ],
-    "name:wel_x_preferred":[
-        "Monastir"
+    "name:zho_x_preferred":[
+        "\u83ab\u7d0d\u65af\u63d0\u723e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -285,7 +285,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553814828,
+    "wof:lastmodified":1561766965,
     "wof:name":"Monastir",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

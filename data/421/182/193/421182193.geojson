@@ -22,20 +22,20 @@
     "name:cat_x_preferred":[
         "K\u00e9libia"
     ],
-    "name:chi_x_preferred":[
-        "\u53e4\u840a\u6bd4\u8036"
+    "name:cym_x_preferred":[
+        "Kelibia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kelibia"
     ],
     "name:eng_x_preferred":[
         "Kelibia"
     ],
-    "name:fre_x_preferred":[
-        "K\u00e9libia"
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u06cc\u0628\u06cc\u0647"
     ],
-    "name:ger_x_preferred":[
-        "Kelibia"
+    "name:fra_x_preferred":[
+        "K\u00e9libia"
     ],
     "name:ita_x_preferred":[
         "K\u00e9libia"
@@ -49,16 +49,16 @@
     "name:kor_x_preferred":[
         "\ucf08\ub9ac\ube44\uc544"
     ],
+    "name:nld_x_preferred":[
+        "Kelibia"
+    ],
     "name:oci_x_preferred":[
         "K\u00e9libia"
-    ],
-    "name:per_x_preferred":[
-        "\u0642\u0644\u06cc\u0628\u06cc\u0647"
     ],
     "name:por_x_preferred":[
         "Kelibia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kelibia"
     ],
     "name:rus_x_preferred":[
@@ -82,8 +82,8 @@
     "name:urd_x_preferred":[
         "\u0642\u0644\u06cc\u0628\u06cc\u06c1"
     ],
-    "name:wel_x_preferred":[
-        "Kelibia"
+    "name:zho_x_preferred":[
+        "\u53e4\u840a\u6bd4\u8036"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":421182193,
-    "wof:lastmodified":1514506684,
+    "wof:lastmodified":1561766993,
     "wof:name":"Qulaybiyah",
     "wof:parent_id":1108757579,
     "wof:placetype":"locality",

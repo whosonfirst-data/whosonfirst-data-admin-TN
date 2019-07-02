@@ -40,14 +40,17 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Nabeul"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u5e03\u52d2\u7701"
+    "name:cym_x_preferred":[
+        "Nabeul"
     ],
     "name:dan_x_preferred":[
         "Nabeul Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Nabeul"
+    "name:deu_x_preferred":[
+        "Gouvernorat Nabeul"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ac\u03bc\u03c0\u03bf\u03c5\u03bb"
     ],
     "name:eng_x_preferred":[
         "Nabeul"
@@ -55,20 +58,17 @@
     "name:epo_x_preferred":[
         "Provinco Nabulo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0646\u0627\u0628\u0644"
+    ],
     "name:fin_x_preferred":[
         "Nabeul"
     ],
     "name:fra_x_preferred":[
         "Nabeul"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat de Nabeul"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernorat Nabeul"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03ac\u03bc\u03c0\u03bf\u03c5\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aac\u0ac1\u0ab2 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -100,14 +100,14 @@
     "name:mar_x_preferred":[
         "\u0928\u092c\u0940\u0932 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kawasan kegabenoran Nabeul"
+    ],
+    "name:nld_x_preferred":[
+        "Nabeul"
     ],
     "name:nob_x_preferred":[
         "Nabeul"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0646\u0627\u0628\u0644"
     ],
     "name:pol_x_preferred":[
         "Gubernatorstwo Nabul"
@@ -115,7 +115,7 @@
     "name:por_x_preferred":[
         "Nabeul"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Nabeul"
     ],
     "name:rus_x_preferred":[
@@ -157,8 +157,8 @@
     "name:vie_x_preferred":[
         "T\u1ec9nh Nabeul"
     ],
-    "name:wel_x_preferred":[
-        "Nabeul"
+    "name:zho_x_preferred":[
+        "\u7d0d\u5e03\u52d2\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -285,7 +285,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550539,
+    "wof:lastmodified":1561766964,
     "wof:name":"Nabeul",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

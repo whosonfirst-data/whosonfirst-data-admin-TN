@@ -19,28 +19,22 @@
     "name:ara_x_preferred":[
         "\u0635\u064a\u0627\u062f\u0629"
     ],
-    "name:dut_x_preferred":[
-        "Sayada"
-    ],
     "name:eng_x_preferred":[
         "Sayada"
     ],
     "name:fra_x_preferred":[
         "Sayada"
     ],
-    "name:fre_x_preferred":[
-        "Sayada"
-    ],
     "name:ita_x_preferred":[
         "Sayada"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Sayada"
+    ],
+    "name:nld_x_preferred":[
         "Sayada"
     ],
     "name:ron_x_preferred":[
-        "Sayada"
-    ],
-    "name:rum_x_preferred":[
         "Sayada"
     ],
     "name:spa_x_preferred":[
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":421178253,
-    "wof:lastmodified":1527717726,
+    "wof:lastmodified":1561766993,
     "wof:name":"As Sayyadah",
     "wof:parent_id":1108757553,
     "wof:placetype":"locality",

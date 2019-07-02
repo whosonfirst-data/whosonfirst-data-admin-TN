@@ -25,19 +25,10 @@
     "name:deu_x_preferred":[
         "A\u00efn Draham"
     ],
-    "name:dut_x_preferred":[
-        "A\u00efn Draham"
-    ],
     "name:eng_x_preferred":[
         "A\u00efn Draham"
     ],
     "name:fra_x_preferred":[
-        "A\u00efn Draham"
-    ],
-    "name:fre_x_preferred":[
-        "A\u00efn Draham"
-    ],
-    "name:ger_x_preferred":[
         "A\u00efn Draham"
     ],
     "name:ita_x_preferred":[
@@ -60,9 +51,6 @@
     ],
     "name:unk_x_variant":[
         "A\u00efne Draham"
-    ],
-    "name:wel_x_preferred":[
-        "A\u00efn Draham"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -110,7 +98,7 @@
         }
     ],
     "wof:id":421181177,
-    "wof:lastmodified":1514506610,
+    "wof:lastmodified":1561766989,
     "wof:name":"Ayn ad Darahim",
     "wof:parent_id":1108757355,
     "wof:placetype":"locality",

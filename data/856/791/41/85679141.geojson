@@ -40,17 +40,23 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Gafsa"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u592b\u85a9\u7701"
+    "name:cym_x_preferred":[
+        "Gafsa"
     ],
     "name:dan_x_preferred":[
         "Gafsa Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Gafsa"
+    "name:deu_x_preferred":[
+        "Gouvernorat Gafsa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c6\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Gafsa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0641\u0635\u0647"
     ],
     "name:fin_x_preferred":[
         "Gafsa"
@@ -59,16 +65,8 @@
         "Gouvernorat de Gafsa"
     ],
     "name:fra_x_variant":[
-        "Gafsa"
-    ],
-    "name:fre_x_preferred":[
+        "Gafsa",
         "gouvernorat de Gafsa"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernorat Gafsa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03c6\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0aab\u0acd\u0ab8\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -103,14 +101,14 @@
     "name:mar_x_preferred":[
         "\u0917\u092b\u0938\u094b \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kawasan kegabenoran Gafsa"
+    ],
+    "name:nld_x_preferred":[
+        "Gafsa"
     ],
     "name:nob_x_preferred":[
         "Gafsa"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0641\u0635\u0647"
     ],
     "name:pol_x_preferred":[
         "Gubernatorstwo Kafsa"
@@ -118,7 +116,7 @@
     "name:por_x_preferred":[
         "Gafsa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Gafsa"
     ],
     "name:rus_x_preferred":[
@@ -160,8 +158,8 @@
     "name:vie_x_preferred":[
         "T\u1ec9nh Gafsa"
     ],
-    "name:wel_x_preferred":[
-        "Gafsa"
+    "name:zho_x_preferred":[
+        "\u52a0\u592b\u85a9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -287,7 +285,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553550520,
+    "wof:lastmodified":1561766965,
     "wof:name":"Gafsa",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

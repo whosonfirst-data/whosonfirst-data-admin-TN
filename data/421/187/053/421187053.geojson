@@ -20,16 +20,10 @@
     "name:cat_x_preferred":[
         "Zaghouan"
     ],
-    "name:chi_x_preferred":[
-        "\u5bb0\u683c\u842c"
-    ],
     "name:cym_x_preferred":[
         "Zaghouan"
     ],
     "name:deu_x_preferred":[
-        "Zaghouan"
-    ],
-    "name:dut_x_preferred":[
         "Zaghouan"
     ],
     "name:ell_x_preferred":[
@@ -44,15 +38,6 @@
     "name:fra_x_preferred":[
         "Zaghouan"
     ],
-    "name:fre_x_preferred":[
-        "Zaghouan"
-    ],
-    "name:ger_x_preferred":[
-        "Zaghouan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03b3\u03ba\u03bf\u03c5\u03ac\u03bd"
-    ],
     "name:ita_x_preferred":[
         "Zaghouan"
     ],
@@ -65,9 +50,6 @@
     "name:nld_x_preferred":[
         "Zaghouan"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u063a\u0648\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Zaghwan"
     ],
@@ -75,9 +57,6 @@
         "Zaghouan"
     ],
     "name:ron_x_preferred":[
-        "Zaghouan"
-    ],
-    "name:rum_x_preferred":[
         "Zaghouan"
     ],
     "name:sco_x_preferred":[
@@ -94,9 +73,6 @@
     ],
     "name:unk_x_variant":[
         "Zarhouan"
-    ],
-    "name:wel_x_preferred":[
-        "Zaghouan"
     ],
     "name:zho_x_preferred":[
         "\u5bb0\u683c\u842c"
@@ -243,7 +219,7 @@
         }
     ],
     "wof:id":421187053,
-    "wof:lastmodified":1527716247,
+    "wof:lastmodified":1561766988,
     "wof:name":"Zaghwan",
     "wof:parent_id":1108757767,
     "wof:placetype":"locality",

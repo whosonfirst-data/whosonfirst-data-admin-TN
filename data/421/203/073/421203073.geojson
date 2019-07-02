@@ -22,20 +22,17 @@
     "name:cat_x_preferred":[
         "Ghar El Melh"
     ],
-    "name:dut_x_preferred":[
-        "Ghar al Milh"
-    ],
     "name:eng_x_preferred":[
         "Ghar al Milh"
     ],
     "name:fra_x_preferred":[
         "Ghar El Melh"
     ],
-    "name:fre_x_preferred":[
-        "Ghar El Melh"
-    ],
     "name:ita_x_preferred":[
         "Ghar El Melh"
+    ],
+    "name:nld_x_preferred":[
+        "Ghar al Milh"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0440-\u044d\u043b\u044c-\u041c\u0435\u043b\u0430"
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421203073,
-    "wof:lastmodified":1527716197,
+    "wof:lastmodified":1561766987,
     "wof:name":"Ghar al Milh",
     "wof:parent_id":1108757287,
     "wof:placetype":"locality",

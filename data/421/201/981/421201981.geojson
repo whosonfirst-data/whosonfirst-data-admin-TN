@@ -20,35 +20,23 @@
     "name:cat_x_preferred":[
         "K\u00e9bili"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u6bd4\u5229"
-    ],
     "name:cym_x_preferred":[
         "K\u00e9bili"
     ],
     "name:deu_x_preferred":[
         "Kebili"
     ],
-    "name:dut_x_preferred":[
-        "K\u00e9bili"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03bc\u03c0\u03b9\u03bb\u03af"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b9\u03bc\u03c0\u03b9\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Kebili"
     ],
     "name:fra_x_preferred":[
         "K\u00e9bili"
-    ],
-    "name:fre_x_preferred":[
-        "K\u00e9bili"
-    ],
-    "name:ger_x_preferred":[
-        "Kebili"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03bc\u03c0\u03b9\u03bb\u03af"
     ],
     "name:ita_x_preferred":[
         "K\u00e9bili"
@@ -71,9 +59,6 @@
     "name:ron_x_preferred":[
         "Kebili"
     ],
-    "name:rum_x_preferred":[
-        "Kebili"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0431\u0438\u043b\u0438"
     ],
@@ -91,9 +76,6 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0628\u0644\u06cc"
-    ],
-    "name:wel_x_preferred":[
-        "K\u00e9bili"
     ],
     "name:zho_x_preferred":[
         "\u5409\u6bd4\u5229"
@@ -238,7 +220,7 @@
         }
     ],
     "wof:id":421201981,
-    "wof:lastmodified":1527716442,
+    "wof:lastmodified":1561766991,
     "wof:name":"Qibili",
     "wof:parent_id":1108757437,
     "wof:placetype":"locality",

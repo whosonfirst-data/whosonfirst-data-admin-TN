@@ -28,9 +28,6 @@
     "name:deu_x_preferred":[
         "Haffouz"
     ],
-    "name:dut_x_preferred":[
-        "Haffouz"
-    ],
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03c6\u03bf\u03cd\u03b6"
     ],
@@ -40,23 +37,14 @@
     "name:fra_x_preferred":[
         "Haffouz"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Haffouz"
-    ],
-    "name:ger_x_preferred":[
-        "Haffouz"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03c6\u03bf\u03cd\u03b6"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0444\u0444\u0443\u0437"
     ],
     "name:unk_x_variant":[
         "Pichon"
-    ],
-    "name:wel_x_preferred":[
-        "Haffouz"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -106,7 +94,7 @@
         }
     ],
     "wof:id":421170763,
-    "wof:lastmodified":1527716457,
+    "wof:lastmodified":1561766991,
     "wof:name":"Haffuz",
     "wof:parent_id":1108757383,
     "wof:placetype":"locality",

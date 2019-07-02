@@ -16,16 +16,13 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0632\u0644 \u0628\u0648\u0631\u0642\u064a\u0628\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0565\u0576\u0566\u0565\u056c \u0532\u0578\u0582\u0580\u0563\u056b\u0562\u0561"
-    ],
     "name:cat_x_preferred":[
         "Menzel Bourguiba"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u723e\u5409\u5df4\u71df"
+    "name:cym_x_preferred":[
+        "Menzel Bourguiba"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Menzel Bourguiba"
     ],
     "name:eng_x_preferred":[
@@ -34,28 +31,31 @@
     "name:epo_x_preferred":[
         "Mencel-Burgibo"
     ],
-    "name:fre_x_preferred":[
-        "Menzel Bourguiba"
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0632\u0644 \u0628\u0648 \u0631\u0642\u06cc\u0628\u0647"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Menzel Bourguiba"
     ],
     "name:hrv_x_preferred":[
         "Menzel Bourguiba"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0576\u0566\u0565\u056c \u0532\u0578\u0582\u0580\u0563\u056b\u0562\u0561"
+    ],
     "name:kor_x_preferred":[
         "\uba58\uc824\ubd80\ub974\uae30\ubc14"
+    ],
+    "name:nld_x_preferred":[
+        "Menzel Bourguiba"
     ],
     "name:oci_x_preferred":[
         "Menzel Bourguiba"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0632\u0644 \u0628\u0648 \u0631\u0642\u06cc\u0628\u0647"
-    ],
     "name:pol_x_preferred":[
         "Manzil Bu Rukajba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Menzel Bourguiba"
     ],
     "name:sco_x_preferred":[
@@ -82,8 +82,8 @@
     "name:uzb_x_preferred":[
         "Menzel Bourguiba"
     ],
-    "name:wel_x_preferred":[
-        "Menzel Bourguiba"
+    "name:zho_x_preferred":[
+        "\u5e03\u723e\u5409\u5df4\u71df"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":421200301,
-    "wof:lastmodified":1514506697,
+    "wof:lastmodified":1561766990,
     "wof:name":"Sidi Fath Allah",
     "wof:parent_id":1108757297,
     "wof:placetype":"locality",

@@ -22,16 +22,10 @@
     "name:cat_x_preferred":[
         "Douz"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u8332"
-    ],
     "name:cym_x_preferred":[
         "Douz"
     ],
     "name:deu_x_preferred":[
-        "Douz"
-    ],
-    "name:dut_x_preferred":[
         "Douz"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
         "Douz"
     ],
     "name:fra_x_preferred":[
-        "Douz"
-    ],
-    "name:fre_x_preferred":[
-        "Douz"
-    ],
-    "name:ger_x_preferred":[
         "Douz"
     ],
     "name:ita_x_preferred":[
@@ -73,9 +61,6 @@
     "name:ron_x_preferred":[
         "Douz"
     ],
-    "name:rum_x_preferred":[
-        "Douz"
-    ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u0437"
     ],
@@ -88,8 +73,8 @@
     "name:unk_x_variant":[
         "D\u016bz"
     ],
-    "name:wel_x_preferred":[
-        "Douz"
+    "name:zho_x_preferred":[
+        "\u675c\u8332"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -139,7 +124,7 @@
         }
     ],
     "wof:id":421181461,
-    "wof:lastmodified":1527716332,
+    "wof:lastmodified":1561766989,
     "wof:name":"Doz",
     "wof:parent_id":1108757429,
     "wof:placetype":"locality",

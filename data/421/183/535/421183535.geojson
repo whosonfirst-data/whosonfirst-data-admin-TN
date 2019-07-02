@@ -22,19 +22,16 @@
     "name:cym_x_preferred":[
         "Bir El Hafey"
     ],
-    "name:dut_x_preferred":[
-        "Bir El Hafey"
-    ],
     "name:eng_x_preferred":[
         "Bir El Hafey"
     ],
     "name:fra_x_preferred":[
         "Bir El Hafey"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Bir El Hafey"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Bir El Hafey"
     ],
     "name:ukr_x_preferred":[
@@ -42,9 +39,6 @@
     ],
     "name:unk_x_variant":[
         "Bir el Afey"
-    ],
-    "name:wel_x_preferred":[
-        "Bir El Hafey"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421183535,
-    "wof:lastmodified":1527716489,
+    "wof:lastmodified":1561766992,
     "wof:name":"Bi'r al Hufayy",
     "wof:parent_id":1108757631,
     "wof:placetype":"locality",

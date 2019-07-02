@@ -22,9 +22,6 @@
     "name:fra_x_preferred":[
         "Menzel Kamel"
     ],
-    "name:fre_x_preferred":[
-        "Menzel Kamel"
-    ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043d\u0437\u0435\u043b\u044c-\u041a\u0430\u043c\u0435\u043b\u044c"
     ],
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":421200291,
-    "wof:lastmodified":1527716428,
+    "wof:lastmodified":1561766991,
     "wof:name":"Manzil Kamil",
     "wof:parent_id":1108757537,
     "wof:placetype":"locality",

@@ -16,13 +16,13 @@
     "name:ara_x_preferred":[
         "\u0637\u0648\u0632\u0629"
     ],
-    "name:dut_x_preferred":[
-        "Touza"
-    ],
     "name:eng_x_preferred":[
         "Touza"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Touza"
+    ],
+    "name:nld_x_preferred":[
         "Touza"
     ],
     "name:spa_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":421183537,
-    "wof:lastmodified":1553816373,
+    "wof:lastmodified":1561766992,
     "wof:name":"Tuzah",
     "wof:parent_id":1108757541,
     "wof:placetype":"locality",

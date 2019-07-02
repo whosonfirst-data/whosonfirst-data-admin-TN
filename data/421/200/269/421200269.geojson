@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Bekalta"
     ],
-    "name:dut_x_preferred":[
-        "Bekalta"
-    ],
     "name:eng_x_preferred":[
         "Bekalta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bekalta"
     ],
     "name:ita_x_preferred":[
@@ -34,7 +31,10 @@
     "name:kor_x_preferred":[
         "\ubca0\uce7c\ud0c0"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Bekalta"
+    ],
+    "name:ron_x_preferred":[
         "Bekalta"
     ],
     "name:ukr_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":421200269,
-    "wof:lastmodified":1514506602,
+    "wof:lastmodified":1561766991,
     "wof:name":"Al Baqalitah",
     "wof:parent_id":1108757531,
     "wof:placetype":"locality",

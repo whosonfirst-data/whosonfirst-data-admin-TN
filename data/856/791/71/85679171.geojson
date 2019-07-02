@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.651695,
-    "geom:area_square_m":6551481241.059174,
+    "geom:area_square_m":6551481241.059287,
     "geom:bbox":"9.26772623882,35.0068203656,10.3047577681,36.1367954848",
     "geom:latitude":35.608502,
     "geom:longitude":9.861295,
@@ -37,26 +37,26 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Kairouan"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u9b6f\u842c\u7701"
-    ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Kairouan"
+    ],
+    "name:deu_x_preferred":[
+        "Gouvernorat Kairouan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03ca\u03c1\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kairouan"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0642\u06cc\u0631\u0648\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Kairouan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat de Kairouan"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernorat Kairouan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03ca\u03c1\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05e8\u05d5\u05d0\u05df"
@@ -73,14 +73,14 @@
     "name:kor_x_preferred":[
         "\uce74\uc774\ub974\uc644 \uc8fc"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kawasan kegabenoran Kairouan"
+    ],
+    "name:nld_x_preferred":[
+        "Kairouan"
     ],
     "name:nob_x_preferred":[
         "Kairouan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0642\u06cc\u0631\u0648\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Gubernatorstwo Kairuan"
@@ -88,7 +88,7 @@
     "name:por_x_preferred":[
         "Kairouan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Kairouan"
     ],
     "name:rus_x_preferred":[
@@ -112,8 +112,8 @@
     "name:urd_x_preferred":[
         "\u0642\u06cc\u0631\u0648\u0627\u0646"
     ],
-    "name:wel_x_preferred":[
-        "Kairouan"
+    "name:zho_x_preferred":[
+        "\u51f1\u9b6f\u842c\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -240,7 +240,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1553814828,
+    "wof:lastmodified":1561766966,
     "wof:name":"Kairouan",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

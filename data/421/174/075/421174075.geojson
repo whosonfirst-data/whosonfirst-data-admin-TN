@@ -16,16 +16,10 @@
     "name:ara_x_preferred":[
         "\u0637\u0628\u0631\u0642\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Tabarka"
-    ],
     "name:cat_x_preferred":[
         "Tabarka"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u5df4\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tabarka"
     ],
     "name:dan_x_preferred":[
@@ -33,9 +27,6 @@
     ],
     "name:deu_x_preferred":[
         "Tabarca"
-    ],
-    "name:dut_x_preferred":[
-        "Tabarka"
     ],
     "name:eng_x_preferred":[
         "Tabarka"
@@ -48,12 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Tabarka"
-    ],
-    "name:fre_x_preferred":[
-        "Tabarka"
-    ],
-    "name:ger_x_preferred":[
-        "Tabarca"
     ],
     "name:ita_x_preferred":[
         "Tabarka"
@@ -77,9 +62,6 @@
         "Tabarca"
     ],
     "name:ron_x_preferred":[
-        "Tabarka"
-    ],
-    "name:rum_x_preferred":[
         "Tabarka"
     ],
     "name:rus_x_preferred":[
@@ -153,7 +135,7 @@
         }
     ],
     "wof:id":421174075,
-    "wof:lastmodified":1527716229,
+    "wof:lastmodified":1561766988,
     "wof:name":"Tabarqah",
     "wof:parent_id":1108757373,
     "wof:placetype":"locality",

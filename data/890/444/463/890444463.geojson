@@ -21,19 +21,19 @@
     "name:cat_x_preferred":[
         "Testour"
     ],
+    "name:deu_x_preferred":[
+        "Testour"
+    ],
     "name:eng_x_preferred":[
         "Testour"
     ],
-    "name:fre_x_preferred":[
-        "Testour"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Testour"
     ],
     "name:pol_x_preferred":[
         "Tastur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tastour"
     ],
     "name:rus_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":890444463,
-    "wof:lastmodified":1514506706,
+    "wof:lastmodified":1561766994,
     "wof:name":"Tast\u016br",
     "wof:parent_id":1108757267,
     "wof:placetype":"locality",

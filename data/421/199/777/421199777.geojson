@@ -20,26 +20,26 @@
     "name:cat_x_preferred":[
         "El Kef"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u592b"
+    "name:cym_x_preferred":[
+        "El Kef"
     ],
     "name:dan_x_preferred":[
         "El Kef"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "El Kef"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039a\u03b1\u03c6"
     ],
     "name:eng_x_preferred":[
         "El Kef"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06a9\u0627\u0641"
+    ],
+    "name:fra_x_preferred":[
         "Le Kef"
-    ],
-    "name:ger_x_preferred":[
-        "El Kef"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb \u039a\u03b1\u03c6"
     ],
     "name:hun_x_preferred":[
         "Kef"
@@ -59,11 +59,11 @@
     "name:lit_x_preferred":[
         "Kafas"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "El Kef"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u06a9\u0627\u0641"
+    "name:oci_x_preferred":[
+        "El Kef"
     ],
     "name:pol_x_preferred":[
         "Al-Kaf"
@@ -71,7 +71,7 @@
     "name:por_x_preferred":[
         "El Kef"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "El Kef"
     ],
     "name:rus_x_preferred":[
@@ -98,8 +98,8 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u06a9\u0627\u0641"
     ],
-    "name:wel_x_preferred":[
-        "El Kef"
+    "name:zho_x_preferred":[
+        "\u5361\u592b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tunisia",
@@ -243,7 +243,7 @@
         }
     ],
     "wof:id":421199777,
-    "wof:lastmodified":1553816386,
+    "wof:lastmodified":1561766990,
     "wof:name":"Al Kaf",
     "wof:parent_id":1108757455,
     "wof:placetype":"locality",

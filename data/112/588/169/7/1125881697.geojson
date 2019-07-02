@@ -25,17 +25,14 @@
     "name:cat_x_preferred":[
         "Sejnane"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sejenane"
     ],
     "name:eng_x_preferred":[
         "Sejenane"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sejnane"
-    ],
-    "name:ger_x_preferred":[
-        "Sejenane"
     ],
     "name:ita_x_preferred":[
         "Sejnane"
@@ -43,7 +40,10 @@
     "name:kab_x_preferred":[
         "Sejjnan"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Sejenane"
+    ],
+    "name:ron_x_preferred":[
         "Sedjenane"
     ],
     "name:ukr_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125881697,
-    "wof:lastmodified":1514506686,
+    "wof:lastmodified":1561766995,
     "wof:name":"Sejenane",
     "wof:parent_id":1108757303,
     "wof:placetype":"locality",

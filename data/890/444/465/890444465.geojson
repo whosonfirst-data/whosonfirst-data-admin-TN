@@ -18,13 +18,13 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0644\u0639\u0629"
     ],
-    "name:dut_x_preferred":[
-        "El Gol\u00e2a"
-    ],
     "name:eng_x_preferred":[
         "El Gol\u00e2a"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "El Gol\u00e2a"
+    ],
+    "name:nld_x_preferred":[
         "El Gol\u00e2a"
     ],
     "name:por_x_preferred":[
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":890444465,
-    "wof:lastmodified":1527782131,
+    "wof:lastmodified":1561766994,
     "wof:name":"El Golaa",
     "wof:parent_id":1108757429,
     "wof:placetype":"locality",

@@ -19,22 +19,16 @@
     "name:cat_x_preferred":[
         "Sidi El Heni"
     ],
-    "name:dut_x_preferred":[
-        "Sidi El Hani"
-    ],
     "name:eng_x_preferred":[
         "Sidi El Hani"
     ],
     "name:fra_x_preferred":[
         "Sidi El Hani"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Sidi El Hani"
     ],
     "name:ron_x_preferred":[
-        "Sidi El Hani"
-    ],
-    "name:rum_x_preferred":[
         "Sidi El Hani"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":421200299,
-    "wof:lastmodified":1527716429,
+    "wof:lastmodified":1561766991,
     "wof:name":"Sidi al Hani'",
     "wof:parent_id":1108757705,
     "wof:placetype":"locality",

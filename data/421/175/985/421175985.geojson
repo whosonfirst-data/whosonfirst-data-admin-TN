@@ -26,9 +26,6 @@
     "name:cat_x_preferred":[
         "B\u00e9ja"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u6770"
-    ],
     "name:cym_x_preferred":[
         "B\u00e9ja"
     ],
@@ -37,9 +34,6 @@
     ],
     "name:deu_x_preferred":[
         "Beja"
-    ],
-    "name:dut_x_preferred":[
-        "B\u00e9ja"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b5\u03c4\u03b6\u03ac"
@@ -58,15 +52,6 @@
     ],
     "name:fra_x_preferred":[
         "B\u00e9ja"
-    ],
-    "name:fre_x_preferred":[
-        "B\u00e9ja"
-    ],
-    "name:ger_x_preferred":[
-        "Beja"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c4\u03b6\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a9c\u0abe"
@@ -101,14 +86,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u091c\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Beja"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00e9ja"
     ],
     "name:nob_x_preferred":[
         "Beja"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u062c\u0647"
     ],
     "name:pol_x_preferred":[
         "Bad\u017ca"
@@ -116,7 +101,7 @@
     "name:por_x_preferred":[
         "B\u00e9ja"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "B\u00e9ja"
     ],
     "name:rus_x_preferred":[
@@ -156,9 +141,6 @@
         "\u0628\u0627\u062c\u06c1"
     ],
     "name:vie_x_preferred":[
-        "B\u00e9ja"
-    ],
-    "name:wel_x_preferred":[
         "B\u00e9ja"
     ],
     "name:zho_x_preferred":[
@@ -302,7 +284,7 @@
         }
     ],
     "wof:id":421175985,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1561766989,
     "wof:name":"Bajah",
     "wof:parent_id":1108757253,
     "wof:placetype":"locality",

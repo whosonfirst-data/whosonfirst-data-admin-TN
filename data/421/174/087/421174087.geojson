@@ -22,13 +22,16 @@
     "name:cat_x_preferred":[
         "La Soukra"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "La Soukra"
     ],
     "name:eng_x_preferred":[
         "La Soukra"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "La Soukra"
+    ],
+    "name:nld_x_preferred":[
         "La Soukra"
     ],
     "name:pol_x_preferred":[
@@ -42,9 +45,6 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06a9\u0631\u06c1"
-    ],
-    "name:wel_x_preferred":[
-        "La Soukra"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":421174087,
-    "wof:lastmodified":1514506705,
+    "wof:lastmodified":1561766988,
     "wof:name":"Sukrah",
     "wof:parent_id":1108757249,
     "wof:placetype":"locality",

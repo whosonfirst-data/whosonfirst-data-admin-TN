@@ -22,9 +22,6 @@
     "name:fra_x_preferred":[
         "Menzel Salem"
     ],
-    "name:fre_x_preferred":[
-        "Menzel Salem"
-    ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043d\u0437\u0435\u043b\u044c-\u0421\u0430\u043b\u0435\u043c"
     ],
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":421200289,
-    "wof:lastmodified":1527716422,
+    "wof:lastmodified":1561766991,
     "wof:name":"Manzil Salim",
     "wof:parent_id":1108757465,
     "wof:placetype":"locality",

@@ -19,28 +19,19 @@
     "name:cat_x_preferred":[
         "Lamta"
     ],
-    "name:chi_x_preferred":[
-        "\u862d\u9054\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Leptis Parva"
-    ],
     "name:eng_x_preferred":[
         "Leptis Parva"
     ],
     "name:fra_x_preferred":[
         "Lamta"
     ],
-    "name:fre_x_preferred":[
-        "Lamta"
-    ],
     "name:ita_x_preferred":[
         "Lamta"
     ],
-    "name:ron_x_preferred":[
-        "Lamta"
+    "name:nld_x_preferred":[
+        "Leptis Parva"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lamta"
     ],
     "name:rus_x_preferred":[
@@ -54,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "Lamta"
+    ],
+    "name:zho_x_preferred":[
+        "\u862d\u9054\u93ae"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":421182769,
-    "wof:lastmodified":1527726453,
+    "wof:lastmodified":1561766993,
     "wof:name":"Lamtah",
     "wof:parent_id":1108757553,
     "wof:placetype":"locality",
