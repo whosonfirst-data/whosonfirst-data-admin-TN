@@ -18,6 +18,42 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0633\u0649 \u0627\u0644\u0642\u0646\u0637\u0627\u0648\u064a"
     ],
+    "name:cat_x_preferred":[
+        "Port El Kantaoui"
+    ],
+    "name:ceb_x_preferred":[
+        "Port el Kantaoui"
+    ],
+    "name:ces_x_preferred":[
+        "Mars\u00e1 al-Qant\u00e1w\u00ed"
+    ],
+    "name:deu_x_preferred":[
+        "Port El-Kantaoui"
+    ],
+    "name:eng_x_preferred":[
+        "Port El Kantaoui"
+    ],
+    "name:fin_x_preferred":[
+        "Port El Kantaoui"
+    ],
+    "name:fra_x_preferred":[
+        "Port El-Kantaoui"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d0\u05dc \u05e7\u05e0\u05d8\u05d0\u05d5\u05d5\u05d9"
+    ],
+    "name:nld_x_preferred":[
+        "Port El Kantaoui"
+    ],
+    "name:pol_x_preferred":[
+        "Marsa al-Kantawi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u042d\u043b\u044c-\u041a\u0430\u043d\u0442\u0430\u0443\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0435\u043b\u044c-\u041a\u0430\u043d\u0442\u0430\u0443\u0457"
+    ],
     "qs:name":"Port el Kantaoui",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":890417965,
-    "wof:lastmodified":1527782119,
+    "wof:lastmodified":1563331738,
     "wof:name":"Port el Kantaoui",
     "wof:parent_id":1108757689,
     "wof:placetype":"locality",

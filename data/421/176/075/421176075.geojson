@@ -19,16 +19,31 @@
     "name:cat_x_preferred":[
         "Gammarth"
     ],
+    "name:ceb_x_preferred":[
+        "Qamar\u0163"
+    ],
+    "name:deu_x_preferred":[
+        "Gammarth"
+    ],
     "name:eng_x_preferred":[
         "Gammarth"
     ],
     "name:fra_x_preferred":[
         "Gammarth"
     ],
+    "name:ita_x_preferred":[
+        "Gammarth"
+    ],
     "name:jpn_x_preferred":[
         "\u30ac\u30de\u30eb\u30bf"
     ],
     "name:nld_x_preferred":[
+        "Gammarth"
+    ],
+    "name:oci_x_preferred":[
+        "Gammarth"
+    ],
+    "name:pol_x_preferred":[
         "Gammarth"
     ],
     "name:por_x_preferred":[
@@ -38,6 +53,9 @@
         "\u041a\u0430\u043c\u0430\u0440\u0442"
     ],
     "name:sco_x_preferred":[
+        "Gammarth"
+    ],
+    "name:spa_x_preferred":[
         "Gammarth"
     ],
     "name:ukr_x_preferred":[
@@ -93,7 +111,7 @@
         }
     ],
     "wof:id":421176075,
-    "wof:lastmodified":1561766993,
+    "wof:lastmodified":1563331733,
     "wof:name":"Qamart",
     "wof:parent_id":1108757755,
     "wof:placetype":"locality",

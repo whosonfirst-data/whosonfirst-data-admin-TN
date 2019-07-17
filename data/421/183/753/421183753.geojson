@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Ghomrassen"
     ],
+    "name:ceb_x_preferred":[
+        "Ghomrassen"
+    ],
     "name:deu_x_preferred":[
         "Ghomrassen"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421183753,
-    "wof:lastmodified":1561766992,
+    "wof:lastmodified":1563331721,
     "wof:name":"Ghumrasin",
     "wof:parent_id":1108757723,
     "wof:placetype":"locality",

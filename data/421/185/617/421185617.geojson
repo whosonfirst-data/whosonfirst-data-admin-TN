@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Fernana"
     ],
+    "name:ceb_x_preferred":[
+        "Al Firn\u0101nah"
+    ],
     "name:deu_x_preferred":[
         "Fernana"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:fra_x_preferred":[
         "Fernana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a7\u30eb\u30ca\u30ca"
     ],
     "name:nld_x_preferred":[
         "Fernana"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421185617,
-    "wof:lastmodified":1561766994,
+    "wof:lastmodified":1563331733,
     "wof:name":"Al Firnanah",
     "wof:parent_id":1108757361,
     "wof:placetype":"locality",

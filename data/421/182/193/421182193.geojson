@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0642\u0644\u064a\u0628\u064a\u0629"
     ],
+    "name:ast_x_preferred":[
+        "K\u00e9libia"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0644\u06cc\u0628\u06cc\u0647"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0435\u043b\u0438\u0431\u0438\u044f"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:fra_x_preferred":[
         "K\u00e9libia"
+    ],
+    "name:hun_x_preferred":[
+        "Kelibia"
     ],
     "name:ita_x_preferred":[
         "K\u00e9libia"
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":421182193,
-    "wof:lastmodified":1561766993,
+    "wof:lastmodified":1563331730,
     "wof:name":"Qulaybiyah",
     "wof:parent_id":1108757579,
     "wof:placetype":"locality",

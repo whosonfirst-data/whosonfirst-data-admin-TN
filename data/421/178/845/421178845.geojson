@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Tamaghza"
     ],
+    "name:ceb_x_preferred":[
+        "Tamaghzah"
+    ],
     "name:deu_x_preferred":[
         "Tamerza"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421178845,
-    "wof:lastmodified":1561766992,
+    "wof:lastmodified":1563331724,
     "wof:name":"Tamaghzah",
     "wof:parent_id":1108757741,
     "wof:placetype":"locality",

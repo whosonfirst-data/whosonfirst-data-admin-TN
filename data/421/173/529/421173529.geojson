@@ -16,10 +16,16 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u064a\u0645\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0644\u06cc\u0645\u0627\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0438\u043c\u0430\u043d"
     ],
     "name:cat_x_preferred":[
+        "Soliman"
+    ],
+    "name:ceb_x_preferred":[
         "Soliman"
     ],
     "name:cym_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421173529,
-    "wof:lastmodified":1561766988,
+    "wof:lastmodified":1563331695,
     "wof:name":"Sulayman",
     "wof:parent_id":1108757591,
     "wof:placetype":"locality",

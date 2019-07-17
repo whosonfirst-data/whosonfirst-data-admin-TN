@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0637\u0646\u0627\u0633\u0629"
     ],
+    "name:deu_x_preferred":[
+        "Fatnassa"
+    ],
     "name:eng_x_preferred":[
         "Fatnassa"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421177731,
-    "wof:lastmodified":1561766992,
+    "wof:lastmodified":1563331720,
     "wof:name":"Fitnasah",
     "wof:parent_id":1108757441,
     "wof:placetype":"locality",

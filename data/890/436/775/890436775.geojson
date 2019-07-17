@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "El Battan"
     ],
+    "name:ceb_x_preferred":[
+        "El Battan"
+    ],
     "name:eng_x_preferred":[
         "El Battan"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890436775,
-    "wof:lastmodified":1561766994,
+    "wof:lastmodified":1563331736,
     "wof:name":"El Battan",
     "wof:parent_id":1108757497,
     "wof:placetype":"locality",

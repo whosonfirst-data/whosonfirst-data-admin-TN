@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "Al Qayrawan"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0642\u064a\u0631\u0648\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Kayruan vilay\u0259ti"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u0430\u0440\u0443\u0430\u043d"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u0430\u0435\u0442 \u041a\u0430\u0439\u0440\u0443\u0430\u043d"
     ],
@@ -48,6 +57,9 @@
     ],
     "name:eng_x_preferred":[
         "Kairouan"
+    ],
+    "name:eng_x_variant":[
+        "Kairouan Governorate"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0642\u06cc\u0631\u0648\u0627\u0646"
@@ -240,7 +252,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561766966,
+    "wof:lastmodified":1563331502,
     "wof:name":"Kairouan",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

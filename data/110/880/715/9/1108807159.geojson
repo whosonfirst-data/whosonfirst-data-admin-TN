@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0623\u0631\u064a\u0627\u0646\u0629"
     ],
+    "name:aze_x_preferred":[
+        "Aryana vilay\u0259ti"
+    ],
+    "name:bar_x_preferred":[
+        "Gouvernement Ariana"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u0430\u0435\u0442 \u0410\u0440\u044b\u044f\u043d\u0430"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 d'Ariana"
+    ],
+    "name:cat_x_variant":[
+        "governaci\u00f3 d'Ariana"
     ],
     "name:cym_x_preferred":[
         "Ariana"
@@ -46,6 +55,9 @@
     "name:eng_x_preferred":[
         "Ariana"
     ],
+    "name:eng_x_variant":[
+        "Ariana Governorate"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u06cc\u0627\u0646\u0647"
     ],
@@ -54,6 +66,12 @@
     ],
     "name:fra_x_preferred":[
         "gouvernorat de l'Ariana"
+    ],
+    "name:fra_x_variant":[
+        "Ariana"
+    ],
+    "name:frr_x_preferred":[
+        "Ariana"
     ],
     "name:hun_x_preferred":[
         "Ariana korm\u00e1nyz\u00f3s\u00e1g"
@@ -170,7 +188,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561766975,
+    "wof:lastmodified":1563331598,
     "wof:name":"Ariana",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

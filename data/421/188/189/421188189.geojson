@@ -16,8 +16,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u062d\u0633\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0646\u06cc \u062d\u0633\u0627\u0646"
+    ],
     "name:cat_x_preferred":[
         "Banu Hassan"
+    ],
+    "name:cat_x_variant":[
+        "Beni Hassen"
     ],
     "name:deu_x_preferred":[
         "Ban\u012b Hass\u0101n"
@@ -27,6 +33,9 @@
     ],
     "name:epo_x_preferred":[
         "Benihasanoj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u06cc \u062d\u0633\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Banu Hassan"
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":421188189,
-    "wof:lastmodified":1561766988,
+    "wof:lastmodified":1563331699,
     "wof:name":"Bani Hassan",
     "wof:parent_id":1108757535,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "El Djem"
     ],
+    "name:ceb_x_preferred":[
+        "El Jem"
+    ],
     "name:ces_x_preferred":[
         "El-D\u017eem"
     ],
@@ -34,6 +37,9 @@
     "name:eng_x_preferred":[
         "El Jem"
     ],
+    "name:eng_x_variant":[
+        "El Djem"
+    ],
     "name:eus_x_preferred":[
         "El Djem"
     ],
@@ -46,8 +52,20 @@
     "name:heb_x_preferred":[
         "\u05d0\u05dc \u05d2'\u05dd"
     ],
+    "name:hun_x_preferred":[
+        "El Djem"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c \u054b\u0565\u0574"
+    ],
+    "name:ind_x_preferred":[
+        "El Djem"
+    ],
     "name:ita_x_preferred":[
         "El Jem"
+    ],
+    "name:jav_x_preferred":[
+        "El Djem"
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30fb\u30b8\u30a7\u30e0"
@@ -64,6 +82,9 @@
     "name:mkd_x_preferred":[
         "\u0435\u043b-\u040f\u0435\u043c"
     ],
+    "name:msa_x_preferred":[
+        "El Djem"
+    ],
     "name:nld_x_preferred":[
         "El Djem"
     ],
@@ -79,8 +100,14 @@
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c \u0414\u0436\u0435\u043c"
     ],
+    "name:rus_x_variant":[
+        "\u042d\u043b\u044c-\u0414\u0436\u0435\u043c"
+    ],
     "name:slv_x_preferred":[
         "El D\u017eem"
+    ],
+    "name:spa_x_preferred":[
+        "el djem"
     ],
     "name:tur_x_preferred":[
         "El Cem"
@@ -144,7 +171,7 @@
         }
     ],
     "wof:id":421199771,
-    "wof:lastmodified":1561766990,
+    "wof:lastmodified":1563331709,
     "wof:name":"Al Jamm",
     "wof:parent_id":1108757473,
     "wof:placetype":"locality",

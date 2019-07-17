@@ -17,8 +17,17 @@
     "name:ara_x_preferred":[
         "\u0642\u0628\u0644\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u06a8\u0628\u0644\u064a"
+    ],
     "name:cat_x_preferred":[
         "K\u00e9bili"
+    ],
+    "name:ceb_x_preferred":[
+        "Kebili"
+    ],
+    "name:ces_x_preferred":[
+        "Kebili"
     ],
     "name:cym_x_preferred":[
         "K\u00e9bili"
@@ -63,6 +72,9 @@
         "\u041a\u0435\u0431\u0438\u043b\u0438"
     ],
     "name:sco_x_preferred":[
+        "Kebili"
+    ],
+    "name:spa_x_preferred":[
         "Kebili"
     ],
     "name:tur_x_preferred":[
@@ -220,7 +232,7 @@
         }
     ],
     "wof:id":421201981,
-    "wof:lastmodified":1561766991,
+    "wof:lastmodified":1563331718,
     "wof:name":"Qibili",
     "wof:parent_id":1108757437,
     "wof:placetype":"locality",

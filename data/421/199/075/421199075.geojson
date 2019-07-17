@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Ksour Essef"
     ],
+    "name:ceb_x_preferred":[
+        "Ksour Essaf"
+    ],
     "name:eng_x_preferred":[
         "Ksour Essef"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ron_x_preferred":[
         "Ksour Essaf"
+    ],
+    "name:spa_x_preferred":[
+        "Ksour Essef"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0441\u0443\u0440-\u0435\u0441-\u0421\u0435\u0444"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421199075,
-    "wof:lastmodified":1561766990,
+    "wof:lastmodified":1563331710,
     "wof:name":"Qusur as Saf",
     "wof:parent_id":1108757479,
     "wof:placetype":"locality",

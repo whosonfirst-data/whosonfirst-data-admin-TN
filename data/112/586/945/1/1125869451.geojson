@@ -25,10 +25,16 @@
     "name:cat_x_preferred":[
         "Mejez El Bab"
     ],
+    "name:ceb_x_preferred":[
+        "Maj\u0101z al B\u0101b"
+    ],
     "name:eng_x_preferred":[
         "Majaz al Bab"
     ],
     "name:fra_x_preferred":[
+        "Medjez el-Bab"
+    ],
+    "name:ita_x_preferred":[
         "Medjez el-Bab"
     ],
     "name:kor_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1125869451,
-    "wof:lastmodified":1561766995,
+    "wof:lastmodified":1563331744,
     "wof:name":"Maj\u0101z al B\u0101b",
     "wof:parent_id":1108757261,
     "wof:placetype":"locality",

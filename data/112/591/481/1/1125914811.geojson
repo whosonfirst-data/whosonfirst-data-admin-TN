@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "El Mida"
     ],
+    "name:ceb_x_preferred":[
+        "El Mida"
+    ],
     "name:eng_x_preferred":[
         "El Mida"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125914811,
-    "wof:lastmodified":1561766995,
+    "wof:lastmodified":1563331746,
     "wof:name":"El Mida",
     "wof:parent_id":1108757571,
     "wof:placetype":"locality",

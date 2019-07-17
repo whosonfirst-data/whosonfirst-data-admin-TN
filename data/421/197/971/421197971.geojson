@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "El Fahs"
     ],
+    "name:ceb_x_preferred":[
+        "El Fahs"
+    ],
     "name:eng_x_preferred":[
         "El Fahs"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421197971,
-    "wof:lastmodified":1561766989,
+    "wof:lastmodified":1563331705,
     "wof:name":"Qantarat al Fahs",
     "wof:parent_id":1108757759,
     "wof:placetype":"locality",

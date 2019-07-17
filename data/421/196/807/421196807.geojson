@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0627\u0648\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Z\u0101wiyat al Jad\u012bd\u012b"
+    ],
     "name:eng_x_preferred":[
         "Zaouiet Djedidi"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421196807,
-    "wof:lastmodified":1561766989,
+    "wof:lastmodified":1563331704,
     "wof:name":"Zawiyat al Jadidi",
     "wof:parent_id":1108757561,
     "wof:placetype":"locality",

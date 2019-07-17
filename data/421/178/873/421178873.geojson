@@ -17,6 +17,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u064a\u0631\u0648\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Kairu\u00e1n"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u06cc\u0631\u0648\u0627\u0646"
+    ],
     "name:bak_x_preferred":[
         "\u041a\u0430\u0440\u0443\u0430\u043d"
     ],
@@ -35,8 +41,14 @@
     "name:cat_x_preferred":[
         "Kairuan"
     ],
+    "name:ceb_x_preferred":[
+        "Kairouan"
+    ],
     "name:ces_x_preferred":[
         "Kairouan"
+    ],
+    "name:ces_x_variant":[
+        "Kajruv\u00e1n"
     ],
     "name:cym_x_preferred":[
         "Kairouan"
@@ -95,6 +107,9 @@
     "name:hun_x_preferred":[
         "Kairu\u00e1n"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0575\u0580\u0578\u0582\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kairouan"
     ],
@@ -115,6 +130,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u049a\u0430\u0439\u0440\u0443\u0430\u043d \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u0439\u0440\u0443\u0430\u043d \u049b\u0430\u043b\u0430\u0441\u044b"
     ],
     "name:kir_x_preferred":[
         "\u041a\u0430\u0439\u0440\u0443\u0430\u043d"
@@ -152,6 +170,9 @@
     "name:por_x_preferred":[
         "Cairu\u00e3o"
     ],
+    "name:por_x_variant":[
+        "Kairouan"
+    ],
     "name:ron_x_preferred":[
         "Kairouan"
     ],
@@ -173,8 +194,14 @@
     "name:spa_x_preferred":[
         "Kairu\u00e1n"
     ],
+    "name:spa_x_variant":[
+        "Cairu\u00e1n"
+    ],
     "name:srp_x_preferred":[
         "Keruan"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0435\u0440\u0443\u0430\u043d"
     ],
     "name:swe_x_preferred":[
         "Kairouan"
@@ -351,7 +378,7 @@
         }
     ],
     "wof:id":421178873,
-    "wof:lastmodified":1561766992,
+    "wof:lastmodified":1563331725,
     "wof:name":"Al Qayrawan",
     "wof:parent_id":1108757389,
     "wof:placetype":"locality",

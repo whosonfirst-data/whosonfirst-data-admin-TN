@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0642\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Dougga"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0443\u0433\u0430"
     ],
@@ -58,6 +61,12 @@
     "name:hrv_x_preferred":[
         "Dougga"
     ],
+    "name:hun_x_preferred":[
+        "Dugga"
+    ],
+    "name:ind_x_preferred":[
+        "Dougga"
+    ],
     "name:ita_x_preferred":[
         "Thugga"
     ],
@@ -87,6 +96,9 @@
     ],
     "name:por_x_preferred":[
         "Duga"
+    ],
+    "name:por_x_variant":[
+        "Thugga"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u0433\u0433\u0430"
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":421178969,
-    "wof:lastmodified":1561766993,
+    "wof:lastmodified":1563331726,
     "wof:name":"Dougga",
     "wof:parent_id":1108757265,
     "wof:placetype":"locality",
