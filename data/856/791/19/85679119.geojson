@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "Nabul"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0646\u0627\u0628\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "Nabul vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u0430\u0435\u0442 \u041d\u0430\u0431\u0443\u043b\u044c"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:eng_x_preferred":[
         "Nabeul"
+    ],
+    "name:eng_x_variant":[
+        "Nabeul Governorate"
     ],
     "name:epo_x_preferred":[
         "Provinco Nabulo"
@@ -285,7 +294,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561766964,
+    "wof:lastmodified":1563331493,
     "wof:name":"Nabeul",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

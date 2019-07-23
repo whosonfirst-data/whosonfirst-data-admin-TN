@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "M'Hamdia"
     ],
+    "name:ceb_x_preferred":[
+        "La Mohammedia"
+    ],
     "name:eng_x_preferred":[
         "Mohamedia"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890444467,
-    "wof:lastmodified":1561766994,
+    "wof:lastmodified":1563331739,
     "wof:name":"La Mohammedia",
     "wof:parent_id":1108757271,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "Banzart"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0628\u0646\u0632\u0631\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "Bizerta vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u0430\u0435\u0442 \u0411\u0456\u0437\u0435\u0440\u0442\u0430"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:eng_x_preferred":[
         "Bizerte"
+    ],
+    "name:eng_x_variant":[
+        "Bizerte Governorate"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0646\u0632\u0631\u062a"
@@ -288,7 +297,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561766966,
+    "wof:lastmodified":1563331503,
     "wof:name":"Bizerte",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

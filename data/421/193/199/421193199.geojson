@@ -13,6 +13,114 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0641\u0635\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0641\u0635\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Gafsa"
+    ],
+    "name:ceb_x_preferred":[
+        "Gafsa"
+    ],
+    "name:cym_x_preferred":[
+        "Gafsa"
+    ],
+    "name:dan_x_preferred":[
+        "Gafsa"
+    ],
+    "name:deu_x_preferred":[
+        "Gafsa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c6\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Gafsa"
+    ],
+    "name:epo_x_preferred":[
+        "Gafsa"
+    ],
+    "name:eus_x_preferred":[
+        "Gafsa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0641\u0635\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Gafsa"
+    ],
+    "name:fra_x_preferred":[
+        "Gafsa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d0\u05e4\u05e1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Gafsza"
+    ],
+    "name:ita_x_preferred":[
+        "Gafsa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30d5\u30b5"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10e4\u10e1\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0430\u0444\u0441\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\ud504\uc0ac"
+    ],
+    "name:lit_x_preferred":[
+        "Gafsa"
+    ],
+    "name:nld_x_preferred":[
+        "Gafsa"
+    ],
+    "name:pol_x_preferred":[
+        "Kafsa"
+    ],
+    "name:por_x_preferred":[
+        "Gafsa"
+    ],
+    "name:ron_x_preferred":[
+        "Gafsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0444\u0441\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Gafsa"
+    ],
+    "name:slv_x_preferred":[
+        "Gafsa"
+    ],
+    "name:swe_x_preferred":[
+        "Gafsa"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0444\u0441\u04d9"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e31\u0e1f\u0e0b\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Kafsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0444\u0441\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0641\u0635\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u592b\u85a9"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,7 +168,7 @@
         }
     ],
     "wof:id":421193199,
-    "wof:lastmodified":1527716147,
+    "wof:lastmodified":1563331681,
     "wof:name":"Qafsah",
     "wof:parent_id":1108757335,
     "wof:placetype":"locality",

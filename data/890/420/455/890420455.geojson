@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0632\u0644 \u062d\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Menzel Heurr"
+    ],
+    "name:deu_x_preferred":[
+        "Menzel Horr"
+    ],
     "name:eng_x_preferred":[
         "Menzel Horr"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890420455,
-    "wof:lastmodified":1561766994,
+    "wof:lastmodified":1563331741,
     "wof:name":"Menzel Heurr",
     "wof:parent_id":1108757587,
     "wof:placetype":"locality",

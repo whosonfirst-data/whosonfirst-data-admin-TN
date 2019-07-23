@@ -16,7 +16,16 @@
     "name:ara_x_preferred":[
         "\u062d\u0645\u0627\u0645 \u0633\u0648\u0633\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u062d\u0645\u0627\u0645 \u0633\u0648\u0633\u0647"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u043c\u0430\u043c-\u0421\u0443\u0441"
+    ],
     "name:cat_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:ceb_x_preferred":[
         "Hammam Sousse"
     ],
     "name:ces_x_preferred":[
@@ -31,6 +40,9 @@
     "name:eng_x_preferred":[
         "Hammam Sousse"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0645\u0627\u0645 \u0633\u0648\u0633\u0647"
+    ],
     "name:fin_x_preferred":[
         "Hammam Sousse"
     ],
@@ -39,6 +51,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05de\u05d0\u05dd \u05e1\u05d5\u05e1\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Hammam Sousse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30f3\u30de\u30fc\u30e0\u30fb\u30b9\u30fc\u30b5"
     ],
     "name:kab_x_preferred":[
         "\u1e24emmam Susa"
@@ -51,6 +69,9 @@
     ],
     "name:pol_x_preferred":[
         "Hammam Susa"
+    ],
+    "name:pol_x_variant":[
+        "Hamam Susa"
     ],
     "name:ron_x_preferred":[
         "Hammam Sousse"
@@ -121,7 +142,7 @@
         }
     ],
     "wof:id":421178855,
-    "wof:lastmodified":1561766993,
+    "wof:lastmodified":1563331730,
     "wof:name":"Hammam Susah",
     "wof:parent_id":1108757689,
     "wof:placetype":"locality",

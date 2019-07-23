@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Oued Mliz"
     ],
+    "name:ceb_x_preferred":[
+        "W\u0101d\u012b Mal\u012bz"
+    ],
     "name:deu_x_preferred":[
         "Oued Melliz"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421199079,
-    "wof:lastmodified":1561766990,
+    "wof:lastmodified":1563331707,
     "wof:name":"Wadi Maliz",
     "wof:parent_id":1108757371,
     "wof:placetype":"locality",

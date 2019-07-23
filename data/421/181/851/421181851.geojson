@@ -16,11 +16,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0633\u0627\u0643\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0633\u0627\u06a9\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0441\u0430\u043a\u0435\u043d"
     ],
     "name:cat_x_preferred":[
         "M'Saken"
+    ],
+    "name:ceb_x_preferred":[
+        "Mas\u0101kin"
     ],
     "name:ces_x_preferred":[
         "Masakin"
@@ -34,6 +40,9 @@
     "name:eng_x_preferred":[
         "Masakin"
     ],
+    "name:eng_x_variant":[
+        "M'saken"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0633\u0627\u06a9\u0646"
     ],
@@ -45,6 +54,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e1\u05d0\u05e7\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "M\u2019saken"
     ],
     "name:ita_x_preferred":[
         "M'saken"
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":421181851,
-    "wof:lastmodified":1561766989,
+    "wof:lastmodified":1563331700,
     "wof:name":"Masakin",
     "wof:parent_id":1108757701,
     "wof:placetype":"locality",

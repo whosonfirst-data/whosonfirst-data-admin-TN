@@ -17,8 +17,14 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0628\u0648\u0632\u064a\u062f"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0628\u0648\u0632\u06cc\u062f"
+    ],
     "name:cat_x_preferred":[
         "Sidi Bou Zid"
+    ],
+    "name:ceb_x_preferred":[
+        "Sidi Bouzid"
     ],
     "name:ces_x_preferred":[
         "S\u00edd\u00ed B\u00fa Z\u00edd"
@@ -49,6 +55,9 @@
     ],
     "name:gle_x_preferred":[
         "Sidi Bouzid"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d3\u05d9 \u05d1\u05d5\u05d6\u05d9\u05d3"
     ],
     "name:hun_x_preferred":[
         "Szidi B\u00fa Zid"
@@ -90,6 +99,9 @@
         "Sidi Bou Zid"
     ],
     "name:spa_x_preferred":[
+        "Sidi Bouzid"
+    ],
+    "name:swe_x_preferred":[
         "Sidi Bouzid"
     ],
     "name:tur_x_preferred":[
@@ -249,7 +261,7 @@
         }
     ],
     "wof:id":421169019,
-    "wof:lastmodified":1561766986,
+    "wof:lastmodified":1563331682,
     "wof:name":"Sidi Bu Zayd",
     "wof:parent_id":1108757653,
     "wof:placetype":"locality",

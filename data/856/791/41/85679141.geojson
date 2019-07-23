@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "Qafash"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0642\u0641\u0635\u0629"
+    ],
+    "name:aze_x_preferred":[
+        "Qafsa vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u0430\u0435\u0442 \u0413\u0430\u0444\u0441\u0430"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Gafsa"
+    ],
+    "name:ceb_x_preferred":[
+        "Gafsa Governorate"
     ],
     "name:cym_x_preferred":[
         "Gafsa"
@@ -54,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "Gafsa"
+    ],
+    "name:eng_x_variant":[
+        "Gafsa Governorate"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0642\u0641\u0635\u0647"
@@ -76,6 +88,9 @@
     ],
     "name:hun_x_preferred":[
         "Gafsa korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:hun_x_variant":[
+        "Gafsza korm\u00e1nyz\u00f3s\u00e1g"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Gafsa"
@@ -285,7 +300,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561766965,
+    "wof:lastmodified":1563331498,
     "wof:name":"Gafsa",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

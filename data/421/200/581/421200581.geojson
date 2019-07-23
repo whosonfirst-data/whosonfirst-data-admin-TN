@@ -16,10 +16,16 @@
     "name:ara_x_preferred":[
         "\u0628\u0646 \u0639\u0631\u0648\u0633"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0646 \u0639\u0631\u0648\u0633"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09a8 \u0985\u09cd\u09af\u09be\u09b0\u09c1\u09b8"
     ],
     "name:cat_x_preferred":[
+        "Ben Arous"
+    ],
+    "name:ceb_x_preferred":[
         "Ben Arous"
     ],
     "name:cym_x_preferred":[
@@ -33,6 +39,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b9\u03bd \u0391\u03c1\u03bf\u03cd\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03b5\u03bd \u0391\u03c1\u03bf\u03cd\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ben Arous"
@@ -51,6 +60,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0928 \u0905\u0930\u094c\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Ben Arous"
     ],
     "name:ind_x_preferred":[
         "Ben Arous"
@@ -188,7 +200,7 @@
         }
     ],
     "wof:id":421200581,
-    "wof:lastmodified":1561766991,
+    "wof:lastmodified":1563331714,
     "wof:name":"Bin Arus",
     "wof:parent_id":1108757271,
     "wof:placetype":"locality",

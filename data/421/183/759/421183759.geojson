@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Ha\u00efdra"
     ],
+    "name:ceb_x_preferred":[
+        "Ha\u00efdra"
+    ],
     "name:cym_x_preferred":[
         "Ha\u00efdra"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421183759,
-    "wof:lastmodified":1561766992,
+    "wof:lastmodified":1563331723,
     "wof:name":"Haidra",
     "wof:parent_id":1108757411,
     "wof:placetype":"locality",

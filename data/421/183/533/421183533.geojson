@@ -16,8 +16,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0639\u0644\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0626\u0631 \u0639\u0644\u064a \u0628\u0646 \u062e\u0644\u064a\u0641\u0629"
+    ],
     "name:cat_x_preferred":[
         "Bir Ali Ben Kh\u00e9lifa"
+    ],
+    "name:ceb_x_preferred":[
+        "Bi'r \u2018Al\u012b Bin Khal\u012bfah"
     ],
     "name:eng_x_preferred":[
         "Bir Ali Ben Kh\u00e9lifa"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421183533,
-    "wof:lastmodified":1561766992,
+    "wof:lastmodified":1563331721,
     "wof:name":"Bi'r Ali Bin Khalifah",
     "wof:parent_id":1108757597,
     "wof:placetype":"locality",

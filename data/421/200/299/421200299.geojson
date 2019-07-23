@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Sidi El Heni"
     ],
+    "name:ceb_x_preferred":[
+        "Sidi el Hani"
+    ],
     "name:eng_x_preferred":[
         "Sidi El Hani"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421200299,
-    "wof:lastmodified":1561766991,
+    "wof:lastmodified":1563331715,
     "wof:name":"Sidi al Hani'",
     "wof:parent_id":1108757705,
     "wof:placetype":"locality",

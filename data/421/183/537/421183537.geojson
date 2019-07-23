@@ -16,8 +16,17 @@
     "name:ara_x_preferred":[
         "\u0637\u0648\u0632\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0637\u0648\u0632\u0647"
+    ],
     "name:eng_x_preferred":[
         "Touza"
+    ],
+    "name:eng_x_variant":[
+        "Bani Zaltan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0648\u0632\u0647"
     ],
     "name:fra_x_preferred":[
         "Touza"
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":421183537,
-    "wof:lastmodified":1561766992,
+    "wof:lastmodified":1563331723,
     "wof:name":"Tuzah",
     "wof:parent_id":1108757541,
     "wof:placetype":"locality",

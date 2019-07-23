@@ -16,11 +16,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u062f\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0631\u062f\u0648"
+    ],
     "name:cat_x_preferred":[
         "Bardo"
     ],
+    "name:ceb_x_preferred":[
+        "Le Bardo"
+    ],
     "name:deu_x_preferred":[
         "Le Bardo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5 \u039c\u03c0\u03b1\u03c1\u03bd\u03c4\u03cc"
     ],
     "name:eng_x_preferred":[
         "Le Bardo"
@@ -33,6 +42,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d4 \u05d1\u05d0\u05e8\u05d3\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Le Bardo"
     ],
     "name:ita_x_preferred":[
         "Il Bardo"
@@ -62,6 +74,9 @@
         "Le Bardo"
     ],
     "name:spa_x_preferred":[
+        "Le Bardo"
+    ],
+    "name:szl_x_preferred":[
         "Le Bardo"
     ],
     "name:ukr_x_preferred":[
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":421203071,
-    "wof:lastmodified":1561766987,
+    "wof:lastmodified":1563331684,
     "wof:name":"Bardaw",
     "wof:parent_id":1108757755,
     "wof:placetype":"locality",

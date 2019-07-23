@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Jebeniana"
     ],
+    "name:ceb_x_preferred":[
+        "Jabiny\u0101nah"
+    ],
     "name:cym_x_preferred":[
         "Jebiniana"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421199071,
-    "wof:lastmodified":1561766990,
+    "wof:lastmodified":1563331708,
     "wof:name":"Jabinyanah",
     "wof:parent_id":1108757599,
     "wof:placetype":"locality",

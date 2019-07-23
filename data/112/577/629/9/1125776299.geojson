@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u0645\u0648\u0631\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "El Maamoura"
+    ],
     "name:eng_x_preferred":[
         "El Ma\u00e2moura"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125776299,
-    "wof:lastmodified":1561766996,
+    "wof:lastmodified":1563331749,
     "wof:name":"El Maamoura",
     "wof:parent_id":1108757563,
     "wof:placetype":"locality",

@@ -19,7 +19,13 @@
     "name:cat_x_preferred":[
         "Korbous"
     ],
+    "name:ceb_x_preferred":[
+        "Qurbu\u015f"
+    ],
     "name:cym_x_preferred":[
+        "Korbous"
+    ],
+    "name:deu_x_preferred":[
         "Korbous"
     ],
     "name:eng_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421203075,
-    "wof:lastmodified":1561766987,
+    "wof:lastmodified":1563331685,
     "wof:name":"Qurbus",
     "wof:parent_id":1108757591,
     "wof:placetype":"locality",

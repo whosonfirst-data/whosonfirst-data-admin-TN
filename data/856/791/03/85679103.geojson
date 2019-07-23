@@ -29,6 +29,9 @@
         "Bajah",
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u0627\u062c\u0629"
     ],
+    "name:aze_x_preferred":[
+        "Beca vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u0430\u0435\u0442 \u0411\u0435\u0434\u0436\u0430"
     ],
@@ -59,6 +62,9 @@
     "name:eng_x_preferred":[
         "B\u00e9ja"
     ],
+    "name:eng_x_variant":[
+        "Kassrine"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u062c\u0647"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:fra_x_variant":[
         "Gouvernorat de B\u00e9ja"
+    ],
+    "name:frr_x_preferred":[
+        "B\u00e9ja"
     ],
     "name:hun_x_preferred":[
         "B\u00e9ja korm\u00e1nyz\u00f3s\u00e1g"
@@ -262,7 +271,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561766963,
+    "wof:lastmodified":1563331488,
     "wof:name":"B\u00e9ja",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

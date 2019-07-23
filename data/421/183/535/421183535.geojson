@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Bir El Hfay"
     ],
+    "name:ceb_x_preferred":[
+        "Bi'r al \u1e28ufayy"
+    ],
     "name:cym_x_preferred":[
         "Bir El Hafey"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421183535,
-    "wof:lastmodified":1561766992,
+    "wof:lastmodified":1563331722,
     "wof:name":"Bi'r al Hufayy",
     "wof:parent_id":1108757631,
     "wof:placetype":"locality",
