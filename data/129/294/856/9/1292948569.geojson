@@ -25,6 +25,15 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062f\u064a\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Khalidia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u043b\u0456\u0434\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Al Khulayd\u012byah",
         "Kledia",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1292948569,
-    "wof:lastmodified":1537706525,
+    "wof:lastmodified":1564152880,
     "wof:name":"Khledia",
     "wof:parent_id":1108757271,
     "wof:placetype":"locality",

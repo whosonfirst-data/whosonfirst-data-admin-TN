@@ -25,6 +25,21 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0646\u0648\u0634"
+    ],
+    "name:cat_x_preferred":[
+        "Ghannouch"
+    ],
+    "name:deu_x_preferred":[
+        "Ghannouch"
+    ],
+    "name:fra_x_preferred":[
+        "Ghannouch"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043d\u0443\u0448"
+    ],
     "name:und_x_variant":[
         "Rhennoucha",
         "Grenush",
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209261595,
-    "wof:lastmodified":1537706496,
+    "wof:lastmodified":1564152950,
     "wof:name":"Rhennouch",
     "wof:parent_id":85632703,
     "wof:placetype":"locality",

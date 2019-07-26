@@ -25,9 +25,42 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0627\u0645\u0648\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0645\u0648\u0633"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0645\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Damous"
+    ],
+    "name:ita_x_preferred":[
+        "Damous"
+    ],
+    "name:kab_x_preferred":[
+        "Damus"
+    ],
+    "name:msa_x_preferred":[
+        "Damous"
+    ],
+    "name:por_x_preferred":[
+        "Damous"
+    ],
+    "name:ron_x_preferred":[
+        "Damous"
+    ],
+    "name:spa_x_preferred":[
+        "Damous"
+    ],
     "name:und_x_variant":[
         "Damouss",
         "Ad D\u0101m\u016bs"
+    ],
+    "name:vie_x_preferred":[
+        "Damous"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1260362071,
-    "wof:lastmodified":1537706531,
+    "wof:lastmodified":1564152966,
     "wof:name":"Damous",
     "wof:parent_id":1108757533,
     "wof:placetype":"locality",

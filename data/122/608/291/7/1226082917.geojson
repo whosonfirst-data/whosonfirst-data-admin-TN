@@ -25,6 +25,27 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0623\u0648\u0644\u0627\u062f \u0633\u0644\u0637\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Ksar Ouled Soltane"
+    ],
+    "name:deu_x_preferred":[
+        "Ksar Ouled Soltane"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0635\u0631 \u0627\u0648\u0644\u0627\u062f \u0633\u0644\u0637\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Ksar Ouled Soltane"
+    ],
+    "name:nld_x_preferred":[
+        "Ksar Ouled Soltane"
+    ],
+    "name:swe_x_preferred":[
+        "Ksar Ouled Soltane"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1226082917,
-    "wof:lastmodified":1537574453,
+    "wof:lastmodified":1564153154,
     "wof:name":"Ksar Ouled Soltane",
     "wof:parent_id":1108757731,
     "wof:placetype":"locality",

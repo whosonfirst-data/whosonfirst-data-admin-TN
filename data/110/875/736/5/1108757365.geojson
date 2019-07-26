@@ -31,8 +31,71 @@
     "mps:longitude":8.819497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u062f\u0648\u0628\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0646\u062f\u0648\u0628\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Jendouba"
+    ],
+    "name:cym_x_preferred":[
+        "Jendouba"
+    ],
+    "name:deu_x_preferred":[
+        "Jendouba"
+    ],
     "name:eng_x_preferred":[
         "Jendouba Sud"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u062f\u0648\u0628\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Jendouba"
+    ],
+    "name:ita_x_preferred":[
+        "Jendouba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30a7\u30f3\u30c9\u30a5\u30fc\u30d0"
+    ],
+    "name:kab_x_preferred":[
+        "Janduba"
+    ],
+    "name:kor_x_preferred":[
+        "\uc820\ub450\ubc14"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eenduba"
+    ],
+    "name:nld_x_preferred":[
+        "Jendouba"
+    ],
+    "name:por_x_preferred":[
+        "Jendouba"
+    ],
+    "name:ron_x_preferred":[
+        "Jendouba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u043d\u0434\u0443\u0431\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Jendouba"
+    ],
+    "name:tur_x_preferred":[
+        "Cendube"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0435\u043d\u0434\u0443\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u062f\u0648\u0628\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5805\u675c\u62dc"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +132,7 @@
         }
     ],
     "wof:id":1108757365,
-    "wof:lastmodified":1553718680,
+    "wof:lastmodified":1564152986,
     "wof:name":"Jendouba",
     "wof:parent_id":85679115,
     "wof:placetype":"county",

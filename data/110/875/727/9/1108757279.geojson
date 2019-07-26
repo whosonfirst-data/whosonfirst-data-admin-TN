@@ -31,8 +31,152 @@
     "mps:longitude":8.931428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0632\u0631\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0646\u0632\u0631\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Bizerta"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0646\u0632\u0631\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "Bizerta"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u0437\u0435\u0440\u0442\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Benzart"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0437\u0435\u0440\u0442\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Bizerta"
+    ],
+    "name:ces_x_preferred":[
+        "Bizerta"
+    ],
+    "name:cym_x_preferred":[
+        "Bizerte"
+    ],
+    "name:dan_x_preferred":[
+        "Bizerte"
+    ],
+    "name:deu_x_preferred":[
+        "Bizerte"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03b6\u03ad\u03c1\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Bizerte"
+    ],
+    "name:epo_x_preferred":[
+        "Bizerto"
+    ],
+    "name:eus_x_preferred":[
+        "Bizerta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u0632\u0631\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Biserta"
+    ],
+    "name:fra_x_preferred":[
+        "Bizerte"
+    ],
+    "name:gle_x_preferred":[
+        "Bizerte"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d6\u05e8\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Banzart"
+    ],
+    "name:ind_x_preferred":[
+        "Bizerte"
+    ],
+    "name:ita_x_preferred":[
+        "Biserta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30bc\u30eb\u30c8"
+    ],
+    "name:kab_x_preferred":[
+        "Benzart"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10d6\u10d4\u10e0\u10e2\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0438\u0437\u0435\u0440\u0442\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc81c\ub974\ud14c"
+    ],
+    "name:lat_x_preferred":[
+        "Hippo Diarrhytus"
+    ],
+    "name:lit_x_preferred":[
+        "Bizerta"
+    ],
+    "name:msa_x_preferred":[
+        "Bizerte"
+    ],
+    "name:nld_x_preferred":[
+        "Bizerte"
+    ],
+    "name:pol_x_preferred":[
+        "Bizerta"
+    ],
+    "name:por_x_preferred":[
+        "Bizerta"
+    ],
+    "name:ron_x_preferred":[
+        "Bizerte"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0437\u0435\u0440\u0442\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Bizerte"
+    ],
+    "name:slv_x_preferred":[
+        "Bizerte"
+    ],
+    "name:spa_x_preferred":[
+        "Bizerta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0437\u0435\u0440\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bizerte"
+    ],
+    "name:tur_x_preferred":[
+        "Bizerte"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0437\u0435\u0440\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0646\u0632\u0631\u062a"
+    ],
+    "name:uzb_x_preferred":[
+        "Bizerta"
+    ],
+    "name:war_x_preferred":[
+        "Bizerte"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u585e\u5927"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -64,7 +208,7 @@
         }
     ],
     "wof:id":1108757279,
-    "wof:lastmodified":1555047724,
+    "wof:lastmodified":1564153031,
     "wof:name":"Bizerte",
     "wof:parent_id":-1,
     "wof:placetype":"county",

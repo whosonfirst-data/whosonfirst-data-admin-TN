@@ -31,8 +31,71 @@
     "mps:longitude":10.956824,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u062c\u064a\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0631\u062c\u06cc\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Zarzis"
+    ],
+    "name:cym_x_preferred":[
+        "Zarzis"
+    ],
+    "name:dan_x_preferred":[
+        "Zarzis"
+    ],
+    "name:deu_x_preferred":[
+        "Zarzis"
+    ],
     "name:eng_x_preferred":[
         "Zarzis"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0631\u062c\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Zarzis"
+    ],
+    "name:hun_x_preferred":[
+        "Dzsardzs\u00edsz"
+    ],
+    "name:ita_x_preferred":[
+        "Zarzis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30eb\u30b8\u30b9"
+    ],
+    "name:kab_x_preferred":[
+        "Zerzis"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\ub974\uc9c0\uc2a4"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017card\u017cis"
+    ],
+    "name:por_x_preferred":[
+        "Zarzis"
+    ],
+    "name:ron_x_preferred":[
+        "Zarzis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0440\u0434\u0436\u0438\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Zarzis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0440\u0437\u0456\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0631\u062c\u06cc\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u723e\u5409\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +132,7 @@
         }
     ],
     "wof:id":1108757527,
-    "wof:lastmodified":1553718685,
+    "wof:lastmodified":1564152975,
     "wof:name":"Zarzis",
     "wof:parent_id":85679183,
     "wof:placetype":"county",

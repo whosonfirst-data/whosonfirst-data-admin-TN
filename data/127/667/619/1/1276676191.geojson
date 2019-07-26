@@ -25,6 +25,21 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u0639\u0629 \u0627\u0644\u062e\u0635\u0628\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Kalaa Khesba"
+    ],
+    "name:ceb_x_preferred":[
+        "Kalaat Khasba"
+    ],
+    "name:fra_x_preferred":[
+        "Kal\u00e2at Khasba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u044f\u0430\u0442-\u0425\u0430\u0441\u0430\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "Djerda",
         "Kalaat Djerda",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1276676191,
-    "wof:lastmodified":1537706492,
+    "wof:lastmodified":1564152909,
     "wof:name":"Kalaat Khasba",
     "wof:parent_id":1108757451,
     "wof:placetype":"locality",

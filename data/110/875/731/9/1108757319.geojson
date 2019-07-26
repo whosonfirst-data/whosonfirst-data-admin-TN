@@ -31,8 +31,26 @@
     "mps:longitude":10.261997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u062b"
+    ],
+    "name:cat_x_preferred":[
+        "Mareth"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u0101rith"
+    ],
+    "name:deu_x_preferred":[
+        "Mareth"
+    ],
     "name:eng_x_preferred":[
         "Mareth"
+    ],
+    "name:fra_x_preferred":[
+        "Mareth"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0435\u0441"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +87,7 @@
         }
     ],
     "wof:id":1108757319,
-    "wof:lastmodified":1553718679,
+    "wof:lastmodified":1564152986,
     "wof:name":"Mareth",
     "wof:parent_id":85679137,
     "wof:placetype":"county",

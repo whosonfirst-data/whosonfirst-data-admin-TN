@@ -25,6 +25,15 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nachal"
+    ],
+    "name:fra_x_preferred":[
+        "Nahal"
+    ],
+    "name:por_x_preferred":[
+        "Nahal"
+    ],
     "name:und_x_variant":[
         "An Na\u1e29l"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293636421,
-    "wof:lastmodified":1537706520,
+    "wof:lastmodified":1564152878,
     "wof:name":"Nahal",
     "wof:parent_id":1108757311,
     "wof:placetype":"locality",

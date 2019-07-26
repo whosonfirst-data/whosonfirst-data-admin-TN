@@ -31,7 +31,25 @@
     "mps:longitude":9.848673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062c \u0627\u0644\u0639\u0627\u0645\u0631\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Borj El Amri"
+    ],
+    "name:ceb_x_preferred":[
+        "Borj el Amri"
+    ],
     "name:eng_x_preferred":[
+        "Borj El Amri"
+    ],
+    "name:fra_x_preferred":[
+        "Borj El Amri"
+    ],
+    "name:ita_x_preferred":[
+        "Borj El Amri"
+    ],
+    "name:swe_x_preferred":[
         "Borj El Amri"
     ],
     "src:geom":"meso",
@@ -69,7 +87,7 @@
         }
     ],
     "wof:id":1108757491,
-    "wof:lastmodified":1553718683,
+    "wof:lastmodified":1564152992,
     "wof:name":"Borj El Amri",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

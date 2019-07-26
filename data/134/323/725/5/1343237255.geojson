@@ -28,11 +28,35 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u0643\u0648\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Kerkouane"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0435\u0440\u043a\u0443\u0430\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Kerkouane"
+    ],
+    "name:ces_x_preferred":[
+        "Kerkouane"
+    ],
+    "name:cym_x_preferred":[
+        "Kerkouane"
+    ],
+    "name:dan_x_preferred":[
+        "Kerkouane"
+    ],
+    "name:deu_x_preferred":[
+        "Kerkouane"
+    ],
+    "name:eus_x_preferred":[
+        "Kerkouane"
+    ],
     "name:fin_x_preferred":[
         "Kerkuane"
+    ],
+    "name:fra_x_preferred":[
+        "Kerkouane"
     ],
     "name:hbs_x_preferred":[
         "Kerkuane"
@@ -42,6 +66,12 @@
     ],
     "name:hrv_x_preferred":[
         "Kerkuane"
+    ],
+    "name:hun_x_preferred":[
+        "Kerkouane"
+    ],
+    "name:ita_x_preferred":[
+        "Kerkouane"
     ],
     "name:jpn_x_preferred":[
         "\u30b1\u30eb\u30af\u30a2\u30f3"
@@ -55,6 +85,9 @@
     "name:nld_x_preferred":[
         "Kerkuane"
     ],
+    "name:nor_x_preferred":[
+        "Kerkouane"
+    ],
     "name:pol_x_preferred":[
         "Karkawan"
     ],
@@ -64,11 +97,20 @@
     "name:rus_x_preferred":[
         "\u041a\u0435\u0440\u043a\u0443\u0430\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Kerkouane"
+    ],
     "name:swe_x_preferred":[
         "Kerkuan"
     ],
+    "name:tur_x_preferred":[
+        "Kerkouane"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0440\u043a\u0443\u0430\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u514b\u74e6\u5c3c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -94,7 +136,7 @@
         }
     ],
     "wof:id":1343237255,
-    "wof:lastmodified":1537706539,
+    "wof:lastmodified":1564152850,
     "wof:name":"Kerkouane",
     "wof:parent_id":1108757575,
     "wof:placetype":"locality",

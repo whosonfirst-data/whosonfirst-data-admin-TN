@@ -31,8 +31,32 @@
     "mps:longitude":9.146165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u064a\u0628\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Sbiba"
+    ],
+    "name:ceb_x_preferred":[
+        "Sbiba"
+    ],
+    "name:cym_x_preferred":[
+        "Sbiba"
+    ],
+    "name:deu_x_preferred":[
+        "Sbiba"
+    ],
     "name:eng_x_preferred":[
         "Sbiba"
+    ],
+    "name:fra_x_preferred":[
+        "Sbiba"
+    ],
+    "name:ita_x_preferred":[
+        "Sufes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0431\u0456\u0431\u0430"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +93,7 @@
         }
     ],
     "wof:id":1108757423,
-    "wof:lastmodified":1553718681,
+    "wof:lastmodified":1564153028,
     "wof:name":"Sbiba",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

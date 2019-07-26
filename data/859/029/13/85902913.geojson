@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2495979.662798,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.180085,36.811396,10.180085,36.811396",
     "geom:latitude":36.811396,
     "geom:longitude":10.180085,
@@ -59,12 +59,78 @@
     "name:hun_x_preferred":[
         "Belv\u00e9d\u00e8re"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u056c\u057e\u0565\u0564\u0565\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:ita_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:lat_x_preferred":[
+        "Bellumviderium Nicaeensium"
+    ],
+    "name:mlg_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:msa_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:nld_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:oci_x_preferred":[
+        "Barver"
+    ],
+    "name:pms_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:pol_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:por_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:ron_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u0432\u0435\u0434\u0435\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
     "name:spa_x_preferred":[
         "Belv\u00e9d\u00e8re"
+    ],
+    "name:sqi_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0432\u0435\u0434\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u0432\u0435\u0434\u0435\u0440"
     ],
     "name:unk_x_variant":[
         "Le Belvedere",
         "Belv\u00e9d\u00e8re"
+    ],
+    "name:vie_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:vol_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:war_x_preferred":[
+        "Belv\u00e9d\u00e8re"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u97e6\u4ee3\u5c14"
     ],
     "qs:gn_adm0_cc":"TN",
     "qs:gn_fcode":"PPLX",
@@ -97,10 +163,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":2495,
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757755,
-        85679123
+        1108757755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +191,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935953,
+    "wof:lastmodified":1564152870,
     "wof:name":"Belv\u00e9d\u00e8re",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
