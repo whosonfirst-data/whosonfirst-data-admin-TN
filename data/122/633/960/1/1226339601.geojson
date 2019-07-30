@@ -25,6 +25,30 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0633\u0627\u0644\u0645"
+    ],
+    "name:cat_x_preferred":[
+        "Bousalem"
+    ],
+    "name:ceb_x_preferred":[
+        "Bou Salem"
+    ],
+    "name:cym_x_preferred":[
+        "Bou Salem"
+    ],
+    "name:deu_x_preferred":[
+        "Bou Salem"
+    ],
+    "name:fra_x_preferred":[
+        "Bou Salem"
+    ],
+    "name:ron_x_preferred":[
+        "Bousalem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443 \u0421\u0430\u043b\u0435\u043c"
+    ],
     "name:und_x_variant":[
         "S\u016bq al Kham\u012bs",
         "B\u016b S\u0101lim",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1226339601,
-    "wof:lastmodified":1537706510,
+    "wof:lastmodified":1564153140,
     "wof:name":"Bou Salem",
     "wof:parent_id":1108757359,
     "wof:placetype":"locality",

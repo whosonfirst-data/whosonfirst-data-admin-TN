@@ -25,6 +25,45 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0630\u0647\u064a\u0628\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Dhiba"
+    ],
+    "name:ceb_x_preferred":[
+        "Dehiba"
+    ],
+    "name:deu_x_preferred":[
+        "Dehiba"
+    ],
+    "name:epo_x_preferred":[
+        "Dehiba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0630\u0647\u06cc\u0628\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Dehiba"
+    ],
+    "name:ita_x_preferred":[
+        "Dehiba"
+    ],
+    "name:pol_x_preferred":[
+        "Az-Zahibat"
+    ],
+    "name:por_x_preferred":[
+        "Dehiba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0445\u0438\u0431\u0430\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Dehiba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u0445\u0456\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "Adh Dhah\u012bb\u0101t",
         "Dehibat",
@@ -54,7 +93,7 @@
         }
     ],
     "wof:id":1360030591,
-    "wof:lastmodified":1537706531,
+    "wof:lastmodified":1564153060,
     "wof:name":"Dehiba",
     "wof:parent_id":1108757721,
     "wof:placetype":"locality",

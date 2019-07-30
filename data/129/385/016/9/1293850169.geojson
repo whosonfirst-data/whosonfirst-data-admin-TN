@@ -25,6 +25,30 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u0633\u062c\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Aousja"
+    ],
+    "name:deu_x_preferred":[
+        "Aousja"
+    ],
+    "name:fra_x_preferred":[
+        "Aousja"
+    ],
+    "name:ita_x_preferred":[
+        "Aousja"
+    ],
+    "name:pol_x_preferred":[
+        "Ausad\u017ca"
+    ],
+    "name:sco_x_preferred":[
+        "Aousja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0443\u0441\u0434\u0436\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1293850169,
-    "wof:lastmodified":1537574454,
+    "wof:lastmodified":1564152883,
     "wof:name":"Aousja",
     "wof:parent_id":1108757287,
     "wof:placetype":"locality",

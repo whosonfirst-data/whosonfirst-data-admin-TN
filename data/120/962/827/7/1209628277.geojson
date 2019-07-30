@@ -26,6 +26,21 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u062c\u0644 \u0628\u0644\u0639\u0628\u0627\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Magel Bel Abb\u00e8s"
+    ],
+    "name:cym_x_preferred":[
+        "Magel Bel Abb\u00e8s"
+    ],
+    "name:fra_x_preferred":[
+        "Majel Bel Abb\u00e8s"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0434\u0436\u0435\u043b\u044c-\u0431\u0435\u043b\u044c-\u0410\u0431\u0435\u0441"
+    ],
     "name:und_x_variant":[
         "Maagen-Bel-Abbes",
         "Ma\u00e2djen Bel Abb\u00e8s",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1209628277,
-    "wof:lastmodified":1537706491,
+    "wof:lastmodified":1564152931,
     "wof:name":"Mejen Bel Abbes",
     "wof:parent_id":85632703,
     "wof:placetype":"locality",

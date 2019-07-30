@@ -25,6 +25,24 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0645\u0627\u0637\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Matmata Nouvelle"
+    ],
+    "name:deu_x_preferred":[
+        "Nouvelle Matmata"
+    ],
+    "name:fra_x_preferred":[
+        "Nouvelle Matmata"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Matmata"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0432\u0435\u043b\u044c \u041c\u0430\u0442\u043c\u0430\u0442\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293062365,
-    "wof:lastmodified":1537574454,
+    "wof:lastmodified":1564152877,
     "wof:name":"Nouvelle Matmata",
     "wof:parent_id":1108757323,
     "wof:placetype":"locality",

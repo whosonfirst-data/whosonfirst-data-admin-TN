@@ -25,6 +25,45 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0625\u0628\u0631\u0627\u0647\u064a\u0645"
+    ],
+    "name:ceb_x_preferred":[
+        "Sidi Brahim"
+    ],
+    "name:deu_x_preferred":[
+        "Sidi Brahim"
+    ],
+    "name:fra_x_preferred":[
+        "Sidi Brahim"
+    ],
+    "name:ita_x_preferred":[
+        "Sidi Brahim"
+    ],
+    "name:kab_x_preferred":[
+        "Sidi Brahim"
+    ],
+    "name:msa_x_preferred":[
+        "Sidi Brahim"
+    ],
+    "name:pol_x_preferred":[
+        "Sidi Ibrahim"
+    ],
+    "name:por_x_preferred":[
+        "Sidi Brahim"
+    ],
+    "name:ron_x_preferred":[
+        "Sidi Brahim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u0438-\u0411\u0440\u0430\u0445\u0438\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Sidi Brahim"
+    ],
+    "name:vie_x_preferred":[
+        "Sidi Brahim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632703
@@ -42,7 +81,7 @@
         }
     ],
     "wof:id":1209566329,
-    "wof:lastmodified":1536283229,
+    "wof:lastmodified":1564152943,
     "wof:name":"Sidi Brahim",
     "wof:parent_id":85632703,
     "wof:placetype":"locality",

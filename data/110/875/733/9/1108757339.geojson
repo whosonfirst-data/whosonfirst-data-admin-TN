@@ -31,8 +31,74 @@
     "mps:longitude":8.934351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0441\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Ksar"
+    ],
+    "name:ces_x_preferred":[
+        "Ksar"
+    ],
+    "name:dan_x_preferred":[
+        "Ksar"
+    ],
+    "name:deu_x_preferred":[
+        "Ksar"
+    ],
     "name:eng_x_preferred":[
         "Ksar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0635\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Ksar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Ksar"
+    ],
+    "name:ita_x_preferred":[
+        "Ksar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30b5\u30fc\u30eb"
+    ],
+    "name:lit_x_preferred":[
+        "Ksaras"
+    ],
+    "name:nld_x_preferred":[
+        "Ksar"
+    ],
+    "name:nor_x_preferred":[
+        "Ksour"
+    ],
+    "name:oci_x_preferred":[
+        "Ksar"
+    ],
+    "name:pol_x_preferred":[
+        "Ksar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0441\u0430\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Ksar"
+    ],
+    "name:spa_x_preferred":[
+        "Ksar"
+    ],
+    "name:swe_x_preferred":[
+        "Ksar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0441\u0430\u0440"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +135,7 @@
         }
     ],
     "wof:id":1108757339,
-    "wof:lastmodified":1553718679,
+    "wof:lastmodified":1564153001,
     "wof:name":"Ksar",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

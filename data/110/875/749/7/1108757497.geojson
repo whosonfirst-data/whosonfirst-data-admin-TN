@@ -31,8 +31,23 @@
     "mps:longitude":9.751805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "El Battan"
+    ],
+    "name:ceb_x_preferred":[
+        "El Battan"
+    ],
     "name:eng_x_preferred":[
         "El Battan"
+    ],
+    "name:fra_x_preferred":[
+        "El Batan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0411\u0430\u0442\u0442\u0430\u043d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1108757497,
-    "wof:lastmodified":1553718683,
+    "wof:lastmodified":1564152992,
     "wof:name":"El Battan",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

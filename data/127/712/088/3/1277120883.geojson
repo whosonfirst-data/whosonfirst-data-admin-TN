@@ -25,6 +25,27 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0637\u0627\u0631"
+    ],
+    "name:deu_x_preferred":[
+        "Attar"
+    ],
+    "name:fra_x_preferred":[
+        "Attar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d8\u05e8"
+    ],
+    "name:ita_x_preferred":[
+        "Attar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0442\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Attar"
+    ],
     "name:und_x_variant":[
         "El Attar",
         "Al \u2018A\u0163\u0163\u0101r",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1277120883,
-    "wof:lastmodified":1537706529,
+    "wof:lastmodified":1564152914,
     "wof:name":"Attar",
     "wof:parent_id":1108757755,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0645\u0628\u0627\u0644\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Grombalia"
+    ],
+    "name:ceb_x_preferred":[
+        "Grombalia"
+    ],
+    "name:cym_x_preferred":[
+        "Grombalia"
+    ],
+    "name:deu_x_preferred":[
+        "Grombalia"
+    ],
+    "name:fra_x_preferred":[
+        "Grombalia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05d5\u05de\u05d1\u05dc\u05d9\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Grombalia"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf8\ub86c\ubc1c\ub9ac\uc544"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u043e\u043c\u0431\u0430\u043b\u044c\u044f"
+    ],
     "name:und_x_variant":[
         "Quranb\u0101liyah",
         "Grombalic",
@@ -56,7 +86,7 @@
         }
     ],
     "wof:id":1310663111,
-    "wof:lastmodified":1537706484,
+    "wof:lastmodified":1564153047,
     "wof:name":"Grombalia",
     "wof:parent_id":1108757573,
     "wof:placetype":"locality",

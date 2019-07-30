@@ -28,8 +28,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0628\u064a\u0637\u0644\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0628\u06cc\u0637\u0644\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Sbeitla"
+    ],
     "name:cym_x_preferred":[
         "Sbe\u00eftla"
+    ],
+    "name:deu_x_preferred":[
+        "Sbeitla"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0628\u06cc\u0637\u0644\u0647"
@@ -37,11 +46,26 @@
     "name:fra_x_preferred":[
         "Sbe\u00eftla"
     ],
+    "name:ita_x_preferred":[
+        "Sbeitla"
+    ],
     "name:kab_x_preferred":[
         "Sbaytla"
     ],
+    "name:nld_x_preferred":[
+        "Sbeitla"
+    ],
     "name:pol_x_preferred":[
         "Subajtila"
+    ],
+    "name:por_x_preferred":[
+        "Sbeitla"
+    ],
+    "name:ron_x_preferred":[
+        "Sbeitla"
+    ],
+    "name:spa_x_preferred":[
+        "Sbeitla"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0431\u0435\u0439\u0442\u043b\u0430"
@@ -71,7 +95,7 @@
         }
     ],
     "wof:id":1209628301,
-    "wof:lastmodified":1537706478,
+    "wof:lastmodified":1564152931,
     "wof:name":"Sbeitla",
     "wof:parent_id":85632703,
     "wof:placetype":"locality",

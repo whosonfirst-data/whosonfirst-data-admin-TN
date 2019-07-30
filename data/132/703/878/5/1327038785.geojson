@@ -25,6 +25,24 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u0644\u064a\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Jedeliane"
+    ],
+    "name:ceb_x_preferred":[
+        "Jedelienne"
+    ],
+    "name:cym_x_preferred":[
+        "Jedelienne"
+    ],
+    "name:fra_x_preferred":[
+        "Jedelienne"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0430\u0434\u0435\u043b\u044c\u0454\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1327038785,
-    "wof:lastmodified":1537574453,
+    "wof:lastmodified":1564152826,
     "wof:name":"Jedelienne",
     "wof:parent_id":1108757401,
     "wof:placetype":"locality",

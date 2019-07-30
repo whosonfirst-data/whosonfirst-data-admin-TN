@@ -25,8 +25,50 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0631\u064a\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0631\u06cc\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Birine"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Birine"
+    ],
+    "name:ita_x_preferred":[
+        "Birine"
+    ],
+    "name:kab_x_preferred":[
+        "Birin"
+    ],
+    "name:msa_x_preferred":[
+        "Birine"
+    ],
+    "name:por_x_preferred":[
+        "Birine"
+    ],
+    "name:ron_x_preferred":[
+        "Birine"
+    ],
+    "name:spa_x_preferred":[
+        "Birine"
+    ],
+    "name:swe_x_preferred":[
+        "Birine"
+    ],
     "name:und_x_variant":[
         "Al B\u012br\u012bn",
+        "Birine"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0631\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
         "Birine"
     ],
     "src:geom":"geonames",
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1293931087,
-    "wof:lastmodified":1537706529,
+    "wof:lastmodified":1564152889,
     "wof:name":"Birine",
     "wof:parent_id":1108757755,
     "wof:placetype":"locality",

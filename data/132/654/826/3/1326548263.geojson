@@ -25,6 +25,18 @@
     "iso:country":"TN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0633\u0649"
+    ],
+    "name:fra_x_preferred":[
+        "El Marsa"
+    ],
+    "name:ita_x_preferred":[
+        "El Marsa"
+    ],
+    "name:ron_x_preferred":[
+        "El Marsa"
+    ],
     "name:und_x_variant":[
         "El Marsal",
         "Marsa",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1326548263,
-    "wof:lastmodified":1537706523,
+    "wof:lastmodified":1564152834,
     "wof:name":"El Marsa",
     "wof:parent_id":1108757579,
     "wof:placetype":"locality",

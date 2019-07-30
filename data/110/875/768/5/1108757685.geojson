@@ -31,8 +31,20 @@
     "mps:longitude":10.43148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0641\u064a\u0634\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Bouficha"
+    ],
     "name:eng_x_preferred":[
         "Bouficha"
+    ],
+    "name:fra_x_preferred":[
+        "Bouficha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0444\u0456\u0448\u0430"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":1108757685,
-    "wof:lastmodified":1553718687,
+    "wof:lastmodified":1564153013,
     "wof:name":"Bouficha",
     "wof:parent_id":85679173,
     "wof:placetype":"county",
