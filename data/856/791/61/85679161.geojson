@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MH"
+    ],
     "lbl:latitude":35.287326,
     "lbl:longitude":10.413999,
     "mps:latitude":35.362399,
@@ -280,9 +283,6 @@
         }
     ],
     "wof:id":85679161,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -291,7 +291,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331487,
+    "wof:lastmodified":1565737320,
     "wof:name":"Mahdia",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

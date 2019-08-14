@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BZ"
+    ],
     "lbl:latitude":37.071153,
     "lbl:longitude":9.578648,
     "mps:latitude":37.081851,
@@ -286,9 +289,6 @@
         }
     ],
     "wof:id":85679113,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -297,7 +297,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331503,
+    "wof:lastmodified":1565737323,
     "wof:name":"Bizerte",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

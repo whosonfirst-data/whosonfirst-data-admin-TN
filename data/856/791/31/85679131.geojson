@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KF"
+    ],
     "lbl:latitude":36.085518,
     "lbl:longitude":8.716317,
     "mps:latitude":36.092668,
@@ -286,9 +289,6 @@
         }
     ],
     "wof:id":85679131,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -297,7 +297,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331494,
+    "wof:lastmodified":1565737321,
     "wof:name":"Le Kef",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

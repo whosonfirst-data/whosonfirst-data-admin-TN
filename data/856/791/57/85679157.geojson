@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SL"
+    ],
     "lbl:latitude":36.103943,
     "lbl:longitude":9.378875,
     "mps:latitude":36.123194,
@@ -277,9 +280,6 @@
         }
     ],
     "wof:id":85679157,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -288,7 +288,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331487,
+    "wof:lastmodified":1565737320,
     "wof:name":"Siliana",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

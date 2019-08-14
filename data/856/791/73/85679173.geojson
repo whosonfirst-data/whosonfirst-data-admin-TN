@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SS"
+    ],
     "lbl:latitude":35.796318,
     "lbl:longitude":10.428671,
     "mps:latitude":35.799784,
@@ -283,9 +286,6 @@
         }
     ],
     "wof:id":85679173,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -294,7 +294,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331491,
+    "wof:lastmodified":1565737321,
     "wof:name":"Sousse",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

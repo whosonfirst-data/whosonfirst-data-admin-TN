@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":36.628607,
     "lbl:longitude":10.2415,
     "mps:latitude":36.610213,
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85679107,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -306,7 +306,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331493,
+    "wof:lastmodified":1565737321,
     "wof:name":"Ben Arous (Tunis Sud)",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

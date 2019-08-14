@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GF"
+    ],
     "lbl:latitude":34.426493,
     "lbl:longitude":8.823641,
     "mps:latitude":34.417983,
@@ -289,9 +292,6 @@
         }
     ],
     "wof:id":85679141,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -300,7 +300,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331498,
+    "wof:lastmodified":1565737322,
     "wof:name":"Gafsa",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZA"
+    ],
     "lbl:latitude":36.33455,
     "lbl:longitude":10.008123,
     "mps:latitude":36.333489,
@@ -277,9 +280,6 @@
         }
     ],
     "wof:id":85679179,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -288,7 +288,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331497,
+    "wof:lastmodified":1565737322,
     "wof:name":"Zaghouan",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

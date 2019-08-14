@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TU"
+    ],
     "lbl:latitude":36.788097,
     "lbl:longitude":10.161931,
     "mps:latitude":36.77179,
@@ -245,9 +248,6 @@
         }
     ],
     "wof:id":85679123,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -256,7 +256,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331500,
+    "wof:lastmodified":1565737322,
     "wof:name":"Tunis",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

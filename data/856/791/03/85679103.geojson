@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BJ"
+    ],
     "lbl:latitude":36.593462,
     "lbl:longitude":9.243903,
     "mps:latitude":36.591472,
@@ -260,9 +263,6 @@
         }
     ],
     "wof:id":85679103,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -271,7 +271,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331488,
+    "wof:lastmodified":1565737321,
     "wof:name":"B\u00e9ja",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

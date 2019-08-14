@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SZ"
+    ],
     "lbl:latitude":34.847515,
     "lbl:longitude":9.586594,
     "mps:latitude":34.875391,
@@ -279,9 +282,6 @@
         }
     ],
     "wof:id":85679147,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -290,7 +290,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331502,
+    "wof:lastmodified":1565737323,
     "wof:name":"Sidi Bou Zid",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

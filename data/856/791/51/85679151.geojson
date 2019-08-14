@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SF"
+    ],
     "lbl:latitude":34.7686,
     "lbl:longitude":10.295049,
     "mps:latitude":34.805583,
@@ -286,9 +289,6 @@
         }
     ],
     "wof:id":85679151,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -297,7 +297,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331489,
+    "wof:lastmodified":1565737321,
     "wof:name":"Sfax",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

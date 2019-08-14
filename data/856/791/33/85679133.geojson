@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KS"
+    ],
     "lbl:latitude":35.195341,
     "lbl:longitude":8.819481,
     "mps:latitude":35.221926,
@@ -281,9 +284,6 @@
         }
     ],
     "wof:id":85679133,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -292,7 +292,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331490,
+    "wof:lastmodified":1565737321,
     "wof:name":"Kass\u00e9rine",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

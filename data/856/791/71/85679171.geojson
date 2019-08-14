@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KR"
+    ],
     "lbl:latitude":35.596841,
     "lbl:longitude":9.869108,
     "mps:latitude":35.588976,
@@ -241,9 +244,6 @@
         }
     ],
     "wof:id":85679171,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -252,7 +252,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563331502,
+    "wof:lastmodified":1565737322,
     "wof:name":"Kairouan",
     "wof:parent_id":85632703,
     "wof:placetype":"region",
