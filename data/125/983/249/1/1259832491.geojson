@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.09012,36.76997,10.13012,36.80997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259832491,
-    "wof:lastmodified":1536851672,
+    "wof:lastmodified":1566667353,
     "wof:name":"El Agba",
     "wof:parent_id":1108757755,
     "wof:placetype":"locality",

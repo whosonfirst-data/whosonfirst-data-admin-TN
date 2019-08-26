@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"8.52137,35.70174,8.56137,35.74174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293460755,
-    "wof:lastmodified":1536824829,
+    "wof:lastmodified":1566667171,
     "wof:name":"Sidi Ali Bel Hafsi",
     "wof:parent_id":1108757451,
     "wof:placetype":"locality",

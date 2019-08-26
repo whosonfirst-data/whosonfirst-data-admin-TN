@@ -10,8 +10,12 @@
     "geom:latitude":35.41808,
     "geom:longitude":10.99475,
     "iso:country":"TN",
+    "lbl:bbox":"10.97475,35.39808,11.01475,35.43808",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0642\u0635\u0648\u0631 \u0627\u0644\u0633\u0627\u0641"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0441\u0443\u0440-\u0435\u0441-\u0421\u0435\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qsour Essaf"
     ],
     "qs:gn_country":"TN",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":2467856,
         "gp:id":1442572,
-        "qs:id":189027,
+        "qs_pg:id":189027,
         "wd:id":"Q3141573",
         "wk:page":"Ksour Essef"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421199075,
-    "wof:lastmodified":1563331710,
+    "wof:lastmodified":1566667315,
     "wof:name":"Qusur as Saf",
     "wof:parent_id":1108757479,
     "wof:placetype":"locality",

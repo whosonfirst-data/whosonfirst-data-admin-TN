@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.72389,34.76444,10.76389,34.80444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dar el Hadj Ta\u00efeb",
         "Dar el Haj Ta\u00efeb"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259432083,
-    "wof:lastmodified":1537706533,
+    "wof:lastmodified":1566667362,
     "wof:name":"Dar el Haj Taieb",
     "wof:parent_id":1108757615,
     "wof:placetype":"locality",

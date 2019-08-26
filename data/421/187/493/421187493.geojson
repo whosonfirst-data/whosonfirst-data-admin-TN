@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.83333,35.78333,10.83333,35.78333",
     "geom:latitude":35.78333,
     "geom:longitude":10.83333,
     "iso:country":"TN",
+    "lbl:bbox":"10.81333,35.76333,10.85333,35.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sidi el Rhedamsi"
     ],
     "qs:gn_country":"TN",
@@ -40,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2466533,
         "gp:id":1442637,
-        "qs:id":1083587
+        "qs_pg:id":1083587
     },
     "wof:country":"TN",
     "wof:created":1459009515,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421187493,
-    "wof:lastmodified":1501263262,
+    "wof:lastmodified":1566667309,
     "wof:name":"Sidi al Ghudamisi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

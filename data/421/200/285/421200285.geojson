@@ -10,8 +10,12 @@
     "geom:latitude":35.81364,
     "geom:longitude":9.36434,
     "iso:country":"TN",
+    "lbl:bbox":"9.34434,35.79364,9.38434,35.83364",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0633\u0631\u0649"
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0441\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kisrah"
     ],
     "qs:gn_country":"TN",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2469744,
         "gp:id":1442382,
-        "qs:id":1298621,
+        "qs_pg:id":1298621,
         "wd:id":"Q3111959",
         "wk:page":"Kesra"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421200285,
-    "wof:lastmodified":1563331715,
+    "wof:lastmodified":1566667317,
     "wof:name":"Kesra",
     "wof:parent_id":1108757669,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.79024,35.88672,9.83024,35.92672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dashrat B\u016b Dabb\u016bs",
         "Dechret Bou Dabous",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276770611,
-    "wof:lastmodified":1537706504,
+    "wof:lastmodified":1566667198,
     "wof:name":"Dechret Bou Dabouss",
     "wof:parent_id":1108757397,
     "wof:placetype":"locality",

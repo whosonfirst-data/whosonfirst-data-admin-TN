@@ -10,8 +10,12 @@
     "geom:latitude":35.3,
     "geom:longitude":10.71667,
     "iso:country":"TN",
+    "lbl:bbox":"10.69667,35.28,10.73667,35.32",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0645"
@@ -115,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0414\u0436\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sidi el Djem"
     ],
     "name:urd_x_preferred":[
@@ -154,7 +158,7 @@
     "wof:concordances":{
         "gn:id":2473654,
         "gp:id":1441779,
-        "qs:id":492878,
+        "qs_pg:id":492878,
         "wd:id":"Q291012",
         "wk:page":"El Djem"
     },
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":421199771,
-    "wof:lastmodified":1563331709,
+    "wof:lastmodified":1566667315,
     "wof:name":"Al Jamm",
     "wof:parent_id":1108757473,
     "wof:placetype":"locality",

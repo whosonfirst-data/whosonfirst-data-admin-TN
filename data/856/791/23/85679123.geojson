@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.788097,
     "lbl:longitude":10.161931,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.77179,
     "mps:longitude":10.141152,
     "mz:hierarchy_label":1,
@@ -124,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043d\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gouvernorat de Tunis et Banlieue"
     ],
     "name:urd_x_preferred":[
@@ -208,9 +209,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-04-28",
+    "src:population_date":"2004-04-28",
     "statoids:area_km":"346",
     "statoids:area_mi":"134",
     "statoids:as_of_date":"2004-04-28",
@@ -234,7 +235,7 @@
         "gp:id":2347256,
         "hasc:id":"TN.TU",
         "iso:id":"TN-11",
-        "qs:id":1083877,
+        "qs_pg:id":1083877,
         "wd:id":"Q328109",
         "wk:page":"Tunis Governorate"
     },
@@ -256,11 +257,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565737322,
+    "wof:lastmodified":1566667164,
     "wof:name":"Tunis",
     "wof:parent_id":85632703,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":983861,
     "wof:population_rank":11,

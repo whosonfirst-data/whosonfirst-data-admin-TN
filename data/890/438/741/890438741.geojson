@@ -11,11 +11,15 @@
     "geom:longitude":8.40158,
     "gn:country":"TN",
     "gn:fcode":"PPL",
-    "gn:pop":41899,
+    "gn:population":41899,
     "iso:country":"TN",
+    "lbl:bbox":"8.38158,34.30081,8.42158,34.34081",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Matlaoui"
     ],
     "qs:name":"Al Metlaoui",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2473517,
         "gp:id":1441836,
-        "qs:id":1035890
+        "qs_pg:id":1035890
     },
     "wof:country":"TN",
     "wof:created":1469052207,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890438741,
-    "wof:lastmodified":1505343567,
+    "wof:lastmodified":1566667325,
     "wof:name":"Al Metlaoui",
     "wof:parent_id":1108757343,
     "wof:placetype":"locality",

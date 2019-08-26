@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.79111,36.88028,10.83111,36.92028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Zougdjag",
         "Douar Zougjag"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209633601,
-    "wof:lastmodified":1537706532,
+    "wof:lastmodified":1566667206,
     "wof:name":"Douar Zougjag",
     "wof:parent_id":85632703,
     "wof:placetype":"locality",

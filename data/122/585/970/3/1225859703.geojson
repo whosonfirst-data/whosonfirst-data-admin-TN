@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.93468,36.99216,10.97468,37.03216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sahab-Djebel",
         "Sahab el Djebel",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225859703,
-    "wof:lastmodified":1537706483,
+    "wof:lastmodified":1566667380,
     "wof:name":"Saheb Jebel",
     "wof:parent_id":1108757577,
     "wof:placetype":"locality",

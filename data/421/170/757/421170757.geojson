@@ -10,6 +10,9 @@
     "geom:latitude":33.13783,
     "geom:longitude":11.21965,
     "iso:country":"TN",
+    "lbl:bbox":"11.19965,33.11783,11.23965,33.15783",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d \u041a\u0430\u0440\u0434\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ben Gardan"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gn:id":2472431,
         "gp:id":1442012,
-        "qs:id":257033,
+        "qs_pg:id":257033,
         "wd:id":"Q1143002",
         "wk:page":"Ben Gardane"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421170757,
-    "wof:lastmodified":1563331719,
+    "wof:lastmodified":1566667318,
     "wof:name":"Bin Qirdan",
     "wof:parent_id":1108757509,
     "wof:placetype":"locality",

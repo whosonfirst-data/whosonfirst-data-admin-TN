@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.7686,
     "lbl:longitude":10.295049,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.805583,
     "mps:longitude":10.308818,
     "mz:hierarchy_label":1,
@@ -163,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0444\u0430\u043a\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wil\u0101yat \u015eaf\u0101qis"
     ],
     "name:urd_x_preferred":[
@@ -247,9 +248,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-04-28",
+    "src:population_date":"2004-04-28",
     "statoids:area_km":"7,545",
     "statoids:area_mi":"2,913",
     "statoids:as_of_date":"2004-04-28",
@@ -274,7 +275,7 @@
         "gp:id":2347252,
         "hasc:id":"TN.SF",
         "iso:id":"TN-61",
-        "qs:id":235643,
+        "qs_pg:id":235643,
         "unlc:id":"TN-61",
         "wd:id":"Q241145",
         "wk:page":"Sfax Governorate"
@@ -297,11 +298,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565737321,
+    "wof:lastmodified":1566667161,
     "wof:name":"Sfax",
     "wof:parent_id":85632703,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":855256,
     "wof:population_rank":11,

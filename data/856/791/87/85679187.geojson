@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":33.253444,
     "lbl:longitude":8.882124,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.314264,
     "mps:longitude":8.862255,
     "mz:hierarchy_label":1,
@@ -161,7 +162,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0431\u0456\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wil\u0101yat Qibil\u012b"
     ],
     "name:urd_x_preferred":[
@@ -245,9 +246,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-04-28",
+    "src:population_date":"2004-04-28",
     "statoids:area_km":"22,084",
     "statoids:area_mi":"8,527",
     "statoids:as_of_date":"2004-04-28",
@@ -272,7 +273,7 @@
         "gp:id":2347251,
         "hasc:id":"TN.KB",
         "iso:id":"TN-73",
-        "qs:id":319051,
+        "qs_pg:id":319051,
         "unlc:id":"TN-73",
         "wd:id":"Q286063",
         "wk:page":"Kebili Governorate"
@@ -295,11 +296,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565737321,
+    "wof:lastmodified":1566667161,
     "wof:name":"Kebili",
     "wof:parent_id":85632703,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":143218,
     "wof:population_rank":9,

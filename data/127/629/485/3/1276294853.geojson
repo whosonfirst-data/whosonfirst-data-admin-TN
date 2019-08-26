@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.65222,37.19889,9.69222,37.23889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Bechatib",
         "Daww\u0101r ash Sha\u0163ayb",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276294853,
-    "wof:lastmodified":1537706501,
+    "wof:lastmodified":1566667187,
     "wof:name":"Douar ech Chatib",
     "wof:parent_id":1108757275,
     "wof:placetype":"locality",

@@ -10,9 +10,14 @@
     "geom:latitude":33.78592,
     "geom:longitude":10.84227,
     "iso:country":"TN",
+    "lbl:bbox":"10.82227,33.76592,10.86227,33.80592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oued Zebib"
     ],
     "qs:gn_country":"TN",
@@ -44,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2464160,
         "gp:id":1442758,
-        "qs:id":1083592
+        "qs_pg:id":1083592
     },
     "wof:country":"TN",
     "wof:created":1459009515,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":421187503,
-    "wof:lastmodified":1501263254,
+    "wof:lastmodified":1566667308,
     "wof:name":"Wadi az Zabib",
     "wof:parent_id":1108757515,
     "wof:placetype":"locality",

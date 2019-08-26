@@ -10,9 +10,14 @@
     "geom:latitude":33.7458,
     "geom:longitude":10.91954,
     "iso:country":"TN",
+    "lbl:bbox":"10.89954,33.7258,10.93954,33.7658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Humt-Seduiksh"
     ],
     "qs:gn_country":"TN",
@@ -44,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2467128,
         "gp:id":1442614,
-        "qs:id":235457
+        "qs_pg:id":235457
     },
     "wof:country":"TN",
     "wof:created":1459010166,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":421203863,
-    "wof:lastmodified":1501263263,
+    "wof:lastmodified":1566667306,
     "wof:name":"Sedouikech",
     "wof:parent_id":1108757519,
     "wof:placetype":"locality",

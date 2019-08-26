@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.56227,35.52308,9.60227,35.56308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Djebel Trozza",
         "Jabal Trozza",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343769517,
-    "wof:lastmodified":1537706493,
+    "wof:lastmodified":1566667146,
     "wof:name":"Jebel Trozza",
     "wof:parent_id":1108757383,
     "wof:placetype":"locality",

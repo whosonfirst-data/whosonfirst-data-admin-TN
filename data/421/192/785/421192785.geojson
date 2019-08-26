@@ -10,8 +10,12 @@
     "geom:latitude":35.64773,
     "geom:longitude":10.89046,
     "iso:country":"TN",
+    "lbl:bbox":"10.87046,35.62773,10.91046,35.66773",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0642\u0635\u0631 \u0647\u0644\u0627\u0644"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0441\u0430\u0440-\u0425\u0435\u043b\u043b\u044f\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kassar el Hal"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2468106,
         "gp:id":1442540,
-        "qs:id":1175260,
+        "qs_pg:id":1175260,
         "wd:id":"Q3174782",
         "wk:page":"Ksar Hellal"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421192785,
-    "wof:lastmodified":1563331675,
+    "wof:lastmodified":1566667302,
     "wof:name":"Qasr Hallal",
     "wof:parent_id":1108757539,
     "wof:placetype":"locality",

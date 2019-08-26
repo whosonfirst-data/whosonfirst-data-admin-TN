@@ -10,8 +10,12 @@
     "geom:latitude":37.16939,
     "geom:longitude":10.19064,
     "iso:country":"TN",
+    "lbl:bbox":"10.17064,37.14939,10.21064,37.18939",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u063a\u0627\u0631 \u0627\u0644\u0645\u0644\u062d"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0440-\u0435\u043b\u044c-\u041c\u0456\u043b\u044c\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ruscania"
     ],
     "qs:gn_country":"TN",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":2470996,
         "gp:id":1442304,
-        "qs:id":229261,
+        "qs_pg:id":229261,
         "wd:id":"Q2618068",
         "wk:page":"Ghar al Milh"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421203073,
-    "wof:lastmodified":1563331685,
+    "wof:lastmodified":1566667306,
     "wof:name":"Ghar al Milh",
     "wof:parent_id":1108757287,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":10.0972,
     "gn:country":"TN",
     "gn:fcode":"PPLA",
-    "gn:pop":24948,
+    "gn:population":24948,
     "iso:country":"TN",
+    "lbl:bbox":"10.0772,36.78803,10.1172,36.82803",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0648\u0628\u0629"
     ],
@@ -93,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0443\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "La Manouba"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0646\u0648\u0628\u06c1"
     ],
@@ -121,7 +122,7 @@
     "wof:concordances":{
         "gn:id":2469274,
         "gp:id":1442425,
-        "qs:id":140126,
+        "qs_pg:id":140126,
         "wd:id":"Q27159",
         "wk:page":"Manouba"
     },
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":890434643,
-    "wof:lastmodified":1563331741,
+    "wof:lastmodified":1566667326,
     "wof:name":"Manouba",
     "wof:parent_id":1108757501,
     "wof:placetype":"locality",

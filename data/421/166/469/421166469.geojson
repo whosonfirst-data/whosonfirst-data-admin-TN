@@ -10,9 +10,14 @@
     "geom:latitude":33.80119,
     "geom:longitude":10.88383,
     "iso:country":"TN",
+    "lbl:bbox":"10.86383,33.78119,10.90383,33.82119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al M\u0101\u2019\u012b"
     ],
     "qs:gn_country":"TN",
@@ -44,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2473569,
         "gp:id":1441802,
-        "qs:id":266870
+        "qs_pg:id":266870
     },
     "wof:country":"TN",
     "wof:created":1459008691,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":421166469,
-    "wof:lastmodified":1501263271,
+    "wof:lastmodified":1566667302,
     "wof:name":"Al Ma'i",
     "wof:parent_id":1108757519,
     "wof:placetype":"locality",

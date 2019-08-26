@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.54283,37.19208,9.58283,37.23208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daww\u0101r al Qu\u015fayr",
         "Douar el Ksir"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326906385,
-    "wof:lastmodified":1537706501,
+    "wof:lastmodified":1566667133,
     "wof:name":"Douar el Ksir",
     "wof:parent_id":1108757275,
     "wof:placetype":"locality",

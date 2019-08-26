@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.53273,36.58394,10.57273,36.62394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mianu",
         "Nianou",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260197547,
-    "wof:lastmodified":1537706489,
+    "wof:lastmodified":1566667232,
     "wof:name":"Nianou",
     "wof:parent_id":1108757573,
     "wof:placetype":"locality",

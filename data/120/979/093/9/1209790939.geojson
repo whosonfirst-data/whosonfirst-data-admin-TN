@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.32167,36.32,10.36167,36.36",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062c\u0631\u0645\u0627\u0633"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1209790939,
-    "wof:lastmodified":1564152935,
+    "wof:lastmodified":1566667208,
     "wof:name":"Segermes",
     "wof:parent_id":1108757769,
     "wof:placetype":"locality",

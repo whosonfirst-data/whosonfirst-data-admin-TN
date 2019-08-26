@@ -10,8 +10,12 @@
     "geom:latitude":34.73592,
     "geom:longitude":10.0924,
     "iso:country":"TN",
+    "lbl:bbox":"10.0724,34.71592,10.1124,34.75592",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0639\u0644\u064a"
@@ -42,9 +46,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0435\u0440-\u0410\u043b\u0456-\u0411\u0435\u043d-\u0425\u0430\u043b\u0456\u0444\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Bir Ali Ben Khalifa"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2472379,
         "gp:id":1441996,
-        "qs:id":1298599,
+        "qs_pg:id":1298599,
         "wd:id":"Q1153877",
         "wk:page":"Bir Ali Ben Kh\u00e9lifa"
     },
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":421183533,
-    "wof:lastmodified":1563331721,
+    "wof:lastmodified":1566667318,
     "wof:name":"Bi'r Ali Bin Khalifah",
     "wof:parent_id":1108757597,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.678806,
     "lbl:longitude":10.712183,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.677144,
     "mps:longitude":10.708007,
     "mz:hierarchy_label":1,
@@ -146,7 +147,7 @@
         "Nabeul"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0baa\u0bbf\u0baf\u0bbf\u0ba9\u0bc1\u0bb3\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0ba8\u0baa\u0bbf\u0baf\u0bbf\u0ba9\u0bc1\u0bb3\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c2c\u0c3f\u0c2f\u0c32\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -160,7 +161,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0431\u0443\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Wa\u0163an al Qibl\u012b"
     ],
     "name:urd_x_preferred":[
@@ -244,9 +245,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-04-28",
+    "src:population_date":"2004-04-28",
     "statoids:area_km":"2,788",
     "statoids:area_mi":"1,076",
     "statoids:as_of_date":"2004-04-28",
@@ -271,7 +272,7 @@
         "gp:id":2347244,
         "hasc:id":"TN.NB",
         "iso:id":"TN-21",
-        "qs:id":219622,
+        "qs_pg:id":219622,
         "unlc:id":"TN-21",
         "wd:id":"Q328145",
         "wk:page":"Nabeul Governorate"
@@ -294,11 +295,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565737321,
+    "wof:lastmodified":1566667162,
     "wof:name":"Nabeul",
     "wof:parent_id":85632703,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":693890,
     "wof:population_rank":11,

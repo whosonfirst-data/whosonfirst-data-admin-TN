@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.60115,37.26923,9.64115,37.30923",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dar Ali Ben Hammidou",
         "D\u0101r \u2018Al\u012b Bin \u1e28am\u012bd\u016b",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259549805,
-    "wof:lastmodified":1537706509,
+    "wof:lastmodified":1566667351,
     "wof:name":"Dar Ali Ben Hamidou",
     "wof:parent_id":1108757275,
     "wof:placetype":"locality",

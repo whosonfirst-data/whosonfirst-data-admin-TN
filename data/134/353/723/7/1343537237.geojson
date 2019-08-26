@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.58021,37.18575,9.62021,37.22575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dar Salah Bene Saad",
         "Daww\u0101r \u015e\u0101li\u1e29 Bin Sa\u2018d",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343537237,
-    "wof:lastmodified":1537706498,
+    "wof:lastmodified":1566667140,
     "wof:name":"Douar Salah Ben Saad",
     "wof:parent_id":1108757275,
     "wof:placetype":"locality",

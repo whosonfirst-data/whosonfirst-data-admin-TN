@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.18389,35.30167,10.22389,35.34167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dar Touibia",
         "D\u0101r a\u0163 \u0162uwayb\u012byah",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209232807,
-    "wof:lastmodified":1537706508,
+    "wof:lastmodified":1566667208,
     "wof:name":"Dar et Touibia",
     "wof:parent_id":85632703,
     "wof:placetype":"locality",

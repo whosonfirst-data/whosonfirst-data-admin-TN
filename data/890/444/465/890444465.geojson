@@ -11,10 +11,14 @@
     "geom:longitude":9.00678,
     "gn:country":"TN",
     "gn:fcode":"PPL",
-    "gn:pop":7189,
+    "gn:population":7189,
     "iso:country":"TN",
+    "lbl:bbox":"8.98678,33.46485,9.02678,33.50485",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0644\u0639\u0629"
     ],
@@ -36,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041a\u0430\u043b\u044f\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Galaa"
     ],
     "qs:name":"El Golaa",
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":2473486,
         "gp:id":1442274,
-        "qs:id":1035887,
+        "qs_pg:id":1035887,
         "wd:id":"Q3049891",
         "wk:page":"El Gol\u00e2a"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890444465,
-    "wof:lastmodified":1561766994,
+    "wof:lastmodified":1566667326,
     "wof:name":"El Golaa",
     "wof:parent_id":1108757429,
     "wof:placetype":"locality",

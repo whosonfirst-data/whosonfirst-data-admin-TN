@@ -10,8 +10,11 @@
     "geom:latitude":36.818492,
     "geom:longitude":10.176086,
     "iso:country":"TN",
+    "lbl:bbox":"10.171086,36.813492,10.181086,36.823492",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,15 +36,15 @@
     "qs:woe_id":1441953,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757755,
-        85679123
+        1108757755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1441953,
-        "qs:id":1116908
+        "qs_pg:id":1116908
     },
     "wof:country":"TN",
     "wof:created":1459009636,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":421189789,
-    "wof:lastmodified":1531858646,
+    "wof:lastmodified":1566667311,
     "wof:name":"Bab Djarira",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"11.09667,33.51333,11.13667,33.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saw\u0101\u1e29il"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327195423,
-    "wof:lastmodified":1537706482,
+    "wof:lastmodified":1566667135,
     "wof:name":"Souahel",
     "wof:parent_id":1108757527,
     "wof:placetype":"locality",

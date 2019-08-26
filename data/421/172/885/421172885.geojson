@@ -10,8 +10,12 @@
     "geom:latitude":35.23722,
     "geom:longitude":11.115,
     "iso:country":"TN",
+    "lbl:bbox":"11.095,35.21722,11.135,35.25722",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0627\u0628\u0629"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0431\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sheba"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":2473229,
         "gp:id":1441911,
-        "qs:id":278699,
+        "qs_pg:id":278699,
         "wd:id":"Q516356",
         "wk:page":"Chebba"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421172885,
-    "wof:lastmodified":1563331700,
+    "wof:lastmodified":1566667311,
     "wof:name":"Ash Shabbah",
     "wof:parent_id":1108757469,
     "wof:placetype":"locality",

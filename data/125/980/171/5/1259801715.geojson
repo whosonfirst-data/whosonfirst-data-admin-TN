@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.29667,36.03,9.33667,36.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dar Hadj Ali Ben Sliman",
         "D\u0101r al \u1e28\u0101jj \u2018Al\u012b Bin Sulaym\u0101n"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259801715,
-    "wof:lastmodified":1537706509,
+    "wof:lastmodified":1566667360,
     "wof:name":"Dar el Hadj Ali Ben Slimane",
     "wof:parent_id":1108757679,
     "wof:placetype":"locality",

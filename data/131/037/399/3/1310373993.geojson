@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.27167,36.09222,10.31167,36.13222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "D\u0101r al \u2018Ar\u016bs\u012b",
         "Dar el Aroussi"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310373993,
-    "wof:lastmodified":1537706509,
+    "wof:lastmodified":1566667279,
     "wof:name":"Dar el Aroussi",
     "wof:parent_id":1108757687,
     "wof:placetype":"locality",

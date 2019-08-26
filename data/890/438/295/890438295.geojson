@@ -11,10 +11,14 @@
     "geom:longitude":10.50904,
     "gn:country":"TN",
     "gn:fcode":"PPL",
-    "gn:pop":6942,
+    "gn:population":6942,
     "iso:country":"TN",
+    "lbl:bbox":"10.48904,36.01027,10.52904,36.05027",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0631\u0642\u0644\u0629"
     ],
@@ -48,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u043a\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Hergla"
-    ],
     "qs:name":"Harqalah",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -66,7 +67,7 @@
     "wof:concordances":{
         "gn:id":2470483,
         "gp:id":1442336,
-        "qs:id":1035869,
+        "qs_pg:id":1035869,
         "wd:id":"Q1203456"
     },
     "wof:country":"TN",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":890438295,
-    "wof:lastmodified":1563331737,
+    "wof:lastmodified":1566667325,
     "wof:name":"Harqalah",
     "wof:parent_id":1108757693,
     "wof:placetype":"locality",

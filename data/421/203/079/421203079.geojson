@@ -10,9 +10,14 @@
     "geom:latitude":33.35699,
     "geom:longitude":8.74703,
     "iso:country":"TN",
+    "lbl:bbox":"8.72703,33.33699,8.76703,33.37699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u015eabr\u012byah"
     ],
     "qs:gn_country":"TN",
@@ -44,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2467497,
         "gp:id":1442591,
-        "qs:id":229262
+        "qs_pg:id":229262
     },
     "wof:country":"TN",
     "wof:created":1459010139,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":421203079,
-    "wof:lastmodified":1501263263,
+    "wof:lastmodified":1566667305,
     "wof:name":"Sabriyah",
     "wof:parent_id":1108757433,
     "wof:placetype":"locality",

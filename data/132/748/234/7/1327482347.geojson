@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.41793,35.34957,9.45793,35.38957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar el Tarig",
         "Douar et Tarig"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327482347,
-    "wof:lastmodified":1537706531,
+    "wof:lastmodified":1566667127,
     "wof:name":"Douar et Tarig",
     "wof:parent_id":1108757633,
     "wof:placetype":"locality",

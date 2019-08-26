@@ -10,8 +10,12 @@
     "geom:latitude":36.45692,
     "geom:longitude":9.24751,
     "iso:country":"TN",
+    "lbl:bbox":"9.22751,36.43692,9.26751,36.47692",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0628\u0631\u0633\u0642"
@@ -49,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0431\u0443\u0440\u0441\u0443\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Teboursouk"
     ],
     "qs:gn_country":"TN",
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":2464855,
         "gp:id":1442707,
-        "qs:id":140122,
+        "qs_pg:id":140122,
         "wd:id":"Q1890362",
         "wk:page":"T\u00e9boursouk"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421178847,
-    "wof:lastmodified":1563331728,
+    "wof:lastmodified":1566667321,
     "wof:name":"Tabursuq",
     "wof:parent_id":1108757265,
     "wof:placetype":"locality",

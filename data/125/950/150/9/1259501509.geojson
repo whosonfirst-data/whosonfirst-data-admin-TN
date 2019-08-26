@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"8.91194,36.47694,8.95194,36.51694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u012bd\u012b B\u016b Sh\u016bshah",
         "Sidi Bou Choucha"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259501509,
-    "wof:lastmodified":1537706479,
+    "wof:lastmodified":1566667356,
     "wof:name":"Sidi Bou Choucha",
     "wof:parent_id":1108757359,
     "wof:placetype":"locality",

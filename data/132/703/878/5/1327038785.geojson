@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.03987,35.57316,9.07987,35.61316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u062f\u0644\u064a\u0627\u0646"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1327038785,
-    "wof:lastmodified":1564152826,
+    "wof:lastmodified":1566667128,
     "wof:name":"Jedelienne",
     "wof:parent_id":1108757401,
     "wof:placetype":"locality",

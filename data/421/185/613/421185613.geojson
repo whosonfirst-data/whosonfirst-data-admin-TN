@@ -10,8 +10,12 @@
     "geom:latitude":35.93325,
     "geom:longitude":10.02081,
     "iso:country":"TN",
+    "lbl:bbox":"10.00081,35.91325,10.04081,35.95325",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0628\u064a\u062e\u0629"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0431\u0456\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sbikra"
     ],
     "qs:gn_country":"TN",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":2473163,
         "gp:id":1441907,
-        "qs:id":1035876,
+        "qs_pg:id":1035876,
         "wd:id":"Q3178321",
         "wk:page":"Sbikha"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421185613,
-    "wof:lastmodified":1563331734,
+    "wof:lastmodified":1566667323,
     "wof:name":"As Subaykhah",
     "wof:parent_id":1108757397,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":10.55093,
     "gn:country":"TN",
     "gn:fcode":"PPL",
-    "gn:pop":10024,
+    "gn:population":10024,
     "iso:country":"TN",
+    "lbl:bbox":"10.53093,36.51853,10.57093,36.55853",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Bou Arkoub"
     ],
     "qs:name":"B\u016b \u2018Urq\u016bb",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2471915,
         "gp:id":1442045,
-        "qs:id":1035871
+        "qs_pg:id":1035871
     },
     "wof:country":"TN",
     "wof:created":1469052188,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890438299,
-    "wof:lastmodified":1505343564,
+    "wof:lastmodified":1566667325,
     "wof:name":"B\u016b \u2018Urq\u016bb",
     "wof:parent_id":1108757559,
     "wof:placetype":"locality",

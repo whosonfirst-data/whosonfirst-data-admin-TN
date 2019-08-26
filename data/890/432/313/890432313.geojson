@@ -11,11 +11,15 @@
     "geom:longitude":10.29195,
     "gn:country":"TN",
     "gn:fcode":"PPL",
-    "gn:pop":33421,
+    "gn:population":33421,
     "iso:country":"TN",
+    "lbl:bbox":"10.27195,36.65931,10.31195,36.69931",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Cebala-du-Mornag"
     ],
     "qs:name":"La Sebala du Mornag",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2467521,
         "gp:id":1442589,
-        "qs:id":278690
+        "qs_pg:id":278690
     },
     "wof:country":"TN",
     "wof:created":1469051936,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890432313,
-    "wof:lastmodified":1505343529,
+    "wof:lastmodified":1566667326,
     "wof:name":"La Sebala du Mornag",
     "wof:parent_id":1108757271,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.9725,37.1325,10.0125,37.1725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243043789,
-    "wof:lastmodified":1536888619,
+    "wof:lastmodified":1566667342,
     "wof:name":"Douar Oum et Tine",
     "wof:parent_id":1108757283,
     "wof:placetype":"locality",

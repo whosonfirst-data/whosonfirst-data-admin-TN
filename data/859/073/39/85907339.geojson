@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3593009.51974,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.128996,36.82355,10.128996,36.82355",
     "geom:latitude":36.82355,
     "geom:longitude":10.128996,
     "gn:id":"",
     "iso:country":"TN",
+    "lbl:bbox":"10.123996,36.81855,10.133996,36.82855",
     "lbl:latitude":36.82355,
     "lbl:longitude":10.128996,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.829621,
     "mps:longitude":10.126599,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Cite Rommana"
-    ],
-    "name:unk_x_variant":[
         "Cite Rommana"
     ],
     "qs:gn_adm0_cc":"TN",
@@ -57,17 +56,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757751,
-        85679123
+        1108757751
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725884,
-        "qs:id":230488,
         "qs_pg:id":230488
     },
     "wof:country":"TN",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936540,
+    "wof:lastmodified":1566667158,
     "wof:name":"Cite Rommana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

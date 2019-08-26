@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":36.301062,
     "lbl:longitude":9.856949,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Zaghouan",
     "meso:gadm_adm2":"Fahs",
     "meso:gaul_adm2":"Fahs",
@@ -31,6 +33,7 @@
     "mps:longitude":9.856949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u062d\u0635"
     ],
@@ -59,9 +62,9 @@
         "\u0415\u043b\u044c-\u0424\u0430\u0445\u0441"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-04-28",
+    "src:population_date":"2004-04-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-04-28",
     "statoids:capital":"",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108757759,
-    "wof:lastmodified":1564153018,
+    "wof:lastmodified":1566667267,
     "wof:name":"El Fahs",
     "wof:parent_id":85679179,
     "wof:placetype":"county",

@@ -10,10 +10,14 @@
     "geom:latitude":33.2528,
     "geom:longitude":10.19883,
     "iso:country":"TN",
+    "lbl:bbox":"10.17883,33.2328,10.21883,33.2728",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Ben Kheddaone"
     ],
     "qs:gn_country":"TN",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2472726,
         "gp:id":1441968,
-        "qs:id":507357
+        "qs_pg:id":507357
     },
     "wof:country":"TN",
     "wof:created":1459009309,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421181857,
-    "wof:lastmodified":1505340659,
+    "wof:lastmodified":1566667311,
     "wof:name":"Bani Khaddash",
     "wof:parent_id":1108757513,
     "wof:placetype":"locality",

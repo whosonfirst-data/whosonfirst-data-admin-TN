@@ -10,8 +10,12 @@
     "geom:latitude":37.04045,
     "geom:longitude":9.66557,
     "iso:country":"TN",
+    "lbl:bbox":"9.64557,37.02045,9.68557,37.06045",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0637\u0631"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0442\u0435\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Matem"
     ],
     "qs:gn_country":"TN",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":2469088,
         "gp:id":1442448,
-        "qs:id":944819,
+        "qs_pg:id":944819,
         "wd:id":"Q1207738",
         "wk:page":"Mateur"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421182767,
-    "wof:lastmodified":1563331732,
+    "wof:lastmodified":1566667322,
     "wof:name":"Matir",
     "wof:parent_id":1108757293,
     "wof:placetype":"locality",

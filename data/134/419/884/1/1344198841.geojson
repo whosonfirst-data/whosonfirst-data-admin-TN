@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.49585,34.78543,9.53585,34.82543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sidi Mahmoud Ben Necib",
         "\u1e28awsh Ma\u1e29m\u016bd Bin Na\u015f\u012bb"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344198841,
-    "wof:lastmodified":1537706494,
+    "wof:lastmodified":1566667151,
     "wof:name":"Houch Mahmoud Ben Necib",
     "wof:parent_id":1108757657,
     "wof:placetype":"locality",

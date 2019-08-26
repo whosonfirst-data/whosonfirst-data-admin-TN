@@ -10,8 +10,12 @@
     "geom:latitude":36.76806,
     "geom:longitude":10.27528,
     "iso:country":"TN",
+    "lbl:bbox":"10.25528,36.74806,10.29528,36.78806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0631\u0627\u062f\u0633"
@@ -97,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maxula-Rad\u00e8s"
     ],
     "name:urd_x_preferred":[
@@ -139,7 +143,7 @@
     "wof:concordances":{
         "gn:id":2467815,
         "gp:id":1442581,
-        "qs:id":278693,
+        "qs_pg:id":278693,
         "wd:id":"Q27062",
         "wk:page":"Rad\u00e8s"
     },
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":421178249,
-    "wof:lastmodified":1563331728,
+    "wof:lastmodified":1566667321,
     "wof:name":"Radis",
     "wof:parent_id":1108757271,
     "wof:placetype":"locality",

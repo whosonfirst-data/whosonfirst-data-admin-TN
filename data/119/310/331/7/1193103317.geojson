@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.34694,37.11056,9.38694,37.15056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Souk el Djemaa",
         "Souk el Jemaa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193103317,
-    "wof:lastmodified":1537706535,
+    "wof:lastmodified":1566667227,
     "wof:name":"Souk el Jemaa",
     "wof:parent_id":1108757303,
     "wof:placetype":"locality",

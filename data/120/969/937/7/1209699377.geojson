@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"8.98611,35.80528,9.02611,35.84528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Djouf es Sbiba",
         "Douar Jouf es Sbiba"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209699377,
-    "wof:lastmodified":1537706536,
+    "wof:lastmodified":1566667213,
     "wof:name":"Douar Jouf es Sbiba",
     "wof:parent_id":1108757445,
     "wof:placetype":"locality",

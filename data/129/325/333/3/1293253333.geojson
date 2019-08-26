@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.97472,33.54866,10.01472,33.58866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Had\u00e8ge",
         "Haddej",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293253333,
-    "wof:lastmodified":1537706495,
+    "wof:lastmodified":1566667174,
     "wof:name":"Haddedj",
     "wof:parent_id":1108757323,
     "wof:placetype":"locality",
