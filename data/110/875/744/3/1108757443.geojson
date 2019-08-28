@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":35.965871,
     "lbl:longitude":8.795224,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kef",
     "meso:gadm_adm2":"Dahmani",
     "meso:gaul_adm2":"Dahmani",
@@ -31,6 +33,7 @@
     "mps:longitude":8.795224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0647\u0645\u0627\u0646\u064a"
     ],
@@ -59,9 +62,9 @@
         "\u0414\u0430\u0445\u043c\u0430\u043d\u0456"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-04-28",
+    "src:population_date":"2004-04-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-04-28",
     "statoids:capital":"",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108757443,
-    "wof:lastmodified":1564153017,
+    "wof:lastmodified":1566667266,
     "wof:name":"Dahmani",
     "wof:parent_id":85679131,
     "wof:placetype":"county",

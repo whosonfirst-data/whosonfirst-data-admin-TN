@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.43271,35.10812,9.47271,35.14812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260021107,
-    "wof:lastmodified":1537074729,
+    "wof:lastmodified":1566667234,
     "wof:name":"Bit Bou Saa",
     "wof:parent_id":1108757653,
     "wof:placetype":"locality",

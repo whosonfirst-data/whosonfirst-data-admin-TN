@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13191189.099459,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.161456,36.836398,10.161456,36.836398",
     "geom:latitude":36.836398,
     "geom:longitude":10.161456,
     "gn:latitude":36.83361,
     "gn:longitude":10.16444,
     "iso:country":"TN",
+    "lbl:bbox":"10.156456,36.831398,10.166456,36.841398",
     "lbl:latitude":36.836398,
     "lbl:longitude":10.161456,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.84833,
     "mps:longitude":10.158969,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Beau Site"
-    ],
-    "name:unk_x_variant":[
         "Beau Site"
     ],
     "qs:gn_adm0_cc":"TN",
@@ -59,18 +58,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757755,
-        85679123
+        1108757755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2472558,
         "gp:id":1441984,
-        "qs:id":1168076,
         "qs_pg:id":1168076
     },
     "wof:country":"TN",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935953,
+    "wof:lastmodified":1566667159,
     "wof:name":"Beau Site",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

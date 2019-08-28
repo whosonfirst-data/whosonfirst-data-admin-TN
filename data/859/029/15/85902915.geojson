@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":509740.39384,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.173388,36.799288,10.173388,36.799288",
     "geom:latitude":36.799288,
     "geom:longitude":10.173388,
@@ -13,8 +13,10 @@
     "gn:latitude":36.8,
     "gn:longitude":10.18333,
     "iso:country":"TN",
+    "lbl:bbox":"10.168388,36.794288,10.178388,36.804288",
     "lbl:latitude":36.799288,
     "lbl:longitude":10.173388,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.800253,
     "mps:longitude":10.17396,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
     ],
     "name:spa_x_preferred":[
         "USM A\u00efn Beida"
-    ],
-    "name:unk_x_variant":[
-        "La M\u00e9dina"
     ],
     "qs:gn_adm0_cc":"TN",
     "qs:gn_fcode":"PPLX",
@@ -73,19 +72,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757755,
-        85679123
+        1108757755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "fct:id":"07dc006a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2473577,
         "gp:id":1442400,
-        "qs:id":1116983,
         "qs_pg:id":1116983
     },
     "wof:country":"TN",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935954,
+    "wof:lastmodified":1566667159,
     "wof:name":"La M\u00e9dina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

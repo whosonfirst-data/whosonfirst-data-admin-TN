@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.59194,34.81389,10.63194,34.85389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243017573,
-    "wof:lastmodified":1536927597,
+    "wof:lastmodified":1566667332,
     "wof:name":"El Beniane",
     "wof:parent_id":1108757625,
     "wof:placetype":"locality",

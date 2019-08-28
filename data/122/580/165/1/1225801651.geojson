@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.48917,35.92417,9.52917,35.96417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dashrat B\u016b Sabioun",
         "Dechret Bou Sabioun"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225801651,
-    "wof:lastmodified":1537706504,
+    "wof:lastmodified":1566667372,
     "wof:name":"Dechret Bou Sabioun",
     "wof:parent_id":1108757681,
     "wof:placetype":"locality",

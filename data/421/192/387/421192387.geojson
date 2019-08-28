@@ -10,10 +10,14 @@
     "geom:latitude":36.82639,
     "geom:longitude":10.31806,
     "iso:country":"TN",
+    "lbl:bbox":"10.29806,36.80639,10.33806,36.84639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00e9r\u00e9dine"
     ],
     "qs:gn_country":"TN",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2469794,
         "gp:id":1442384,
-        "qs:id":1168086
+        "qs_pg:id":1168086
     },
     "wof:country":"TN",
     "wof:created":1459009735,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":421192387,
-    "wof:lastmodified":1527716116,
+    "wof:lastmodified":1566667302,
     "wof:name":"Khayr ad Din",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

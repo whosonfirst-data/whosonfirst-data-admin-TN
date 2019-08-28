@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11795686.627945,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.134103,36.811173,10.134103,36.811173",
     "geom:latitude":36.811173,
     "geom:longitude":10.134103,
     "gn:id":"",
     "iso:country":"TN",
+    "lbl:bbox":"10.129103,36.806173,10.139103,36.816173",
     "lbl:latitude":36.811173,
     "lbl:longitude":10.134103,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.815881,
     "mps:longitude":10.109275,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Cite El Habib"
-    ],
-    "name:unk_x_variant":[
         "Cite El Habib"
     ],
     "qs:gn_adm0_cc":"TN",
@@ -57,17 +56,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757755,
-        85679123
+        1108757755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725885,
-        "qs:id":1262817,
         "qs_pg:id":1262817
     },
     "wof:country":"TN",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936541,
+    "wof:lastmodified":1566667159,
     "wof:name":"Cite El Habib",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

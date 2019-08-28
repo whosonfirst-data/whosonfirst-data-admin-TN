@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.31333,36.29667,9.35333,36.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dechret el Aarara",
         "Dechrat el Araara",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293018911,
-    "wof:lastmodified":1537706506,
+    "wof:lastmodified":1566667168,
     "wof:name":"Dechrat el Araara",
     "wof:parent_id":1108757667,
     "wof:placetype":"locality",

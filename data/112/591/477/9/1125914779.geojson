@@ -9,15 +9,18 @@
     "geom:bbox":"8.78024,36.50114,8.78024,36.50114",
     "geom:latitude":36.50114,
     "geom:longitude":8.78024,
-    "gn:gn_country":"TN",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":51408,
+    "gn:country":"TN",
+    "gn:fcode":"PPLA",
     "gn:population":51408,
     "iso:country":"TN",
+    "lbl:bbox":"8.76024,36.48114,8.80024,36.52114",
     "lbl:latitude":36.50114,
     "lbl:longitude":8.78024,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062c\u0646\u062f\u0648\u0628\u0629"
@@ -88,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0435\u043d\u0434\u0443\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Souq el Arba"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +112,7 @@
     "qs_pg:qs_id":1035862,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1125914779,
-    "wof:lastmodified":1563331746,
+    "wof:lastmodified":1566667328,
     "wof:name":"Jendouba",
     "wof:parent_id":1108757365,
     "wof:placetype":"locality",

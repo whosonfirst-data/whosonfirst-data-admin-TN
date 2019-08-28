@@ -10,8 +10,12 @@
     "geom:latitude":35.85673,
     "geom:longitude":8.47654,
     "iso:country":"TN",
+    "lbl:bbox":"8.45654,35.83673,8.49654,35.87673",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0646\u0632\u0644 \u0633\u0627\u0644\u0645"
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043d\u0437\u0435\u043b\u044c-\u0421\u0430\u043b\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u012bd\u012b \u2018Umar Bin S\u0101lim"
     ],
     "qs:gn_country":"TN",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":2469252,
         "gp:id":1442435,
-        "qs:id":1298629,
+        "qs_pg:id":1298629,
         "wd:id":"Q659504",
         "wk:page":"Menzel Salem"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421200289,
-    "wof:lastmodified":1563331712,
+    "wof:lastmodified":1566667316,
     "wof:name":"Manzil Salim",
     "wof:parent_id":1108757465,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"8.76657,36.29411,8.76657,36.29411",
     "geom:latitude":36.29411,
     "geom:longitude":8.76657,
-    "gn:gn_country":"TN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3393,
+    "gn:country":"TN",
+    "gn:fcode":"PPL",
     "gn:population":3393,
     "iso:country":"TN",
+    "lbl:bbox":"8.74657,36.27411,8.78657,36.31411",
     "lbl:latitude":36.29411,
     "lbl:longitude":8.76657,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0646\u0628\u0631"
@@ -40,9 +43,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0431\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Nebeur"
-    ],
     "qs_pg:aaroncc":"TN",
     "qs_pg:gn_country":"TN",
     "qs_pg:gn_fcode":"PPL",
@@ -55,7 +55,7 @@
     "qs_pg:qs_id":140123,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125792521,
-    "wof:lastmodified":1563331748,
+    "wof:lastmodified":1566667329,
     "wof:name":"Nibbar",
     "wof:parent_id":1108757461,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.9675,36.76222,11.0075,36.80222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0632\u0644 \u062a\u0645\u064a\u0645"
     ],
@@ -59,8 +63,7 @@
         "Menzel Jemime",
         "Menzel Temine",
         "Menzel-Temimi",
-        "Menzel Termine",
-        "Menzel Temime"
+        "Menzel Termine"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1259894413,
-    "wof:lastmodified":1564153130,
+    "wof:lastmodified":1566667360,
     "wof:name":"Menzel Temime",
     "wof:parent_id":1108757587,
     "wof:placetype":"locality",

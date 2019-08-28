@@ -10,8 +10,12 @@
     "geom:latitude":36.4,
     "geom:longitude":10.61667,
     "iso:country":"TN",
+    "lbl:bbox":"10.59667,36.38,10.63667,36.42",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0645\u0627\u0645\u0627\u062a"
@@ -121,9 +125,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043c\u043c\u0430\u043c\u0435\u0442"
     ],
-    "name:unk_x_variant":[
-        "Hammamet"
-    ],
     "name:urd_x_preferred":[
         "\u062d\u0645\u0627\u0645\u0627\u062a\u060c \u062a\u06cc\u0648\u0646\u0633"
     ],
@@ -166,7 +167,7 @@
     "wof:concordances":{
         "gn:id":2473744,
         "gp:id":1441763,
-        "qs:id":140140,
+        "qs_pg:id":140140,
         "wd:id":"Q339535",
         "wk:page":"Hammamet, Tunisia"
     },
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":421195929,
-    "wof:lastmodified":1563331679,
+    "wof:lastmodified":1566667303,
     "wof:name":"Al Hammamat",
     "wof:parent_id":1108757569,
     "wof:placetype":"locality",

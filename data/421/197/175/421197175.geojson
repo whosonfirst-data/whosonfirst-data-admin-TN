@@ -10,8 +10,11 @@
     "geom:latitude":36.83889,
     "geom:longitude":10.17278,
     "iso:country":"TN",
+    "lbl:bbox":"10.16778,36.83389,10.17778,36.84389",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":1442071,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757755,
-        85679123
+        1108757755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2471829,
         "gp:id":1442071,
-        "qs:id":1352996
+        "qs_pg:id":1352996
     },
     "wof:country":"TN",
     "wof:created":1459009905,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421197175,
-    "wof:lastmodified":1531858751,
+    "wof:lastmodified":1566667313,
     "wof:name":"Cr\u00e9mieuxville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

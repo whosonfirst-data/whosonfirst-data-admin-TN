@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.63639,35.60583,9.67639,35.64583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "En Nekrila",
         "En Nekhila"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209113621,
-    "wof:lastmodified":1537706536,
+    "wof:lastmodified":1566667215,
     "wof:name":"En Nekhila",
     "wof:parent_id":85632703,
     "wof:placetype":"locality",

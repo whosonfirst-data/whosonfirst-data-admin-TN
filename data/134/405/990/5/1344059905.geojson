@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"8.40936,35.14896,8.44936,35.18896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "B\u016b Shabakah",
         "Bou Chebka"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344059905,
-    "wof:lastmodified":1537706510,
+    "wof:lastmodified":1566667153,
     "wof:name":"Bou Chebka",
     "wof:parent_id":1108757407,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"10.80612,36.46499,10.80612,36.46499",
     "geom:latitude":36.46499,
     "geom:longitude":10.80612,
-    "gn:gn_country":"TN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6969,
+    "gn:country":"TN",
+    "gn:fcode":"PPL",
     "gn:population":6969,
     "iso:country":"TN",
+    "lbl:bbox":"10.78612,36.44499,10.82612,36.48499",
     "lbl:latitude":36.46499,
     "lbl:longitude":10.80612,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u0645\u0648\u0631\u0629"
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041c\u0430\u0430\u043c\u0443\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Ma\u2018m\u016brah"
     ],
     "qs_pg:aaroncc":"TN",
@@ -52,7 +55,7 @@
     "qs_pg:qs_id":1035891,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125776299,
-    "wof:lastmodified":1563331749,
+    "wof:lastmodified":1566667329,
     "wof:name":"El Maamoura",
     "wof:parent_id":1108757563,
     "wof:placetype":"locality",

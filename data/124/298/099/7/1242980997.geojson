@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"8.66333,36.88,8.70333,36.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Douar Sidi Salah Ben Assine",
         "Douar Sidi Salah Ben Hassine",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242980997,
-    "wof:lastmodified":1537706497,
+    "wof:lastmodified":1566667346,
     "wof:name":"Douar Sidi Salah Ben Hassine",
     "wof:parent_id":1108757373,
     "wof:placetype":"locality",

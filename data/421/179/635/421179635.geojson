@@ -10,10 +10,14 @@
     "geom:latitude":35.70915,
     "geom:longitude":10.67397,
     "iso:country":"TN",
+    "lbl:bbox":"10.65397,35.68915,10.69397,35.72915",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uardenine"
     ],
     "qs:gn_country":"TN",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2473420,
         "gp:id":1441868,
-        "qs:id":1221021
+        "qs_pg:id":1221021
     },
     "wof:country":"TN",
     "wof:created":1459009227,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421179635,
-    "wof:lastmodified":1505340643,
+    "wof:lastmodified":1566667320,
     "wof:name":"Al Wardanin",
     "wof:parent_id":1108757549,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":33.72638,
     "geom:longitude":10.75664,
     "iso:country":"TN",
+    "lbl:bbox":"10.73664,33.70638,10.77664,33.74638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u062c\u064a\u0645"
@@ -58,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0434\u0436\u0456\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Humt-Ajim"
     ],
     "qs:gn_country":"TN",
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":2473937,
         "gp:id":1441713,
-        "qs:id":1221017,
+        "qs_pg:id":1221017,
         "wd:id":"Q979167",
         "wk:page":"Ajim"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421195109,
-    "wof:lastmodified":1563331676,
+    "wof:lastmodified":1566667303,
     "wof:name":"Ajim",
     "wof:parent_id":1108757515,
     "wof:placetype":"locality",

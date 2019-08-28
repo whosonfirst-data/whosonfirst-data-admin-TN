@@ -10,8 +10,12 @@
     "geom:latitude":35.67139,
     "geom:longitude":10.31583,
     "iso:country":"TN",
+    "lbl:bbox":"10.29583,35.65139,10.33583,35.69139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0627\u0644\u0647\u0627\u0646\u064a"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0434\u0456-\u0435\u043b\u044c-\u0413\u0430\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Hani"
     ],
     "qs:gn_country":"TN",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2466499,
         "gp:id":1442638,
-        "qs:id":1298677,
+        "qs_pg:id":1298677,
         "wd:id":"Q3179033",
         "wk:page":"Sidi El Hani"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421200299,
-    "wof:lastmodified":1563331715,
+    "wof:lastmodified":1566667317,
     "wof:name":"Sidi al Hani'",
     "wof:parent_id":1108757705,
     "wof:placetype":"locality",

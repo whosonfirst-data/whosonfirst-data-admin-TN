@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3048247.83,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.156995,36.81781,10.156995,36.81781",
     "geom:latitude":36.81781,
     "geom:longitude":10.156995,
     "gn:id":"",
     "iso:country":"TN",
+    "lbl:bbox":"10.151995,36.81281,10.161995,36.82281",
     "lbl:latitude":36.81781,
     "lbl:longitude":10.156995,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.821025,
     "mps:longitude":10.156566,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Jbal Lahmar"
-    ],
-    "name:unk_x_variant":[
         "Jbal Lahmar"
     ],
     "qs:gn_adm0_cc":"TN",
@@ -57,17 +56,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757755,
-        85679123
+        1108757755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725912,
-        "qs:id":14544,
         "qs_pg:id":14544
     },
     "wof:country":"TN",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936549,
+    "wof:lastmodified":1566667157,
     "wof:name":"Jbal Lahmar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

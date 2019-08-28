@@ -10,8 +10,12 @@
     "geom:latitude":33.44269,
     "geom:longitude":8.92065,
     "iso:country":"TN",
+    "lbl:bbox":"8.90065,33.42269,8.94065,33.46269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Zaafrane"
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0439\u043d-\u0414\u0440\u0430\u0445\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Za\u2018far\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":2464050,
         "gp:id":1442764,
-        "qs:id":479057,
+        "qs_pg:id":479057,
         "wd:id":"Q8063393",
         "wk:page":"Zaafrane, Tunisia"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421181179,
-    "wof:lastmodified":1563331703,
+    "wof:lastmodified":1566667312,
     "wof:name":"Zafaran",
     "wof:parent_id":1108757431,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.08174,37.1213,10.12174,37.1613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0648\u0633\u062c\u0629"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293850169,
-    "wof:lastmodified":1564152883,
+    "wof:lastmodified":1566667173,
     "wof:name":"Aousja",
     "wof:parent_id":1108757287,
     "wof:placetype":"locality",

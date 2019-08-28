@@ -10,8 +10,12 @@
     "geom:latitude":36.95442,
     "geom:longitude":8.75801,
     "iso:country":"TN",
+    "lbl:bbox":"8.73801,36.93442,8.77801,36.97442",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0637\u0628\u0631\u0642\u0629"
@@ -97,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0431\u0430\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Thabraca"
     ],
     "name:zho_x_preferred":[
@@ -136,7 +140,7 @@
     "wof:concordances":{
         "gn:id":2464871,
         "gp:id":1442703,
-        "qs:id":316902,
+        "qs_pg:id":316902,
         "wd:id":"Q986213",
         "wk:page":"Tabarka"
     },
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":421174075,
-    "wof:lastmodified":1563331692,
+    "wof:lastmodified":1566667308,
     "wof:name":"Tabarqah",
     "wof:parent_id":1108757373,
     "wof:placetype":"locality",

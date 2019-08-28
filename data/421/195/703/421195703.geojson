@@ -10,6 +10,8 @@
     "geom:latitude":36.800587,
     "geom:longitude":10.179269,
     "iso:country":"TN",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -417,7 +419,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043d\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tunis-Ville"
     ],
     "name:urd_x_preferred":[
@@ -591,7 +593,7 @@
     "wof:concordances":{
         "gn:id":2464470,
         "gp:id":1442746,
-        "qs:id":492933,
+        "qs_pg:id":492933,
         "wd:id":"Q3572",
         "wk:page":"Tunis"
     },
@@ -608,7 +610,7 @@
         }
     ],
     "wof:id":421195703,
-    "wof:lastmodified":1563331679,
+    "wof:lastmodified":1566667303,
     "wof:name":"Tunis",
     "wof:parent_id":85679123,
     "wof:placetype":"locality",

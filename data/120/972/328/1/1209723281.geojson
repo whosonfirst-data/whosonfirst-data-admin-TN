@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.51944,35.62361,9.55944,35.66361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209723281,
-    "wof:lastmodified":1536385399,
+    "wof:lastmodified":1566667220,
     "wof:name":"Debdabat el Jerardia",
     "wof:parent_id":1108757375,
     "wof:placetype":"locality",

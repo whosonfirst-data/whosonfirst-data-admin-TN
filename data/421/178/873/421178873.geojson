@@ -10,6 +10,9 @@
     "geom:latitude":35.6781,
     "geom:longitude":10.09633,
     "iso:country":"TN",
+    "lbl:bbox":"10.07633,35.6581,10.11633,35.6981",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -221,7 +224,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0439\u0440\u0443\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qairwan"
     ],
     "name:urd_x_preferred":[
@@ -361,7 +364,7 @@
     "wof:concordances":{
         "gn:id":2473449,
         "gp:id":1441859,
-        "qs:id":140133,
+        "qs_pg:id":140133,
         "wd:id":"Q179570",
         "wk:page":"Kairouan"
     },
@@ -378,7 +381,7 @@
         }
     ],
     "wof:id":421178873,
-    "wof:lastmodified":1563331725,
+    "wof:lastmodified":1566667320,
     "wof:name":"Al Qayrawan",
     "wof:parent_id":1108757389,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":34.93212,
     "geom:longitude":9.19321,
     "iso:country":"TN",
+    "lbl:bbox":"9.17321,34.91212,9.21321,34.95212",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0627\u0644\u062d\u0641\u064a"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0435\u0440-\u0435\u043b\u044c-\u0425\u0430\u0444\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bir el Afey"
     ],
     "qs:gn_country":"TN",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":2472380,
         "gp:id":1441991,
-        "qs:id":1298600,
+        "qs_pg:id":1298600,
         "wd:id":"Q2737160",
         "wk:page":"Bir El Hafey"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421183535,
-    "wof:lastmodified":1563331722,
+    "wof:lastmodified":1566667319,
     "wof:name":"Bi'r al Hufayy",
     "wof:parent_id":1108757631,
     "wof:placetype":"locality",

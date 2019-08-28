@@ -9,15 +9,18 @@
     "geom:bbox":"11.01442,37.05002,11.01442,37.05002",
     "geom:latitude":37.05002,
     "geom:longitude":11.01442,
-    "gn:gn_country":"TN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9273,
+    "gn:country":"TN",
+    "gn:fcode":"PPL",
     "gn:population":9273,
     "iso:country":"TN",
+    "lbl:bbox":"10.99442,37.03002,11.03442,37.07002",
     "lbl:latitude":37.05002,
     "lbl:longitude":11.01442,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u0648\u0627\u0631\u064a\u0629"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0425\u0443\u0430\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al H\u016bw\u0101r\u012byah"
     ],
     "qs_pg:aaroncc":"TN",
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":1035893,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125896947,
-    "wof:lastmodified":1563331745,
+    "wof:lastmodified":1566667328,
     "wof:name":"El Haouaria",
     "wof:parent_id":1108757577,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.592743,
     "lbl:longitude":10.774498,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.59323,
     "mps:longitude":10.765691,
     "mz:hierarchy_label":1,
@@ -166,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0430\u0441\u0442\u0456\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wil\u0101yat al Munast\u012br"
     ],
     "name:urd_x_preferred":[
@@ -250,9 +251,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-04-28",
+    "src:population_date":"2004-04-28",
     "statoids:area_km":"1,019",
     "statoids:area_mi":"393",
     "statoids:as_of_date":"2004-04-28",
@@ -277,7 +278,7 @@
         "gp:id":2347241,
         "hasc:id":"TN.MS",
         "iso:id":"TN-52",
-        "qs:id":424067,
+        "qs_pg:id":424067,
         "unlc:id":"TN-52",
         "wd:id":"Q318102",
         "wk:page":"Monastir Governorate"
@@ -300,11 +301,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565737322,
+    "wof:lastmodified":1566667162,
     "wof:name":"Monastir",
     "wof:parent_id":85632703,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":455590,
     "wof:population_rank":10,

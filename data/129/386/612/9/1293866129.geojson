@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.71456,35.55525,10.75456,35.59525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u0631\u0645\u062f\u064a\u0646"
     ],
@@ -44,7 +48,6 @@
         "\u0417\u0435\u0440\u0430\u043c\u0434\u0456\u043d"
     ],
     "name:und_x_variant":[
-        "Zeramdine",
         "Zeramedine",
         "Zramedine",
         "Az Zar\u0101mid\u012bn"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1293866129,
-    "wof:lastmodified":1564152898,
+    "wof:lastmodified":1566667183,
     "wof:name":"Zeramedine",
     "wof:parent_id":1108757557,
     "wof:placetype":"locality",

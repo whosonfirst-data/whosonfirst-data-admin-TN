@@ -10,8 +10,12 @@
     "geom:latitude":36.87818,
     "geom:longitude":10.32466,
     "iso:country":"TN",
+    "lbl:bbox":"10.30466,36.85818,10.34466,36.89818",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0633\u0649"
@@ -94,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041c\u0430\u0440\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Marsa"
     ],
     "name:urd_x_preferred":[
@@ -134,7 +138,7 @@
     "wof:concordances":{
         "gn:id":2473540,
         "gp:id":1441824,
-        "qs:id":910824,
+        "qs_pg:id":910824,
         "wd:id":"Q27230",
         "wk:page":"La Marsa"
     },
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":421174941,
-    "wof:lastmodified":1563331691,
+    "wof:lastmodified":1566667307,
     "wof:name":"Al Marsa",
     "wof:parent_id":1108757755,
     "wof:placetype":"locality",

@@ -10,7 +10,12 @@
     "geom:latitude":36.553333,
     "geom:longitude":9.445666,
     "iso:country":"TN",
+    "lbl:bbox":"9.4256665,36.533333,9.4656665,36.573333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -40,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1442723,
-        "qs:id":1117022
+        "qs_pg:id":1117022
     },
     "wof:country":"TN",
     "wof:created":1459009636,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":421189801,
-    "wof:lastmodified":1494646309,
+    "wof:lastmodified":1566667311,
     "wof:name":"Tastor",
     "wof:parent_id":1108757267,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.01493,36.74918,9.05493,36.78918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hansh\u012br al Qu\u015f\u015fah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243082407,
-    "wof:lastmodified":1537706494,
+    "wof:lastmodified":1566667332,
     "wof:name":"Hennchir Goussa",
     "wof:parent_id":1108757251,
     "wof:placetype":"locality",

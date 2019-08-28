@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.50016,37.10919,9.54016,37.14919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343738099,
-    "wof:lastmodified":1536842152,
+    "wof:lastmodified":1566667156,
     "wof:name":"Dar el Cheikh Kilani",
     "wof:parent_id":1108757285,
     "wof:placetype":"locality",

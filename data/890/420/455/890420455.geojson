@@ -11,10 +11,14 @@
     "geom:longitude":10.95756,
     "gn:country":"TN",
     "gn:fcode":"PPL",
-    "gn:pop":4717,
+    "gn:population":4717,
     "iso:country":"TN",
+    "lbl:bbox":"10.93756,36.70818,10.97756,36.74818",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0632\u0644 \u062d\u0631"
     ],
@@ -33,7 +37,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043d\u0437\u0435\u043b\u044c-\u0425\u043e\u0440\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mennzel Heur"
     ],
     "qs:name":"Menzel Heurr",
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":2469258,
         "gp:id":1442431,
-        "qs:id":140124,
+        "qs_pg:id":140124,
         "wd:id":"Q2749664"
     },
     "wof:country":"TN",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890420455,
-    "wof:lastmodified":1563331741,
+    "wof:lastmodified":1566667326,
     "wof:name":"Menzel Heurr",
     "wof:parent_id":1108757587,
     "wof:placetype":"locality",

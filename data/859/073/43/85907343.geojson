@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3197728.091376,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.153287,36.809526,10.153287,36.809526",
     "geom:latitude":36.809526,
     "geom:longitude":10.153287,
     "gn:id":"",
     "iso:country":"TN",
+    "lbl:bbox":"10.148287,36.804526,10.158287,36.814526",
     "lbl:latitude":36.809526,
     "lbl:longitude":10.153287,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.807233,
     "mps:longitude":10.152433,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Bou Choucha"
-    ],
-    "name:unk_x_variant":[
         "Bou Choucha"
     ],
     "qs:gn_adm0_cc":"TN",
@@ -57,17 +56,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757755,
-        85679123
+        1108757755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725886,
-        "qs:id":237514,
         "qs_pg:id":237514
     },
     "wof:country":"TN",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936541,
+    "wof:lastmodified":1566667158,
     "wof:name":"Bou Choucha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

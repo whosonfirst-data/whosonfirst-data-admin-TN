@@ -10,8 +10,11 @@
     "geom:latitude":36.793056,
     "geom:longitude":10.176676,
     "iso:country":"TN",
+    "lbl:bbox":"10.171676,36.788056,10.181676,36.798056",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,15 +36,15 @@
     "qs:woe_id":22725905,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757755,
-        85679123
+        1108757755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725905,
-        "qs:id":1087585
+        "qs_pg:id":1087585
     },
     "wof:country":"TN",
     "wof:created":1459009533,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":421188079,
-    "wof:lastmodified":1531858611,
+    "wof:lastmodified":1566667311,
     "wof:name":"Sidi El Bechir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

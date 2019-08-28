@@ -10,8 +10,12 @@
     "geom:latitude":35.56626,
     "geom:longitude":8.44412,
     "iso:country":"TN",
+    "lbl:bbox":"8.42412,35.54626,8.46412,35.58626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062d\u064a\u062f\u0631\u0629"
@@ -49,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0434\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hennchir Ha\u00efdra"
     ],
     "qs:gn_country":"TN",
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":2470789,
         "gp:id":1442317,
-        "qs:id":983983,
+        "qs_pg:id":983983,
         "wd:id":"Q2358652",
         "wk:page":"Ha\u00efdra"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421183759,
-    "wof:lastmodified":1563331723,
+    "wof:lastmodified":1566667320,
     "wof:name":"Haidra",
     "wof:parent_id":1108757411,
     "wof:placetype":"locality",

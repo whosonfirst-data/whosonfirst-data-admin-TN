@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.47426,32.89476,10.51426,32.93476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guettoufa",
         "Qa\u0163\u016bfah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343999089,
-    "wof:lastmodified":1537706484,
+    "wof:lastmodified":1566667141,
     "wof:name":"Guetoufa",
     "wof:parent_id":1108757731,
     "wof:placetype":"locality",

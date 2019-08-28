@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.50527,34.72059,10.54527,34.76059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0642\u0627\u0631\u0628"
     ],
@@ -51,8 +55,7 @@
     ],
     "name:und_x_variant":[
         "El Agareb",
-        "Al \u2018Aq\u0101rib",
-        "Agareb"
+        "Al \u2018Aq\u0101rib"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1226487917,
-    "wof:lastmodified":1564153152,
+    "wof:lastmodified":1566667375,
     "wof:name":"Agareb",
     "wof:parent_id":1108757595,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"10.85528,36.72556,10.85528,36.72556",
     "geom:latitude":36.72556,
     "geom:longitude":10.85528,
-    "gn:gn_country":"TN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3602,
+    "gn:country":"TN",
+    "gn:fcode":"PPL",
     "gn:population":3602,
     "iso:country":"TN",
+    "lbl:bbox":"10.83528,36.70556,10.87528,36.74556",
     "lbl:latitude":36.72556,
     "lbl:longitude":10.85528,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u064a\u062f\u0629"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041c\u0456\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mida"
     ],
     "qs_pg:aaroncc":"TN",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":1035889,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125914811,
-    "wof:lastmodified":1563331746,
+    "wof:lastmodified":1566667328,
     "wof:name":"El Mida",
     "wof:parent_id":1108757571,
     "wof:placetype":"locality",

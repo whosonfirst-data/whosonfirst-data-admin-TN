@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.92583,36.91694,10.96583,36.95694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dar Ahmed Ben Hadj Yahia",
         "Dar Ahmed Ben Haj Yahia"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343227661,
-    "wof:lastmodified":1537706532,
+    "wof:lastmodified":1566667148,
     "wof:name":"Dar Ahmed Ben Haj Yahia",
     "wof:parent_id":1108757577,
     "wof:placetype":"locality",

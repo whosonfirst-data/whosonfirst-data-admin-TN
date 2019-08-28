@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.05167,36.71194,10.09167,36.75194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0637\u0627\u0631"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "El Attar",
-        "Al \u2018A\u0163\u0163\u0101r",
-        "Attar"
+        "Al \u2018A\u0163\u0163\u0101r"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1277120883,
-    "wof:lastmodified":1564152914,
+    "wof:lastmodified":1566667193,
     "wof:name":"Attar",
     "wof:parent_id":1108757755,
     "wof:placetype":"locality",

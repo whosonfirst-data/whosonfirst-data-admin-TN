@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"8.78069,35.6463,8.82069,35.6863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daww\u0101r \u2018Al\u012b Bin Khul\u016b\u0163"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293393193,
-    "wof:lastmodified":1537706502,
+    "wof:lastmodified":1566667169,
     "wof:name":"Douar Ali Ben Krelout",
     "wof:parent_id":1108757401,
     "wof:placetype":"locality",

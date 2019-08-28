@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1632362.053894,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.169838,36.804376,10.169838,36.804376",
     "geom:latitude":36.804376,
     "geom:longitude":10.169838,
     "gn:id":"",
     "iso:country":"TN",
+    "lbl:bbox":"10.164838,36.799376,10.174838,36.809376",
     "lbl:latitude":36.804376,
     "lbl:longitude":10.169838,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.805088,
     "mps:longitude":10.165434,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "El Halfaouine"
-    ],
-    "name:unk_x_variant":[
         "El Halfaouine"
     ],
     "qs:gn_adm0_cc":"TN",
@@ -57,17 +56,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757755,
-        85679123
+        1108757755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725889,
-        "qs:id":230430,
         "qs_pg:id":230430
     },
     "wof:country":"TN",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936542,
+    "wof:lastmodified":1566667158,
     "wof:name":"El Halfaouine",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

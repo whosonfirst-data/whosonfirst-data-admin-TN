@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.39667,36.66333,9.43667,36.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oued Zargua",
         "Oued Zarta",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1225959065,
-    "wof:lastmodified":1537706475,
+    "wof:lastmodified":1566667364,
     "wof:name":"Oued Zerga",
     "wof:parent_id":1108757267,
     "wof:placetype":"locality",

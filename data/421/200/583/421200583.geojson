@@ -10,6 +10,9 @@
     "geom:latitude":37.27442,
     "geom:longitude":9.87391,
     "iso:country":"TN",
+    "lbl:bbox":"9.85391,37.25442,9.89391,37.29442",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -188,7 +191,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0437\u0435\u0440\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hippou Aksa"
     ],
     "name:urd_x_preferred":[
@@ -332,7 +335,7 @@
     "wof:concordances":{
         "gn:id":2472706,
         "gp:id":1442020,
-        "qs:id":887892,
+        "qs_pg:id":887892,
         "wd:id":"Q189546"
     },
     "wof:country":"TN",
@@ -348,7 +351,7 @@
         }
     ],
     "wof:id":421200583,
-    "wof:lastmodified":1563331717,
+    "wof:lastmodified":1566667317,
     "wof:name":"Bizerte",
     "wof:parent_id":1108757281,
     "wof:placetype":"locality",

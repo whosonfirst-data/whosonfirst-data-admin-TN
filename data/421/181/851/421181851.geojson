@@ -10,8 +10,12 @@
     "geom:latitude":35.72917,
     "geom:longitude":10.58082,
     "iso:country":"TN",
+    "lbl:bbox":"10.56082,35.70917,10.60082,35.74917",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0633\u0627\u0643\u0646"
@@ -79,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0441\u0430\u043a\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Msaken"
-    ],
     "name:zho_x_preferred":[
         "\u59c6\u85a9\u80af"
     ],
@@ -118,7 +119,7 @@
     "wof:concordances":{
         "gn:id":2469140,
         "gp:id":1442440,
-        "qs:id":507352,
+        "qs_pg:id":507352,
         "wd:id":"Q1014928",
         "wk:page":"M'saken"
     },
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421181851,
-    "wof:lastmodified":1563331700,
+    "wof:lastmodified":1566667312,
     "wof:name":"Masakin",
     "wof:parent_id":1108757701,
     "wof:placetype":"locality",

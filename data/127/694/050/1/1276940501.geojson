@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.83194,37.05,9.87194,37.09",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daww\u0101r ad Duwayrah",
         "Douira",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276940501,
-    "wof:lastmodified":1537706503,
+    "wof:lastmodified":1566667189,
     "wof:name":"Douar ed Douira",
     "wof:parent_id":1108757297,
     "wof:placetype":"locality",

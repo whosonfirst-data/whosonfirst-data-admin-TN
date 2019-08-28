@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.81585,33.79656,10.85585,33.83656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327285043,
-    "wof:lastmodified":1536893479,
+    "wof:lastmodified":1566667136,
     "wof:name":"Medjine",
     "wof:parent_id":1108757517,
     "wof:placetype":"locality",

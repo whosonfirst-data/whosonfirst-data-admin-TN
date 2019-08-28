@@ -11,11 +11,15 @@
     "geom:longitude":9.75,
     "gn:country":"TN",
     "gn:fcode":"PPL",
-    "gn:pop":18551,
+    "gn:population":18551,
     "iso:country":"TN",
+    "lbl:bbox":"9.73,37.14667,9.77,37.18667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Douar Tindja"
     ],
     "qs:name":"Daww\u0101r T\u012bnjah",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2471475,
         "gp:id":1442740,
-        "qs:id":1035870
+        "qs_pg:id":1035870
     },
     "wof:country":"TN",
     "wof:created":1469052188,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890438297,
-    "wof:lastmodified":1505343564,
+    "wof:lastmodified":1566667325,
     "wof:name":"Daww\u0101r T\u012bnjah",
     "wof:parent_id":1108757275,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":35.62477,
     "geom:longitude":10.66727,
     "iso:country":"TN",
+    "lbl:bbox":"10.64727,35.60477,10.68727,35.64477",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0646\u0632\u0644 \u0643\u0627\u0645\u0644"
@@ -36,9 +40,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043d\u0437\u0435\u043b\u044c-\u041a\u0430\u043c\u0435\u043b\u044c"
-    ],
-    "name:unk_x_variant":[
-        "Menzel Kamel"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -71,7 +72,7 @@
     "wof:concordances":{
         "gn:id":2469255,
         "gp:id":1442433,
-        "qs:id":1298630,
+        "qs_pg:id":1298630,
         "wd:id":"Q2740244",
         "wk:page":"Menzel Kamel"
     },
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":421200291,
-    "wof:lastmodified":1563331715,
+    "wof:lastmodified":1566667317,
     "wof:name":"Manzil Kamil",
     "wof:parent_id":1108757537,
     "wof:placetype":"locality",

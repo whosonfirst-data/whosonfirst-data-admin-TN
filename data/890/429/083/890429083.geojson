@@ -11,11 +11,15 @@
     "geom:longitude":10.0,
     "gn:country":"TN",
     "gn:fcode":"ADMD",
-    "gn:pop":345484,
+    "gn:population":345484,
     "iso:country":"TN",
+    "lbl:bbox":"9.9,36.65,10.1,36.85",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":6.0,
+    "name:und_x_variant":[
         "D\u00e9l\u00e9gation de La Manouba"
     ],
     "qs:name":"Mu\u2018tamad\u012byat Man\u016bbah",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2469273,
-        "qs:id":91484
+        "qs_pg:id":91484
     },
     "wof:country":"TN",
     "wof:created":1469051792,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890429083,
-    "wof:lastmodified":1505343509,
+    "wof:lastmodified":1566667326,
     "wof:name":"Mu\u2018tamad\u012byat Man\u016bbah",
     "wof:parent_id":1108757503,
     "wof:placetype":"localadmin",

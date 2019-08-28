@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"10.75784,33.30416,10.79784,33.34416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243415653,
-    "wof:lastmodified":1536848899,
+    "wof:lastmodified":1566667337,
     "wof:name":"Hassi Soltane",
     "wof:parent_id":1108757509,
     "wof:placetype":"locality",

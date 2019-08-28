@@ -10,8 +10,12 @@
     "geom:latitude":32.91176,
     "geom:longitude":10.26194,
     "iso:country":"TN",
+    "lbl:bbox":"10.24194,32.89176,10.28194,32.93176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0634\u0646\u0646\u064a"
@@ -39,9 +43,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0428\u0435\u043d\u0438\u043d\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Chenini"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -73,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2467041,
         "gp:id":1442617,
-        "qs:id":229114,
+        "qs_pg:id":229114,
         "wd:id":"Q2317502",
         "wk:page":"Chenini"
     },
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":421203019,
-    "wof:lastmodified":1561766987,
+    "wof:lastmodified":1566667306,
     "wof:name":"Shanini",
     "wof:parent_id":1108757733,
     "wof:placetype":"locality",

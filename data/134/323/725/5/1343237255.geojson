@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"11.07917,36.92639,11.11917,36.96639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0643\u0648\u0627\u0646"
     ],
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":1343237255,
-    "wof:lastmodified":1564152850,
+    "wof:lastmodified":1566667146,
     "wof:name":"Kerkouane",
     "wof:parent_id":1108757575,
     "wof:placetype":"locality",

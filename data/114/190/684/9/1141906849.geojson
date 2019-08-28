@@ -10,10 +10,14 @@
     "geom:latitude":32.01705,
     "geom:longitude":10.700008,
     "iso:country":"TN",
+    "lbl:bbox":"10.680008096,31.9970495799,10.720008096,32.0370495799",
     "lbl:latitude":32.01705,
     "lbl:longitude":10.700008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0630\u0647\u064a\u0628\u0629"
     ],
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":1141906849,
-    "wof:lastmodified":1563331814,
+    "wof:lastmodified":1566667381,
     "wof:name":"Dehibat",
     "wof:parent_id":1108757721,
     "wof:placetype":"locality",

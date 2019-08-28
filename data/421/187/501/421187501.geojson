@@ -10,9 +10,14 @@
     "geom:latitude":35.50389,
     "geom:longitude":11.05694,
     "iso:country":"TN",
+    "lbl:bbox":"11.03694,35.48389,11.07694,35.52389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Th\u0101bit al Kalb"
     ],
     "qs:gn_country":"TN",
@@ -44,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2464593,
         "gp:id":1442732,
-        "qs:id":1083591
+        "qs_pg:id":1083591
     },
     "wof:country":"TN",
     "wof:created":1459009515,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":421187501,
-    "wof:lastmodified":1501263258,
+    "wof:lastmodified":1566667309,
     "wof:name":"Thabit al Kalb",
     "wof:parent_id":1108757481,
     "wof:placetype":"locality",

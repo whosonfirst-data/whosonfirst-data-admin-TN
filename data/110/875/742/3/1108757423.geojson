@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":35.515982,
     "lbl:longitude":9.146165,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kasserine",
     "meso:gadm_adm2":"Sbiba",
     "meso:gaul_adm2":"Sbiba",
@@ -31,6 +33,7 @@
     "mps:longitude":9.146165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0628\u064a\u0628\u0629"
     ],
@@ -59,9 +62,9 @@
         "\u0421\u0431\u0456\u0431\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-04-28",
+    "src:population_date":"2004-04-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-04-28",
     "statoids:capital":"",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108757423,
-    "wof:lastmodified":1564153028,
+    "wof:lastmodified":1566667273,
     "wof:name":"Sbiba",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

@@ -10,7 +10,12 @@
     "geom:latitude":36.86389,
     "geom:longitude":10.30861,
     "iso:country":"TN",
+    "lbl:bbox":"10.28861,36.84389,10.32861,36.88389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0622\u062c\u0631\u0648\u0645\u064a\u0629"
@@ -21,7 +26,7 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c-\u0410\u0434\u0436\u0440\u0443\u043c\u0438\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u012bd\u012b D\u0101\u2019\u016bd"
     ],
     "qs:gn_country":"TN",
@@ -53,7 +58,7 @@
     "wof:concordances":{
         "gn:id":2465809,
         "gp:id":1442672,
-        "qs:id":1083590
+        "qs_pg:id":1083590
     },
     "wof:country":"TN",
     "wof:created":1459009515,
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":421187497,
-    "wof:lastmodified":1501263262,
+    "wof:lastmodified":1566667309,
     "wof:name":"Sidi Da'ud",
     "wof:parent_id":1108757755,
     "wof:placetype":"locality",

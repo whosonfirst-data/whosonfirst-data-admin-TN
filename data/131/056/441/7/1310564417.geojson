@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.73667,37.07111,9.77667,37.11111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310564417,
-    "wof:lastmodified":1536831081,
+    "wof:lastmodified":1566667287,
     "wof:name":"Borj Ali Ben Sil",
     "wof:parent_id":1108757275,
     "wof:placetype":"locality",

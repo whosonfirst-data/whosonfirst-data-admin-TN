@@ -10,6 +10,9 @@
     "geom:latitude":33.88146,
     "geom:longitude":10.0982,
     "iso:country":"TN",
+    "lbl:bbox":"10.0782,33.86146,10.1182,33.90146",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -147,7 +150,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0431\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0101bis"
     ],
     "name:urd_x_preferred":[
@@ -281,7 +284,7 @@
     "wof:concordances":{
         "gn:id":2468369,
         "gp:id":1442490,
-        "qs:id":492907,
+        "qs_pg:id":492907,
         "wd:id":"Q215661"
     },
     "wof:country":"TN",
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":421197969,
-    "wof:lastmodified":1563331706,
+    "wof:lastmodified":1566667314,
     "wof:name":"Qabis",
     "wof:parent_id":1108757309,
     "wof:placetype":"locality",

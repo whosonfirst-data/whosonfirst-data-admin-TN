@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.40778,35.83028,9.44778,35.87028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dechret Bou Abdallah",
         "Dashrat B\u016b \u2018Abd All\u0101h",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343520119,
-    "wof:lastmodified":1537706504,
+    "wof:lastmodified":1566667141,
     "wof:name":"Bou Abdallah",
     "wof:parent_id":1108757669,
     "wof:placetype":"locality",

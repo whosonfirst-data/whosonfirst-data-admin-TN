@@ -10,8 +10,12 @@
     "geom:latitude":35.7,
     "geom:longitude":10.8,
     "iso:country":"TN",
+    "lbl:bbox":"10.78,35.68,10.82,35.72",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0646\u0628\u0644\u0629"
@@ -39,9 +43,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0431\u043b\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Bembla"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -73,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2472744,
         "gp:id":1441960,
-        "qs:id":1035874,
+        "qs_pg:id":1035874,
         "wd:id":"Q816364"
     },
     "wof:country":"TN",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":421194225,
-    "wof:lastmodified":1561766986,
+    "wof:lastmodified":1566667303,
     "wof:name":"Banbalah",
     "wof:parent_id":1108757533,
     "wof:placetype":"locality",

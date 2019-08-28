@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.72639,37.18278,9.76639,37.22278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daww\u0101r a\u015f \u015e\u016blah",
         "Douar Soulah",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293655499,
-    "wof:lastmodified":1537706500,
+    "wof:lastmodified":1566667167,
     "wof:name":"Douar es Soula",
     "wof:parent_id":1108757275,
     "wof:placetype":"locality",

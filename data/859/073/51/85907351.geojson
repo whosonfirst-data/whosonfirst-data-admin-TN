@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":27480935.743454,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.205649,36.83984,10.205649,36.83984",
     "geom:latitude":36.83984,
     "geom:longitude":10.205649,
     "gn:id":"",
     "iso:country":"TN",
+    "lbl:bbox":"10.200649,36.83484,10.210649,36.84484",
     "lbl:latitude":36.83984,
     "lbl:longitude":10.205649,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.844099,
     "mps:longitude":10.208589,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Cite Olympique"
-    ],
-    "name:unk_x_variant":[
         "Cite Olympique"
     ],
     "qs:gn_adm0_cc":"TN",
@@ -57,17 +56,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757755,
-        85679123
+        1108757755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725893,
-        "qs:id":237578,
         "qs_pg:id":237578
     },
     "wof:country":"TN",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936543,
+    "wof:lastmodified":1566667158,
     "wof:name":"Cite Olympique",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

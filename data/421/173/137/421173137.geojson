@@ -10,8 +10,12 @@
     "geom:latitude":34.31909,
     "geom:longitude":7.93519,
     "iso:country":"TN",
+    "lbl:bbox":"7.91519,34.29909,7.95519,34.33909",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0628\u064a\u0643\u0629"
@@ -46,7 +50,7 @@
     "name:spa_x_preferred":[
         "Chebica"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chebikha"
     ],
     "qs:gn_country":"TN",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":2467077,
         "gp:id":1442616,
-        "qs:id":491930,
+        "qs_pg:id":491930,
         "wd:id":"Q2961924",
         "wk:page":"Chebika, Tozeur"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421173137,
-    "wof:lastmodified":1563331696,
+    "wof:lastmodified":1566667310,
     "wof:name":"Shabikah",
     "wof:parent_id":1108757741,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Tunis",
     "iso:country":"TN",
+    "lbl:bbox":"9.8575,37.02889,9.8975,37.06889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243034301,
-    "wof:lastmodified":1536902869,
+    "wof:lastmodified":1566667342,
     "wof:name":"Douar el Kherifa",
     "wof:parent_id":1108757305,
     "wof:placetype":"locality",

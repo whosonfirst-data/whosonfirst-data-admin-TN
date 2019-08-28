@@ -10,8 +10,12 @@
     "geom:latitude":33.57778,
     "geom:longitude":9.01472,
     "iso:country":"TN",
+    "lbl:bbox":"8.99472,33.55778,9.03472,33.59778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u0645\u0646\u0629"
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0435\u043c\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Djemma"
     ],
     "qs:gn_country":"TN",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2470189,
         "gp:id":1442361,
-        "qs:id":189009,
+        "qs_pg:id":189009,
         "wd:id":"Q3176970",
         "wk:page":"Djemna"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421199069,
-    "wof:lastmodified":1563331711,
+    "wof:lastmodified":1566667315,
     "wof:name":"Jamnah",
     "wof:parent_id":1108757437,
     "wof:placetype":"locality",

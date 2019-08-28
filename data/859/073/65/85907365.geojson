@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11696223.808127,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.190516,36.79742,10.190516,36.79742",
     "geom:latitude":36.79742,
     "geom:longitude":10.190516,
     "gn:id":"",
     "iso:country":"TN",
+    "lbl:bbox":"10.185516,36.79242,10.195516,36.80242",
     "lbl:latitude":36.79742,
     "lbl:longitude":10.190516,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.79601,
     "mps:longitude":10.19997,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:ara_x_variant":[
         "Pt de Tunis",
         "Pt. de Tunis"
-    ],
-    "name:unk_x_variant":[
-        "Port de Tunis"
     ],
     "qs:gn_adm0_cc":"TN",
     "qs:gn_id":0,
@@ -61,17 +60,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679123,
         102191573,
         85632703,
-        1108757755,
-        85679123
+        1108757755
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725911,
-        "qs:id":14543,
         "qs_pg:id":14543
     },
     "wof:country":"TN",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936548,
+    "wof:lastmodified":1566667158,
     "wof:name":"Port de Tunis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
