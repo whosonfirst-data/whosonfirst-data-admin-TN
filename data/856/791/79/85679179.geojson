@@ -272,6 +272,9 @@
         "wk:page":"Zaghouan Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0402401fa81c48f2ca18ffffb3da5da0",
     "wof:hierarchy":[
         {
@@ -289,7 +292,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667163,
+    "wof:lastmodified":1582318844,
     "wof:name":"Zaghouan",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

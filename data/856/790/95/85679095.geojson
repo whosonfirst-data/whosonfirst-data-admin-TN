@@ -272,6 +272,9 @@
         "wk:page":"Tozeur Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab6d8e6036cf79f1d6c3ccc60731d0a2",
     "wof:hierarchy":[
         {
@@ -289,7 +292,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667160,
+    "wof:lastmodified":1582318842,
     "wof:name":"Tozeur",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

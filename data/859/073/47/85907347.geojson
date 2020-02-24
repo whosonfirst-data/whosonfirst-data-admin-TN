@@ -69,6 +69,10 @@
         "qs_pg:id":1257488
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"290efd231ea3d0b5ccfef69e1e4ea3ba",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566667159,
+    "wof:lastmodified":1582318842,
     "wof:name":"Cite Jardins",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

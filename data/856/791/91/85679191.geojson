@@ -278,6 +278,9 @@
         "wk:page":"Tataouine Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4a4f18c0ca09d0d68d271c5e09884ce4",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667162,
+    "wof:lastmodified":1582318844,
     "wof:name":"Tataouine",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

@@ -274,6 +274,9 @@
         "wk:page":"Sidi Bouzid Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"406065cd721d16f5db97b36cbdec29f5",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667164,
+    "wof:lastmodified":1582318845,
     "wof:name":"Sidi Bou Zid",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

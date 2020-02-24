@@ -284,6 +284,9 @@
         "wd:id":"Q269968"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ca562187e8a0476cad7fc76f562bc980",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667163,
+    "wof:lastmodified":1582318844,
     "wof:name":"Gafsa",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

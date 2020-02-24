@@ -272,6 +272,9 @@
         "wk:page":"Siliana Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"29851d6e2f4294fdee61d458cbcba0f2",
     "wof:hierarchy":[
         {
@@ -289,7 +292,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667160,
+    "wof:lastmodified":1582318843,
     "wof:name":"Siliana",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

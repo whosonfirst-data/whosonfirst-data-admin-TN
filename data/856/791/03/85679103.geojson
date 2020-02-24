@@ -255,6 +255,9 @@
         "wk:page":"B\u00e9ja Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9bd3dd6bb3cc9842d2c54469e6c7d7c3",
     "wof:hierarchy":[
         {
@@ -272,7 +275,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667160,
+    "wof:lastmodified":1582318843,
     "wof:name":"B\u00e9ja",
     "wof:parent_id":85632703,
     "wof:placetype":"region",
