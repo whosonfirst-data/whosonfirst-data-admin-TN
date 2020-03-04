@@ -313,6 +313,9 @@
         "wd:id":"Q734328"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2a72438f51d52bcce1bc353fd38cf810",
     "wof:hierarchy":[
         {
@@ -330,7 +333,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667160,
+    "wof:lastmodified":1582318842,
     "wof:name":"Manubah",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

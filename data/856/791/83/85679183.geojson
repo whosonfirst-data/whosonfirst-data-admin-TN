@@ -276,6 +276,9 @@
         "wk:page":"Medenine Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7641dd6060a3faccacf761a2601543c8",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667163,
+    "wof:lastmodified":1582318844,
     "wof:name":"M\u00e9denine",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

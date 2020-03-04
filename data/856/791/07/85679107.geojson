@@ -290,6 +290,9 @@
         "wk:page":"Ben Arous Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4bee5ff292c443be543c699f84ebbe8c",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667162,
+    "wof:lastmodified":1582318844,
     "wof:name":"Ben Arous (Tunis Sud)",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

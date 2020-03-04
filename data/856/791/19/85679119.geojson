@@ -278,6 +278,9 @@
         "wk:page":"Nabeul Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb19d6fd527fcd44e40754cdc5ff0322",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667162,
+    "wof:lastmodified":1582318844,
     "wof:name":"Nabeul",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

@@ -236,6 +236,9 @@
         "wk:page":"Kairouan Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"378026095600aa932acd0f609c1083e6",
     "wof:hierarchy":[
         {
@@ -253,7 +256,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667164,
+    "wof:lastmodified":1582318845,
     "wof:name":"Kairouan",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

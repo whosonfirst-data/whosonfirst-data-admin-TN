@@ -69,6 +69,10 @@
         "qs_pg:id":14544
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b55d011a1e3093144e5fc363a6210a30",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566667157,
+    "wof:lastmodified":1582318842,
     "wof:name":"Jbal Lahmar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

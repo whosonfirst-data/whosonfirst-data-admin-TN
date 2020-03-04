@@ -281,6 +281,9 @@
         "wd:id":"Q328199"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64c145fa0b08a44699f2104b6933fdd8",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667162,
+    "wof:lastmodified":1582318844,
     "wof:name":"Le Kef",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

@@ -281,6 +281,9 @@
         "wk:page":"Bizerte Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cbded015a7e53ff7eb570d6c3f52fdd",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667164,
+    "wof:lastmodified":1582318845,
     "wof:name":"Bizerte",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

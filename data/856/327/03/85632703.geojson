@@ -928,9 +928,9 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes",
-        "meso",
-        "naturalearth"
+        "meso"
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -986,6 +986,12 @@
     },
     "wof:country":"TN",
     "wof:country_alpha3":"TUN",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "quattroshapes",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"1a9b84dc62a9eb4fc2de6bd3d78e0443",
     "wof:hierarchy":[
         {
@@ -1002,7 +1008,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667165,
+    "wof:lastmodified":1583205683,
     "wof:name":"Tunisia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

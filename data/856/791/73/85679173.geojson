@@ -278,6 +278,9 @@
         "wk:page":"Sousse Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"33979d2b2ed7388d18129f6d637cc3c1",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667161,
+    "wof:lastmodified":1582318843,
     "wof:name":"Sousse",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

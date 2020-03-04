@@ -275,6 +275,9 @@
         "wk:page":"Mahdia Governorate"
     },
     "wof:country":"TN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bbda24930264846b90d01c98628ff082",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566667160,
+    "wof:lastmodified":1582318843,
     "wof:name":"Mahdia",
     "wof:parent_id":85632703,
     "wof:placetype":"region",
