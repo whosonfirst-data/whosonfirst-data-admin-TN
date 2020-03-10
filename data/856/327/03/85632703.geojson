@@ -962,9 +962,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Tunisia",
-        "digitalenvoy:country_code":[
-            788
-        ],
+        "digitalenvoy:country_code":788,
         "fb:id":"en.tunisia",
         "fifa:id":"TUN",
         "fips:code":"TS",
@@ -1011,7 +1009,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1583529234,
+    "wof:lastmodified":1583797442,
     "wof:name":"Tunisia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
