@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.186448,
-    "geom:area_square_m":155421247653.261017,
+    "geom:area_square_m":155421247051.35614,
     "geom:bbox":"7.522311,30.228034,11.599217,37.542946",
     "geom:latitude":34.108709,
     "geom:longitude":9.578539,
@@ -40,6 +40,9 @@
     "name:aka_x_preferred":[
         "Tunihyia"
     ],
+    "name:aka_x_variant":[
+        "Tunisia"
+    ],
     "name:als_x_preferred":[
         "Tunesien"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:arg_x_preferred":[
         "Tunicia"
+    ],
+    "name:ary_x_preferred":[
+        "\u062a\u0648\u0646\u0633"
     ],
     "name:arz_x_preferred":[
         "\u062a\u0648\u0646\u0633"
@@ -85,6 +91,9 @@
     ],
     "name:bam_x_preferred":[
         "Tunizi"
+    ],
+    "name:ban_x_preferred":[
+        "Tunisia"
     ],
     "name:bcl_x_preferred":[
         "Tunisya"
@@ -176,6 +185,12 @@
     "name:dan_x_variant":[
         "Tunis"
     ],
+    "name:deu_at_x_preferred":[
+        "Tunesien"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Tunesien"
+    ],
     "name:deu_x_preferred":[
         "Tunesien"
     ],
@@ -196,6 +211,12 @@
     ],
     "name:eml_x_preferred":[
         "T\u00fcnisia"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Tunisia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Tunisia"
     ],
     "name:eng_x_preferred":[
         "Tunisia"
@@ -257,6 +278,9 @@
     ],
     "name:gag_x_preferred":[
         "Tunis"
+    ],
+    "name:gcr_x_preferred":[
+        "Tinizi"
     ],
     "name:gla_x_preferred":[
         "Tuinisia"
@@ -431,6 +455,9 @@
     "name:lav_x_preferred":[
         "Tunisija"
     ],
+    "name:lez_x_preferred":[
+        "\u0422\u0443\u043d\u0438\u0441"
+    ],
     "name:lfn_x_preferred":[
         "Tunis"
     ],
@@ -496,6 +523,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0422\u0443\u043d\u0438\u0441"
+    ],
+    "name:mri_x_preferred":[
+        "T\u016bnihia"
     ],
     "name:mrj_x_preferred":[
         "\u0422\u0443\u043d\u0438\u0441"
@@ -606,6 +636,9 @@
     "name:pol_x_preferred":[
         "Tunezja"
     ],
+    "name:por_br_x_preferred":[
+        "Tun\u00edsia"
+    ],
     "name:por_x_preferred":[
         "Tun\u00edsia"
     ],
@@ -639,6 +672,9 @@
     "name:san_x_preferred":[
         "\u091f\u0941\u0928\u093f\u0936\u093f\u092f\u093e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c74\u1c69\u1c71\u1c64\u1c65\u1c64\u1c6d\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Tunis\u00eca"
     ],
@@ -666,6 +702,9 @@
     "name:sna_x_preferred":[
         "Tunisia"
     ],
+    "name:snd_x_preferred":[
+        "\u062a\u064a\u0648\u0646\u0633"
+    ],
     "name:som_x_preferred":[
         "Tunisiya"
     ],
@@ -691,6 +730,12 @@
     "name:srd_x_preferred":[
         "Tunisia"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0422\u0443\u043d\u0438\u0441"
+    ],
+    "name:srp_el_x_preferred":[
+        "Tunis"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0443\u043d\u0438\u0441"
     ],
@@ -711,6 +756,9 @@
     ],
     "name:szl_x_preferred":[
         "T\u016fnezyjo"
+    ],
+    "name:szy_x_preferred":[
+        "Tunisia"
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bc2\u0ba9\u0bbf\u0b9a\u0bbf\u0baf\u0bbe"
@@ -833,11 +881,23 @@
     "name:yue_x_preferred":[
         "\u7a81\u5c3c\u897f\u4e9e"
     ],
+    "name:zea_x_preferred":[
+        "Tunesi\u00eb"
+    ],
     "name:zha_x_preferred":[
         "Tunisia"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u7a81\u5c3c\u65af"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u7a81\u5c3c\u897f\u4e9e"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Tunisia"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7a81\u5c3c\u897f\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u7a81\u5c3c\u897f\u4e9e"
@@ -1009,7 +1069,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1583797442,
+    "wof:lastmodified":1587428232,
     "wof:name":"Tunisia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
