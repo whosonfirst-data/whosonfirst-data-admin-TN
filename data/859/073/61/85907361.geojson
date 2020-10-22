@@ -9,7 +9,6 @@
     "geom:bbox":"10.179656,36.797907,10.179656,36.797907",
     "geom:latitude":36.797907,
     "geom:longitude":10.179656,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.174656,36.792907,10.184656,36.802907",
     "lbl:latitude":36.797907,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907361,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318841,
+    "wof:lastmodified":1603245917,
     "wof:name":"Bab Bhar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

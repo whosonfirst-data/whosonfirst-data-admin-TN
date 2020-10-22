@@ -9,7 +9,6 @@
     "geom:bbox":"10.1651,36.785091,10.1651,36.785091",
     "geom:latitude":36.785091,
     "geom:longitude":10.1651,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.1601,36.780091,10.1701,36.790091",
     "lbl:latitude":36.785091,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907355,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"Sayda El Manoubia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

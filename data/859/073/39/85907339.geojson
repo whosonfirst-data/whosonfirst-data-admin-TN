@@ -9,7 +9,6 @@
     "geom:bbox":"10.128996,36.82355,10.128996,36.82355",
     "geom:latitude":36.82355,
     "geom:longitude":10.128996,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.123996,36.81855,10.133996,36.82855",
     "lbl:latitude":36.82355,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907339,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"Cite Rommana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

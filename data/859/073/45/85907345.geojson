@@ -9,7 +9,6 @@
     "geom:bbox":"10.169838,36.804376,10.169838,36.804376",
     "geom:latitude":36.804376,
     "geom:longitude":10.169838,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.164838,36.799376,10.174838,36.809376",
     "lbl:latitude":36.804376,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907345,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"El Halfaouine",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

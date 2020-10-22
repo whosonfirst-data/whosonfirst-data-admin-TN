@@ -9,7 +9,6 @@
     "geom:bbox":"10.178844,36.82605,10.178844,36.82605",
     "geom:latitude":36.82605,
     "geom:longitude":10.178844,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.173844,36.82105,10.183844,36.83105",
     "lbl:latitude":36.82605,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907347,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"Cite Jardins",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

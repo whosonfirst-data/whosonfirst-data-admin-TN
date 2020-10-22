@@ -9,7 +9,6 @@
     "geom:bbox":"8.03633663671,34.0704509054,9.57461804993,34.8057773824",
     "geom:latitude":34.400339,
     "geom:longitude":8.761395,
-    "gn:id":"",
     "iso:country":"TN",
     "label:eng_x_preferred_longname":[
         "Gafsa Governorate"
@@ -304,7 +303,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1582318844,
+    "wof:lastmodified":1603245918,
     "wof:name":"Gafsa",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

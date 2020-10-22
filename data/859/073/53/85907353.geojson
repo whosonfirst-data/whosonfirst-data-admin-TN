@@ -9,7 +9,6 @@
     "geom:bbox":"10.144501,36.799389,10.144501,36.799389",
     "geom:latitude":36.799389,
     "geom:longitude":10.144501,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.139501,36.794389,10.149501,36.804389",
     "lbl:latitude":36.799389,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907353,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"Cite Somrane",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

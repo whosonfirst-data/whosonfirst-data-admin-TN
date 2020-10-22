@@ -9,7 +9,6 @@
     "geom:bbox":"10.173388,36.799288,10.173388,36.799288",
     "geom:latitude":36.799288,
     "geom:longitude":10.173388,
-    "gn:id":"",
     "gn:latitude":36.8,
     "gn:longitude":10.18333,
     "iso:country":"TN",
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85902915,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"La M\u00e9dina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

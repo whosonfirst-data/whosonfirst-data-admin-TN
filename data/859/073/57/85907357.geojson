@@ -9,7 +9,6 @@
     "geom:bbox":"10.174201,36.793541,10.174201,36.793541",
     "geom:latitude":36.793541,
     "geom:longitude":10.174201,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.169201,36.788541,10.179201,36.798541",
     "lbl:latitude":36.793541,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907357,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"Tourbet El Bey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

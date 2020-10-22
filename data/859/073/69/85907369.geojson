@@ -9,7 +9,6 @@
     "geom:bbox":"10.156995,36.81781,10.156995,36.81781",
     "geom:latitude":36.81781,
     "geom:longitude":10.156995,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.151995,36.81281,10.161995,36.82281",
     "lbl:latitude":36.81781,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907369,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"Jbal Lahmar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

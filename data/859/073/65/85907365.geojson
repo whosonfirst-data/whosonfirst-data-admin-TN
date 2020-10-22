@@ -9,7 +9,6 @@
     "geom:bbox":"10.190516,36.79742,10.190516,36.79742",
     "geom:latitude":36.79742,
     "geom:longitude":10.190516,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.185516,36.79242,10.195516,36.80242",
     "lbl:latitude":36.79742,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85907365,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"Port de Tunis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"10.134103,36.811173,10.134103,36.811173",
     "geom:latitude":36.811173,
     "geom:longitude":10.134103,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.129103,36.806173,10.139103,36.816173",
     "lbl:latitude":36.811173,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907341,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"Cite El Habib",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

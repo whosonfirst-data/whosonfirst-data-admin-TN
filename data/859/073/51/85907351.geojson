@@ -9,7 +9,6 @@
     "geom:bbox":"10.205649,36.83984,10.205649,36.83984",
     "geom:latitude":36.83984,
     "geom:longitude":10.205649,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.200649,36.83484,10.210649,36.84484",
     "lbl:latitude":36.83984,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907351,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"Cite Olympique",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

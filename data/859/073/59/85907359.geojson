@@ -9,7 +9,6 @@
     "geom:bbox":"10.169494,36.797469,10.169494,36.797469",
     "geom:latitude":36.797469,
     "geom:longitude":10.169494,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.164494,36.792469,10.174494,36.802469",
     "lbl:latitude":36.797469,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907359,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"La Kasba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

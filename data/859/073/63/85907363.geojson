@@ -9,7 +9,6 @@
     "geom:bbox":"10.182384,36.805207,10.182384,36.805207",
     "geom:latitude":36.805207,
     "geom:longitude":10.182384,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.177384,36.800207,10.187384,36.810207",
     "lbl:latitude":36.805207,
@@ -121,10 +120,7 @@
         }
     ],
     "wof:id":85907363,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"Le Passage",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

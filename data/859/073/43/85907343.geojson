@@ -9,7 +9,6 @@
     "geom:bbox":"10.153287,36.809526,10.153287,36.809526",
     "geom:latitude":36.809526,
     "geom:longitude":10.153287,
-    "gn:id":"",
     "iso:country":"TN",
     "lbl:bbox":"10.148287,36.804526,10.158287,36.814526",
     "lbl:latitude":36.809526,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85907343,
-    "wof:lang":[
-        "ara"
-    ],
-    "wof:lastmodified":1582318842,
+    "wof:lastmodified":1603245917,
     "wof:name":"Bou Choucha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

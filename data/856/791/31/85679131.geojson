@@ -9,7 +9,6 @@
     "geom:bbox":"8.253129,35.6142579359,9.16196989244,36.4442830539",
     "geom:latitude":36.031308,
     "geom:longitude":8.679645,
-    "gn:id":"",
     "iso:country":"TN",
     "label:eng_x_preferred_longname":[
         "Le Kef Governorate"
@@ -301,7 +300,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1582318844,
+    "wof:lastmodified":1603245917,
     "wof:name":"Le Kef",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

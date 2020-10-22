@@ -9,7 +9,6 @@
     "geom:bbox":"7.522311,30.228034,11.599217,37.542946",
     "geom:latitude":34.108709,
     "geom:longitude":9.578539,
-    "gn:id":"",
     "gn:population":10589025,
     "iso:country":"TN",
     "itu:country_code":[
@@ -1069,7 +1068,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1587428232,
+    "wof:lastmodified":1603245918,
     "wof:name":"Tunisia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
