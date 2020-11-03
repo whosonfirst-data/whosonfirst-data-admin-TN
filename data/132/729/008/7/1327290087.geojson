@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1327290087,
-    "wof:lastmodified":1566667137,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770377,
     "wof:name":"Henndi ech Chiab",
     "wof:parent_id":1108757695,
     "wof:placetype":"locality",

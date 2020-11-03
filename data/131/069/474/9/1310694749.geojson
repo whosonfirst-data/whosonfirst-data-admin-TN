@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1310694749,
-    "wof:lastmodified":1566667287,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770422,
     "wof:name":"Douar Douaidia",
     "wof:parent_id":1108757373,
     "wof:placetype":"locality",

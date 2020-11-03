@@ -50,7 +50,15 @@
         }
     ],
     "wof:id":890438737,
-    "wof:lastmodified":1566667325,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770431,
     "wof:name":"Zouila",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

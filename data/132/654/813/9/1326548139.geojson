@@ -68,7 +68,15 @@
         }
     ],
     "wof:id":1326548139,
-    "wof:lastmodified":1566667135,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770376,
     "wof:name":"Takrouna",
     "wof:parent_id":1108757687,
     "wof:placetype":"locality",

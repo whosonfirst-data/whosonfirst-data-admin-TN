@@ -165,7 +165,15 @@
         }
     ],
     "wof:id":1108757589,
-    "wof:lastmodified":1566667256,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770412,
     "wof:name":"Nabeul",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

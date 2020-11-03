@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343460449,
-    "wof:lastmodified":1566667145,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770379,
     "wof:name":"Ouled Abd er Rahmane",
     "wof:parent_id":1108757643,
     "wof:placetype":"locality",

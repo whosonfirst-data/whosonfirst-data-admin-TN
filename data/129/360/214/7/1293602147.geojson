@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293602147,
-    "wof:lastmodified":1566667177,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770389,
     "wof:name":"Bir ech Chebbou",
     "wof:parent_id":1108757409,
     "wof:placetype":"locality",

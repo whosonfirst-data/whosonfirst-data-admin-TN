@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1293745061,
-    "wof:lastmodified":1566667181,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770390,
     "wof:name":"Oued et Taam",
     "wof:parent_id":1108757521,
     "wof:placetype":"locality",

@@ -60,7 +60,15 @@
         }
     ],
     "wof:id":421189805,
-    "wof:lastmodified":1566667310,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770428,
     "wof:name":"Tojan",
     "wof:parent_id":1108757319,
     "wof:placetype":"locality",

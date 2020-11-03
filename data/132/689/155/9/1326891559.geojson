@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1326891559,
-    "wof:lastmodified":1566667121,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770371,
     "wof:name":"Zeraoua",
     "wof:parent_id":1108757323,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1209982767,
-    "wof:lastmodified":1566667204,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770398,
     "wof:name":"Douar ech Cherif",
     "wof:parent_id":1108757293,
     "wof:placetype":"locality",

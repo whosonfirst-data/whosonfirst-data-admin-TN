@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1226655923,
-    "wof:lastmodified":1566667378,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770446,
     "wof:name":"Dar Halfaoui",
     "wof:parent_id":1108757497,
     "wof:placetype":"locality",

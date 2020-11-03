@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343968185,
-    "wof:lastmodified":1566667139,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770378,
     "wof:name":"Douar Bou Mahres",
     "wof:parent_id":1108757447,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1360132025,
-    "wof:lastmodified":1566667290,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770423,
     "wof:name":"Tilioune",
     "wof:parent_id":1108757515,
     "wof:placetype":"locality",

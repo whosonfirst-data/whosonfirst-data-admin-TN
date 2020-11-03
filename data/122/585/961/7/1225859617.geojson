@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1225859617,
-    "wof:lastmodified":1566667380,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770446,
     "wof:name":"El Bredj",
     "wof:parent_id":1108757593,
     "wof:placetype":"locality",

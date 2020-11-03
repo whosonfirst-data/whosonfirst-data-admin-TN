@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1344232889,
-    "wof:lastmodified":1566667143,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770379,
     "wof:name":"Borj ech Chouchana",
     "wof:parent_id":1108757293,
     "wof:placetype":"locality",

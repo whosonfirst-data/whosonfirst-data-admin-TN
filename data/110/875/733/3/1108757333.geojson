@@ -72,7 +72,15 @@
         }
     ],
     "wof:id":1108757333,
-    "wof:lastmodified":1566667255,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770411,
     "wof:name":"Gafsa nord",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

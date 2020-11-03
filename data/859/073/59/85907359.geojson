@@ -84,7 +84,15 @@
         }
     ],
     "wof:id":85907359,
-    "wof:lastmodified":1603245917,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770384,
     "wof:name":"La Kasba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

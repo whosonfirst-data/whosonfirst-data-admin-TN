@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310358405,
-    "wof:lastmodified":1566667284,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770421,
     "wof:name":"Kasnadar",
     "wof:parent_id":1108757755,
     "wof:placetype":"locality",

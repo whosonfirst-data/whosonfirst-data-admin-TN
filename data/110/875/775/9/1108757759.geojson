@@ -96,7 +96,15 @@
         }
     ],
     "wof:id":1108757759,
-    "wof:lastmodified":1566667267,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770416,
     "wof:name":"El Fahs",
     "wof:parent_id":85679179,
     "wof:placetype":"county",

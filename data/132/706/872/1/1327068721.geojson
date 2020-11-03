@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1327068721,
-    "wof:lastmodified":1566667118,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770370,
     "wof:name":"Douar Sidi Bou Hanech",
     "wof:parent_id":1108757239,
     "wof:placetype":"locality",

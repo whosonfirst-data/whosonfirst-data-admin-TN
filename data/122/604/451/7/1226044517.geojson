@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1226044517,
-    "wof:lastmodified":1566667369,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770443,
     "wof:name":"Ouled er Rouajah",
     "wof:parent_id":1108757397,
     "wof:placetype":"locality",

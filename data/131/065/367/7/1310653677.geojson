@@ -60,7 +60,15 @@
         }
     ],
     "wof:id":1310653677,
-    "wof:lastmodified":1566667277,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770420,
     "wof:name":"Gamart",
     "wof:parent_id":1108757755,
     "wof:placetype":"locality",

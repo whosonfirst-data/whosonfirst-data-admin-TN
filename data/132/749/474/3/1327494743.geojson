@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1327494743,
-    "wof:lastmodified":1566667126,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770373,
     "wof:name":"Ksar Rebounten",
     "wof:parent_id":1108757523,
     "wof:placetype":"locality",

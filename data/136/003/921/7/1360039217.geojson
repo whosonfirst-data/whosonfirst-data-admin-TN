@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1360039217,
-    "wof:lastmodified":1566667295,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770424,
     "wof:name":"Ksar Taleb Beldine",
     "wof:parent_id":1108757733,
     "wof:placetype":"locality",

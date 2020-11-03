@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1226408541,
-    "wof:lastmodified":1566667374,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770444,
     "wof:name":"Douar Gournata",
     "wof:parent_id":1108757287,
     "wof:placetype":"locality",

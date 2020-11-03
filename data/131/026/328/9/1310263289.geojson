@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1310263289,
-    "wof:lastmodified":1566667283,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770421,
     "wof:name":"Rass el Maa",
     "wof:parent_id":1108757681,
     "wof:placetype":"locality",

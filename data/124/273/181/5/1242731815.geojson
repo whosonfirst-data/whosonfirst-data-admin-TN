@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1242731815,
-    "wof:lastmodified":1566667333,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770433,
     "wof:name":"Ksar Aissa",
     "wof:parent_id":1108757733,
     "wof:placetype":"locality",

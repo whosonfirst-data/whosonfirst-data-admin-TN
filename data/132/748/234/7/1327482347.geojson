@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1327482347,
-    "wof:lastmodified":1566667127,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770373,
     "wof:name":"Douar et Tarig",
     "wof:parent_id":1108757633,
     "wof:placetype":"locality",

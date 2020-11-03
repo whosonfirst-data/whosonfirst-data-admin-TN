@@ -64,7 +64,15 @@
         }
     ],
     "wof:id":421171535,
-    "wof:lastmodified":1566667323,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770431,
     "wof:name":"Al Mal\u0101s\u012bn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

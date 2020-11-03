@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1310712167,
-    "wof:lastmodified":1566667276,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770419,
     "wof:name":"Monastir-Skanes",
     "wof:parent_id":1108757533,
     "wof:placetype":"locality",

@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1310316755,
-    "wof:lastmodified":1566667278,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770420,
     "wof:name":"Ksar el Kebrit",
     "wof:parent_id":1108757387,
     "wof:placetype":"locality",

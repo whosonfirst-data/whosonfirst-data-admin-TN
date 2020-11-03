@@ -97,7 +97,15 @@
         }
     ],
     "wof:id":421183535,
-    "wof:lastmodified":1566667319,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770430,
     "wof:name":"Bi'r al Hufayy",
     "wof:parent_id":1108757631,
     "wof:placetype":"locality",

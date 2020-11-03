@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1276237083,
-    "wof:lastmodified":1566667195,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770395,
     "wof:name":"Dar Mohamed Bel Hadj Ali",
     "wof:parent_id":1108757399,
     "wof:placetype":"locality",

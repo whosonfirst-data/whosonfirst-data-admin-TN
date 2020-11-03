@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1293729233,
-    "wof:lastmodified":1566667183,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770391,
     "wof:name":"Kasbet Ammar",
     "wof:parent_id":1108757731,
     "wof:placetype":"locality",

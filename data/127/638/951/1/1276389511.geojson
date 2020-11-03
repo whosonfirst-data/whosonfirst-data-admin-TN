@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1276389511,
-    "wof:lastmodified":1566667202,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770397,
     "wof:name":"Adeloun",
     "wof:parent_id":1108757515,
     "wof:placetype":"locality",

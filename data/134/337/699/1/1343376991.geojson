@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1343376991,
-    "wof:lastmodified":1566667140,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770378,
     "wof:name":"Djebibina",
     "wof:parent_id":1108757761,
     "wof:placetype":"locality",

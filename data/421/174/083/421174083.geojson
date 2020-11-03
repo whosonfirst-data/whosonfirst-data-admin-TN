@@ -71,7 +71,15 @@
         }
     ],
     "wof:id":421174083,
-    "wof:lastmodified":1566667307,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770427,
     "wof:name":"Saint-Georges",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

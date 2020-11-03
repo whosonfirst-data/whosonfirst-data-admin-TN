@@ -233,7 +233,15 @@
         }
     ],
     "wof:id":1141905995,
-    "wof:lastmodified":1566667381,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770446,
     "wof:name":"Kasserine",
     "wof:parent_id":1108757415,
     "wof:placetype":"locality",

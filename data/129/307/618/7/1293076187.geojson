@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1293076187,
-    "wof:lastmodified":1566667165,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770384,
     "wof:name":"Douar el Haj Mohammed",
     "wof:parent_id":1108757573,
     "wof:placetype":"locality",

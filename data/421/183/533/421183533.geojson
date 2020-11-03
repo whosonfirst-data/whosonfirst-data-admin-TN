@@ -95,7 +95,15 @@
         }
     ],
     "wof:id":421183533,
-    "wof:lastmodified":1566667318,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770430,
     "wof:name":"Bi'r Ali Bin Khalifah",
     "wof:parent_id":1108757597,
     "wof:placetype":"locality",

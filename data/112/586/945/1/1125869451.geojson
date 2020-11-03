@@ -94,7 +94,15 @@
         }
     ],
     "wof:id":1125869451,
-    "wof:lastmodified":1566667327,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770432,
     "wof:name":"Maj\u0101z al B\u0101b",
     "wof:parent_id":1108757261,
     "wof:placetype":"locality",

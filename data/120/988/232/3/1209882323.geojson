@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1209882323,
-    "wof:lastmodified":1566667219,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770399,
     "wof:name":"Dar Abdallah Bel Haj",
     "wof:parent_id":1108757285,
     "wof:placetype":"locality",

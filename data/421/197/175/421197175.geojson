@@ -61,7 +61,15 @@
         }
     ],
     "wof:id":421197175,
-    "wof:lastmodified":1566667313,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770429,
     "wof:name":"Cr\u00e9mieuxville",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

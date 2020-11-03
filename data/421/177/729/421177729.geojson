@@ -64,7 +64,15 @@
         }
     ],
     "wof:id":421177729,
-    "wof:lastmodified":1566667318,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770430,
     "wof:name":"Ad Duwayrat",
     "wof:parent_id":1108757733,
     "wof:placetype":"locality",

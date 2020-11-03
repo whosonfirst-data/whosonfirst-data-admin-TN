@@ -95,7 +95,15 @@
         }
     ],
     "wof:id":421200299,
-    "wof:lastmodified":1566667317,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770429,
     "wof:name":"Sidi al Hani'",
     "wof:parent_id":1108757705,
     "wof:placetype":"locality",

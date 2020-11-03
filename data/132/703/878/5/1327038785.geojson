@@ -71,7 +71,15 @@
         }
     ],
     "wof:id":1327038785,
-    "wof:lastmodified":1566667128,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770374,
     "wof:name":"Jedelienne",
     "wof:parent_id":1108757401,
     "wof:placetype":"locality",

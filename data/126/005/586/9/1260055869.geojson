@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1260055869,
-    "wof:lastmodified":1566667234,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770404,
     "wof:name":"Douar Salah Belkilani",
     "wof:parent_id":1108757275,
     "wof:placetype":"locality",

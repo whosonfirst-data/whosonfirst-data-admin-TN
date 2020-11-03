@@ -140,7 +140,15 @@
         }
     ],
     "wof:id":1343237255,
-    "wof:lastmodified":1566667146,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770380,
     "wof:name":"Kerkouane",
     "wof:parent_id":1108757575,
     "wof:placetype":"locality",

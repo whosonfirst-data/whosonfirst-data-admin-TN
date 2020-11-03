@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1343401219,
-    "wof:lastmodified":1566667147,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770380,
     "wof:name":"Megrine Lescure",
     "wof:parent_id":1108757271,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1226551715,
-    "wof:lastmodified":1566667376,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770445,
     "wof:name":"Dar Ali Ben Mohammed",
     "wof:parent_id":1108757381,
     "wof:placetype":"locality",

@@ -52,7 +52,15 @@
         }
     ],
     "wof:id":1343918573,
-    "wof:lastmodified":1566667139,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770377,
     "wof:name":"Ed Doghra",
     "wof:parent_id":1108757345,
     "wof:placetype":"locality",

@@ -60,7 +60,15 @@
         }
     ],
     "wof:id":421189801,
-    "wof:lastmodified":1566667311,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770428,
     "wof:name":"Tastor",
     "wof:parent_id":1108757267,
     "wof:placetype":"locality",

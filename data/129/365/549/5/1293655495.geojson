@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1293655495,
-    "wof:lastmodified":1566667167,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770385,
     "wof:name":"Douar el Haouidh",
     "wof:parent_id":1108757305,
     "wof:placetype":"locality",

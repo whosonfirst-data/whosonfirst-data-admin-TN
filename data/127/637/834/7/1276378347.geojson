@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1276378347,
-    "wof:lastmodified":1566667200,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770396,
     "wof:name":"El Guithna",
     "wof:parent_id":1108757743,
     "wof:placetype":"locality",

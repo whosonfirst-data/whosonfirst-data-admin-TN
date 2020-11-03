@@ -112,7 +112,15 @@
         }
     ],
     "wof:id":1259343923,
-    "wof:lastmodified":1566667358,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770439,
     "wof:name":"Aram",
     "wof:parent_id":1108757319,
     "wof:placetype":"locality",

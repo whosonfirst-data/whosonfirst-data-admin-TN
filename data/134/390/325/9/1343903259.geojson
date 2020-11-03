@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343903259,
-    "wof:lastmodified":1566667142,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770378,
     "wof:name":"Kasbet Oulad Saidane",
     "wof:parent_id":1108757733,
     "wof:placetype":"locality",

@@ -59,7 +59,15 @@
         }
     ],
     "wof:id":1293696629,
-    "wof:lastmodified":1566667176,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770388,
     "wof:name":"El Mouajene",
     "wof:parent_id":1108757363,
     "wof:placetype":"locality",

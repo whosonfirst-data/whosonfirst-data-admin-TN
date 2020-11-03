@@ -56,7 +56,15 @@
         }
     ],
     "wof:id":1343903221,
-    "wof:lastmodified":1566667142,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770378,
     "wof:name":"Kasba es Saboun",
     "wof:parent_id":1108757729,
     "wof:placetype":"locality",

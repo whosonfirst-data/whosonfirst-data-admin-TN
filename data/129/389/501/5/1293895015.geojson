@@ -70,7 +70,15 @@
         }
     ],
     "wof:id":1293895015,
-    "wof:lastmodified":1566667180,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770390,
     "wof:name":"Hajeb el Aioun",
     "wof:parent_id":1108757387,
     "wof:placetype":"locality",

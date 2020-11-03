@@ -58,7 +58,15 @@
         }
     ],
     "wof:id":1225896085,
-    "wof:lastmodified":1566667372,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770443,
     "wof:name":"Saminjah",
     "wof:parent_id":1108757757,
     "wof:placetype":"locality",

@@ -55,7 +55,15 @@
         }
     ],
     "wof:id":1192959355,
-    "wof:lastmodified":1566667223,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770400,
     "wof:name":"Ksar el Ababsa",
     "wof:parent_id":1108757723,
     "wof:placetype":"locality",

@@ -300,7 +300,15 @@
         }
     ],
     "wof:id":421197969,
-    "wof:lastmodified":1566667314,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770429,
     "wof:name":"Qabis",
     "wof:parent_id":1108757309,
     "wof:placetype":"locality",

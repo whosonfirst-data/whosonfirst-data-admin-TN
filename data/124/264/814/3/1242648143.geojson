@@ -57,7 +57,15 @@
         }
     ],
     "wof:id":1242648143,
-    "wof:lastmodified":1566667347,
+    "wof:lang_x_official":[
+        "ara",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "ara",
+        "fra"
+    ],
+    "wof:lastmodified":1603770437,
     "wof:name":"Sidi Abd el Kader",
     "wof:parent_id":1108757443,
     "wof:placetype":"locality",
