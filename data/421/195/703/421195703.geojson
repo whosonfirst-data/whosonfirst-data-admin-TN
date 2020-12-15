@@ -599,6 +599,10 @@
         "wd:id":"Q3572",
         "wk:page":"Tunis"
     },
+    "wof:coterminous":[
+        1108757755,
+        85679123
+    ],
     "wof:country":"TN",
     "wof:created":1459009856,
     "wof:geom_alt":[
@@ -615,7 +619,7 @@
         }
     ],
     "wof:id":421195703,
-    "wof:lastmodified":1607390901,
+    "wof:lastmodified":1608007406,
     "wof:name":"Tunis",
     "wof:parent_id":85679123,
     "wof:placetype":"locality",
