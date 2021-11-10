@@ -166,6 +166,9 @@
         "\u062c\u0646\u062f\u0648\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
+        "Jendouba"
+    ],
+    "name:vie_x_variant":[
         "T\u1ec9nh Jendouba"
     ],
     "name:zho_x_preferred":[
@@ -296,7 +299,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896197,
+    "wof:lastmodified":1636495669,
     "wof:name":"Jendouba",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

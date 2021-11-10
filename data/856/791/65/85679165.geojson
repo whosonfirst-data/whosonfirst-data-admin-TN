@@ -84,10 +84,16 @@
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0abe\u0ab8\u0acd\u0a9f\u0abf\u0ab0 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05e7\u05d0\u05d9\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0928\u093e\u0938\u094d\u091f\u0940\u0930"
     ],
     "name:hrv_x_preferred":[
+        "Monastir"
+    ],
+    "name:hun_x_preferred":[
         "Monastir"
     ],
     "name:ind_x_preferred":[
@@ -305,7 +311,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896197,
+    "wof:lastmodified":1636495669,
     "wof:name":"Monastir",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

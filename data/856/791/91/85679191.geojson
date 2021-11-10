@@ -169,6 +169,9 @@
         "\u062a\u0637\u0627\u0648\u06cc\u0646"
     ],
     "name:vie_x_preferred":[
+        "Tataouine"
+    ],
+    "name:vie_x_variant":[
         "T\u1ec9nh Tataouine"
     ],
     "name:zho_x_preferred":[
@@ -299,7 +302,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896197,
+    "wof:lastmodified":1636495668,
     "wof:name":"Tataouine",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

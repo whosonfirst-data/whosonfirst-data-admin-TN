@@ -39,6 +39,9 @@
     "name:bel_x_preferred":[
         "\u0432\u0456\u043b\u0430\u0435\u0442 \u0422\u0443\u043d\u0456\u0441"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09bf\u0989\u09a8\u09bf\u09b8"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u043d\u0438\u0441"
     ],
@@ -68,6 +71,15 @@
     ],
     "name:fra_x_variant":[
         "gouvernorat de Tunis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d5\u05e0\u05d9\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u094d\u092f\u0942\u0928\u093f\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Tunis"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Tunis"
@@ -131,6 +143,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0646\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Tunis"
     ],
     "name:zho_x_preferred":[
         "\u7a81\u5c3c\u65af"
@@ -265,7 +280,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896197,
+    "wof:lastmodified":1636495669,
     "wof:name":"Tunis",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

@@ -176,6 +176,9 @@
         "\u0642\u0641\u0635\u06c1"
     ],
     "name:vie_x_preferred":[
+        "Gafsa"
+    ],
+    "name:vie_x_variant":[
         "T\u1ec9nh Gafsa"
     ],
     "name:zho_x_preferred":[
@@ -305,7 +308,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896197,
+    "wof:lastmodified":1636495669,
     "wof:name":"Gafsa",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

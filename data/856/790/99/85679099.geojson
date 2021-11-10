@@ -102,8 +102,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aa8\u0acc\u0aac\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e0\u05d5\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0928\u094b\u092c\u093e \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Manouba"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Manouba"
@@ -333,7 +339,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896196,
+    "wof:lastmodified":1636495667,
     "wof:name":"Manubah",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

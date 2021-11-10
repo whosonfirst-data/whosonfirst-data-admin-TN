@@ -163,6 +163,9 @@
         "\u0633\u0644\u06cc\u0627\u0646\u06c1"
     ],
     "name:vie_x_preferred":[
+        "Siliana"
+    ],
+    "name:vie_x_variant":[
         "T\u1ec9nh Siliana"
     ],
     "name:zho_x_preferred":[
@@ -293,7 +296,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896196,
+    "wof:lastmodified":1636495667,
     "wof:name":"Siliana",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

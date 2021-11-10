@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"10.7672945619,35.7307021352,10.7672945619,35.7307021352",
+    "geom:bbox":"10.767295,35.730702,10.767295,35.730702",
     "geom:latitude":35.730702,
     "geom:longitude":10.767295,
     "iso:country":"TN",
@@ -85,6 +85,9 @@
         "\u092e\u094b\u0928\u093e\u0938\u094d\u091f\u093f\u0930"
     ],
     "name:hun_x_preferred":[
+        "Monastir"
+    ],
+    "name:hun_x_variant":[
         "Monasztir"
     ],
     "name:hye_x_preferred":[
@@ -300,7 +303,7 @@
     },
     "wof:country":"TN",
     "wof:created":1499130527,
-    "wof:geomhash":"188e65410c2baa84965e3dd7af2b3fbb",
+    "wof:geomhash":"5d74c3da9ded43e975b8aef963a5cf64",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -311,7 +314,7 @@
         }
     ],
     "wof:id":1141905999,
-    "wof:lastmodified":1566667380,
+    "wof:lastmodified":1636495673,
     "wof:name":"Monastir",
     "wof:parent_id":1108757545,
     "wof:placetype":"locality",
@@ -321,10 +324,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.767294561862,
-    35.7307021351512,
-    10.767294561862,
-    35.7307021351512
+    10.767295,
+    35.730702,
+    10.767295,
+    35.730702
 ],
-  "geometry": {"coordinates":[10.767294561862,35.7307021351512],"type":"Point"}
+  "geometry": {"coordinates":[10.767295,35.730702],"type":"Point"}
 }

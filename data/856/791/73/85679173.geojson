@@ -90,6 +90,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0942\u0938\u0947 \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
     ],
+    "name:hun_x_preferred":[
+        "Sousse"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Sousse"
     ],
@@ -299,7 +302,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896196,
+    "wof:lastmodified":1636495668,
     "wof:name":"Sousse",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.71669850332,35.2167031048,8.71669850332,35.2167031048",
+    "geom:bbox":"8.716699,35.216703,8.716699,35.216703",
     "geom:latitude":35.216703,
     "geom:longitude":8.716699,
     "iso:country":"TN",
@@ -23,6 +23,9 @@
     ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0642\u0635\u0631\u06cc\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09af\u09be\u09b8\u09be\u09b0\u09be\u0987\u09a8"
     ],
     "name:cat_x_preferred":[
         "Kasserine"
@@ -60,8 +63,14 @@
     "name:heb_x_preferred":[
         "\u05e7\u05e1\u05e8\u05d9\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u0948\u0938\u0930\u0940\u0928"
+    ],
     "name:hun_x_preferred":[
         "Kasszerine"
+    ],
+    "name:ind_x_preferred":[
+        "Kasserine"
     ],
     "name:ita_x_preferred":[
         "Kasserine"
@@ -99,6 +108,9 @@
     "name:sco_x_preferred":[
         "Kasserine"
     ],
+    "name:spa_x_preferred":[
+        "Kasserine"
+    ],
     "name:swe_x_preferred":[
         "Kasserine"
     ],
@@ -110,6 +122,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0635\u0631\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Kasserine"
     ],
     "name:zho_x_preferred":[
         "\u5361\u585e\u6797"
@@ -222,7 +237,7 @@
     },
     "wof:country":"TN",
     "wof:created":1499130526,
-    "wof:geomhash":"1806d026d737b85395cbeb75f8dee68f",
+    "wof:geomhash":"2e29bfe24984952189ea5ecf23b631d1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -233,7 +248,7 @@
         }
     ],
     "wof:id":1141905995,
-    "wof:lastmodified":1566667381,
+    "wof:lastmodified":1636495673,
     "wof:name":"Kasserine",
     "wof:parent_id":1108757415,
     "wof:placetype":"locality",
@@ -243,10 +258,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.71669850332046,
-    35.21670310482421,
-    8.71669850332046,
-    35.21670310482421
+    8.716699,
+    35.216703,
+    8.716699,
+    35.216703
 ],
-  "geometry": {"coordinates":[8.71669850332046,35.21670310482421],"type":"Point"}
+  "geometry": {"coordinates":[8.716699,35.216703],"type":"Point"}
 }

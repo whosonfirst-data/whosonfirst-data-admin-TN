@@ -88,6 +88,9 @@
     "name:hin_x_preferred":[
         "\u0938\u093f\u0921\u0940 \u092c\u094c\u091c\u093c\u093f\u0921 \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
     ],
+    "name:hun_x_preferred":[
+        "Sidi Bou Zid"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Sidi Bou Said"
     ],
@@ -295,7 +298,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896198,
+    "wof:lastmodified":1636495670,
     "wof:name":"Sidi Bou Zid",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

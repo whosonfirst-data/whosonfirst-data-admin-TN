@@ -163,6 +163,9 @@
         "\u062a\u0648\u0632\u0631"
     ],
     "name:vie_x_preferred":[
+        "Tozeur"
+    ],
+    "name:vie_x_variant":[
         "T\u1ec9nh Tozeur"
     ],
     "name:zho_x_preferred":[
@@ -293,7 +296,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896195,
+    "wof:lastmodified":1636495667,
     "wof:name":"Tozeur",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"10.700008096,32.0170495799,10.700008096,32.0170495799",
+    "geom:bbox":"10.700008,32.01705,10.700008,32.01705",
     "geom:latitude":32.01705,
     "geom:longitude":10.700008,
     "iso:country":"TN",
@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0630\u0647\u064a\u0628\u0629"
     ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c7\u09b9\u09bf\u09ac\u09be\u09a4"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0435\u0445\u0438\u0431\u0430"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:deu_x_preferred":[
         "Dahibah"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b5\u03c7\u03b9\u03bc\u03c0\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
         "Dehiba"
@@ -45,8 +51,26 @@
     "name:fra_x_preferred":[
         "Dehiba"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d4\u05d9\u05d1\u05d0\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u0947\u0939\u0940\u092c\u093e\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Dehibat"
+    ],
+    "name:ind_x_preferred":[
+        "Dehibat"
+    ],
     "name:ita_x_preferred":[
         "Dehiba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30d2\u30d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub370\ud788\ubc27"
     ],
     "name:nld_x_preferred":[
         "Dehiba"
@@ -63,8 +87,29 @@
     "name:sco_x_preferred":[
         "Dehiba"
     ],
+    "name:spa_x_preferred":[
+        "Dehibat"
+    ],
+    "name:swe_x_preferred":[
+        "Dehibat"
+    ],
+    "name:tur_x_preferred":[
+        "Dehibat"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0445\u0456\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u06c1\u06cc\u0628\u06cc\u0679"
+    ],
+    "name:vie_x_preferred":[
+        "Dehibat"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5fb7\u5e0c\u5df4\u7279"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5fb7\u5e0c\u5df4\u7279"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tunisia",
@@ -174,7 +219,7 @@
     },
     "wof:country":"TN",
     "wof:created":1499130647,
-    "wof:geomhash":"f65b004e6486ae1677a61d92e5693a2a",
+    "wof:geomhash":"8d921a3cc5dafa2b07229b199dc0600e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -185,7 +230,7 @@
         }
     ],
     "wof:id":1141906849,
-    "wof:lastmodified":1566667381,
+    "wof:lastmodified":1636495674,
     "wof:name":"Dehibat",
     "wof:parent_id":1108757721,
     "wof:placetype":"locality",
@@ -195,10 +240,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.70000809595894,
-    32.01704957989699,
-    10.70000809595894,
-    32.01704957989699
+    10.700008,
+    32.01705,
+    10.700008,
+    32.01705
 ],
-  "geometry": {"coordinates":[10.70000809595894,32.01704957989699],"type":"Point"}
+  "geometry": {"coordinates":[10.700008,32.01705],"type":"Point"}
 }

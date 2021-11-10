@@ -163,6 +163,9 @@
         "\u0632\u063a\u0648\u0627\u0646 \u06af\u0648\u0648\u0631\u0646\u0648\u0631\u0627\u062a\u06d2"
     ],
     "name:vie_x_preferred":[
+        "Zaghouan"
+    ],
+    "name:vie_x_variant":[
         "T\u1ec9nh Zaghouan"
     ],
     "name:zho_x_preferred":[
@@ -293,7 +296,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896197,
+    "wof:lastmodified":1636495669,
     "wof:name":"Zaghouan",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

@@ -28,6 +28,9 @@
     "name:azb_x_preferred":[
         "\u0642\u0641\u0635\u0647"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09be\u09ab\u09b8\u09be"
+    ],
     "name:cat_x_preferred":[
         "Gafsa"
     ],
@@ -67,11 +70,17 @@
     "name:heb_x_preferred":[
         "\u05d2\u05d0\u05e4\u05e1\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0917\u092b\u094d\u0938\u093e"
+    ],
     "name:hun_x_preferred":[
         "Gafsa"
     ],
     "name:hun_x_variant":[
         "Gafsza"
+    ],
+    "name:ind_x_preferred":[
+        "Gafsa"
     ],
     "name:ita_x_preferred":[
         "Gafsa"
@@ -132,6 +141,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0641\u0635\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Gafsa"
     ],
     "name:zho_x_preferred":[
         "\u52a0\u592b\u85a9"
@@ -263,7 +275,7 @@
         }
     ],
     "wof:id":890441437,
-    "wof:lastmodified":1566667324,
+    "wof:lastmodified":1636495672,
     "wof:name":"Gafsa",
     "wof:parent_id":1108757335,
     "wof:placetype":"locality",

@@ -107,6 +107,9 @@
         "Susa"
     ],
     "name:hun_x_preferred":[
+        "Sousse"
+    ],
+    "name:hun_x_variant":[
         "Sz\u00fasza"
     ],
     "name:hye_x_preferred":[
@@ -359,7 +362,7 @@
         }
     ],
     "wof:id":890444461,
-    "wof:lastmodified":1566667326,
+    "wof:lastmodified":1636495673,
     "wof:name":"Sousse",
     "wof:parent_id":1108757713,
     "wof:placetype":"locality",
