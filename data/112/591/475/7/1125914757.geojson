@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Takelsa"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u06a9\u0644\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "Takelsa"
     ],
@@ -43,8 +46,14 @@
     "name:nld_x_preferred":[
         "Takelsa"
     ],
+    "name:tur_x_preferred":[
+        "Teklise"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043a\u0435\u043b\u0441\u0430"
+    ],
+    "name:zul_x_preferred":[
+        "Takelsa"
     ],
     "qs_pg:aaroncc":"TN",
     "qs_pg:gn_country":"TN",
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1125914757,
-    "wof:lastmodified":1566667328,
+    "wof:lastmodified":1690874870,
     "wof:name":"T\u0101klisah",
     "wof:parent_id":1108757593,
     "wof:placetype":"locality",

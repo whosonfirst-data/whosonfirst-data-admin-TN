@@ -47,14 +47,23 @@
     "name:hun_x_preferred":[
         "T\u00e9boursouk"
     ],
+    "name:hun_x_variant":[
+        "Teburszuk"
+    ],
     "name:kab_x_preferred":[
         "Tabursuq"
+    ],
+    "name:tur_x_preferred":[
+        "Tabursuk"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0431\u0443\u0440\u0441\u0443\u043a"
     ],
     "name:und_x_variant":[
         "Teboursouk"
+    ],
+    "name:zul_x_preferred":[
+        "T\u00e9boursouk"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":421178847,
-    "wof:lastmodified":1566667321,
+    "wof:lastmodified":1690874861,
     "wof:name":"Tabursuq",
     "wof:parent_id":1108757265,
     "wof:placetype":"locality",

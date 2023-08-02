@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0641\u0637\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0641\u0637\u0647"
+    ],
     "name:cat_x_preferred":[
         "Nefta"
     ],
@@ -29,8 +32,14 @@
     "name:eng_x_preferred":[
         "Nafta"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0641\u0637\u0647"
+    ],
     "name:fra_x_preferred":[
         "Nefta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e4\u05ea\u05d0"
     ],
     "name:kaz_x_preferred":[
         "\u041d\u0435\u0444\u0442\u0430 \u0448\u04b1\u0440\u0430\u0442\u044b"
@@ -53,11 +62,20 @@
     "name:sco_x_preferred":[
         "Nefta"
     ],
+    "name:tur_x_preferred":[
+        "Nefta"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0444\u0442\u0430"
     ],
     "name:und_x_variant":[
         "Aggarset Nepte"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0641\u0637\u06c1"
+    ],
+    "name:zul_x_preferred":[
+        "Nefta"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -107,7 +125,7 @@
         }
     ],
     "wof:id":421197973,
-    "wof:lastmodified":1566667314,
+    "wof:lastmodified":1690874852,
     "wof:name":"Naftah",
     "wof:parent_id":1108757739,
     "wof:placetype":"locality",

@@ -78,8 +78,17 @@
     "name:fra_x_variant":[
         "gouvernorat de Tozeur"
     ],
+    "name:frr_x_preferred":[
+        "Tozeur"
+    ],
+    "name:gle_x_preferred":[
+        "Tozeur"
+    ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0a9d\u0ac1\u0ab0 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05d6\u05d5\u05e8"
     ],
     "name:hin_x_preferred":[
         "\u0924\u094b\u091c\u093c\u093f\u0909\u0930 \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
@@ -98,6 +107,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud1a0\uc8c4\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud1a0\uc8c4\ub974\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Tauz\u0101ras vil\u0101ja"
@@ -150,6 +162,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e17\u0e40\u0e0b\u0e2d\u0e23\u0e4c \u0e42\u0e01\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e23\u0e17"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e40\u0e15\u0e32\u0e0b\u0e31\u0e23"
+    ],
     "name:tur_x_preferred":[
         "Tuzer ili"
     ],
@@ -170,6 +185,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6258\u6fa4\u723e\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Tozeur Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -296,7 +314,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636495667,
+    "wof:lastmodified":1690874830,
     "wof:name":"Tozeur",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

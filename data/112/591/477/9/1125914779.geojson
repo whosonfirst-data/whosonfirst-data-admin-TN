@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Jendouba"
     ],
+    "name:ceb_x_preferred":[
+        "Jendouba"
+    ],
     "name:cym_x_preferred":[
         "Jendouba"
     ],
@@ -88,6 +91,9 @@
     "name:pol_x_preferred":[
         "Jendouba"
     ],
+    "name:pol_x_variant":[
+        "D\u017cunduba"
+    ],
     "name:por_x_preferred":[
         "Jendouba"
     ],
@@ -106,6 +112,9 @@
     "name:swe_x_preferred":[
         "Jendouba"
     ],
+    "name:tha_x_preferred":[
+        "\u0e0d\u0e31\u0e19\u0e14\u0e39\u0e1a\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Cendube"
     ],
@@ -123,6 +132,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5805\u675c\u62dc"
+    ],
+    "name:zul_x_preferred":[
+        "Jendouba"
     ],
     "qs_pg:aaroncc":"TN",
     "qs_pg:gn_country":"TN",
@@ -163,7 +175,7 @@
         }
     ],
     "wof:id":1125914779,
-    "wof:lastmodified":1636495673,
+    "wof:lastmodified":1690874870,
     "wof:name":"Jendouba",
     "wof:parent_id":1108757365,
     "wof:placetype":"locality",

@@ -50,7 +50,16 @@
     "name:ell_x_preferred":[
         "\u0391\u03bb \u039c\u03b1\u03bd\u03c4\u03af\u03b3\u03b9\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03c7\u03bd\u03c4\u03af\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Mahdia"
+    ],
+    "name:epo_x_preferred":[
+        "Mahdia"
+    ],
+    "name:eus_x_preferred":[
         "Mahdia"
     ],
     "name:fas_x_preferred":[
@@ -60,6 +69,9 @@
         "Mahdia"
     ],
     "name:fra_x_preferred":[
+        "Mahdia"
+    ],
+    "name:glg_x_preferred":[
         "Mahdia"
     ],
     "name:guj_x_preferred":[
@@ -110,8 +122,14 @@
     "name:nld_x_preferred":[
         "Mahdia"
     ],
+    "name:nno_x_preferred":[
+        "Mahdia"
+    ],
     "name:nob_x_preferred":[
         "Mahdia"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u06c1\u062f\u06cc\u06c1"
     ],
     "name:pol_x_preferred":[
         "Al-Mahdijja"
@@ -143,6 +161,9 @@
     "name:spa_x_preferred":[
         "Mahdia"
     ],
+    "name:spa_x_variant":[
+        "Mahd\u00eda"
+    ],
     "name:swe_x_preferred":[
         "Mahdia"
     ],
@@ -154,6 +175,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e2b\u0e4c\u0e40\u0e14\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e25\u0e21\u0e30\u0e2e\u0e4c\u0e14\u0e35\u0e22\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Mehdiye"
@@ -172,6 +196,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u8d6b\u8fea\u8036"
+    ],
+    "name:zul_x_preferred":[
+        "Mahdia"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPLA",
@@ -221,7 +248,7 @@
         }
     ],
     "wof:id":421203061,
-    "wof:lastmodified":1566667306,
+    "wof:lastmodified":1690874844,
     "wof:name":"Al Mahdiyah",
     "wof:parent_id":1108757481,
     "wof:placetype":"locality",

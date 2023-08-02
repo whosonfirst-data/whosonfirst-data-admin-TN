@@ -20,14 +20,26 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u064a\u0631\u0648\u0627\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u0627\u0644\u0642\u064a\u0631\u0648\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0642\u064a\u0631\u0648\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
         "Kairu\u00e1n"
     ],
     "name:azb_x_preferred":[
         "\u0642\u06cc\u0631\u0648\u0627\u0646"
     ],
+    "name:aze_x_preferred":[
+        "Qeyr\u0259van"
+    ],
     "name:bak_x_preferred":[
         "\u041a\u0430\u0440\u0443\u0430\u043d"
+    ],
+    "name:bak_x_variant":[
+        "\u04a0\u0430\u0439\u0440\u0430\u04af\u04d9\u043d"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0439\u0440\u0443\u0430\u043d"
@@ -62,8 +74,14 @@
     "name:deu_x_preferred":[
         "Qairaw\u0101n"
     ],
+    "name:deu_x_variant":[
+        "Kairouan"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03ca\u03c1\u03bf\u03c5\u03ac\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03ca\u03c1\u03b1\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kairouan"
@@ -152,6 +170,9 @@
     "name:mar_x_preferred":[
         "\u0915\u0947\u0905\u0930\u094c\u0906\u0928"
     ],
+    "name:mlt_x_preferred":[
+        "Kairouan"
+    ],
     "name:msa_x_preferred":[
         "Kairouan"
     ],
@@ -206,6 +227,9 @@
     "name:srp_x_variant":[
         "\u041a\u0435\u0440\u0443\u0430\u043d"
     ],
+    "name:swa_x_preferred":[
+        "Kairuan"
+    ],
     "name:swe_x_preferred":[
         "Kairouan"
     ],
@@ -218,8 +242,14 @@
     "name:tha_x_preferred":[
         "\u0e44\u0e04\u0e23\u0e27\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e25\u0e01\u0e47\u0e2d\u0e22\u0e40\u0e23\u0e32\u0e30\u0e27\u0e32\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Kayravan"
+    ],
+    "name:uig_x_preferred":[
+        "\u0642\u06d5\u064a\u0631\u06d5\u06cb\u0627\u0646"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0439\u0440\u0443\u0430\u043d"
@@ -233,14 +263,23 @@
     "name:uzb_x_preferred":[
         "Qayruvon"
     ],
+    "name:uzb_x_variant":[
+        "Qayravon"
+    ],
     "name:vie_x_preferred":[
         "Kairouan"
     ],
     "name:war_x_preferred":[
         "Kairouan"
     ],
+    "name:wuu_x_preferred":[
+        "\u51ef\u9c81\u4e07"
+    ],
     "name:zho_x_preferred":[
         "\u51ef\u9c81\u4e07"
+    ],
+    "name:zul_x_preferred":[
+        "Kairouan"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tunisia",
@@ -381,7 +420,7 @@
         }
     ],
     "wof:id":421178873,
-    "wof:lastmodified":1566667320,
+    "wof:lastmodified":1690874860,
     "wof:name":"Al Qayrawan",
     "wof:parent_id":1108757389,
     "wof:placetype":"locality",

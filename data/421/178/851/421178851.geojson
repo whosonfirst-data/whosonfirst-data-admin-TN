@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0643\u062b\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0643\u062b\u0631"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u0442\u0430\u0440"
     ],
@@ -38,8 +41,14 @@
     "name:eng_x_preferred":[
         "Maktar"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06a9\u062b\u0631"
+    ],
     "name:fra_x_preferred":[
         "Makthar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05db\u05ea\u05e8"
     ],
     "name:hun_x_preferred":[
         "Maktar"
@@ -65,6 +74,12 @@
     "name:ron_x_preferred":[
         "Makthar"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0442\u0430\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Mukasir"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0441\u0430\u0440"
     ],
@@ -73,6 +88,9 @@
     ],
     "name:zho_x_preferred":[
         "\u51ef\u9c81\u4e07"
+    ],
+    "name:zul_x_preferred":[
+        "Maktar"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -122,7 +140,7 @@
         }
     ],
     "wof:id":421178851,
-    "wof:lastmodified":1566667320,
+    "wof:lastmodified":1690874860,
     "wof:name":"Makthar",
     "wof:parent_id":1108757675,
     "wof:placetype":"locality",

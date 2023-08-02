@@ -29,8 +29,14 @@
     "name:cat_x_variant":[
         "Beni Hassen"
     ],
+    "name:ceb_x_preferred":[
+        "Ban\u012b \u1e28ass\u0101n"
+    ],
     "name:deu_x_preferred":[
         "Ban\u012b Hass\u0101n"
+    ],
+    "name:deu_x_variant":[
+        "Beni Hassen"
     ],
     "name:eng_x_preferred":[
         "Beni Hassen"
@@ -68,11 +74,20 @@
     "name:swe_x_preferred":[
         "Beni Hassan-klanen"
     ],
+    "name:tur_x_preferred":[
+        "Beni Hasan"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0456-\u0425\u0430\u0441\u0441\u0435\u043d"
     ],
     "name:und_x_variant":[
         "Beni Hassane"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0646\u06cc \u062d\u0633\u0627\u0646"
+    ],
+    "name:zul_x_preferred":[
+        "Beni Hassen"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":421188189,
-    "wof:lastmodified":1566667311,
+    "wof:lastmodified":1690874849,
     "wof:name":"Bani Hassan",
     "wof:parent_id":1108757535,
     "wof:placetype":"locality",

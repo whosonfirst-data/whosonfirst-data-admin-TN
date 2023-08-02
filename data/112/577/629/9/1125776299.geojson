@@ -25,11 +25,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u0645\u0648\u0631\u0629"
     ],
+    "name:cat_x_preferred":[
+        "El M\u00e2amoura"
+    ],
     "name:ceb_x_preferred":[
         "El Maamoura"
     ],
     "name:eng_x_preferred":[
         "El Ma\u00e2moura"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0645\u0648\u0631\u0647"
     ],
     "name:fra_x_preferred":[
         "El Ma\u00e2moura"
@@ -37,11 +43,17 @@
     "name:nld_x_preferred":[
         "El Ma\u00e2moura"
     ],
+    "name:tur_x_preferred":[
+        "El-Mamure"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041c\u0430\u0430\u043c\u0443\u0440\u0430"
     ],
     "name:und_x_variant":[
         "Al Ma\u2018m\u016brah"
+    ],
+    "name:zul_x_preferred":[
+        "El Ma\u00e2moura"
     ],
     "qs_pg:aaroncc":"TN",
     "qs_pg:gn_country":"TN",
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":1125776299,
-    "wof:lastmodified":1566667329,
+    "wof:lastmodified":1690874871,
     "wof:name":"El Maamoura",
     "wof:parent_id":1108757563,
     "wof:placetype":"locality",

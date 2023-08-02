@@ -69,6 +69,9 @@
     "name:hun_x_preferred":[
         "Kasszerine"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057d\u0565\u0580\u056b\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kasserine"
     ],
@@ -114,6 +117,9 @@
     "name:swe_x_preferred":[
         "Kasserine"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e25\u0e01\u0e47\u0e2d\u0e28\u0e23\u0e35\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Kassarin"
     ],
@@ -128,6 +134,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u585e\u6797"
+    ],
+    "name:zul_x_preferred":[
+        "Kasserine"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tunisia",
@@ -248,7 +257,7 @@
         }
     ],
     "wof:id":1141905995,
-    "wof:lastmodified":1636495673,
+    "wof:lastmodified":1690874872,
     "wof:name":"Kasserine",
     "wof:parent_id":1108757415,
     "wof:placetype":"locality",

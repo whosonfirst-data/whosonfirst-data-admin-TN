@@ -17,11 +17,26 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Medenine"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u062f\u0646\u064a\u0646"
     ],
+    "name:arg_x_preferred":[
+        "Medenine"
+    ],
+    "name:ast_x_preferred":[
+        "Medenine"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u062f\u0646\u06cc\u0646"
+    ],
+    "name:bar_x_preferred":[
+        "Medenine"
+    ],
+    "name:bre_x_preferred":[
+        "Medenine"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u0434\u0435\u043d\u0438\u043d\u0435"
@@ -30,6 +45,12 @@
         "M\u00e9denine"
     ],
     "name:ceb_x_preferred":[
+        "Medenine"
+    ],
+    "name:ces_x_preferred":[
+        "Madan\u00edn"
+    ],
+    "name:cos_x_preferred":[
         "Medenine"
     ],
     "name:cym_x_preferred":[
@@ -50,6 +71,15 @@
     "name:eng_x_preferred":[
         "Medenine"
     ],
+    "name:epo_x_preferred":[
+        "Medenine"
+    ],
+    "name:est_x_preferred":[
+        "Medenine"
+    ],
+    "name:eus_x_preferred":[
+        "Medenine"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u062f\u0646\u06cc\u0646"
     ],
@@ -59,8 +89,50 @@
     "name:fra_x_preferred":[
         "M\u00e9denine"
     ],
+    "name:frp_x_preferred":[
+        "Medenine"
+    ],
+    "name:fur_x_preferred":[
+        "Medenine"
+    ],
+    "name:gla_x_preferred":[
+        "Medenine"
+    ],
+    "name:gle_x_preferred":[
+        "Medenine"
+    ],
+    "name:glg_x_preferred":[
+        "Medenine"
+    ],
+    "name:gsw_x_preferred":[
+        "Medenine"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d3\u05e0\u05d9\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Medenine"
+    ],
     "name:hun_x_preferred":[
         "M\u00e9denine"
+    ],
+    "name:hun_x_variant":[
+        "Meden\u00edn"
+    ],
+    "name:ido_x_preferred":[
+        "Medenine"
+    ],
+    "name:ile_x_preferred":[
+        "Medenine"
+    ],
+    "name:ina_x_preferred":[
+        "Medenine"
+    ],
+    "name:ind_x_preferred":[
+        "Medenine"
+    ],
+    "name:isl_x_preferred":[
+        "Medenine"
     ],
     "name:ita_x_preferred":[
         "Medenina"
@@ -71,14 +143,59 @@
     "name:kab_x_preferred":[
         "Mednin"
     ],
+    "name:kon_x_preferred":[
+        "Medenine"
+    ],
     "name:kor_x_preferred":[
         "\uba54\ub4dc\ub2cc"
+    ],
+    "name:lij_x_preferred":[
+        "Medenine"
+    ],
+    "name:lim_x_preferred":[
+        "Medenine"
     ],
     "name:lit_x_preferred":[
         "Medeninas"
     ],
+    "name:ltz_x_preferred":[
+        "Medenine"
+    ],
+    "name:min_x_preferred":[
+        "Medenine"
+    ],
+    "name:mlg_x_preferred":[
+        "Medenine"
+    ],
+    "name:msa_x_preferred":[
+        "Medenine"
+    ],
+    "name:nap_x_preferred":[
+        "Medenine"
+    ],
+    "name:nds_x_preferred":[
+        "Medenine"
+    ],
     "name:nld_x_preferred":[
         "M\u00e9denine"
+    ],
+    "name:nno_x_preferred":[
+        "Medenine"
+    ],
+    "name:nob_x_preferred":[
+        "Medenine"
+    ],
+    "name:nrm_x_preferred":[
+        "Medenine"
+    ],
+    "name:oci_x_preferred":[
+        "Medenine"
+    ],
+    "name:pcd_x_preferred":[
+        "Medenine"
+    ],
+    "name:pms_x_preferred":[
+        "Medenine"
     ],
     "name:pol_x_preferred":[
         "Madanin"
@@ -86,17 +203,41 @@
     "name:por_x_preferred":[
         "M\u00e9denine"
     ],
+    "name:roh_x_preferred":[
+        "Medenine"
+    ],
     "name:ron_x_preferred":[
         "Medenine"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0434\u0435\u043d\u0438\u043d"
     ],
+    "name:scn_x_preferred":[
+        "Medenine"
+    ],
     "name:sco_x_preferred":[
+        "Medenine"
+    ],
+    "name:slk_x_preferred":[
+        "Medenine"
+    ],
+    "name:slv_x_preferred":[
         "Medenine"
     ],
     "name:spa_x_preferred":[
         "M\u00e9denine"
+    ],
+    "name:srd_x_preferred":[
+        "Medenine"
+    ],
+    "name:swa_x_preferred":[
+        "Medenine"
+    ],
+    "name:swe_x_preferred":[
+        "Medenine"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e30\u0e14\u0e30\u0e19\u0e35\u0e19"
     ],
     "name:tur_x_preferred":[
         "Medenin"
@@ -110,8 +251,29 @@
     "name:urd_x_preferred":[
         "\u0645\u062f\u0646\u06cc\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Medenine"
+    ],
+    "name:vie_x_preferred":[
+        "Medenine"
+    ],
+    "name:vls_x_preferred":[
+        "Medenine"
+    ],
+    "name:vol_x_preferred":[
+        "Medenine"
+    ],
+    "name:wln_x_preferred":[
+        "Medenine"
+    ],
+    "name:wol_x_preferred":[
+        "Medenine"
+    ],
     "name:zho_x_preferred":[
         "\u6885\u5fb7\u5be7"
+    ],
+    "name:zul_x_preferred":[
+        "Medenine"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPLA",
@@ -162,7 +324,7 @@
         }
     ],
     "wof:id":421173175,
-    "wof:lastmodified":1566667310,
+    "wof:lastmodified":1690874848,
     "wof:name":"Madanin",
     "wof:parent_id":1108757521,
     "wof:placetype":"locality",

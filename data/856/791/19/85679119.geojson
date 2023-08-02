@@ -84,6 +84,12 @@
     "name:fra_x_variant":[
         "Gouvernorat de Nabeul"
     ],
+    "name:frr_x_preferred":[
+        "Nabeul"
+    ],
+    "name:gle_x_preferred":[
+        "Nabeul"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aac\u0ac1\u0ab2 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -104,6 +110,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub098\ubd50 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub098\ubd50\uc8fc"
     ],
     "name:lav_x_preferred":[
         "N\u0101bulas vil\u0101ja"
@@ -153,8 +162,14 @@
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c2c\u0c3f\u0c2f\u0c32\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0432\u0438\u043b\u043e\u044f\u0442\u0438 \u041d\u043e\u0431\u0443\u043b"
+    ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e32\u0e40\u0e1a\u0e34\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e19\u0e32\u0e1a\u0e34\u0e25"
     ],
     "name:tur_x_preferred":[
         "Nabil ili"
@@ -176,6 +191,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u5e03\u52d2\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Nabeul Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -302,7 +320,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636495668,
+    "wof:lastmodified":1690874833,
     "wof:name":"Nabeul",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

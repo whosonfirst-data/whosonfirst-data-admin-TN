@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Rad\u00e8s"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d3\u05e1"
+    ],
     "name:hun_x_preferred":[
         "Rad\u00e8s"
     ],
@@ -110,6 +113,9 @@
     "name:zho_x_preferred":[
         "\u62c9\u8fea\u65af"
     ],
+    "name:zul_x_preferred":[
+        "Rad\u00e8s"
+    ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":2467815,
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":421178249,
-    "wof:lastmodified":1566667321,
+    "wof:lastmodified":1690874862,
     "wof:name":"Radis",
     "wof:parent_id":1108757271,
     "wof:placetype":"locality",

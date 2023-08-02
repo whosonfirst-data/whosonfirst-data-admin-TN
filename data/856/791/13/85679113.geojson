@@ -81,8 +81,17 @@
     "name:fra_x_variant":[
         "gouvernorat de Bizerte"
     ],
+    "name:frr_x_preferred":[
+        "Bizerte"
+    ],
+    "name:gle_x_preferred":[
+        "Bizerte"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0a9d\u0ac7\u0ab0\u0acd\u0a9f \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d6\u05e8\u05d8"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093f\u091c\u093c\u0947\u0930\u094d\u0924\u0947 \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
@@ -107,6 +116,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube44\uc81c\ub974\ud14c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ube44\uc81c\ub974\ud14c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Bizertas vil\u0101ja"
@@ -159,6 +171,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e34\u0e40\u0e2a\u0e34\u0e17 \u0e01\u0e2d\u0e1f\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e25\u0e17"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e1a\u0e31\u0e19\u0e0b\u0e31\u0e23\u0e15\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Binzert ili"
     ],
@@ -176,6 +191,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u585e\u5927\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Bizerte Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -302,7 +320,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896198,
+    "wof:lastmodified":1690874837,
     "wof:name":"Bizerte",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

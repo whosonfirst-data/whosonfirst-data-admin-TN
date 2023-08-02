@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Al Baq\u0101li\u0163ah"
     ],
+    "name:deu_x_preferred":[
+        "Bekalta"
+    ],
     "name:eng_x_preferred":[
         "Bekalta"
     ],
@@ -50,11 +53,17 @@
     "name:ron_x_preferred":[
         "Bekalta"
     ],
+    "name:tur_x_preferred":[
+        "Bikalite"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043a\u0430\u043b\u044c\u0442\u0430"
     ],
     "name:und_x_variant":[
         "Mkalta"
+    ],
+    "name:zul_x_preferred":[
+        "Bekalta"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":421200269,
-    "wof:lastmodified":1566667316,
+    "wof:lastmodified":1690874855,
     "wof:name":"Al Baqalitah",
     "wof:parent_id":1108757531,
     "wof:placetype":"locality",

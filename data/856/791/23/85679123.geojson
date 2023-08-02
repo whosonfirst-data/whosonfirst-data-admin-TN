@@ -36,6 +36,9 @@
         "\u0648\u0644\u0627\u064a\u0629 \u062a\u0648\u0646\u0633",
         "Tunis"
     ],
+    "name:aze_x_preferred":[
+        "Tunis qubernatorlu\u011fu"
+    ],
     "name:bel_x_preferred":[
         "\u0432\u0456\u043b\u0430\u0435\u0442 \u0422\u0443\u043d\u0456\u0441"
     ],
@@ -48,7 +51,13 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Tunis"
     ],
+    "name:ces_x_preferred":[
+        "Tunisk\u00fd guvernor\u00e1t"
+    ],
     "name:cym_x_preferred":[
+        "Tunis"
+    ],
+    "name:dan_x_preferred":[
         "Tunis"
     ],
     "name:deu_x_preferred":[
@@ -72,6 +81,9 @@
     "name:fra_x_variant":[
         "gouvernorat de Tunis"
     ],
+    "name:gle_x_preferred":[
+        "Tunis"
+    ],
     "name:heb_x_preferred":[
         "\u05ea\u05d5\u05e0\u05d9\u05e1"
     ],
@@ -80,6 +92,9 @@
     ],
     "name:hun_x_preferred":[
         "Tunis"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0578\u0582\u0576\u056b\u057d"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Tunis"
@@ -97,7 +112,8 @@
         "\ud280\ub2c8\uc2a4"
     ],
     "name:kor_x_variant":[
-        "\ud280\ub2c8\uc2a4 \uc8fc"
+        "\ud280\ub2c8\uc2a4 \uc8fc",
+        "\ud280\ub2c8\uc2a4\uc8fc"
     ],
     "name:msa_x_preferred":[
         "Kawasan kegabenoran Tunis"
@@ -152,6 +168,9 @@
     ],
     "name:zho_x_variant":[
         "\u7a81\u5c3c\u65af\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Tunis Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -280,7 +299,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636495669,
+    "wof:lastmodified":1690874836,
     "wof:name":"Tunis",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

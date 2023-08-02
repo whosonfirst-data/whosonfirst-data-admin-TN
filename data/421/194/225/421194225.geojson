@@ -20,14 +20,23 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u0628\u0644\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Bembla"
+    ],
     "name:cat_x_preferred":[
         "Bembla"
+    ],
+    "name:ceb_x_preferred":[
+        "Banbalah"
     ],
     "name:deu_x_preferred":[
         "Bembla"
     ],
     "name:eng_x_preferred":[
         "Bembla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u0628\u0644\u0647"
     ],
     "name:fra_x_preferred":[
         "Bembla"
@@ -41,8 +50,14 @@
     "name:ron_x_preferred":[
         "Bembla"
     ],
+    "name:tur_x_preferred":[
+        "Binuble"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0431\u043b\u0430"
+    ],
+    "name:zul_x_preferred":[
+        "Bembla"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -90,7 +105,7 @@
         }
     ],
     "wof:id":421194225,
-    "wof:lastmodified":1566667303,
+    "wof:lastmodified":1690874842,
     "wof:name":"Banbalah",
     "wof:parent_id":1108757533,
     "wof:placetype":"locality",

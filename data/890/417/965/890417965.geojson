@@ -55,6 +55,9 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442 \u042d\u043b\u044c-\u041a\u0430\u043d\u0442\u0430\u0443\u0438"
     ],
+    "name:tur_x_preferred":[
+        "Marsa El-Kantavi"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u0435\u043b\u044c-\u041a\u0430\u043d\u0442\u0430\u0443\u0457"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890417965,
-    "wof:lastmodified":1566667325,
+    "wof:lastmodified":1690874866,
     "wof:name":"Port el Kantaoui",
     "wof:parent_id":1108757689,
     "wof:placetype":"locality",

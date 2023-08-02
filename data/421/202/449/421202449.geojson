@@ -29,7 +29,13 @@
     "name:ceb_x_preferred":[
         "Kelaa Kebira"
     ],
+    "name:deu_x_preferred":[
+        "Kal\u00e2a K\u00e9bira"
+    ],
     "name:eng_x_preferred":[
+        "Kal\u00e2a Kebira"
+    ],
+    "name:eus_x_preferred":[
         "Kal\u00e2a Kebira"
     ],
     "name:fas_x_preferred":[
@@ -58,6 +64,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0642\u0644\u0639\u06c3 \u0627\u0644\u06a9\u0628\u0631\u06cc"
+    ],
+    "name:zul_x_preferred":[
+        "Kal\u00e2a Kebira"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":421202449,
-    "wof:lastmodified":1566667307,
+    "wof:lastmodified":1690874846,
     "wof:name":"Al Qalah al Kubra",
     "wof:parent_id":1108757695,
     "wof:placetype":"locality",

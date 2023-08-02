@@ -50,6 +50,9 @@
     "name:ita_x_preferred":[
         "Zaghouan"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30b0\u30a2\u30f3"
+    ],
     "name:kab_x_preferred":[
         "Za\u0263wan"
     ],
@@ -68,11 +71,20 @@
     "name:ron_x_preferred":[
         "Zaghouan"
     ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0433\u0432\u0430\u043d"
+    ],
     "name:sco_x_preferred":[
         "Zaghouan"
     ],
     "name:spa_x_preferred":[
         "Zaghouan"
+    ],
+    "name:swa_x_preferred":[
+        "Zaghouan"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e31\u0e06\u0e27\u0e32\u0e19"
     ],
     "name:tur_x_preferred":[
         "Za\u011fvan"
@@ -85,6 +97,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5bb0\u683c\u842c"
+    ],
+    "name:zul_x_preferred":[
+        "Zaghouan"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tunisia",
@@ -228,7 +243,7 @@
         }
     ],
     "wof:id":421187053,
-    "wof:lastmodified":1566667309,
+    "wof:lastmodified":1690874847,
     "wof:name":"Zaghwan",
     "wof:parent_id":1108757767,
     "wof:placetype":"locality",

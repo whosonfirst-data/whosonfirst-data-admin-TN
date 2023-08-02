@@ -34,14 +34,26 @@
     "name:ceb_x_preferred":[
         "Nibbar"
     ],
+    "name:deu_x_preferred":[
+        "Nebeur"
+    ],
     "name:eng_x_preferred":[
         "Nebeur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0628\u0631"
     ],
     "name:fra_x_preferred":[
         "Nebeur"
     ],
+    "name:tur_x_preferred":[
+        "Nebra"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0431\u0435\u0440"
+    ],
+    "name:zul_x_preferred":[
+        "Nebeur"
     ],
     "qs_pg:aaroncc":"TN",
     "qs_pg:gn_country":"TN",
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":1125792521,
-    "wof:lastmodified":1566667329,
+    "wof:lastmodified":1690874871,
     "wof:name":"Nibbar",
     "wof:parent_id":1108757461,
     "wof:placetype":"locality",

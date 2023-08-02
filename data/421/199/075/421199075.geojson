@@ -26,8 +26,14 @@
     "name:ceb_x_preferred":[
         "Ksour Essaf"
     ],
+    "name:deu_x_preferred":[
+        "Ksour Essef"
+    ],
     "name:eng_x_preferred":[
         "Ksour Essef"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0635\u0648\u0631 \u0627\u0644\u0633\u0627\u0641"
     ],
     "name:fra_x_preferred":[
         "Ksour Essef"
@@ -41,11 +47,23 @@
     "name:spa_x_preferred":[
         "Ksour Essef"
     ],
+    "name:swe_x_preferred":[
+        "Tunis kommun"
+    ],
+    "name:tur_x_preferred":[
+        "Kusur\u00fc's-Sef"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0441\u0443\u0440-\u0435\u0441-\u0421\u0435\u0444"
     ],
     "name:und_x_variant":[
         "Qsour Essaf"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0635\u0648\u0631 \u0627\u0644\u0633\u0627\u0641"
+    ],
+    "name:zul_x_preferred":[
+        "Ksour Essef"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -94,7 +112,7 @@
         }
     ],
     "wof:id":421199075,
-    "wof:lastmodified":1566667315,
+    "wof:lastmodified":1690874853,
     "wof:name":"Qusur as Saf",
     "wof:parent_id":1108757479,
     "wof:placetype":"locality",

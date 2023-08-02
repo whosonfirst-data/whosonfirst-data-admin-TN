@@ -78,6 +78,12 @@
     "name:fra_x_variant":[
         "Gouvernorat de Sousse"
     ],
+    "name:frr_x_preferred":[
+        "Sousse"
+    ],
+    "name:gle_x_preferred":[
+        "Sousse"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0a82\u0ab8\u0ac7 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -107,6 +113,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc218\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc218\uc2a4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "S\u016bsas vil\u0101ja"
@@ -159,6 +168,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e39\u0e2a\u0e2a\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e0b\u0e39\u0e0b\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Susa ili"
     ],
@@ -176,6 +188,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8607\u585e\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Sousse Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -302,7 +317,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636495668,
+    "wof:lastmodified":1690874832,
     "wof:name":"Sousse",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

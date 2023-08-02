@@ -67,7 +67,8 @@
         "\u039c\u03c0\u03b9\u03bd \u0391\u03c1\u03bf\u03cd\u03c2"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03c0\u03b5\u03bd \u0391\u03c1\u03bf\u03cd\u03c2"
+        "\u039c\u03c0\u03b5\u03bd \u0391\u03c1\u03bf\u03cd\u03c2",
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u03c4\u03bf\u03c5 \u039c\u03c0\u03b5\u03bd \u0391\u03c1\u03bf\u03cd\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ben Arous (Tunis Sud)"
@@ -90,8 +91,14 @@
     "name:frr_x_preferred":[
         "Ben Arous"
     ],
+    "name:gle_x_preferred":[
+        "Ben Arous"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8 \u0a8f\u0ab0\u0acb\u0ab8 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05df \u05e2\u05e8\u05d5\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0928 \u0906\u0930\u0941\u0938 \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
@@ -156,6 +163,9 @@
     "name:spa_x_preferred":[
         "Gobernaci\u00f3n de Ben Arous"
     ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Ben Arous"
+    ],
     "name:swe_x_preferred":[
         "Ben Arous"
     ],
@@ -185,6 +195,9 @@
     ],
     "name:zho_x_preferred":[
         "\u672c\u963f\u9b6f\u65af\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Ben Arous Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -311,7 +324,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896196,
+    "wof:lastmodified":1690874833,
     "wof:name":"Ben Arous (Tunis Sud)",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Fernana"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0646\u0627\u0646\u0647"
+    ],
     "name:fra_x_preferred":[
         "Fernana"
     ],
@@ -44,11 +47,20 @@
     "name:nld_x_preferred":[
         "Fernana"
     ],
+    "name:spa_x_preferred":[
+        "Fernana"
+    ],
+    "name:tur_x_preferred":[
+        "Firnana"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0440\u043d\u0430\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Fernara"
+    ],
+    "name:zul_x_preferred":[
+        "Fernana"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":421185617,
-    "wof:lastmodified":1566667323,
+    "wof:lastmodified":1690874864,
     "wof:name":"Al Firnanah",
     "wof:parent_id":1108757361,
     "wof:placetype":"locality",

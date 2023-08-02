@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Regueb"
     ],
+    "name:ceb_x_preferred":[
+        "Ar Riq\u0101b"
+    ],
     "name:cym_x_preferred":[
         "Regueb"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Regueb"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0631\u0642\u0627\u0628"
     ],
     "name:fra_x_preferred":[
         "Regueb"
@@ -41,8 +47,14 @@
     "name:nld_x_preferred":[
         "Regueb"
     ],
+    "name:tur_x_preferred":[
+        "Rik\u00e2b"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u043a\u0435\u0431"
+    ],
+    "name:zul_x_preferred":[
+        "Regueb"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":421193237,
-    "wof:lastmodified":1566667304,
+    "wof:lastmodified":1690874842,
     "wof:name":"Ar Riqab",
     "wof:parent_id":1108757645,
     "wof:placetype":"locality",

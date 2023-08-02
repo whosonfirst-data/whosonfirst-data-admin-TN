@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Hiboun"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0628\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Hiboun"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421182187,
-    "wof:lastmodified":1566667322,
+    "wof:lastmodified":1690874863,
     "wof:name":"Hibun",
     "wof:parent_id":1108757481,
     "wof:placetype":"locality",

@@ -26,8 +26,14 @@
     "name:ceb_x_preferred":[
         "Sidi el Hani"
     ],
+    "name:deu_x_preferred":[
+        "Sidi El H\u00e9ni"
+    ],
     "name:eng_x_preferred":[
         "Sidi El Hani"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0627\u0644\u0647\u0627\u0646\u06cc"
     ],
     "name:fra_x_preferred":[
         "Sidi El Hani"
@@ -41,11 +47,17 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u0434\u0438 \u044d\u043b\u044c \u042d\u043d\u0438"
     ],
+    "name:tur_x_preferred":[
+        "Sidi\u00fc'l-Hani"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0434\u0456-\u0435\u043b\u044c-\u0413\u0430\u043d\u0456"
     ],
     "name:und_x_variant":[
         "El Hani"
+    ],
+    "name:zul_x_preferred":[
+        "Sidi El Hani"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":421200299,
-    "wof:lastmodified":1566667317,
+    "wof:lastmodified":1690874856,
     "wof:name":"Sidi al Hani'",
     "wof:parent_id":1108757705,
     "wof:placetype":"locality",

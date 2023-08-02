@@ -50,8 +50,14 @@
     "name:fra_x_preferred":[
         "Houmt Souk"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05de\u05ea \u05e9\u05d5\u05e7"
+    ],
     "name:hun_x_preferred":[
         "Houmt-Souk"
+    ],
+    "name:hun_x_variant":[
+        "H\u00famat esz-Sz\u00fak"
     ],
     "name:ita_x_preferred":[
         "Houmt Souk"
@@ -77,8 +83,17 @@
     "name:rus_x_preferred":[
         "\u0425\u0443\u043c\u0442-\u0421\u0443\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Houmt El Souk"
+    ],
+    "name:tur_x_preferred":[
+        "Humet\u00fc's-Suk"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0443\u043c\u0442-\u0421\u0443\u043a"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0443\u043c\u0442-\u0421\u0443\u043a"
     ],
     "name:und_x_variant":[
         "\u1e28awmat as S\u016bq"
@@ -88,6 +103,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8c6a\u9081\u7279\u8607\u683c"
+    ],
+    "name:zul_x_preferred":[
+        "Houmt El Souk"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":421178853,
-    "wof:lastmodified":1566667321,
+    "wof:lastmodified":1690874862,
     "wof:name":"Hawmat as Suq",
     "wof:parent_id":1108757517,
     "wof:placetype":"locality",
