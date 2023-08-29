@@ -39,6 +39,9 @@
     "name:aze_x_preferred":[
         "Kayruan vilay\u0259ti"
     ],
+    "name:aze_x_variant":[
+        "Qeyr\u0259van vilay\u0259ti"
+    ],
     "name:bak_x_preferred":[
         "\u041a\u0430\u0440\u0443\u0430\u043d"
     ],
@@ -78,6 +81,12 @@
     "name:fra_x_variant":[
         "Gouvernorat de Kairouan"
     ],
+    "name:frr_x_preferred":[
+        "Kairouan"
+    ],
+    "name:gle_x_preferred":[
+        "Kairouan"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05e8\u05d5\u05d0\u05df"
     ],
@@ -98,6 +107,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\uc774\ub974\uc644 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\uc774\ub974\uc644\uc8fc"
     ],
     "name:msa_x_preferred":[
         "Kawasan kegabenoran Kairouan"
@@ -129,6 +141,9 @@
     "name:swe_x_preferred":[
         "Kairouan"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e25\u0e01\u0e47\u0e2d\u0e22\u0e40\u0e23\u0e32\u0e30\u0e27\u0e32\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Kayravan"
     ],
@@ -141,11 +156,17 @@
     "name:urd_x_preferred":[
         "\u0642\u06cc\u0631\u0648\u0627\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Qayravon viloyati"
+    ],
     "name:vie_x_preferred":[
         "Kairouan"
     ],
     "name:zho_x_preferred":[
         "\u51f1\u9b6f\u842c\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Kairouan Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -272,7 +293,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636495670,
+    "wof:lastmodified":1690874837,
     "wof:name":"Kairouan",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

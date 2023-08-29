@@ -29,8 +29,17 @@
     "name:ceb_x_preferred":[
         "Gh\u0101r al Mil\u1e29"
     ],
+    "name:deu_x_preferred":[
+        "Ghar El Melh"
+    ],
     "name:eng_x_preferred":[
         "Ghar al Milh"
+    ],
+    "name:eng_x_variant":[
+        "Ghar el-Melh"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0627\u0631 \u0627\u0644\u0645\u0644\u062d"
     ],
     "name:fra_x_preferred":[
         "Ghar El Melh"
@@ -38,11 +47,17 @@
     "name:ita_x_preferred":[
         "Ghar El Melh"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30fc\u30eb\u30fb\u30a8\u30eb\uff1d\u30e1\u30eb\u30d5"
+    ],
     "name:nld_x_preferred":[
         "Ghar al Milh"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0440-\u044d\u043b\u044c-\u041c\u0435\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0430\u0440-\u044d\u043b\u044c-\u041c\u0435\u043b\u0430\u0445"
     ],
     "name:tur_x_preferred":[
         "\u011ear el-Mileh"
@@ -52,6 +67,9 @@
     ],
     "name:und_x_variant":[
         "Ruscania"
+    ],
+    "name:zul_x_preferred":[
+        "Ghar el-Melh"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -101,7 +119,7 @@
         }
     ],
     "wof:id":421203073,
-    "wof:lastmodified":1566667306,
+    "wof:lastmodified":1690874843,
     "wof:name":"Ghar al Milh",
     "wof:parent_id":1108757287,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Hergla"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0642\u0644\u0647"
+    ],
     "name:fra_x_preferred":[
         "Hergla"
     ],
@@ -49,8 +52,17 @@
     "name:ron_x_preferred":[
         "Hergla"
     ],
+    "name:swa_x_preferred":[
+        "Hergla"
+    ],
+    "name:tur_x_preferred":[
+        "Herkale"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u043a\u043b\u0430"
+    ],
+    "name:zul_x_preferred":[
+        "Hergla"
     ],
     "qs:name":"Harqalah",
     "qs:photos_9r":0,
@@ -83,7 +95,7 @@
         }
     ],
     "wof:id":890438295,
-    "wof:lastmodified":1566667325,
+    "wof:lastmodified":1690874865,
     "wof:name":"Harqalah",
     "wof:parent_id":1108757693,
     "wof:placetype":"locality",

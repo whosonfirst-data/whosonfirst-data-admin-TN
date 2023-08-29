@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0645\u0631\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0645\u0631\u062a"
+    ],
     "name:cat_x_preferred":[
         "Gammarth"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:deu_x_preferred":[
         "Gammarth"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03bc\u03ac\u03c1\u03c4"
     ],
     "name:eng_x_preferred":[
         "Gammarth"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421176075,
-    "wof:lastmodified":1566667323,
+    "wof:lastmodified":1690874864,
     "wof:name":"Qamart",
     "wof:parent_id":1108757755,
     "wof:placetype":"locality",

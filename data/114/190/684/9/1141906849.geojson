@@ -96,6 +96,9 @@
     "name:tur_x_preferred":[
         "Dehibat"
     ],
+    "name:tur_x_variant":[
+        "Dehiba"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0445\u0456\u0431\u0430"
     ],
@@ -110,6 +113,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u5fb7\u5e0c\u5df4\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Dehiba"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tunisia",
@@ -230,7 +236,7 @@
         }
     ],
     "wof:id":1141906849,
-    "wof:lastmodified":1636495674,
+    "wof:lastmodified":1690874873,
     "wof:name":"Dehibat",
     "wof:parent_id":1108757721,
     "wof:placetype":"locality",

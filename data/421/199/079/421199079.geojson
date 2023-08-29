@@ -32,11 +32,20 @@
     "name:eng_x_preferred":[
         "Oued Melliz"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u0645\u0644\u06cc\u0632"
+    ],
     "name:fra_x_preferred":[
         "Oued Meliz"
     ],
+    "name:tur_x_preferred":[
+        "Vadi Meliz"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u0435\u0434\u0456-\u041c\u0435\u043b\u0456\u0437"
+    ],
+    "name:zul_x_preferred":[
+        "Oued Melliz"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":421199079,
-    "wof:lastmodified":1566667314,
+    "wof:lastmodified":1690874852,
     "wof:name":"Wadi Maliz",
     "wof:parent_id":1108757371,
     "wof:placetype":"locality",

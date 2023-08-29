@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Tataouine"
     ],
+    "name:ces_x_preferred":[
+        "Tataouine"
+    ],
     "name:cym_x_preferred":[
         "Tataouine"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:hun_x_preferred":[
         "Tataouine"
+    ],
+    "name:hun_x_variant":[
+        "Tat\u00e1v\u00edn"
     ],
     "name:ita_x_preferred":[
         "Tataouine"
@@ -86,8 +92,14 @@
     "name:sco_x_preferred":[
         "Tataouine"
     ],
+    "name:spa_x_preferred":[
+        "Tataouine"
+    ],
     "name:swe_x_preferred":[
         "Tataouine"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e30\u0e0f\u0e2d\u0e27\u0e35\u0e19"
     ],
     "name:tur_x_preferred":[
         "Tatavin"
@@ -103,6 +115,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6cf0\u5854\u6eab"
+    ],
+    "name:zul_x_preferred":[
+        "Tataouine"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tunisia",
@@ -246,7 +261,7 @@
         }
     ],
     "wof:id":421178871,
-    "wof:lastmodified":1566667321,
+    "wof:lastmodified":1690874861,
     "wof:name":"Tatawin",
     "wof:parent_id":1108757731,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:deu_x_preferred":[
         "Tabarca"
     ],
+    "name:ell_x_preferred":[
+        "\u0398\u03b1\u03cd\u03b2\u03c1\u03b1\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Tabarka"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:fra_x_preferred":[
         "Tabarka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d1\u05e8\u05e7\u05d4"
     ],
     "name:ita_x_preferred":[
         "Tabarka"
@@ -104,8 +110,14 @@
     "name:und_x_variant":[
         "Thabraca"
     ],
+    "name:urd_x_preferred":[
+        "\u0637\u0628\u0631\u0642\u06c1"
+    ],
     "name:zho_x_preferred":[
         "\u5854\u5df4\u5361"
+    ],
+    "name:zul_x_preferred":[
+        "Tabarka"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -157,7 +169,7 @@
         }
     ],
     "wof:id":421174075,
-    "wof:lastmodified":1566667308,
+    "wof:lastmodified":1690874847,
     "wof:name":"Tabarqah",
     "wof:parent_id":1108757373,
     "wof:placetype":"locality",

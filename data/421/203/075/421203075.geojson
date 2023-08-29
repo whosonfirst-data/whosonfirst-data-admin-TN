@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Korbous"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0628\u0635"
+    ],
     "name:fin_x_preferred":[
         "Korbous"
     ],
@@ -56,11 +59,17 @@
     "name:swe_x_preferred":[
         "Korbous"
     ],
+    "name:tur_x_preferred":[
+        "Kurbus"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0431\u0443\u0441"
     ],
     "name:und_x_variant":[
         "Korbous Dar el Oudiane"
+    ],
+    "name:zul_x_preferred":[
+        "Korbous"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":421203075,
-    "wof:lastmodified":1566667306,
+    "wof:lastmodified":1690874844,
     "wof:name":"Qurbus",
     "wof:parent_id":1108757591,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u0434\u0436\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u0435\u0434\u0436\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u099c\u09be"
     ],
@@ -65,14 +68,23 @@
     "name:gle_x_preferred":[
         "B\u00e9ja"
     ],
+    "name:grc_x_preferred":[
+        "\u039f\u1f50\u03ac\u03b3\u03b1"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a9c\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d6'\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0916\u093e"
     ],
     "name:hun_x_preferred":[
         "B\u00e9ja"
+    ],
+    "name:hun_x_variant":[
+        "Bezsa"
     ],
     "name:ind_x_preferred":[
         "B\u00e9ja"
@@ -91,6 +103,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubca0\uc790"
+    ],
+    "name:lat_x_preferred":[
+        "Vacca"
     ],
     "name:lav_x_preferred":[
         "Bed\u017ea"
@@ -146,6 +161,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e08\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e0d\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Bace"
     ],
@@ -163,6 +181,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5df4\u6770"
+    ],
+    "name:zul_x_preferred":[
+        "B\u00e9ja"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tunisia",
@@ -302,7 +323,7 @@
         }
     ],
     "wof:id":421175985,
-    "wof:lastmodified":1566667312,
+    "wof:lastmodified":1690874850,
     "wof:name":"Bajah",
     "wof:parent_id":1108757253,
     "wof:placetype":"locality",

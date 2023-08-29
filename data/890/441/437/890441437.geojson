@@ -25,8 +25,14 @@
     "name:ara_x_variant":[
         "\u0642\u0641\u0635\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0641\u0635\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0641\u0635\u0647"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0444\u0441\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0997\u09be\u09ab\u09b8\u09be"
@@ -35,6 +41,9 @@
         "Gafsa"
     ],
     "name:ceb_x_preferred":[
+        "Gafsa"
+    ],
+    "name:ces_x_preferred":[
         "Gafsa"
     ],
     "name:cym_x_preferred":[
@@ -103,6 +112,9 @@
     "name:nld_x_preferred":[
         "Gafsa"
     ],
+    "name:nob_x_preferred":[
+        "Gafsa"
+    ],
     "name:pol_x_preferred":[
         "Kafsa"
     ],
@@ -121,6 +133,12 @@
     "name:slv_x_preferred":[
         "Gafsa"
     ],
+    "name:spa_x_preferred":[
+        "Gafsa"
+    ],
+    "name:swa_x_preferred":[
+        "Gafsa"
+    ],
     "name:swe_x_preferred":[
         "Gafsa"
     ],
@@ -129,6 +147,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e31\u0e1f\u0e0b\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e47\u0e2d\u0e1f\u0e40\u0e28\u0e32\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Kafsa"
@@ -147,6 +168,9 @@
     ],
     "name:zho_x_preferred":[
         "\u52a0\u592b\u85a9"
+    ],
+    "name:zul_x_preferred":[
+        "Gafsa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tunisia",
@@ -275,7 +299,7 @@
         }
     ],
     "wof:id":890441437,
-    "wof:lastmodified":1636495672,
+    "wof:lastmodified":1690874865,
     "wof:name":"Gafsa",
     "wof:parent_id":1108757335,
     "wof:placetype":"locality",

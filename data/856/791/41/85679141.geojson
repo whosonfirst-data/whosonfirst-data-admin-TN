@@ -85,8 +85,17 @@
         "gouvernorat de Gafsa",
         "Gouvernorat de Gafsa"
     ],
+    "name:frr_x_preferred":[
+        "Gafsa"
+    ],
+    "name:gle_x_preferred":[
+        "Gafsa"
+    ],
     "name:guj_x_preferred":[
         "\u0a97\u0aab\u0acd\u0ab8\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e4\u05e1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0917\u092b\u0938\u093e \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
@@ -111,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\uac00\ud504\uc0ac \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uac00\ud504\uc0ac\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Gafsas vil\u0101ja"
@@ -163,6 +175,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e1f\u0e0b\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e01\u0e47\u0e2d\u0e1f\u0e40\u0e28\u0e32\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Kafsa ili"
     ],
@@ -183,6 +198,9 @@
     ],
     "name:zho_x_preferred":[
         "\u52a0\u592b\u85a9\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Gafsa Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -308,7 +326,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636495669,
+    "wof:lastmodified":1690874835,
     "wof:name":"Gafsa",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

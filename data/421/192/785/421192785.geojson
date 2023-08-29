@@ -29,6 +29,12 @@
     "name:ceb_x_preferred":[
         "Qa\u015fr Hall\u0101l"
     ],
+    "name:dan_x_preferred":[
+        "Ksar Hellal"
+    ],
+    "name:deu_x_preferred":[
+        "Ksar Hellal"
+    ],
     "name:eng_x_preferred":[
         "Ksar Hellal"
     ],
@@ -38,7 +44,19 @@
     "name:fra_x_preferred":[
         "Ksar Hellal"
     ],
+    "name:gle_x_preferred":[
+        "Ksar Hellal"
+    ],
+    "name:ita_x_preferred":[
+        "Ksar Hellal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30b5\u30fc\u30eb\u30fb\u30d8\u30e9\u30eb"
+    ],
     "name:nld_x_preferred":[
+        "Ksar Hellal"
+    ],
+    "name:por_x_preferred":[
         "Ksar Hellal"
     ],
     "name:ron_x_preferred":[
@@ -46,6 +64,12 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u0440-\u0425\u0438\u043b\u044f\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Ksar Hellal"
+    ],
+    "name:tur_x_preferred":[
+        "Kasr Hilal"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0441\u0430\u0440-\u0425\u0435\u043b\u043b\u044f\u043b\u044c"
@@ -55,6 +79,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0635\u0631 \u06c1\u0644\u0627\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u62c9\u52d2\u5821"
+    ],
+    "name:zul_x_preferred":[
+        "Ksar Hellal"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -104,7 +134,7 @@
         }
     ],
     "wof:id":421192785,
-    "wof:lastmodified":1566667302,
+    "wof:lastmodified":1690874840,
     "wof:name":"Qasr Hallal",
     "wof:parent_id":1108757539,
     "wof:placetype":"locality",

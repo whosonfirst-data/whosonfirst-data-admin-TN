@@ -50,6 +50,9 @@
     "name:eng_x_preferred":[
         "Ben Arous"
     ],
+    "name:est_x_preferred":[
+        "Bin \u02bfAr\u016bs"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0646 \u0639\u0631\u0648\u0633"
     ],
@@ -59,8 +62,14 @@
     "name:fra_x_preferred":[
         "Ben Arous"
     ],
+    "name:gle_x_preferred":[
+        "Ben Arous"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8 \u0a8f\u0ab0\u0ab8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05df \u05e2\u05e8\u05d5\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0928 \u0905\u0930\u094c\u0938"
@@ -137,6 +146,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e19\u0e2d\u0e32\u0e23\u0e38\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e34\u0e19\u0e2d\u0e30\u0e23\u0e39\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Ben Arus"
     ],
@@ -154,6 +166,9 @@
     ],
     "name:zho_x_preferred":[
         "\u672c\u963f\u9c81\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "Ben Arous"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPLA",
@@ -204,7 +219,7 @@
         }
     ],
     "wof:id":421200581,
-    "wof:lastmodified":1566667316,
+    "wof:lastmodified":1690874855,
     "wof:name":"Bin Arus",
     "wof:parent_id":1108757271,
     "wof:placetype":"locality",

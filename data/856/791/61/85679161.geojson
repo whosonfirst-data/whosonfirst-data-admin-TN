@@ -81,8 +81,17 @@
     "name:fra_x_variant":[
         "gouvernorat de Mahdia"
     ],
+    "name:frr_x_preferred":[
+        "Mahdia"
+    ],
+    "name:gle_x_preferred":[
+        "Mahdia"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab9\u0aa6\u0abf\u0aaf\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d4\u05d3\u05d9\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0939\u0926\u093f\u092f\u093e \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
@@ -104,6 +113,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\ub514\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub514\uc544\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Mehd\u012bjas vil\u0101ja"
@@ -156,6 +168,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e01\u0e32\u0e23\u0e1b\u0e01\u0e15\u0e23\u0e2d\u0e07\u0e21\u0e32\u0e2b\u0e4c\u0e40\u0e14\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e25\u0e21\u0e30\u0e2e\u0e4c\u0e14\u0e35\u0e22\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Mehdiye ili"
     ],
@@ -173,6 +188,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u8d6b\u8fea\u8036\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Mahdia Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -299,7 +317,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636495667,
+    "wof:lastmodified":1690874831,
     "wof:name":"Mahdia",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

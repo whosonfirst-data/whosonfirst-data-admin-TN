@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "Skhira"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0635\u062e\u06cc\u0631\u0647"
+    ],
     "name:fra_x_preferred":[
         "Skhira"
     ],
@@ -59,14 +62,23 @@
     "name:rus_x_preferred":[
         "\u0428\u0445\u0438\u0440\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u0445\u0438\u0440\u0430"
+    ],
     "name:sco_x_preferred":[
         "Skhira"
+    ],
+    "name:tur_x_preferred":[
+        "Suheyre"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0456\u0440\u0430"
     ],
     "name:und_x_variant":[
         "Cekhira"
+    ],
+    "name:zul_x_preferred":[
+        "Skhira"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":421182673,
-    "wof:lastmodified":1566667322,
+    "wof:lastmodified":1690874863,
     "wof:name":"As Sukhayrah",
     "wof:parent_id":1108757627,
     "wof:placetype":"locality",

@@ -23,6 +23,15 @@
     "name:ara_x_variant":[
         "\u0645\u0646\u0633\u062a\u064a\u0631"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u0645\u0646\u0633\u062a\u064a\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0633\u062a\u064a\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Monastir"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0645\u0646\u0633\u062a\u06cc\u0631"
     ],
@@ -86,6 +95,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e0\u05d0\u05e1\u05d8\u05d9\u05e8"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d5\u05e0\u05e1\u05ea\u05d9\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0928\u093e\u0938\u094d\u091f\u093f\u0930"
     ],
@@ -140,6 +152,9 @@
     "name:nob_x_preferred":[
         "Monastir"
     ],
+    "name:oss_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
     "name:pol_x_preferred":[
         "Monastyr"
     ],
@@ -179,6 +194,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e21\u0e19\u0e32\u0e2a\u0e15\u0e35\u0e23\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e25\u0e21\u0e38\u0e19\u0e31\u0e2a\u0e15\u0e35\u0e23"
+    ],
     "name:tur_x_preferred":[
         "Munast\u0131r"
     ],
@@ -199,6 +217,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u7eb3\u65af\u63d0\u5c14"
+    ],
+    "name:zul_x_preferred":[
+        "Monastir"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPLA",
@@ -248,7 +269,7 @@
         }
     ],
     "wof:id":421174939,
-    "wof:lastmodified":1566667307,
+    "wof:lastmodified":1690874846,
     "wof:name":"Al Munastir",
     "wof:parent_id":1108757545,
     "wof:placetype":"locality",

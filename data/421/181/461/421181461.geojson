@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Douz"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05d6"
+    ],
     "name:ita_x_preferred":[
         "Douz"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:nob_x_preferred":[
         "Slaget om Douz"
+    ],
+    "name:nob_x_variant":[
+        "Douz"
     ],
     "name:nor_x_preferred":[
         "Slaget om Douz"
@@ -74,6 +80,9 @@
     "name:sco_x_preferred":[
         "Douz"
     ],
+    "name:tur_x_preferred":[
+        "Duz"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0437"
     ],
@@ -82,6 +91,9 @@
     ],
     "name:zho_x_preferred":[
         "\u675c\u8332"
+    ],
+    "name:zul_x_preferred":[
+        "Douz"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":421181461,
-    "wof:lastmodified":1566667312,
+    "wof:lastmodified":1690874850,
     "wof:name":"Doz",
     "wof:parent_id":1108757429,
     "wof:placetype":"locality",

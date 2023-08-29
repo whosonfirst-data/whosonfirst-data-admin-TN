@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0627\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0643\u0627\u0641"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u06a9\u0627\u0641"
     ],
@@ -80,6 +83,9 @@
     "name:nld_x_preferred":[
         "El Kef"
     ],
+    "name:nob_x_preferred":[
+        "El Kef"
+    ],
     "name:oci_x_preferred":[
         "El Kef"
     ],
@@ -104,6 +110,12 @@
     "name:spa_x_preferred":[
         "Al-K\u0101f"
     ],
+    "name:swe_x_preferred":[
+        "El Kef"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e25\u0e01\u0e32\u0e1f"
+    ],
     "name:tur_x_preferred":[
         "El K\u00e2f"
     ],
@@ -118,6 +130,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u592b"
+    ],
+    "name:zul_x_preferred":[
+        "El Kef"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tunisia",
@@ -261,7 +276,7 @@
         }
     ],
     "wof:id":421199777,
-    "wof:lastmodified":1566667315,
+    "wof:lastmodified":1690874853,
     "wof:name":"Al Kaf",
     "wof:parent_id":1108757455,
     "wof:placetype":"locality",

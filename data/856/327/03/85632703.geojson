@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0422\u0443\u043d\u0438\u0441"
+    ],
     "name:ace_x_preferred":[
         "Tunisia"
     ],
@@ -49,8 +52,14 @@
     "name:amh_x_preferred":[
         "\u1271\u1292\u12da\u12eb"
     ],
+    "name:ami_x_preferred":[
+        "Tunisia"
+    ],
     "name:ang_x_preferred":[
         "Tunisia"
+    ],
+    "name:anp_x_preferred":[
+        "\u091f\u094d\u092f\u0942\u0928\u0940\u0936\u093f\u092f\u093e"
     ],
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u0633"
@@ -65,6 +74,9 @@
     "name:arg_x_preferred":[
         "Tunicia"
     ],
+    "name:arq_x_preferred":[
+        "\u062a\u0648\u0646\u0633"
+    ],
     "name:ary_x_preferred":[
         "\u062a\u0648\u0646\u0633"
     ],
@@ -76,6 +88,9 @@
     ],
     "name:ast_x_variant":[
         "Tunicia"
+    ],
+    "name:avk_x_preferred":[
+        "Tunusa"
     ],
     "name:azb_x_preferred":[
         "\u062a\u0648\u0646\u06cc\u0633"
@@ -95,6 +110,9 @@
     "name:ban_x_preferred":[
         "Tunisia"
     ],
+    "name:bar_x_preferred":[
+        "Tunesien"
+    ],
     "name:bcl_x_preferred":[
         "Tunisya"
     ],
@@ -109,6 +127,9 @@
     ],
     "name:bho_x_preferred":[
         "\u091f\u094d\u092f\u0942\u0928\u0940\u0936\u093f\u092f\u093e"
+    ],
+    "name:bis_x_preferred":[
+        "Tunisia"
     ],
     "name:bjn_x_preferred":[
         "Tunisia"
@@ -179,6 +200,9 @@
     "name:cze_x_variant":[
         "T\u00fanez"
     ],
+    "name:dag_x_preferred":[
+        "Tunisia"
+    ],
     "name:dan_x_preferred":[
         "Tunesien"
     ],
@@ -202,6 +226,9 @@
     ],
     "name:div_x_preferred":[
         "\u078c\u07ab\u0782\u07a8\u0790\u07b0"
+    ],
+    "name:dsb_x_preferred":[
+        "Tuneziska"
     ],
     "name:dty_x_preferred":[
         "\u091f\u094d\u092f\u0941\u0928\u093f\u0938\u093f\u092f\u093e"
@@ -276,6 +303,9 @@
     "name:ful_x_preferred":[
         "Tunisii"
     ],
+    "name:ful_x_variant":[
+        "Tuniisi"
+    ],
     "name:gag_x_preferred":[
         "Tunis"
     ],
@@ -299,6 +329,15 @@
     ],
     "name:gom_x_preferred":[
         "\u091f\u094d\u092f\u0941\u0928\u093f\u0936\u093f\u092f\u093e"
+    ],
+    "name:gor_x_preferred":[
+        "Tunisia"
+    ],
+    "name:gpe_x_preferred":[
+        "Tunisia"
+    ],
+    "name:grn_x_preferred":[
+        "Tun\u00edsia"
     ],
     "name:gsw_x_preferred":[
         "Tunesie"
@@ -352,6 +391,9 @@
     ],
     "name:hyw_x_preferred":[
         "\u0539\u0578\u0582\u0576\u056b\u057d"
+    ],
+    "name:hyw_x_variant":[
+        "\u0539\u0578\u0582\u0576\u0578\u0582\u0566"
     ],
     "name:ibo_x_preferred":[
         "Tunisia"
@@ -437,6 +479,9 @@
     "name:kor_x_preferred":[
         "\ud280\ub2c8\uc9c0"
     ],
+    "name:krj_x_preferred":[
+        "Tunes"
+    ],
     "name:kur_x_preferred":[
         "T\u00fbnis"
     ],
@@ -476,6 +521,9 @@
     "name:lit_x_preferred":[
         "Tunisas"
     ],
+    "name:lld_x_preferred":[
+        "Tunisia"
+    ],
     "name:lmo_x_preferred":[
         "T\u00fcnisia"
     ],
@@ -494,6 +542,9 @@
     "name:lzh_x_preferred":[
         "\u7a81\u5c3c\u65af"
     ],
+    "name:mad_x_preferred":[
+        "Tunisia"
+    ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d41\u0d23\u0d40\u0d37\u0d4d\u0d2f"
     ],
@@ -504,6 +555,12 @@
         "\u091f\u094d\u092f\u0942\u0928\u093f\u0936\u093f\u092f\u093e"
     ],
     "name:mdf_x_preferred":[
+        "\u0422\u0443\u043d\u0438\u0441"
+    ],
+    "name:mdf_x_variant":[
+        "\u0422\u0443\u043d\u0438\u0441\u0438\u044f"
+    ],
+    "name:mhr_x_preferred":[
         "\u0422\u0443\u043d\u0438\u0441"
     ],
     "name:min_x_preferred":[
@@ -520,6 +577,9 @@
     ],
     "name:mlt_x_variant":[
         "Tune\u017c"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc7\uabe8\uabc5\uabe4\uabc1\uabe4\uabcc\uabe5"
     ],
     "name:mon_x_preferred":[
         "\u0422\u0443\u043d\u0438\u0441"
@@ -539,6 +599,9 @@
     "name:mya_x_variant":[
         "\u1010\u1030\u1014\u102e\u1038\u101b\u103e\u102c\u1038"
     ],
+    "name:myv_x_preferred":[
+        "\u0422\u0443\u043d\u0438\u0441"
+    ],
     "name:mzn_x_preferred":[
         "\u062a\u0648\u0646\u0633"
     ],
@@ -546,6 +609,9 @@
         "Tunez"
     ],
     "name:nan_x_preferred":[
+        "Tunisia"
+    ],
+    "name:nau_x_preferred":[
         "Tunisia"
     ],
     "name:nde_x_preferred":[
@@ -584,6 +650,9 @@
     "name:nov_x_preferred":[
         "Tunisia"
     ],
+    "name:nqo_x_preferred":[
+        "\u07d5\u07ce\u07f3\u07e3\u07d1\u07d6\u07ed\u07cc"
+    ],
     "name:nso_x_preferred":[
         "Tunisia"
     ],
@@ -617,6 +686,9 @@
     ],
     "name:pap_x_preferred":[
         "Tunesia"
+    ],
+    "name:pcd_x_preferred":[
+        "Tunisie"
     ],
     "name:pih_x_preferred":[
         "Tunisia"
@@ -684,6 +756,9 @@
     "name:sgs_x_preferred":[
         "Ton\u0117sos"
     ],
+    "name:shi_x_preferred":[
+        "Tuns"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0dd2\u0dba\u0dd4\u0db1\u0dd3\u0dc3\u0dd2\u0dba\u0dcf\u0dc0"
     ],
@@ -696,7 +771,13 @@
     "name:sme_x_preferred":[
         "Tunisia"
     ],
+    "name:smn_x_preferred":[
+        "Tunisia"
+    ],
     "name:smo_x_preferred":[
+        "Tunisia"
+    ],
+    "name:sms_x_preferred":[
         "Tunisia"
     ],
     "name:sna_x_preferred":[
@@ -770,6 +851,9 @@
     "name:tat_x_preferred":[
         "\u0422\u0443\u043d\u0438\u0441"
     ],
+    "name:tay_x_preferred":[
+        "Tunisia"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4d\u0c2f\u0c41\u0c28\u0c40\u0c37\u0c3f\u0c2f\u0c3e"
     ],
@@ -794,8 +878,17 @@
     "name:tir_x_variant":[
         "\u1271\u1292\u12da\u12eb"
     ],
+    "name:tok_x_preferred":[
+        "ma Tunisi"
+    ],
     "name:ton_x_preferred":[
         "Tun\u012bsia"
+    ],
+    "name:trv_x_preferred":[
+        "Tunisia"
+    ],
+    "name:tsn_x_preferred":[
+        "Tunisia"
     ],
     "name:tso_x_preferred":[
         "Tunisia"
@@ -837,6 +930,9 @@
     ],
     "name:vec_x_preferred":[
         "Tunixia"
+    ],
+    "name:vec_x_variant":[
+        "Tunizia"
     ],
     "name:vep_x_preferred":[
         "Tunis"
@@ -1134,7 +1230,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1617827406,
+    "wof:lastmodified":1690874838,
     "wof:name":"Tunisia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

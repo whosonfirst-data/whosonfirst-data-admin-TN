@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u062c\u0645\u0646\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Jemna"
+    ],
     "name:ceb_x_preferred":[
         "Jemna"
     ],
     "name:eng_x_preferred":[
         "Djemna"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0645\u0646\u0647"
     ],
     "name:fra_x_preferred":[
         "Jemna"
@@ -38,11 +44,17 @@
     "name:sco_x_preferred":[
         "Djemna"
     ],
+    "name:tur_x_preferred":[
+        "Cemna"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0435\u043c\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Djemma"
+    ],
+    "name:zul_x_preferred":[
+        "Djemna"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":421199069,
-    "wof:lastmodified":1566667315,
+    "wof:lastmodified":1690874854,
     "wof:name":"Jamnah",
     "wof:parent_id":1108757437,
     "wof:placetype":"locality",

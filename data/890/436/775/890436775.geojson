@@ -31,14 +31,23 @@
     "name:eng_x_preferred":[
         "El Battan"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "El Batan"
+    ],
+    "name:tur_x_preferred":[
+        "El-Batan"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0411\u0430\u0442\u0442\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Al Ba\u0163\u0101n"
+    ],
+    "name:zul_x_preferred":[
+        "El Battan"
     ],
     "qs:name":"El Battan",
     "qs:photos_9r":0,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890436775,
-    "wof:lastmodified":1566667324,
+    "wof:lastmodified":1690874865,
     "wof:name":"El Battan",
     "wof:parent_id":1108757497,
     "wof:placetype":"locality",

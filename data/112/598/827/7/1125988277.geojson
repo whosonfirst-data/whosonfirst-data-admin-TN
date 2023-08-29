@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Korba"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0628\u0647"
+    ],
     "name:fra_x_preferred":[
         "Korba"
     ],
@@ -61,6 +64,12 @@
     "name:sco_x_preferred":[
         "Korba"
     ],
+    "name:spa_x_preferred":[
+        "Korba"
+    ],
+    "name:tur_x_preferred":[
+        "Kurbe"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0431\u0430"
     ],
@@ -69,6 +78,9 @@
     ],
     "name:zho_x_preferred":[
         "\u67ef\u5df4"
+    ],
+    "name:zul_x_preferred":[
+        "Korba"
     ],
     "qs_pg:aaroncc":"TN",
     "qs_pg:gn_country":"TN",
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":1125988277,
-    "wof:lastmodified":1566667329,
+    "wof:lastmodified":1690874870,
     "wof:name":"Korba",
     "wof:parent_id":1108757581,
     "wof:placetype":"locality",

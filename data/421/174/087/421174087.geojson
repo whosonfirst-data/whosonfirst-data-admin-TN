@@ -53,6 +53,12 @@
     "name:pol_x_preferred":[
         "Sukra"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430 \u0421\u043e\u0443\u043a\u0440\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Sukra"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0430"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06a9\u0631\u06c1"
+    ],
+    "name:zul_x_preferred":[
+        "La Soukra"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":421174087,
-    "wof:lastmodified":1566667308,
+    "wof:lastmodified":1690874847,
     "wof:name":"Sukrah",
     "wof:parent_id":1108757249,
     "wof:placetype":"locality",

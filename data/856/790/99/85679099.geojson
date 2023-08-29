@@ -99,6 +99,12 @@
         "Manouba",
         "gouvernorat de la Manouba"
     ],
+    "name:frr_x_preferred":[
+        "Manouba"
+    ],
+    "name:gle_x_preferred":[
+        "Manouba"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aa8\u0acc\u0aac\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -131,7 +137,8 @@
         "\ub9c8\ub204\ubc14"
     ],
     "name:kor_x_variant":[
-        "\ub9c8\ub204\ubc14 \uc8fc"
+        "\ub9c8\ub204\ubc14 \uc8fc",
+        "\ub9c8\ub204\ubc14\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Man\u016bbas vil\u0101ja"
@@ -190,6 +197,9 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e19\u0e39\u0e27\u0e1a\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e21\u0e31\u0e19\u0e19\u0e39\u0e1a\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Manuba"
     ],
@@ -213,6 +223,9 @@
     ],
     "name:zho_x_variant":[
         "\u99ac\u52aa\u5df4\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Manouba Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -339,7 +352,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636495667,
+    "wof:lastmodified":1690874831,
     "wof:name":"Manubah",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

@@ -29,14 +29,23 @@
     "name:eng_x_preferred":[
         "Goubellat"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0628\u0644\u0627\u0637"
+    ],
     "name:fra_x_preferred":[
         "Goubellat"
     ],
     "name:nld_x_preferred":[
         "Goubellat"
     ],
+    "name:tur_x_preferred":[
+        "Kubellat"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0431\u0435\u043b\u044f\u0442"
+    ],
+    "name:zul_x_preferred":[
+        "Goubellat"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":421170299,
-    "wof:lastmodified":1566667318,
+    "wof:lastmodified":1690874858,
     "wof:name":"Quballat",
     "wof:parent_id":1108757257,
     "wof:placetype":"locality",

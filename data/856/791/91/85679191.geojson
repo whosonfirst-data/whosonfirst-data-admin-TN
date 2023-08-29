@@ -84,6 +84,12 @@
     "name:fra_x_variant":[
         "Gouvernorat de Tataouine"
     ],
+    "name:frr_x_preferred":[
+        "Tataouine"
+    ],
+    "name:gle_x_preferred":[
+        "Tataouine"
+    ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abe\u0a9f\u0abe\u0a89\u0a87\u0aa8 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -104,6 +110,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0c0\ud0c0\uc6b0\uc778 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0c0\ud0c0\uc6b0\uc778\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Tat\u0101v\u012bnas vil\u0101ja"
@@ -156,6 +165,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e17\u0e32\u0e17\u0e39\u0e2d\u0e34\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e15\u0e30\u0e0f\u0e2d\u0e27\u0e35\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Tatavin ili"
     ],
@@ -176,6 +188,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6cf0\u5854\u6eab\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Tataouine Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -302,7 +317,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636495668,
+    "wof:lastmodified":1690874834,
     "wof:name":"Tataouine",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

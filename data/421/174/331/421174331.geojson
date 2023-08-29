@@ -32,7 +32,13 @@
     "name:eng_x_preferred":[
         "Remada"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0645\u0627\u062f\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Remada"
+    ],
+    "name:hun_x_preferred":[
         "Remada"
     ],
     "name:ind_x_preferred":[
@@ -59,7 +65,16 @@
     "name:ron_x_preferred":[
         "Remada"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043c\u0430\u0434\u0430"
+    ],
     "name:sco_x_preferred":[
+        "Remada"
+    ],
+    "name:sqi_x_preferred":[
+        "Remada"
+    ],
+    "name:tur_x_preferred":[
         "Remada"
     ],
     "name:ukr_x_preferred":[
@@ -67,6 +82,9 @@
     ],
     "name:und_x_variant":[
         "Ram\u0101dah"
+    ],
+    "name:zul_x_preferred":[
+        "Remada"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":421174331,
-    "wof:lastmodified":1566667307,
+    "wof:lastmodified":1690874846,
     "wof:name":"Ramadah",
     "wof:parent_id":1108757725,
     "wof:placetype":"locality",

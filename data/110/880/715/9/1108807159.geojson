@@ -47,6 +47,9 @@
     "name:cat_x_variant":[
         "governaci\u00f3 d'Ariana"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u044c\u044f\u043d\u0430"
+    ],
     "name:cym_x_preferred":[
         "Ariana"
     ],
@@ -60,7 +63,8 @@
         "Ariana"
     ],
     "name:eng_x_variant":[
-        "Ariana Governorate"
+        "Ariana Governorate",
+        "Tunis Governorate"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u06cc\u0627\u0646\u0647"
@@ -76,6 +80,12 @@
     ],
     "name:frr_x_preferred":[
         "Ariana"
+    ],
+    "name:gle_x_preferred":[
+        "Ariana"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d9\u05d0\u05e0\u05d4"
     ],
     "name:hun_x_preferred":[
         "Ariana korm\u00e1nyz\u00f3s\u00e1g"
@@ -94,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ub9ac\uc544\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ub9ac\uc544\ub098\uc8fc"
     ],
     "name:lit_x_preferred":[
         "Arianos vilajetas"
@@ -131,6 +144,9 @@
     "name:swe_x_preferred":[
         "Ariana"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e23\u0e22\u0e32\u0e19\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Aryana Vilayeti"
     ],
@@ -145,6 +161,9 @@
     ],
     "name:zho_x_preferred":[
         "\u827e\u723e\u4e9e\u5167\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Ariana Governorate"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -192,7 +211,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614896198,
+    "wof:lastmodified":1690874839,
     "wof:name":"Ariana",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

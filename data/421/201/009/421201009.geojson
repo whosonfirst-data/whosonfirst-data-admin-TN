@@ -80,6 +80,9 @@
     "name:hun_x_preferred":[
         "Arj\u00e1na"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0575\u0561\u0576\u0561"
+    ],
     "name:ind_x_preferred":[
         "Aryanah"
     ],
@@ -143,6 +146,9 @@
     "name:spa_x_preferred":[
         "Ariana"
     ],
+    "name:swa_x_preferred":[
+        "Aryanah"
+    ],
     "name:swe_x_preferred":[
         "Ariana"
     ],
@@ -154,6 +160,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e32\u0e40\u0e23\u0e35\u0e22\u0e19\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e23\u0e22\u0e32\u0e19\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Aryana"
@@ -175,6 +184,9 @@
     ],
     "name:zho_x_preferred":[
         "\u827e\u5c14\u4e9a\u5948"
+    ],
+    "name:zul_x_preferred":[
+        "Aryanah"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPLA",
@@ -233,7 +245,7 @@
         }
     ],
     "wof:id":421201009,
-    "wof:lastmodified":1566667317,
+    "wof:lastmodified":1690874857,
     "wof:name":"Aryanah",
     "wof:parent_id":1108757243,
     "wof:placetype":"locality",

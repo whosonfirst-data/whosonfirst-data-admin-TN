@@ -35,6 +35,9 @@
     "name:cym_x_preferred":[
         "Soliman"
     ],
+    "name:dan_x_preferred":[
+        "Soliman"
+    ],
     "name:deu_x_preferred":[
         "Soliman"
     ],
@@ -53,14 +56,26 @@
     "name:jpn_x_preferred":[
         "\u30bd\u30ea\u30de\u30f3"
     ],
+    "name:lit_x_preferred":[
+        "Solimanas"
+    ],
     "name:ron_x_preferred":[
         "Soliman"
+    ],
+    "name:swe_x_preferred":[
+        "Soliman"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00fcleyman"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u0456\u043c\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Gumis"
+    ],
+    "name:zul_x_preferred":[
+        "Soliman"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":421173529,
-    "wof:lastmodified":1566667309,
+    "wof:lastmodified":1690874848,
     "wof:name":"Sulayman",
     "wof:parent_id":1108757591,
     "wof:placetype":"locality",

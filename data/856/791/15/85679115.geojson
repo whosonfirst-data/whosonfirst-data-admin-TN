@@ -81,8 +81,17 @@
     "name:fra_x_variant":[
         "Gouvernorat de Jendouba"
     ],
+    "name:frr_x_preferred":[
+        "Jendouba"
+    ],
+    "name:gle_x_preferred":[
+        "Jendouba"
+    ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac7\u0a82\u0aa1\u0acb\u0aac\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d2'\u05e0\u05d3\u05d5\u05d1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u091c\u0947\u0902\u0921\u0941\u092c\u093e \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
@@ -101,6 +110,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc820\ub450\ubc14 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc820\ub450\ubc14\uc8fc"
     ],
     "name:lav_x_preferred":[
         "D\u017eund\u016bbas vil\u0101ja"
@@ -153,6 +165,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e08\u0e19\u0e40\u0e14\u0e32\u0e1a\u0e32 \u0e42\u0e14\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e23\u0e17"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e0d\u0e31\u0e19\u0e14\u0e39\u0e1a\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Cendube ili"
     ],
@@ -173,6 +188,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5805\u675c\u62dc\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Jendouba Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUN",
@@ -299,7 +317,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636495669,
+    "wof:lastmodified":1690874836,
     "wof:name":"Jendouba",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

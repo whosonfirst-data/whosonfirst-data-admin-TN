@@ -26,8 +26,14 @@
     "name:ceb_x_preferred":[
         "El Fahs"
     ],
+    "name:ces_x_preferred":[
+        "El Fahs"
+    ],
     "name:eng_x_preferred":[
         "El Fahs"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0641\u062d\u0635"
     ],
     "name:fra_x_preferred":[
         "El Fahs"
@@ -47,11 +53,17 @@
     "name:sco_x_preferred":[
         "El Fahs"
     ],
+    "name:tur_x_preferred":[
+        "El-Fahs"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0424\u0430\u0445\u0441"
     ],
     "name:und_x_variant":[
         "Pont-du-Fahs"
+    ],
+    "name:zul_x_preferred":[
+        "El Fahs"
     ],
     "qs:gn_country":"TN",
     "qs:gn_fcode":"PPL",
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":421197971,
-    "wof:lastmodified":1566667313,
+    "wof:lastmodified":1690874851,
     "wof:name":"Qantarat al Fahs",
     "wof:parent_id":1108757759,
     "wof:placetype":"locality",
