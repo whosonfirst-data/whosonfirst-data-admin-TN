@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069238,
-    "geom:area_square_m":687032907.135283,
+    "geom:area_square_m":687033122.808017,
     "geom:bbox":"10.039806,36.454738,10.407895,36.812084",
     "geom:latitude":36.632191,
     "geom:longitude":10.244286,
@@ -71,7 +71,7 @@
         "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u03c4\u03bf\u03c5 \u039c\u03c0\u03b5\u03bd \u0391\u03c1\u03bf\u03cd\u03c2"
     ],
     "name:eng_x_preferred":[
-        "Ben Arous (Tunis Sud)"
+        "Ben Arous"
     ],
     "name:eng_x_variant":[
         "Ben Arous Governorate"
@@ -307,7 +307,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8d9637a73836059b8f264fd077d19376",
+    "wof:geomhash":"6794c3129de781f884132cea63b2b599",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -324,8 +324,8 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874833,
-    "wof:name":"Ben Arous (Tunis Sud)",
+    "wof:lastmodified":1694493174,
+    "wof:name":"Ben Arous",
     "wof:parent_id":85632703,
     "wof:placetype":"region",
     "wof:placetype_local":"governorate",

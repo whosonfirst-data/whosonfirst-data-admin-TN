@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.186448,
-    "geom:area_square_m":155421247051.35614,
+    "geom:area_square_m":155421247051.355774,
     "geom:bbox":"7.522311,30.228034,11.599217,37.542946",
     "geom:latitude":34.108709,
     "geom:longitude":9.578539,
@@ -14,6 +14,9 @@
     "iso:country":"TN",
     "itu:country_code":[
         "216"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "TN"
@@ -1154,7 +1157,8 @@
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"216",
     "statoids:ds":"TN",
     "statoids:fifa":"TUN",
@@ -1214,7 +1218,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"551eab14943cccc2c8622faa6ff4b277",
+    "wof:geomhash":"9ae4726672c672fc0282136b1839c5b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1230,12 +1234,12 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874838,
+    "wof:lastmodified":1694492057,
     "wof:name":"Tunisia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":10835873,
-    "wof:population_rank":14,
+    "wof:population":11694719,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tn",
     "wof:shortcode":"TN",
     "wof:superseded_by":[],
