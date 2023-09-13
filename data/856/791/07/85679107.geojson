@@ -74,7 +74,8 @@
         "Ben Arous"
     ],
     "name:eng_x_variant":[
-        "Ben Arous Governorate"
+        "Ben Arous Governorate",
+        "Ben Arous (Tunis Sud)"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0646 \u0639\u0631\u0648\u0633"
@@ -324,7 +325,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1694493174,
+    "wof:lastmodified":1694639832,
     "wof:name":"Ben Arous",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

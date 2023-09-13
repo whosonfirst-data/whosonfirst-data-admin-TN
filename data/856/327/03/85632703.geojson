@@ -1158,7 +1158,7 @@
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"216",
     "statoids:ds":"TN",
     "statoids:fifa":"TUN",
@@ -1234,7 +1234,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1694492057,
+    "wof:lastmodified":1694639511,
     "wof:name":"Tunisia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
