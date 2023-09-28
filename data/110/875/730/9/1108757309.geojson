@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001952,
-    "geom:area_square_m":20033570.142625,
+    "geom:area_square_m":20033482.484666,
     "geom:bbox":"10.074458,33.864171,10.125274,33.935112",
     "geom:latitude":33.896312,
     "geom:longitude":10.094777,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.GB.GV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307143,
-    "wof:geomhash":"512813ec74be0d27ea0de6715fdfc37f",
+    "wof:geomhash":"0a8dcb9020e4bec7dc3590dff22e765e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757309,
-    "wof:lastmodified":1627522827,
+    "wof:lastmodified":1695886534,
     "wof:name":"Gab\u00e9s Medina",
     "wof:parent_id":85679137,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089601,
-    "geom:area_square_m":914957508.818889,
+    "geom:area_square_m":914957508.81884,
     "geom:bbox":"9.69918410833,34.1655144472,10.1922185583,34.520416483",
     "geom:latitude":34.327965,
     "geom:longitude":9.963696,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SF.SK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307311,
-    "wof:geomhash":"3357fef4198e7e8503df507fee67d46c",
+    "wof:geomhash":"888bf14d368c78b3d486dddea5cac146",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108757627,
-    "wof:lastmodified":1566667243,
+    "wof:lastmodified":1695886579,
     "wof:name":"Skhira",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

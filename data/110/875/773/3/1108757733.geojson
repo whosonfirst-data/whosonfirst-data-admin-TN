@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.19186,
-    "geom:area_square_m":1994559918.176817,
+    "geom:area_square_m":1994559730.435335,
     "geom:bbox":"9.898437,32.576322,10.510347,32.992131",
     "geom:latitude":32.78176,
     "geom:longitude":10.191582,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.TA.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307373,
-    "wof:geomhash":"87f679f634f8647e948f9bc79dbc1698",
+    "wof:geomhash":"9881e5ec696ff1ad14fa5022069e0d00",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757733,
-    "wof:lastmodified":1627522835,
+    "wof:lastmodified":1695886551,
     "wof:name":"Tataouine Sud",
     "wof:parent_id":85679191,
     "wof:placetype":"county",

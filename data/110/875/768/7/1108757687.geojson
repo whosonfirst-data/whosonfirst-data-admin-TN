@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038543,
-    "geom:area_square_m":385023472.571883,
+    "geom:area_square_m":385023472.571872,
     "geom:bbox":"10.1888259087,36.0162512006,10.4771001188,36.222925105",
     "geom:latitude":36.112578,
     "geom:longitude":10.326793,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SS.EN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307348,
-    "wof:geomhash":"8e50b1b16eced2e2956b411d02878124",
+    "wof:geomhash":"2eece1305380f36f308b5dc26ab69e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108757687,
-    "wof:lastmodified":1566667263,
+    "wof:lastmodified":1695886582,
     "wof:name":"Enfidha",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

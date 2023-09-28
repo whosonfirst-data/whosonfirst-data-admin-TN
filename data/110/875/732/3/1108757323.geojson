@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070815,
-    "geom:area_square_m":729175341.828907,
+    "geom:area_square_m":729174739.625615,
     "geom:bbox":"9.614047,33.478765,10.166059,33.739531",
     "geom:latitude":33.618976,
     "geom:longitude":9.942768,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.GB.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307150,
-    "wof:geomhash":"10079a4bcd72b823b9e15141b37b8f0b",
+    "wof:geomhash":"4dbf544e1e0c20fb951d7f0d65bfbef5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757323,
-    "wof:lastmodified":1627522832,
+    "wof:lastmodified":1695886544,
     "wof:name":"Matmata Nouvelle",
     "wof:parent_id":85679137,
     "wof:placetype":"county",

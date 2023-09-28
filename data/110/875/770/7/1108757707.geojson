@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001729,
-    "geom:area_square_m":17343523.306362,
+    "geom:area_square_m":17343294.587665,
     "geom:bbox":"10.618959,35.767432,10.687557,35.821552",
     "geom:latitude":35.794155,
     "geom:longitude":10.653094,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SS.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307359,
-    "wof:geomhash":"bd99dc3a9c6e99c1832255951043d2af",
+    "wof:geomhash":"144c0222a3557a4138debadbac075988",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757707,
-    "wof:lastmodified":1627522834,
+    "wof:lastmodified":1695886549,
     "wof:name":"Sousse Abd Elhamid",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

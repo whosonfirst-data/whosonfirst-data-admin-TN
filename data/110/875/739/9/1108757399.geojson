@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039982,
-    "geom:area_square_m":402458975.882588,
+    "geom:area_square_m":402459122.637182,
     "geom:bbox":"8.761861,35.35867,9.012595,35.610029",
     "geom:latitude":35.504873,
     "geom:longitude":8.888452,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KS.AY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307189,
-    "wof:geomhash":"213471763c399e24a2195546facfb574",
+    "wof:geomhash":"40dcc796a5f13337ca8013660c3ace00",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757399,
-    "wof:lastmodified":1627522824,
+    "wof:lastmodified":1695886530,
     "wof:name":"Ayoun",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

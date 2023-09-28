@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097871,
-    "geom:area_square_m":1000086949.95391,
+    "geom:area_square_m":1000086533.130108,
     "geom:bbox":"8.780444,34.08984,9.306484,34.430001",
     "geom:latitude":34.271082,
     "geom:longitude":9.031162,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.GF.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307156,
-    "wof:geomhash":"5eb0d21e7a64ade74b6e002559b10894",
+    "wof:geomhash":"0b1c5abde225266d22ac42f1bad383eb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757337,
-    "wof:lastmodified":1627522828,
+    "wof:lastmodified":1695886536,
     "wof:name":"Guetar",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018905,
-    "geom:area_square_m":190221284.457331,
+    "geom:area_square_m":190221426.851345,
     "geom:bbox":"10.494583,35.476163,10.776453,35.601939",
     "geom:latitude":35.539735,
     "geom:longitude":10.622945,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MS.ZA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307274,
-    "wof:geomhash":"a522c2e862768426f6f289684fa5712b",
+    "wof:geomhash":"a5ec117cd653619b6b30b92e4bdbb644",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757557,
-    "wof:lastmodified":1627522835,
+    "wof:lastmodified":1695886551,
     "wof:name":"Zarmedine",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

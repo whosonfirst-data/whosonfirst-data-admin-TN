@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189406,
-    "geom:area_square_m":1969365261.936278,
+    "geom:area_square_m":1969364710.143215,
     "geom:bbox":"10.715385,32.297061,11.334868,33.098582",
     "geom:latitude":32.76675,
     "geom:longitude":10.968457,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.TA.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307371,
-    "wof:geomhash":"0fd085ed5a5d97827da5cc5d716c17ea",
+    "wof:geomhash":"f0d6ba31f5859bbe3acdf6f15e5831ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757729,
-    "wof:lastmodified":1627522833,
+    "wof:lastmodified":1695886547,
     "wof:name":"Sam\u00e0r",
     "wof:parent_id":85679191,
     "wof:placetype":"county",

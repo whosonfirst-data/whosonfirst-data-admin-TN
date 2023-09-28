@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085673,
-    "geom:area_square_m":866673329.060394,
+    "geom:area_square_m":866673760.85615,
     "geom:bbox":"8.568317,34.881669,9.023573,35.307402",
     "geom:latitude":35.103946,
     "geom:longitude":8.767142,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KS.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307202,
-    "wof:geomhash":"5d80ed5c3acd20d71d22d77f9d141109",
+    "wof:geomhash":"4b635e430faf548e5172036ff1ce3766",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757417,
-    "wof:lastmodified":1627522830,
+    "wof:lastmodified":1695886540,
     "wof:name":"kasserine sud",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

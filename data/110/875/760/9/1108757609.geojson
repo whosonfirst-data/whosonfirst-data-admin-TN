@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159594,
-    "geom:area_square_m":1616647968.485111,
+    "geom:area_square_m":1616647637.49732,
     "geom:bbox":"10.055418,34.814494,10.709157,35.222149",
     "geom:latitude":34.993421,
     "geom:longitude":10.376737,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SF.MC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307302,
-    "wof:geomhash":"b2ed7e8a812a4d3c26106845ecc49f35",
+    "wof:geomhash":"19d74eed6923420f27de0b524fc251bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757609,
-    "wof:lastmodified":1627522831,
+    "wof:lastmodified":1695886543,
     "wof:name":"Menzil Chaker",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

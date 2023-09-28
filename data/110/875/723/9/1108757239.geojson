@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032725,
-    "geom:area_square_m":323305635.355338,
+    "geom:area_square_m":323305559.657743,
     "geom:bbox":"9.973696,36.835079,10.242028,37.116491",
     "geom:latitude":36.967562,
     "geom:longitude":10.103995,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"TN.AN.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307106,
-    "wof:geomhash":"9879618cf5d33ea3eb41b4cbae76be39",
+    "wof:geomhash":"c2eb0a15abb37471e5bd55fc3dfd77e7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108757239,
-    "wof:lastmodified":1627522824,
+    "wof:lastmodified":1695886529,
     "wof:name":"Ariana",
     "wof:parent_id":1108807159,
     "wof:placetype":"county",

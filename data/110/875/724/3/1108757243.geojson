@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001446,
-    "geom:area_square_m":14303715.108528,
+    "geom:area_square_m":14303800.647006,
     "geom:bbox":"10.146916,36.847399,10.207095,36.885139",
     "geom:latitude":36.863198,
     "geom:longitude":10.17055,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.AN.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307107,
-    "wof:geomhash":"32099f41352764a6057d5f934273b7c7",
+    "wof:geomhash":"f041b37111ecce22ab6eaa15935f9b7c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757243,
-    "wof:lastmodified":1627522824,
+    "wof:lastmodified":1695886529,
     "wof:name":"Ariana Elmadina",
     "wof:parent_id":1108807159,
     "wof:placetype":"county",

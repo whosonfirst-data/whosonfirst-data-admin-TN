@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002522,
-    "geom:area_square_m":25629646.937484,
+    "geom:area_square_m":25629693.973423,
     "geom:bbox":"10.721639,34.683745,10.785517,34.768971",
     "geom:latitude":34.735485,
     "geom:longitude":10.752488,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SF.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307308,
-    "wof:geomhash":"735bec00f398660afba9ad8aab8e339e",
+    "wof:geomhash":"16be00b0f4cb1a26a72a58909cf24d3b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757621,
-    "wof:lastmodified":1627522833,
+    "wof:lastmodified":1695886546,
     "wof:name":"Sfax Madine",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

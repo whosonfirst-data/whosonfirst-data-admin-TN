@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00034,
-    "geom:area_square_m":3366237.653893,
+    "geom:area_square_m":3366211.313921,
     "geom:bbox":"10.168601,36.755205,10.191734,36.777525",
     "geom:latitude":36.765073,
     "geom:longitude":10.180706,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.TU.OU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307382,
-    "wof:geomhash":"118d1a10c7ab876cd6bd06fb572342b5",
+    "wof:geomhash":"a71e4922c84e0994085ce6659b6ed51d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757749,
-    "wof:lastmodified":1627522827,
+    "wof:lastmodified":1695886535,
     "wof:name":"El Ouardia",
     "wof:parent_id":85679123,
     "wof:placetype":"county",

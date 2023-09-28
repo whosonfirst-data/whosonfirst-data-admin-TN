@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001319,
-    "geom:area_square_m":13231806.214337,
+    "geom:area_square_m":13231783.201285,
     "geom:bbox":"10.56458,35.771987,10.621686,35.815848",
     "geom:latitude":35.792742,
     "geom:longitude":10.596828,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SS.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307363,
-    "wof:geomhash":"1574e86ecc28e2402c1b05be9864e0a0",
+    "wof:geomhash":"751af0539d868ccf941db75745156ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108757715,
-    "wof:lastmodified":1627522834,
+    "wof:lastmodified":1695886549,
     "wof:name":"Sousse Riadh",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

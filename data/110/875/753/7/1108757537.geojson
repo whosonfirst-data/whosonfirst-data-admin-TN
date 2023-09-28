@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015246,
-    "geom:area_square_m":153254800.011743,
+    "geom:area_square_m":153254797.911669,
     "geom:bbox":"10.577826,35.563002,10.817527,35.669755",
     "geom:latitude":35.616798,
     "geom:longitude":10.703076,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MS.JA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307264,
-    "wof:geomhash":"ba11669a7f000381207d0583e929533e",
+    "wof:geomhash":"9aec4c4c5fb028a17cba946cecf6d9a7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757537,
-    "wof:lastmodified":1627522829,
+    "wof:lastmodified":1695886539,
     "wof:name":"Jammel",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

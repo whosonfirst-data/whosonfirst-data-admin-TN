@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030994,
-    "geom:area_square_m":310590847.449241,
+    "geom:area_square_m":310590915.177726,
     "geom:bbox":"10.221915,35.785097,10.553152,35.956028",
     "geom:latitude":35.863725,
     "geom:longitude":10.402423,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SS.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307352,
-    "wof:geomhash":"856c0f2500820b74feaa56bd8913398d",
+    "wof:geomhash":"5ff64e8c052cd8e2f6726aeccbd0c7f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757695,
-    "wof:lastmodified":1627522829,
+    "wof:lastmodified":1695886539,
     "wof:name":"Kal\u00e0a Kebira",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

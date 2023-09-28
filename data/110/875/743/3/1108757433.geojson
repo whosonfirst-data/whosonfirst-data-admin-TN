@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.916562,
-    "geom:area_square_m":9486865279.701618,
+    "geom:area_square_m":9486865515.680304,
     "geom:bbox":"7.744395,32.462897,9.010877,33.820201",
     "geom:latitude":33.168354,
     "geom:longitude":8.438871,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KB.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307210,
-    "wof:geomhash":"ff07f5b2812bc814c3c4f4ceaa3d8fdf",
+    "wof:geomhash":"f8335ca7f118a7f9d0d9db5baa8687df",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757433,
-    "wof:lastmodified":1627522826,
+    "wof:lastmodified":1695886533,
     "wof:name":"El Faouar",
     "wof:parent_id":85679187,
     "wof:placetype":"county",

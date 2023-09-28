@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001892,
-    "geom:area_square_m":19013738.380887,
+    "geom:area_square_m":19013754.297331,
     "geom:bbox":"10.928295,35.615036,10.989496,35.663723",
     "geom:latitude":35.64028,
     "geom:longitude":10.958435,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MS.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307273,
-    "wof:geomhash":"02ca6e8f702c2ab73486fb0cd2eea09e",
+    "wof:geomhash":"f3793ed1a054261b9b9dc520bee0a9be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757555,
-    "wof:lastmodified":1627522835,
+    "wof:lastmodified":1695886551,
     "wof:name":"Teboulba",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

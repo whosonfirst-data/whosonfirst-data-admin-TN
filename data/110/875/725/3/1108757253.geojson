@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042526,
-    "geom:area_square_m":421068873.60749,
+    "geom:area_square_m":421069254.111431,
     "geom:bbox":"9.070448,36.682599,9.381616,36.911313",
     "geom:latitude":36.797285,
     "geom:longitude":9.237654,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.BJ.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307113,
-    "wof:geomhash":"d0ea2525525991830694cec6f864e7d4",
+    "wof:geomhash":"646d08304f4c84f2703c009e463c0918",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757253,
-    "wof:lastmodified":1627522824,
+    "wof:lastmodified":1695886530,
     "wof:name":"Beja Nord",
     "wof:parent_id":85679103,
     "wof:placetype":"county",

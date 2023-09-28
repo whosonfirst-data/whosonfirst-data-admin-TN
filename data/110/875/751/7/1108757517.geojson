@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017361,
-    "geom:area_square_m":178290444.947918,
+    "geom:area_square_m":178290729.370968,
     "geom:bbox":"10.742888,33.785005,10.990173,33.902943",
     "geom:latitude":33.847844,
     "geom:longitude":10.855743,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.ME.DH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307254,
-    "wof:geomhash":"5a88005075dfd839acaa280d404f2a61",
+    "wof:geomhash":"f675889c2f91949ca094c09fd27217c3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757517,
-    "wof:lastmodified":1627522826,
+    "wof:lastmodified":1695886533,
     "wof:name":"Jerba Houmet Souk",
     "wof:parent_id":85679183,
     "wof:placetype":"county",

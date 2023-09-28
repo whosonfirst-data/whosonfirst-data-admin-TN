@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001245,
-    "geom:area_square_m":12481711.509576,
+    "geom:area_square_m":12481813.462307,
     "geom:bbox":"10.5832,35.798571,10.635448,35.848408",
     "geom:latitude":35.823895,
     "geom:longitude":10.609971,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SS.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307360,
-    "wof:geomhash":"9d6bd1a3e4bea2127d617ecc83ed8fc3",
+    "wof:geomhash":"808609829c6a405b81f26e4ed70c599b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757711,
-    "wof:lastmodified":1627522834,
+    "wof:lastmodified":1695886549,
     "wof:name":"Sousse Jouhara",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

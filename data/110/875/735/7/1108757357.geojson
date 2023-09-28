@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028882,
-    "geom:area_square_m":286399236.375151,
+    "geom:area_square_m":286399272.86931,
     "geom:bbox":"8.78225,36.601233,9.031771,36.771615",
     "geom:latitude":36.685064,
     "geom:longitude":8.917269,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.JE.BB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307167,
-    "wof:geomhash":"b04e282baead7278144bd5ad2ff83d82",
+    "wof:geomhash":"cdb0bd5e240f4a78198d28a070f3beaf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757357,
-    "wof:lastmodified":1627522824,
+    "wof:lastmodified":1695886530,
     "wof:name":"Balta Bouaouan",
     "wof:parent_id":85679115,
     "wof:placetype":"county",

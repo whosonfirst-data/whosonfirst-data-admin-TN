@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.473634,
-    "geom:area_square_m":4911659553.980222,
+    "geom:area_square_m":4911659222.061671,
     "geom:bbox":"8.80475,32.609573,9.969118,33.557405",
     "geom:latitude":33.000805,
     "geom:longitude":9.208671,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KB.DS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307209,
-    "wof:geomhash":"97d63516368a4592cd7839e21ad0c7cd",
+    "wof:geomhash":"f0258f274de8f2029f53c5d4f15a7b63",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757431,
-    "wof:lastmodified":1627522826,
+    "wof:lastmodified":1695886533,
     "wof:name":"Douz Sud",
     "wof:parent_id":85679187,
     "wof:placetype":"county",

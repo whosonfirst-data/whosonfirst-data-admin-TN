@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011981,
-    "geom:area_square_m":119053890.084576,
+    "geom:area_square_m":119053890.08458,
     "geom:bbox":"10.687725934,36.4507262104,10.8366107948,36.5890408736",
     "geom:latitude":36.52562,
     "geom:longitude":10.76715,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"TN.NB.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307277,
-    "wof:geomhash":"6ade7d83b0945b739c1e650c9b8ff702",
+    "wof:geomhash":"79df56e84d28b9623e4a26782714bb70",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108757563,
-    "wof:lastmodified":1566667258,
+    "wof:lastmodified":1695886581,
     "wof:name":"B\u00e9ni Khiar",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

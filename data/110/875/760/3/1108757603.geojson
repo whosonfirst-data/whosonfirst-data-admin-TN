@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050237,
-    "geom:area_square_m":508228879.517424,
+    "geom:area_square_m":508228965.891735,
     "geom:bbox":"10.594254,34.885846,10.836077,35.266486",
     "geom:latitude":35.099157,
     "geom:longitude":10.727624,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SF.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307298,
-    "wof:geomhash":"8aa413eedcda78c4876c52f7de288af0",
+    "wof:geomhash":"87636485204757461ab2e7c7f317edbf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757603,
-    "wof:lastmodified":1627522826,
+    "wof:lastmodified":1695886534,
     "wof:name":"El Hancha",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

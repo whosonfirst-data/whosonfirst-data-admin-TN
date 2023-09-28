@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034688,
-    "geom:area_square_m":351961447.55302,
+    "geom:area_square_m":351961492.867931,
     "geom:bbox":"9.405933,34.743757,9.703913,34.978521",
     "geom:latitude":34.85709,
     "geom:longitude":9.561902,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SZ.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307332,
-    "wof:geomhash":"10f2591a4ee3e864555d74108dd34388",
+    "wof:geomhash":"c443b59d924c2d877decdf69b80d9809",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757657,
-    "wof:lastmodified":1627522834,
+    "wof:lastmodified":1695886548,
     "wof:name":"Souk Jedid",
     "wof:parent_id":85679147,
     "wof:placetype":"county",

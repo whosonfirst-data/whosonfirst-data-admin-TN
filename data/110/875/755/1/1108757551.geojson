@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004438,
-    "geom:area_square_m":44542230.995093,
+    "geom:area_square_m":44542181.819007,
     "geom:bbox":"10.659368,35.70156,10.765891,35.775531",
     "geom:latitude":35.734619,
     "geom:longitude":10.710409,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MS.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307271,
-    "wof:geomhash":"7c692c414f156e554d304fddceda60da",
+    "wof:geomhash":"df3d4ec0b45bd54e47eab78f6f5cdd5b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757551,
-    "wof:lastmodified":1627522833,
+    "wof:lastmodified":1695886546,
     "wof:name":"Sahline",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

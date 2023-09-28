@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04035,
-    "geom:area_square_m":400938429.360744,
+    "geom:area_square_m":400938472.875232,
     "geom:bbox":"9.5382,36.422597,9.864532,36.636757",
     "geom:latitude":36.526149,
     "geom:longitude":9.690854,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.BJ.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307115,
-    "wof:geomhash":"a54c5a188b983615410839de254cb1e3",
+    "wof:geomhash":"895754fef7e29e1081edf7a2fbb00070",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757257,
-    "wof:lastmodified":1627522828,
+    "wof:lastmodified":1695886536,
     "wof:name":"Goblat",
     "wof:parent_id":85679103,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008094,
-    "geom:area_square_m":80016588.887407,
+    "geom:area_square_m":80016524.254628,
     "geom:bbox":"11.010838,36.855215,11.137889,36.984115",
     "geom:latitude":36.918861,
     "geom:longitude":11.074944,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.NB.HG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307284,
-    "wof:geomhash":"2896428d419d9faf43cf862a64c9378e",
+    "wof:geomhash":"91654c088e835397106f6fcee379ac33",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757575,
-    "wof:lastmodified":1627522828,
+    "wof:lastmodified":1695886537,
     "wof:name":"Hammam Laghzaz",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

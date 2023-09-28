@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009768,
-    "geom:area_square_m":96195009.474444,
+    "geom:area_square_m":96194993.677817,
     "geom:bbox":"9.822086,37.144436,10.031942,37.260841",
     "geom:latitude":37.212956,
     "geom:longitude":9.950102,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.BZ.MJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307137,
-    "wof:geomhash":"94168dcef3841ade0ff338f26fc19cda",
+    "wof:geomhash":"d40711c5028c1cbfe36d878b9da15019",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757299,
-    "wof:lastmodified":1627522832,
+    "wof:lastmodified":1695886544,
     "wof:name":"Menzel Jmil",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

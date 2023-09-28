@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.361524,
-    "geom:area_square_m":3795303718.326748,
+    "geom:area_square_m":3795303418.804853,
     "geom:bbox":"9.721198,31.460119,11.174154,32.483636",
     "geom:latitude":31.895987,
     "geom:longitude":10.409775,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.TA.DH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307367,
-    "wof:geomhash":"4f1f4a031a056378cded17d42406a4cf",
+    "wof:geomhash":"358adb6013efca516b965234a68817c1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757721,
-    "wof:lastmodified":1627522825,
+    "wof:lastmodified":1695886532,
     "wof:name":"Dhiba",
     "wof:parent_id":85679191,
     "wof:placetype":"county",

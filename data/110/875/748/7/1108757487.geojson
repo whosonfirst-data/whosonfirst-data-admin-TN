@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028668,
-    "geom:area_square_m":289336653.570112,
+    "geom:area_square_m":289336653.570129,
     "geom:bbox":"10.7913516289,35.1429473773,10.9541379143,35.4247114896",
     "geom:latitude":35.291111,
     "geom:longitude":10.870968,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MH.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307239,
-    "wof:geomhash":"239c60f80a8b6c38d6103b7abcde35bf",
+    "wof:geomhash":"c98f947c08a5fd1ac8c8d12600b8e7e4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108757487,
-    "wof:lastmodified":1566667251,
+    "wof:lastmodified":1695886580,
     "wof:name":"Sidi Alouane",
     "wof:parent_id":85679161,
     "wof:placetype":"county",

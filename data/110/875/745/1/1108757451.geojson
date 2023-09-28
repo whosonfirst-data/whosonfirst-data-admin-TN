@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019896,
-    "geom:area_square_m":199754465.408601,
+    "geom:area_square_m":199754304.469028,
     "geom:bbox":"8.420723,35.637998,8.627546,35.809642",
     "geom:latitude":35.712511,
     "geom:longitude":8.535273,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KF.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307220,
-    "wof:geomhash":"9573cd3932e0865f65b94f0afc65f7c4",
+    "wof:geomhash":"352ae11476ee9dd226be59261a7c9e66",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757451,
-    "wof:lastmodified":1627522830,
+    "wof:lastmodified":1695886540,
     "wof:name":"Kal\u00e0a Kesba",
     "wof:parent_id":85679131,
     "wof:placetype":"county",

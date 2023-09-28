@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076251,
-    "geom:area_square_m":777447897.977749,
+    "geom:area_square_m":777447852.117108,
     "geom:bbox":"8.460539,34.233789,8.81525,34.671907",
     "geom:latitude":34.455906,
     "geom:longitude":8.629976,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.GF.GS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307155,
-    "wof:geomhash":"546e84311c45fc7146af83a087b60e2c",
+    "wof:geomhash":"eefa92edc45b7f07bd4a2c62a07f4efd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757335,
-    "wof:lastmodified":1627522828,
+    "wof:lastmodified":1695886536,
     "wof:name":"Gafsa Sud",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

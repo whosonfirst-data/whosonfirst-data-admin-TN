@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.342257,
-    "geom:area_square_m":3539385851.645385,
+    "geom:area_square_m":3539385473.901466,
     "geom:bbox":"8.911811,32.806776,9.97294,33.614259",
     "geom:latitude":33.24561,
     "geom:longitude":9.513818,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KB.DN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307208,
-    "wof:geomhash":"32cfe93181a2568d4047eee00216beb1",
+    "wof:geomhash":"74ca6115d933ac29450ea7de45e2f0dc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757429,
-    "wof:lastmodified":1627522826,
+    "wof:lastmodified":1695886533,
     "wof:name":"Douz Nord",
     "wof:parent_id":85679187,
     "wof:placetype":"county",

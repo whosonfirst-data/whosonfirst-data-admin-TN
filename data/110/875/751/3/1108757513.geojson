@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130808,
-    "geom:area_square_m":1353024491.777277,
+    "geom:area_square_m":1353024752.84009,
     "geom:bbox":"9.717007,33.048165,10.446927,33.420543",
     "geom:latitude":33.226888,
     "geom:longitude":10.118146,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.ME.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307252,
-    "wof:geomhash":"0688fcbb42a1e161adc80c950645ae06",
+    "wof:geomhash":"d749d3c73382ac43526bf91aaa64343a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757513,
-    "wof:lastmodified":1627522824,
+    "wof:lastmodified":1695886530,
     "wof:name":"B\u00e9ni Khedeche",
     "wof:parent_id":85679183,
     "wof:placetype":"county",

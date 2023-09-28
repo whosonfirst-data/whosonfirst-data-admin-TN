@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102864,
-    "geom:area_square_m":1029836991.796945,
+    "geom:area_square_m":1029836991.79699,
     "geom:bbox":"9.77347261354,35.7620114783,10.2556458695,36.1367954848",
     "geom:latitude":35.936627,
     "geom:longitude":10.02506,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KR.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307187,
-    "wof:geomhash":"1a77be4dee699ac0e8ac4d3f8487de05",
+    "wof:geomhash":"027f5cc1518eb52236685e94d583d3f6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108757397,
-    "wof:lastmodified":1566667238,
+    "wof:lastmodified":1695886577,
     "wof:name":"Sbikha",
     "wof:parent_id":85679171,
     "wof:placetype":"county",

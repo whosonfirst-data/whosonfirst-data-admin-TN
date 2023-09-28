@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042975,
-    "geom:area_square_m":431056869.771997,
+    "geom:area_square_m":431056869.771998,
     "geom:bbox":"9.1940031139,35.6879675653,9.53888393395,35.9067845961",
     "geom:latitude":35.789373,
     "geom:longitude":9.382966,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SL.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307338,
-    "wof:geomhash":"39969d2969624adbd92463c4bcc46528",
+    "wof:geomhash":"2ec28b2b6ba19f890823eb526586c07a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108757669,
-    "wof:lastmodified":1566667264,
+    "wof:lastmodified":1695886582,
     "wof:name":"Kesra",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

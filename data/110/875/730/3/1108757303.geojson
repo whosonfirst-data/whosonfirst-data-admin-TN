@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064856,
-    "geom:area_square_m":639302632.173659,
+    "geom:area_square_m":639302632.173666,
     "geom:bbox":"9.0800661498,37.0018500982,9.50549363065,37.272083282",
     "geom:latitude":37.137964,
     "geom:longitude":9.283169,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"TN.BZ.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307139,
-    "wof:geomhash":"2a7e066ba23f695ddb87bcd96435e6fc",
+    "wof:geomhash":"2c9e4fc097d8c2a26473235fc9fe17f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108757303,
-    "wof:lastmodified":1566667240,
+    "wof:lastmodified":1695886578,
     "wof:name":"Sejnane",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

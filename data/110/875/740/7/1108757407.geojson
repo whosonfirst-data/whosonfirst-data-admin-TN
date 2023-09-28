@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094016,
-    "geom:area_square_m":952056461.352069,
+    "geom:area_square_m":952056367.760659,
     "geom:bbox":"8.245813,34.85094,8.667248,35.23483",
     "geom:latitude":35.019486,
     "geom:longitude":8.471091,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KS.FE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307197,
-    "wof:geomhash":"cabf3e0d860da2f6b4743787076a42e8",
+    "wof:geomhash":"cd768996be7a13c679841c1d684f55ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757407,
-    "wof:lastmodified":1627522827,
+    "wof:lastmodified":1695886535,
     "wof:name":"Feriana",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

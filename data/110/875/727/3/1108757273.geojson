@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"TN.BA.EZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307123,
-    "wof:geomhash":"e7d1f48f517973a39b9838403fadc1cf",
+    "wof:geomhash":"5da14ac09d3d6ccdcbb4a36b808a9b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108757273,
-    "wof:lastmodified":1566667274,
+    "wof:lastmodified":1695886584,
     "wof:name":"Ezzahra",
     "wof:parent_id":85679107,
     "wof:placetype":"county",
