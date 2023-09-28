@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.367467,
-    "geom:area_square_m":3643846294.716637,
+    "geom:area_square_m":3643846829.966288,
     "geom:bbox":"8.890295,36.333111,9.864532,37.158749",
     "geom:latitude":36.684119,
     "geom:longitude":9.317676,
@@ -267,17 +267,19 @@
         "gn:id":2472770,
         "gp:id":2347242,
         "hasc:id":"TN.BJ",
+        "iso:code":"TN-31",
         "iso:id":"TN-31",
         "qs_pg:id":891337,
         "unlc:id":"TN-31",
         "wd:id":"Q276576",
         "wk:page":"B\u00e9ja Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8399facd676f898a26c6ea375c3db38a",
+    "wof:geomhash":"55c4160c60a259aa447b7c5837485425",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -294,7 +296,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874831,
+    "wof:lastmodified":1695884537,
     "wof:name":"B\u00e9ja",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

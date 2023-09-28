@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.288739,
-    "geom:area_square_m":2913186934.848865,
+    "geom:area_square_m":2913186601.762732,
     "geom:bbox":"10.163154,35.085371,11.162861,35.581521",
     "geom:latitude":35.31866,
     "geom:longitude":10.629786,
@@ -290,17 +290,19 @@
         "gn:id":2473574,
         "gp:id":2347240,
         "hasc:id":"TN.MH",
+        "iso:code":"TN-53",
         "iso:id":"TN-53",
         "qs_pg:id":914011,
         "unlc:id":"TN-53",
         "wd:id":"Q328164",
         "wk:page":"Mahdia Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"906ca768bdd9ffd1c99f2e99c0e5f605",
+    "wof:geomhash":"2154df3fd2890b007a8b90458b5e46ea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -317,7 +319,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874831,
+    "wof:lastmodified":1695884807,
     "wof:name":"Mahdia",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

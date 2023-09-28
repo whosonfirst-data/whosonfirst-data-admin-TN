@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372769,
-    "geom:area_square_m":3677384413.069078,
+    "geom:area_square_m":3677384184.954041,
     "geom:bbox":"8.90125,36.722968,10.283778,37.542946",
     "geom:latitude":37.078455,
     "geom:longitude":9.617838,
@@ -293,17 +293,19 @@
         "gn:id":2472699,
         "gp:id":2347243,
         "hasc:id":"TN.BZ",
+        "iso:code":"TN-23",
         "iso:id":"TN-23",
         "qs_pg:id":219621,
         "unlc:id":"TN-23",
         "wd:id":"Q241129",
         "wk:page":"Bizerte Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"386e982c9d272bd926c73b79baac5ce3",
+    "wof:geomhash":"421f9132094f2cc7fa58c990ee902718",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -320,7 +322,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874837,
+    "wof:lastmodified":1695884537,
     "wof:name":"Bizerte",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

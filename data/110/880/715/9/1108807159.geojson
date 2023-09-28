@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04694,
-    "geom:area_square_m":463861661.63499,
+    "geom:area_square_m":463861708.178713,
     "geom:bbox":"9.973696,36.817226,10.284072,37.116491",
     "geom:latitude":36.948627,
     "geom:longitude":10.133096,
@@ -189,12 +189,14 @@
     "wof:concordances":{
         "fips:code":"TS38",
         "hasc:id":"TN.AN",
+        "iso:code":"TN-12",
         "iso:id":"TN-12",
         "wd:id":"Q233116"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TN",
     "wof:created":1486078286,
-    "wof:geomhash":"80617187a9d03f64f626f12f217bb598",
+    "wof:geomhash":"5cee75337898139d39730708a4f0e52a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -211,7 +213,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874839,
+    "wof:lastmodified":1695884537,
     "wof:name":"Ariana",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

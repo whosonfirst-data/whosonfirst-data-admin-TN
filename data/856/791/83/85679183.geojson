@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.904467,
-    "geom:area_square_m":9364291801.466751,
+    "geom:area_square_m":9364292893.210442,
     "geom:bbox":"9.717007,32.26966,11.599217,33.902943",
     "geom:latitude":33.142216,
     "geom:longitude":10.884883,
@@ -289,16 +289,18 @@
         "gn:id":2469470,
         "gp:id":2347249,
         "hasc:id":"TN.ME",
+        "iso:code":"TN-82",
         "iso:id":"TN-82",
         "qs_pg:id":424086,
         "wd:id":"Q327087",
         "wk:page":"Medenine Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe4d4fbd7093eac30d8a4e25576d20a6",
+    "wof:geomhash":"ac2c668c851c9e46db847ad92976fe4a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +317,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874836,
+    "wof:lastmodified":1695884537,
     "wof:name":"M\u00e9denine",
     "wof:parent_id":85632703,
     "wof:placetype":"region",
