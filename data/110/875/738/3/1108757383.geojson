@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060694,
-    "geom:area_square_m":610092332.780792,
+    "geom:area_square_m":610092332.78079,
     "geom:bbox":"9.54022515579,35.455284482,9.85742499005,35.7867587591",
     "geom:latitude":35.616933,
     "geom:longitude":9.709753,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KR.HF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307181,
-    "wof:geomhash":"483c93503e7806ce0afe89cb784f4ec8",
+    "wof:geomhash":"f545f8ed6206f647ed9c5b151fd1dd27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108757383,
-    "wof:lastmodified":1566667246,
+    "wof:lastmodified":1695886579,
     "wof:name":"Haffouz",
     "wof:parent_id":85679171,
     "wof:placetype":"county",

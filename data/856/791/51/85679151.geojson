@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.690372,
-    "geom:area_square_m":7012954940.780891,
+    "geom:area_square_m":7012954162.272614,
     "geom:bbox":"9.699184,34.165514,11.322861,35.266486",
     "geom:latitude":34.762205,
     "geom:longitude":10.3782,
@@ -296,17 +296,19 @@
         "gn:id":2467450,
         "gp:id":2347252,
         "hasc:id":"TN.SF",
+        "iso:code":"TN-61",
         "iso:id":"TN-61",
         "qs_pg:id":235643,
         "unlc:id":"TN-61",
         "wd:id":"Q241145",
         "wk:page":"Sfax Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e94eecbfdbf8383621127fa13e4f5091",
+    "wof:geomhash":"bf7fa90f6bda0a80878cb4ef82b71761",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -323,7 +325,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874832,
+    "wof:lastmodified":1695884807,
     "wof:name":"Sfax",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

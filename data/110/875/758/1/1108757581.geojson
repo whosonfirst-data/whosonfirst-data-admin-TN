@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020298,
-    "geom:area_square_m":201454026.660315,
+    "geom:area_square_m":201454026.660319,
     "geom:bbox":"10.6923946726,36.5113700277,10.9156916225,36.6960153538",
     "geom:latitude":36.618311,
     "geom:longitude":10.806159,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"TN.NB.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307287,
-    "wof:geomhash":"f0b82ff81e8d45c00e70cc2945a61be4",
+    "wof:geomhash":"3c84ff043952c386418f8be4284935f7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108757581,
-    "wof:lastmodified":1566667257,
+    "wof:lastmodified":1695886581,
     "wof:name":"Korba",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

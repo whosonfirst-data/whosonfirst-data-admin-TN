@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026143,
-    "geom:area_square_m":262402062.269852,
+    "geom:area_square_m":262402083.829904,
     "geom:bbox":"9.972698,35.667155,10.251782,35.810901",
     "geom:latitude":35.734784,
     "geom:longitude":10.100062,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KR.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307183,
-    "wof:geomhash":"c04ce39699f1407ae33551205b9d56d0",
+    "wof:geomhash":"b4b5e56059fe38741f16b6491b12a3d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757389,
-    "wof:lastmodified":1627522829,
+    "wof:lastmodified":1695886538,
     "wof:name":"Kairouan Nord",
     "wof:parent_id":85679171,
     "wof:placetype":"county",

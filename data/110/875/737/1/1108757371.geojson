@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019358,
-    "geom:area_square_m":192514153.789092,
+    "geom:area_square_m":192514047.62925,
     "geom:bbox":"8.489496,36.391518,8.672922,36.574485",
     "geom:latitude":36.460441,
     "geom:longitude":8.571196,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.JE.OM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307174,
-    "wof:geomhash":"59182a65e30c1f3dff5bd1e0831a5278",
+    "wof:geomhash":"a1a7d3690d07d9efe19193623a6c2866",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757371,
-    "wof:lastmodified":1627522832,
+    "wof:lastmodified":1695886545,
     "wof:name":"Oued Mliz",
     "wof:parent_id":85679115,
     "wof:placetype":"county",

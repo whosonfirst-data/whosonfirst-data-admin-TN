@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02903,
-    "geom:area_square_m":287426190.112658,
+    "geom:area_square_m":287426190.112656,
     "geom:bbox":"10.005783,36.689451,10.35625,36.941993",
     "geom:latitude":36.800932,
     "geom:longitude":10.179767,
@@ -451,7 +451,7 @@
     ],
     "wof:country":"TN",
     "wof:created":1481307385,
-    "wof:geomhash":"45c05fde79b3d90dd0bb7f331ee1adb2",
+    "wof:geomhash":"309572345faac8bf52eafb7ed77428af",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -461,7 +461,7 @@
         }
     ],
     "wof:id":1108757755,
-    "wof:lastmodified":1636495672,
+    "wof:lastmodified":1695886660,
     "wof:name":"Tunis",
     "wof:parent_id":85679123,
     "wof:placetype":"county",

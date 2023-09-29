@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128315,
-    "geom:area_square_m":1315145520.877625,
+    "geom:area_square_m":1315145846.18921,
     "geom:bbox":"7.971298,33.764998,8.634959,34.293506",
     "geom:latitude":34.015542,
     "geom:longitude":8.299409,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.TO.DE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307375,
-    "wof:geomhash":"66b07f6846de54f132b75531daf6a4ca",
+    "wof:geomhash":"b53df3ec43356ce74701d1ebe63ca841",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757735,
-    "wof:lastmodified":1627522825,
+    "wof:lastmodified":1695886532,
     "wof:name":"Degu\u00e9che",
     "wof:parent_id":85679095,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272496,
-    "geom:area_square_m":2836116460.188364,
+    "geom:area_square_m":2836116798.344165,
     "geom:bbox":"10.340422,32.279217,11.175285,33.102362",
     "geom:latitude":32.678164,
     "geom:longitude":10.711529,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.TA.TN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307372,
-    "wof:geomhash":"00cd5313b54cb9259dbe5e29e009369d",
+    "wof:geomhash":"0603476b58f188281253bbd2957d2b98",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757731,
-    "wof:lastmodified":1627522835,
+    "wof:lastmodified":1695886551,
     "wof:name":"Tataouine Nord",
     "wof:parent_id":85679191,
     "wof:placetype":"county",

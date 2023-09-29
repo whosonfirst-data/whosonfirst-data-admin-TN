@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013961,
-    "geom:area_square_m":138727273.698643,
+    "geom:area_square_m":138727273.698644,
     "geom:bbox":"10.4865397873,36.4598192006,10.6541089151,36.5910333141",
     "geom:latitude":36.526035,
     "geom:longitude":10.578814,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"TN.NB.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307275,
-    "wof:geomhash":"9b6741c68e807900cc53e9f4784e129b",
+    "wof:geomhash":"99fa05f96873c220c6256bbb471d3bf4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108757559,
-    "wof:lastmodified":1566667237,
+    "wof:lastmodified":1695886577,
     "wof:name":"Bou Argoub",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

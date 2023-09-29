@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015597,
-    "geom:area_square_m":157658514.330223,
+    "geom:area_square_m":157658500.26374,
     "geom:bbox":"10.89973,35.088147,11.085449,35.260581",
     "geom:latitude":35.168184,
     "geom:longitude":10.978065,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MH.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307237,
-    "wof:geomhash":"1bbe054e82282fe068bad3960b89f3ed",
+    "wof:geomhash":"553cf6d413b00d0d9f4eb3968fdfd111",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757483,
-    "wof:lastmodified":1627522831,
+    "wof:lastmodified":1695886542,
     "wof:name":"Melloulech",
     "wof:parent_id":85679161,
     "wof:placetype":"county",

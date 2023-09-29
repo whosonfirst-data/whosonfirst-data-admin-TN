@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000337,
-    "geom:area_square_m":3336087.14695,
+    "geom:area_square_m":3336159.614885,
     "geom:bbox":"10.094038,36.817226,10.120074,36.836509",
     "geom:latitude":36.827924,
     "geom:longitude":10.108618,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.AN.ET"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307108,
-    "wof:geomhash":"158149f132c2b3873522d1bf2a822fc6",
+    "wof:geomhash":"014881c8643f2717b0cdb602e9841771",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757245,
-    "wof:lastmodified":1627522827,
+    "wof:lastmodified":1695886534,
     "wof:name":"Ettadhamen",
     "wof:parent_id":1108807159,
     "wof:placetype":"county",

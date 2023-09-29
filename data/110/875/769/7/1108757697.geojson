@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010088,
-    "geom:area_square_m":101175657.028787,
+    "geom:area_square_m":101175570.16555,
     "geom:bbox":"10.368511,35.745973,10.594703,35.845781",
     "geom:latitude":35.797818,
     "geom:longitude":10.481049,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SS.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307353,
-    "wof:geomhash":"4ea245f00d623bc3facefaf341a57513",
+    "wof:geomhash":"3f607c1b76855adcbc51bf71987bdf7c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757697,
-    "wof:lastmodified":1627522829,
+    "wof:lastmodified":1695886539,
     "wof:name":"Kal\u00e0a Sghira",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

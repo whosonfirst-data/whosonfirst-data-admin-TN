@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024745,
-    "geom:area_square_m":245341480.314895,
+    "geom:area_square_m":245341480.314893,
     "geom:bbox":"9.87851777471,36.5877741329,10.0918379121,36.7983501423",
     "geom:latitude":36.695181,
     "geom:longitude":9.979859,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MN.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307248,
-    "wof:geomhash":"af1e5513a0f301561ce6b95d6dc49ae1",
+    "wof:geomhash":"2d13f64e1239103f56b743d660ae31d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108757503,
-    "wof:lastmodified":1566667262,
+    "wof:lastmodified":1695886581,
     "wof:name":"Mornaguia",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

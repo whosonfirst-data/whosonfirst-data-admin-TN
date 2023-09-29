@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045815,
-    "geom:area_square_m":461203450.088975,
+    "geom:area_square_m":461203450.088959,
     "geom:bbox":"8.98996511352,35.3644408497,9.33050589744,35.6165997063",
     "geom:latitude":35.499798,
     "geom:longitude":9.160354,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KS.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307205,
-    "wof:geomhash":"d4a04082ba9f8b574ea8502fd154adaa",
+    "wof:geomhash":"f71da9036f1a82613344a03aa7b379b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108757423,
-    "wof:lastmodified":1566667273,
+    "wof:lastmodified":1695886584,
     "wof:name":"Sbiba",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

@@ -1196,6 +1196,7 @@
         "hasc:id":"TN",
         "icao:code":"TS",
         "ioc:id":"TUN",
+        "iso:code":"TN",
         "itu:id":"TUN",
         "loc:id":"n79065220",
         "m49:code":"788",
@@ -1210,6 +1211,7 @@
         "wk:page":"Tunisia",
         "wmo:id":"TS"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TN",
     "wof:country_alpha3":"TUN",
     "wof:geom_alt":[
@@ -1234,7 +1236,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1694639511,
+    "wof:lastmodified":1695881166,
     "wof:name":"Tunisia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

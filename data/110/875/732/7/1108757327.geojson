@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042214,
-    "geom:area_square_m":432555279.103543,
+    "geom:area_square_m":432555438.578372,
     "geom:bbox":"9.822016,33.889443,10.067419,34.203702",
     "geom:latitude":34.036451,
     "geom:longitude":9.954672,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.GB.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307152,
-    "wof:geomhash":"d3dc4e5c3211d16dbe3a683d230d3301",
+    "wof:geomhash":"16a047010a6e00a199629ab32097edcf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757327,
-    "wof:lastmodified":1627522832,
+    "wof:lastmodified":1695886544,
     "wof:name":"Metouia",
     "wof:parent_id":85679137,
     "wof:placetype":"county",

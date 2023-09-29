@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035689,
-    "geom:area_square_m":359970117.96563,
+    "geom:area_square_m":359970281.921365,
     "geom:bbox":"10.381719,35.210714,10.668998,35.448288",
     "geom:latitude":35.343266,
     "geom:longitude":10.517116,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MH.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307240,
-    "wof:geomhash":"f4903d28314afc11310ef25c3fc38b79",
+    "wof:geomhash":"16df7064b149ce4cc86061c31f84e4f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757489,
-    "wof:lastmodified":1627522827,
+    "wof:lastmodified":1695886535,
     "wof:name":"souassi",
     "wof:parent_id":85679161,
     "wof:placetype":"county",

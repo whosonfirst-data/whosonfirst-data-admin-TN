@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072071,
-    "geom:area_square_m":721332199.760096,
+    "geom:area_square_m":721332124.207477,
     "geom:bbox":"8.37117,35.815046,8.733936,36.114761",
     "geom:latitude":35.96036,
     "geom:longitude":8.55217,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KF.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307227,
-    "wof:geomhash":"514ae9a8b2fcf9d16bd6dda8c6ab1344",
+    "wof:geomhash":"45932c3f937ccf239614a7b2e19b1bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757465,
-    "wof:lastmodified":1627522834,
+    "wof:lastmodified":1695886548,
     "wof:name":"Tajerouin",
     "wof:parent_id":85679131,
     "wof:placetype":"county",

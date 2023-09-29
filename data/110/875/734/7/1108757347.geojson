@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044481,
-    "geom:area_square_m":454138171.262005,
+    "geom:area_square_m":454138171.261992,
     "geom:bbox":"8.03633663671,34.1884231781,8.34301679636,34.4641876043",
     "geom:latitude":34.341411,
     "geom:longitude":8.167057,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"TN.GF.RE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307162,
-    "wof:geomhash":"6bcfb396b20beae4a1eab71dd63f3052",
+    "wof:geomhash":"e0afbd8f1381b58439cec117459a0482",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108757347,
-    "wof:lastmodified":1566667254,
+    "wof:lastmodified":1695886581,
     "wof:name":"Redeyef",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

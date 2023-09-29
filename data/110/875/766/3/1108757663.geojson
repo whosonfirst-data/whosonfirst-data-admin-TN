@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02746,
-    "geom:area_square_m":274071425.740879,
+    "geom:area_square_m":274071280.181415,
     "geom:bbox":"9.034212,36.085318,9.244506,36.281839",
     "geom:latitude":36.180998,
     "geom:longitude":9.13454,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SL.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307335,
-    "wof:geomhash":"1d77786299592bb746429f0a05cb4977",
+    "wof:geomhash":"a755b4c1831964831e98b82d6099528f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757663,
-    "wof:lastmodified":1627522833,
+    "wof:lastmodified":1695886547,
     "wof:name":"Bourouis",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

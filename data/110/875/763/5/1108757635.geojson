@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111019,
-    "geom:area_square_m":1131951839.730296,
+    "geom:area_square_m":1131951745.152963,
     "geom:bbox":"9.460106,34.266153,10.049679,34.652923",
     "geom:latitude":34.454692,
     "geom:longitude":9.744473,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SZ.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307315,
-    "wof:geomhash":"6db928c940ebc810474042db97e015fd",
+    "wof:geomhash":"68941b81786e1510b69ed26b1a10115e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757635,
-    "wof:lastmodified":1627522831,
+    "wof:lastmodified":1695886543,
     "wof:name":"Mazzouna",
     "wof:parent_id":85679147,
     "wof:placetype":"county",

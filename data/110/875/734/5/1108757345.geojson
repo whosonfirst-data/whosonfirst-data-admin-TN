@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099091,
-    "geom:area_square_m":1009269996.338822,
+    "geom:area_square_m":1009270205.145172,
     "geom:bbox":"8.101119,34.393577,8.630862,34.731957",
     "geom:latitude":34.542397,
     "geom:longitude":8.362473,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.GF.OL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307161,
-    "wof:geomhash":"4794798e3effc7d375424bb7708a9fc6",
+    "wof:geomhash":"3f5d5162ae340234db6d167de504e742",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757345,
-    "wof:lastmodified":1627522832,
+    "wof:lastmodified":1695886544,
     "wof:name":"Oum Lara\u00ed",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

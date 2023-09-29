@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017454,
-    "geom:area_square_m":173098397.198054,
+    "geom:area_square_m":173098397.198053,
     "geom:bbox":"9.7683965948,36.5827651021,9.92145728119,36.7478672275",
     "geom:latitude":36.675107,
     "geom:longitude":9.85014,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MN.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307242,
-    "wof:geomhash":"1ca4f2a013078457ee5542346662a6b7",
+    "wof:geomhash":"2d46c98825d0b756c77ce708d31f0cb9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108757491,
-    "wof:lastmodified":1566667249,
+    "wof:lastmodified":1695886580,
     "wof:name":"Borj El Amri",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

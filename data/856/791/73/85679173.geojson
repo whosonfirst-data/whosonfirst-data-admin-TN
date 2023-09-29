@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266278,
-    "geom:area_square_m":2668319048.923204,
+    "geom:area_square_m":2668318675.806515,
     "geom:bbox":"10.1562,35.409791,10.687557,36.378586",
     "geom:latitude":35.864081,
     "geom:longitude":10.410744,
@@ -290,17 +290,19 @@
         "gn:id":2464912,
         "gp:id":2347246,
         "hasc:id":"TN.SS",
+        "iso:code":"TN-51",
         "iso:id":"TN-51",
         "qs_pg:id":219623,
         "unlc:id":"TN-51",
         "wd:id":"Q276565",
         "wk:page":"Sousse Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01bb7cfa86b17a7798085cf5f3806d42",
+    "wof:geomhash":"fd8e0e01bbfe496c705cf756cf953726",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -317,7 +319,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874832,
+    "wof:lastmodified":1695884807,
     "wof:name":"Sousse",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

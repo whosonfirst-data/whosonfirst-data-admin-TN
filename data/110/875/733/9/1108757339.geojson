@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028448,
-    "geom:area_square_m":290234266.149559,
+    "geom:area_square_m":290234266.14955,
     "geom:bbox":"8.71320457484,34.3181416273,9.04945157238,34.4956843378",
     "geom:latitude":34.404668,
     "geom:longitude":8.892327,
@@ -126,9 +126,10 @@
     "wof:concordances":{
         "hasc:id":"TN.GF.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307157,
-    "wof:geomhash":"9becab5393e27f12e67e5dfed8f43520",
+    "wof:geomhash":"7c3472ce7d48996e4fef56253771c5c2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108757339,
-    "wof:lastmodified":1566667255,
+    "wof:lastmodified":1695886581,
     "wof:name":"Ksar",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

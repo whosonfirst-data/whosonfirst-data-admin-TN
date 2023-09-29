@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042416,
-    "geom:area_square_m":432017569.258379,
+    "geom:area_square_m":432017569.258392,
     "geom:bbox":"10.2736210125,34.392860413,10.6170399128,34.6577347703",
     "geom:latitude":34.542008,
     "geom:longitude":10.435113,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SF.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307303,
-    "wof:geomhash":"560373387374d42ba30c65c52e46e30d",
+    "wof:geomhash":"9dc472bd618849fdec9b2efba4586c29",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108757611,
-    "wof:lastmodified":1566667263,
+    "wof:lastmodified":1695886582,
     "wof:name":"Mahres",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

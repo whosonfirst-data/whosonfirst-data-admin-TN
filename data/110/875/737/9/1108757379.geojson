@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04959,
-    "geom:area_square_m":498317088.679031,
+    "geom:area_square_m":498317301.836241,
     "geom:bbox":"9.782532,35.490081,10.042083,35.820968",
     "geom:latitude":35.642646,
     "geom:longitude":9.913182,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KR.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307179,
-    "wof:geomhash":"7e4301c4f1c446fc044b627148b9a808",
+    "wof:geomhash":"1bd053770f455129d7b822398018160f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108757379,
-    "wof:lastmodified":1627522825,
+    "wof:lastmodified":1695886531,
     "wof:name":"Chbika",
     "wof:parent_id":85679171,
     "wof:placetype":"county",

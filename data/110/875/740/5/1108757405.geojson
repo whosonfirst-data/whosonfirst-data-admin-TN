@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000187,
-    "geom:area_square_m":1890450.844855,
+    "geom:area_square_m":1890464.961087,
     "geom:bbox":"8.819342,35.148641,8.839328,35.160709",
     "geom:latitude":35.154764,
     "geom:longitude":8.829366,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KS.EZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307191,
-    "wof:geomhash":"221f10a61f2d26bfb42071a25ad1d9e3",
+    "wof:geomhash":"78c84ab236b24fd89cf9c237437bc6c8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757405,
-    "wof:lastmodified":1627522827,
+    "wof:lastmodified":1695886534,
     "wof:name":"Ez_zouhour",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

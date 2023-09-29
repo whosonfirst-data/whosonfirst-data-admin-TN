@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04001,
-    "geom:area_square_m":398153582.237569,
+    "geom:area_square_m":398153615.611783,
     "geom:bbox":"10.004795,36.301268,10.378141,36.51328",
     "geom:latitude":36.40945,
     "geom:longitude":10.188541,
@@ -150,9 +150,10 @@
     "wof:concordances":{
         "hasc:id":"TN.ZA.ZA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307391,
-    "wof:geomhash":"97deba57a01250cc0cf4d637a41e34fc",
+    "wof:geomhash":"7f95846bb135e607d3dd2c210480a1a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1108757767,
-    "wof:lastmodified":1636495671,
+    "wof:lastmodified":1695886660,
     "wof:name":"Zaghouan",
     "wof:parent_id":85679179,
     "wof:placetype":"county",

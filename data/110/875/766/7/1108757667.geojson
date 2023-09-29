@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047675,
-    "geom:area_square_m":475520281.706633,
+    "geom:area_square_m":475520282.244704,
     "geom:bbox":"9.178295,36.127261,9.522057,36.371106",
     "geom:latitude":36.230809,
     "geom:longitude":9.341312,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SL.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307337,
-    "wof:geomhash":"6b73f0dea6a8719a2d3d40e5246e40c6",
+    "wof:geomhash":"fff9d10258ec28577c77fa2481b9dd91",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757667,
-    "wof:lastmodified":1627522827,
+    "wof:lastmodified":1695886535,
     "wof:name":"G\u00e0afour",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

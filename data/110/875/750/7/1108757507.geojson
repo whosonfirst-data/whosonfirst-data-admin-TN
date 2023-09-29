@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027873,
-    "geom:area_square_m":275784731.371428,
+    "geom:area_square_m":275784731.371432,
     "geom:bbox":"9.56462923769,36.7728760428,9.89066483097,36.9675164107",
     "geom:latitude":36.853035,
     "geom:longitude":9.742619,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MN.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307250,
-    "wof:geomhash":"915774281d8fc06ec8d1cd7836fe511c",
+    "wof:geomhash":"4ff92bddd5bf802bb493a438e99e23a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108757507,
-    "wof:lastmodified":1566667262,
+    "wof:lastmodified":1695886581,
     "wof:name":"Tebourba",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

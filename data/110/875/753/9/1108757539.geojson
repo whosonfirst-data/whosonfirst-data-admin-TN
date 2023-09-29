@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002199,
-    "geom:area_square_m":22101443.817887,
+    "geom:area_square_m":22101333.557807,
     "geom:bbox":"10.842497,35.606484,10.910133,35.657435",
     "geom:latitude":35.634773,
     "geom:longitude":10.870598,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MS.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307265,
-    "wof:geomhash":"945eebf5d3dda58b249f97b4e09f3182",
+    "wof:geomhash":"fc9dfc9a8f961571d8d9b4773ae1055e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757539,
-    "wof:lastmodified":1627522830,
+    "wof:lastmodified":1695886541,
     "wof:name":"Ksar Helal",
     "wof:parent_id":85679165,
     "wof:placetype":"county",

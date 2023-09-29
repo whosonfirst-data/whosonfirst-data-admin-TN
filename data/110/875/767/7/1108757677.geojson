@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063499,
-    "geom:area_square_m":638081367.999671,
+    "geom:area_square_m":638081367.999672,
     "geom:bbox":"8.9673552963,35.472812719,9.42918543805,35.8101740039",
     "geom:latitude":35.643629,
     "geom:longitude":9.203647,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SL.RO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307341,
-    "wof:geomhash":"6ae0fddf51ef9b3b3ee49eb7611c4726",
+    "wof:geomhash":"7b7b66d9b86293993f9cdfea8f1c3300",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108757677,
-    "wof:lastmodified":1566667256,
+    "wof:lastmodified":1695886581,
     "wof:name":"Rouhia",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

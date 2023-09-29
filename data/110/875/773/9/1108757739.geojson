@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154802,
-    "geom:area_square_m":1590404713.105905,
+    "geom:area_square_m":1590404713.105888,
     "geom:bbox":"7.7149080809,33.5085293714,8.12952740501,34.1231288222",
     "geom:latitude":33.812027,
     "geom:longitude":7.892555,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"TN.TO.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307377,
-    "wof:geomhash":"0bbce8cfa60b8c689ef1ddbecf5e9861",
+    "wof:geomhash":"ba249a862f6f5c5cc034b66f29d8bd54",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108757739,
-    "wof:lastmodified":1566667271,
+    "wof:lastmodified":1695886584,
     "wof:name":"Nafta",
     "wof:parent_id":85679095,
     "wof:placetype":"county",

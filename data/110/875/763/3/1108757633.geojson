@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064038,
-    "geom:area_square_m":645977990.228367,
+    "geom:area_square_m":645978365.623914,
     "geom:bbox":"9.211058,35.161029,9.560315,35.482304",
     "geom:latitude":35.334125,
     "geom:longitude":9.395758,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SZ.JI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307314,
-    "wof:geomhash":"e63af4d1dfaa2cf7405e66a3536529c2",
+    "wof:geomhash":"864c85587888eeb740928c9a51ac643f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757633,
-    "wof:lastmodified":1627522829,
+    "wof:lastmodified":1695886539,
     "wof:name":"Jelma",
     "wof:parent_id":85679147,
     "wof:placetype":"county",

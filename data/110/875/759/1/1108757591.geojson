@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014669,
-    "geom:area_square_m":145394364.38666,
+    "geom:area_square_m":145394612.358059,
     "geom:bbox":"10.406425,36.629599,10.612356,36.849583",
     "geom:latitude":36.719428,
     "geom:longitude":10.523893,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.NB.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307292,
-    "wof:geomhash":"9ce87af10eaf8a1e3f4418da5ff245b6",
+    "wof:geomhash":"a093a6b07ab9233d5038419963779da0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757591,
-    "wof:lastmodified":1627522834,
+    "wof:lastmodified":1695886548,
     "wof:name":"Sliman",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000764,
-    "geom:area_square_m":7564418.145288,
+    "geom:area_square_m":7564418.145289,
     "geom:bbox":"10.0712106931,36.8148863759,10.1054005411,36.8552893011",
     "geom:latitude":36.829751,
     "geom:longitude":10.084672,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MN.DH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307243,
-    "wof:geomhash":"d9f12b674cfa55c305b53b87e3236124",
+    "wof:geomhash":"b8ca22d7ade92d174354348c75fdd969",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108757495,
-    "wof:lastmodified":1566667249,
+    "wof:lastmodified":1695886580,
     "wof:name":"Douar Hicher",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

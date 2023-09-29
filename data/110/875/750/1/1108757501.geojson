@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MN.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307246,
-    "wof:geomhash":"7d8d9a2f0562d7b0b93d48abb3041375",
+    "wof:geomhash":"fc9cad7c6e8bd56aadb6d6b80c7982fd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108757501,
-    "wof:lastmodified":1566667262,
+    "wof:lastmodified":1695886581,
     "wof:name":"Manouba",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054003,
-    "geom:area_square_m":549801375.887666,
+    "geom:area_square_m":549801291.682666,
     "geom:bbox":"8.703491,34.424621,9.155541,34.730393",
     "geom:latitude":34.577356,
     "geom:longitude":8.916497,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.GF.GN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307154,
-    "wof:geomhash":"60264916401d8d5aaa49cc18c2d9ac6d",
+    "wof:geomhash":"18a7b9068e9da176e1f8ea9cd17372e0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757333,
-    "wof:lastmodified":1627522828,
+    "wof:lastmodified":1695886536,
     "wof:name":"Gafsa nord",
     "wof:parent_id":85679141,
     "wof:placetype":"county",

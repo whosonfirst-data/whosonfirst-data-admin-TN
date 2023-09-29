@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028661,
-    "geom:area_square_m":288002368.362354,
+    "geom:area_square_m":288002322.416647,
     "geom:bbox":"8.766966,35.558808,9.086512,35.737318",
     "geom:latitude":35.642933,
     "geom:longitude":8.91738,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KS.DJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307190,
-    "wof:geomhash":"d77bee3e6b948db9efa1d049e487b332",
+    "wof:geomhash":"ace3a83eb5537c57647c9706002e37e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757401,
-    "wof:lastmodified":1627522829,
+    "wof:lastmodified":1695886538,
     "wof:name":"Djedliane",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

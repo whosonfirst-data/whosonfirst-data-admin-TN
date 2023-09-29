@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008776,
-    "geom:area_square_m":89049173.347985,
+    "geom:area_square_m":89049173.34799,
     "geom:bbox":"10.6825196204,34.7687157216,10.7791815773,34.9451381683",
     "geom:latitude":34.858012,
     "geom:longitude":10.739526,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SF.SZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307305,
-    "wof:geomhash":"3ef59f1885b08fbda07be8c982f78f32",
+    "wof:geomhash":"647128b2179d496295744d3fc55c57cf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108757615,
-    "wof:lastmodified":1566667264,
+    "wof:lastmodified":1695886582,
     "wof:name":"Sakiet Ezzit",
     "wof:parent_id":85679151,
     "wof:placetype":"county",

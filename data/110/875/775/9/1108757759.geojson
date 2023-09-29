@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098225,
-    "geom:area_square_m":979053529.640322,
+    "geom:area_square_m":979053529.640315,
     "geom:bbox":"9.60128953603,36.0544309101,10.1039808571,36.4682179061",
     "geom:latitude":36.284394,
     "geom:longitude":9.853111,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"TN.ZA.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307387,
-    "wof:geomhash":"685bbe532b162d72a654f362cf443cd2",
+    "wof:geomhash":"b32c8026b6672ca94a527c0da39e2e95",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108757759,
-    "wof:lastmodified":1566667267,
+    "wof:lastmodified":1695886583,
     "wof:name":"El Fahs",
     "wof:parent_id":85679179,
     "wof:placetype":"county",

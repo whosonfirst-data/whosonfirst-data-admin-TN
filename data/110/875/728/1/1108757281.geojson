@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005413,
-    "geom:area_square_m":53236853.953919,
+    "geom:area_square_m":53236989.324903,
     "geom:bbox":"9.763709,37.263096,9.882112,37.340416",
     "geom:latitude":37.306121,
     "geom:longitude":9.829561,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.BZ.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307127,
-    "wof:geomhash":"829358964cfc6207940eaee978e7525b",
+    "wof:geomhash":"b39310fa4c61e6e115f5e0f99c85da3a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757281,
-    "wof:lastmodified":1627522825,
+    "wof:lastmodified":1695886531,
     "wof:name":"Bizerte Nord",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

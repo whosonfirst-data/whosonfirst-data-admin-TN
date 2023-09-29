@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104479,
-    "geom:area_square_m":1050464895.369083,
+    "geom:area_square_m":1050464834.712461,
     "geom:bbox":"10.494583,35.42904,11.050389,35.805416",
     "geom:latitude":35.598783,
     "geom:longitude":10.770898,
@@ -299,17 +299,19 @@
         "gn:id":2473495,
         "gp:id":2347241,
         "hasc:id":"TN.MS",
+        "iso:code":"TN-52",
         "iso:id":"TN-52",
         "qs_pg:id":424067,
         "unlc:id":"TN-52",
         "wd:id":"Q318102",
         "wk:page":"Monastir Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2ecf80c4f5ac43f377c5c983cfaf506c",
+    "wof:geomhash":"dc764d5ad644ad78c859f93e82a7d5cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -326,7 +328,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874834,
+    "wof:lastmodified":1695884808,
     "wof:name":"Monastir",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

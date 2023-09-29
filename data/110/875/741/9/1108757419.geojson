@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089707,
-    "geom:area_square_m":911104795.719223,
+    "geom:area_square_m":911104479.061348,
     "geom:bbox":"8.270369,34.631195,8.828503,34.897459",
     "geom:latitude":34.777117,
     "geom:longitude":8.53603,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KS.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307204,
-    "wof:geomhash":"db5b27ca56b701c93db7b353bf1e5150",
+    "wof:geomhash":"937aea71885b1f916d6a59b95761e2b0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757419,
-    "wof:lastmodified":1627522831,
+    "wof:lastmodified":1695886542,
     "wof:name":"Majel Belabbes",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

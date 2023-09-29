@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.287404,
-    "geom:area_square_m":2849614261.546748,
+    "geom:area_square_m":2849614516.16358,
     "geom:bbox":"10.344663,36.352813,11.137889,37.143749",
     "geom:latitude":36.6928,
     "geom:longitude":10.718352,
@@ -293,17 +293,19 @@
         "gn:id":2468576,
         "gp:id":2347244,
         "hasc:id":"TN.NB",
+        "iso:code":"TN-21",
         "iso:id":"TN-21",
         "qs_pg:id":219622,
         "unlc:id":"TN-21",
         "wd:id":"Q328145",
         "wk:page":"Nabeul Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05860fd8b181ff0f5ee6b7f8b82f52ce",
+    "wof:geomhash":"c4a7b3c543194ec27e375e89a43b3389",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -320,7 +322,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874833,
+    "wof:lastmodified":1695884807,
     "wof:name":"Nabeul",
     "wof:parent_id":85632703,
     "wof:placetype":"region",

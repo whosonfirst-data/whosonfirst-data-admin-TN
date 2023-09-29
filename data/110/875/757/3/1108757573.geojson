@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029761,
-    "geom:area_square_m":295494179.635313,
+    "geom:area_square_m":295494112.890088,
     "geom:bbox":"10.344663,36.483076,10.578643,36.700796",
     "geom:latitude":36.586374,
     "geom:longitude":10.444509,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.NB.GR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307282,
-    "wof:geomhash":"c165681c744de92b1545c649c0a89f79",
+    "wof:geomhash":"dd7aca718fcfa7d83ce2ab54a0a57167",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757573,
-    "wof:lastmodified":1627522828,
+    "wof:lastmodified":1695886537,
     "wof:name":"Grambalia",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

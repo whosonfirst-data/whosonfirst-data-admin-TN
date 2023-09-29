@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057508,
-    "geom:area_square_m":566238858.851849,
+    "geom:area_square_m":566238968.01876,
     "geom:bbox":"9.476904,37.076076,9.859636,37.349556",
     "geom:latitude":37.223314,
     "geom:longitude":9.671004,
@@ -51,9 +51,10 @@
     "wof:concordances":{
         "hasc:id":"TN.BZ.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307124,
-    "wof:geomhash":"ee6f42cd1563276c912d99e75fca9547",
+    "wof:geomhash":"2bec8c3563f5b0d250d891608866828e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1108757275,
-    "wof:lastmodified":1627522825,
+    "wof:lastmodified":1695886531,
     "wof:name":"Bierte Sud",
     "wof:parent_id":85679113,
     "wof:placetype":"county",

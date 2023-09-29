@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000875,
-    "geom:area_square_m":8577046.083569,
+    "geom:area_square_m":8577046.083566,
     "geom:bbox":"8.901249886,37.512916565,8.962916374,37.542945862",
     "geom:latitude":37.525618,
     "geom:longitude":8.934465,
@@ -193,9 +193,10 @@
     "wof:concordances":{
         "hasc:id":"TN.BZ.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307126,
-    "wof:geomhash":"bc8a8dcebea5d80b4f44c2fc81862a26",
+    "wof:geomhash":"01e50c75c9a8e0c45a05f08e6def8acb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":1108757279,
-    "wof:lastmodified":1566667274,
+    "wof:lastmodified":1695886584,
     "wof:name":"Bizerte",
     "wof:parent_id":-1,
     "wof:placetype":"county",

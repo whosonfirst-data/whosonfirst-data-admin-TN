@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011588,
-    "geom:area_square_m":115970716.091469,
+    "geom:area_square_m":115970716.09147,
     "geom:bbox":"10.3218878656,35.9103021878,10.5123694064,36.026800514",
     "geom:latitude":35.967997,
     "geom:longitude":10.417979,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SS.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307356,
-    "wof:geomhash":"76de5682abe32c678e1dd9fa04a73f18",
+    "wof:geomhash":"542a4528086187331883f9ae0af41390",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108757703,
-    "wof:lastmodified":1566667252,
+    "wof:lastmodified":1695886580,
     "wof:name":"Sidi Bou Ali",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

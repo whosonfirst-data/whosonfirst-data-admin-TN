@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042147,
-    "geom:area_square_m":426866096.330897,
+    "geom:area_square_m":426866149.613357,
     "geom:bbox":"9.275396,34.787648,9.526209,35.176381",
     "geom:latitude":35.008379,
     "geom:longitude":9.409403,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SZ.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307331,
-    "wof:geomhash":"92e7a14800e2832afe989a3917c08dc3",
+    "wof:geomhash":"835b61f8ee73442c21949962aa8c6638",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757653,
-    "wof:lastmodified":1627522833,
+    "wof:lastmodified":1695886547,
     "wof:name":"Sidi bouzid Ouest",
     "wof:parent_id":85679147,
     "wof:placetype":"county",

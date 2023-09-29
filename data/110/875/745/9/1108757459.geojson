@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021286,
-    "geom:area_square_m":212548860.091639,
+    "geom:area_square_m":212548996.6727,
     "geom:bbox":"8.499042,36.06667,8.731492,36.230138",
     "geom:latitude":36.14491,
     "geom:longitude":8.628692,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KF.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307223,
-    "wof:geomhash":"b95ce9ba23f4250cf8a610f3fcd755e0",
+    "wof:geomhash":"1fa9b09b0bfd96bce0699548d64badfc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757459,
-    "wof:lastmodified":1627522830,
+    "wof:lastmodified":1695886541,
     "wof:name":"Kef Ouest",
     "wof:parent_id":85679131,
     "wof:placetype":"county",

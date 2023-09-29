@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051342,
-    "geom:area_square_m":514915074.456204,
+    "geom:area_square_m":514914937.837103,
     "geom:bbox":"8.253129,35.614258,8.555998,35.972205",
     "geom:latitude":35.798973,
     "geom:longitude":8.3697,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KF.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307221,
-    "wof:geomhash":"84d58404db82dd9777d549df9a0f759e",
+    "wof:geomhash":"4bc3d8bdf8ef245dde5e90370802bcaa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757453,
-    "wof:lastmodified":1627522830,
+    "wof:lastmodified":1695886540,
     "wof:name":"Kal\u00e0a Senan",
     "wof:parent_id":85679131,
     "wof:placetype":"county",

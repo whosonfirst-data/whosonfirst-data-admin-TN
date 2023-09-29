@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034844,
-    "geom:area_square_m":349203742.800841,
+    "geom:area_square_m":349203882.26609,
     "geom:bbox":"9.031141,35.750155,9.29826,35.980297",
     "geom:latitude":35.856613,
     "geom:longitude":9.160286,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SL.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307340,
-    "wof:geomhash":"8deccfb3eb4e0333e089371d08a3b83a",
+    "wof:geomhash":"f12187c0cc2465b2bde03850af38a41a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757675,
-    "wof:lastmodified":1627522831,
+    "wof:lastmodified":1695886544,
     "wof:name":"Makthar",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

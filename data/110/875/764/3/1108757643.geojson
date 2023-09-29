@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039029,
-    "geom:area_square_m":394827676.836515,
+    "geom:area_square_m":394828013.745162,
     "geom:bbox":"9.700812,34.989618,9.9951,35.192686",
     "geom:latitude":35.102313,
     "geom:longitude":9.844795,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SZ.OH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307324,
-    "wof:geomhash":"527867bfdfb658125253c152c6cae1c4",
+    "wof:geomhash":"28414458bbdf836716f6f5762af8eb65",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757643,
-    "wof:lastmodified":1627522832,
+    "wof:lastmodified":1695886545,
     "wof:name":"oueled Haffouz",
     "wof:parent_id":85679147,
     "wof:placetype":"county",

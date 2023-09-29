@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038269,
-    "geom:area_square_m":384562795.095321,
+    "geom:area_square_m":384563250.648916,
     "geom:bbox":"9.267726,35.533509,9.692318,35.740978",
     "geom:latitude":35.641937,
     "geom:longitude":9.470144,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KR.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307176,
-    "wof:geomhash":"1f5e9ef8781ce660e35732df1878aa7c",
+    "wof:geomhash":"fc251e08f1cff829d379ce61228898f7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757375,
-    "wof:lastmodified":1627522826,
+    "wof:lastmodified":1695886532,
     "wof:name":"Alaa",
     "wof:parent_id":85679171,
     "wof:placetype":"county",

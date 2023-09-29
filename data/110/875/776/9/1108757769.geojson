@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034302,
-    "geom:area_square_m":341826588.64642,
+    "geom:area_square_m":341826588.646421,
     "geom:bbox":"10.0573142441,36.2135182609,10.3797007471,36.3895910819",
     "geom:latitude":36.30193,
     "geom:longitude":10.238288,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"TN.ZA.ZR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307392,
-    "wof:geomhash":"6668aa3c02098adbd93f5ef2ca76f2ee",
+    "wof:geomhash":"09615f96071302ee8240aab828d870a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108757769,
-    "wof:lastmodified":1566667249,
+    "wof:lastmodified":1695886580,
     "wof:name":"Zriba",
     "wof:parent_id":85679179,
     "wof:placetype":"county",

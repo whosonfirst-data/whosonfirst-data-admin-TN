@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09679,
-    "geom:area_square_m":980878197.428552,
+    "geom:area_square_m":980878126.77703,
     "geom:bbox":"8.695777,34.762815,9.167629,35.148131",
     "geom:latitude":34.958354,
     "geom:longitude":8.932109,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KS.HF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307200,
-    "wof:geomhash":"1f1e424972d114b8d57b38ee355fe012",
+    "wof:geomhash":"21de9375d6171aba1515a37907be9f74",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757413,
-    "wof:lastmodified":1627522828,
+    "wof:lastmodified":1695886537,
     "wof:name":"Hassi El Frid",
     "wof:parent_id":85679133,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040679,
-    "geom:area_square_m":405283037.044948,
+    "geom:area_square_m":405282928.062505,
     "geom:bbox":"9.4793,36.173658,9.75622,36.453259",
     "geom:latitude":36.31943,
     "geom:longitude":9.620591,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SL.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307334,
-    "wof:geomhash":"72d81c14bbb6169cef02662c8df645d8",
+    "wof:geomhash":"3be2a44ea46d351c4d38e451c04dd63c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757661,
-    "wof:lastmodified":1627522825,
+    "wof:lastmodified":1695886532,
     "wof:name":"Bouarada",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

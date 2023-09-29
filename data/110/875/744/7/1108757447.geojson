@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043146,
-    "geom:area_square_m":431309339.180528,
+    "geom:area_square_m":431309553.50905,
     "geom:bbox":"8.767514,35.938185,9.16197,36.178707",
     "geom:latitude":36.056325,
     "geom:longitude":9.004685,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.KF.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307218,
-    "wof:geomhash":"40a900fd168d8bfce419b5d2900c8a1c",
+    "wof:geomhash":"6bbe56d9b6aaeecea8afec6df0d4e851",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757447,
-    "wof:lastmodified":1627522833,
+    "wof:lastmodified":1695886546,
     "wof:name":"Es-Sers",
     "wof:parent_id":85679131,
     "wof:placetype":"county",

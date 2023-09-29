@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000583,
-    "geom:area_square_m":5845000.734238,
+    "geom:area_square_m":5845028.004161,
     "geom:bbox":"10.608764,35.816245,10.651667,35.857003",
     "geom:latitude":35.835358,
     "geom:longitude":10.629015,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SS.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307361,
-    "wof:geomhash":"0875e64b94344729bd2f1ec4c12f5d2c",
+    "wof:geomhash":"4af35ad00b4724c626ef0e96a8a18cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757713,
-    "wof:lastmodified":1627522834,
+    "wof:lastmodified":1695886549,
     "wof:name":"Sousse Medina",
     "wof:parent_id":85679173,
     "wof:placetype":"county",

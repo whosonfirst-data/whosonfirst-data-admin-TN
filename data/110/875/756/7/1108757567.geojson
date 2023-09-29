@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006042,
-    "geom:area_square_m":60042797.30082,
+    "geom:area_square_m":60042740.535033,
     "geom:bbox":"10.634312,36.442878,10.769244,36.58558",
     "geom:latitude":36.520681,
     "geom:longitude":10.69738,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.NB.DC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307278,
-    "wof:geomhash":"9a69654af1c475a749c3f6e9f25fc454",
+    "wof:geomhash":"df9512445040adf30cc30830fe808ba8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757567,
-    "wof:lastmodified":1627522825,
+    "wof:lastmodified":1695886532,
     "wof:name":"Dar Ch\u00e0aban Elfehri",
     "wof:parent_id":85679119,
     "wof:placetype":"county",

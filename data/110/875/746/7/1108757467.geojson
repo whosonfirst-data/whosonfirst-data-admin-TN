@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0192,
-    "geom:area_square_m":193452997.870366,
+    "geom:area_square_m":193452824.80399,
     "geom:bbox":"10.565115,35.353579,10.848262,35.488011",
     "geom:latitude":35.427923,
     "geom:longitude":10.690202,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MH.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307228,
-    "wof:geomhash":"26e222fd741b3ba009ec88f739987c72",
+    "wof:geomhash":"bc1dac7dae9214cb37db122c450f01a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757467,
-    "wof:lastmodified":1627522825,
+    "wof:lastmodified":1695886532,
     "wof:name":"Bou Merdas",
     "wof:parent_id":85679161,
     "wof:placetype":"county",

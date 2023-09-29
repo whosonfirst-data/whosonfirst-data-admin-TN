@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045152,
-    "geom:area_square_m":451122571.449666,
+    "geom:area_square_m":451122571.449661,
     "geom:bbox":"9.48089595814,35.9649524187,9.76389553724,36.2193178938",
     "geom:latitude":36.097381,
     "geom:longitude":9.613988,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"TN.SL.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307333,
-    "wof:geomhash":"9f0b95b6b78a3ccdd0e596bd5e5d2cd3",
+    "wof:geomhash":"5971cfa4d5bd6344c79660fa9e68dafa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108757659,
-    "wof:lastmodified":1566667242,
+    "wof:lastmodified":1695886578,
     "wof:name":"Bargou",
     "wof:parent_id":85679157,
     "wof:placetype":"county",

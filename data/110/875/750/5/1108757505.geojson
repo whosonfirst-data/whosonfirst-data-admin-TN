@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006661,
-    "geom:area_square_m":65936336.899848,
+    "geom:area_square_m":65936347.336854,
     "geom:bbox":"9.957385,36.782559,10.07955,36.873372",
     "geom:latitude":36.823795,
     "geom:longitude":10.024138,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MN.OE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307249,
-    "wof:geomhash":"b1bc24c92648d18d7538e42e312fbac9",
+    "wof:geomhash":"5436b3c5e2a227c111c94af7aa7bfee4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757505,
-    "wof:lastmodified":1627522832,
+    "wof:lastmodified":1695886545,
     "wof:name":"Oued Ellili",
     "wof:parent_id":85679099,
     "wof:placetype":"county",

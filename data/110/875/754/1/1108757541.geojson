@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004372,
-    "geom:area_square_m":43927300.380392,
+    "geom:area_square_m":43927325.900905,
     "geom:bbox":"10.792231,35.589784,10.867035,35.702098",
     "geom:latitude":35.648662,
     "geom:longitude":10.82894,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TN.MS.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TN",
     "wof:created":1481307266,
-    "wof:geomhash":"c40dca2114128340b68f2c0fb28fa42d",
+    "wof:geomhash":"72bd2164e64b1e3f0c32a97e4ceaaa3b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108757541,
-    "wof:lastmodified":1627522830,
+    "wof:lastmodified":1695886541,
     "wof:name":"Ksibet El Medyouni",
     "wof:parent_id":85679165,
     "wof:placetype":"county",
